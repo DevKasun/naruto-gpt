@@ -1,0 +1,1539 @@
+1
+00:00:02,740 --> 00:00:04,280
+<font face="Open Sans Semibold" size="36"><b>NINJA NETWORK NEWS
+
+
+
+
+
+Ninja Network News!</b></font>
+
+2
+00:00:06,980 --> 00:00:09,220
+<font face="Open Sans Semibold" size="36"><b>Good evening,
+I am Mabui of the Cloud.</b></font>
+
+3
+00:00:09,490 --> 00:00:10,990
+<font face="Open Sans Semibold" size="36"><b>I'm Shikaku Nara.</b></font>
+
+4
+00:00:11,660 --> 00:00:14,370
+<font face="Open Sans Semibold" size="36"><b>Today, we'll be bringing you
+the latest news</b></font>
+
+5
+00:00:14,410 --> 00:00:17,200
+<font face="Open Sans Semibold" size="36"><b>from various battlefronts via satellite.</b></font>
+
+6
+00:00:17,740 --> 00:00:19,950
+<font face="Open Sans Semibold" size="36"><b>Before that,
+here are some highlights</b></font>
+
+7
+00:00:19,990 --> 00:00:22,950
+<font face="Open Sans Semibold" size="36"><b>from battles that continue
+to rage on the frontlines.</b></font>
+
+8
+00:00:23,870 --> 00:00:26,200
+<font face="Open Sans Semibold" size="36"><b>On the desert front,
+the standoff continues</b></font>
+
+9
+00:00:26,240 --> 00:00:29,330
+<font face="Open Sans Semibold" size="36"><b>between Gaara's Fourth Company
+and the previous Kage.</b></font>
+
+10
+00:00:29,410 --> 00:00:30,870
+<font face="Open Sans Semibold" size="36"><b>On the coastal front,</b></font>
+
+11
+00:00:30,910 --> 00:00:33,240
+<font face="Open Sans Semibold" size="36"><b>Darui and his First Company
+sustained heavy losses</b></font>
+
+12
+00:00:33,280 --> 00:00:35,240
+<font face="Open Sans Semibold" size="36"><b>when the enemy summoned
+a giant humanoid.</b></font>
+
+13
+00:00:35,280 --> 00:00:38,030
+<font face="Open Sans Semibold" size="36"><b>However, they succeeded in
+eliminating most of the enemy force.</b></font>
+
+14
+00:00:38,870 --> 00:00:41,830
+<font face="Open Sans Semibold" size="36"><b>The Third Company under Kakashi
+are sealing away</b></font>
+
+15
+00:00:41,870 --> 00:00:43,330
+<font face="Open Sans Semibold" size="36"><b>the Ninja Swordsmen
+one after another.</b></font>
+
+16
+00:00:43,370 --> 00:00:45,200
+<font face="Open Sans Semibold" size="36"><b>The company has been split up
+into smaller units</b></font>
+
+17
+00:00:45,240 --> 00:00:46,990
+<font face="Open Sans Semibold" size="36"><b>and expanded the area
+of fierce fighting,</b></font>
+
+18
+00:00:47,030 --> 00:00:48,370
+<font face="Open Sans Semibold" size="36"><b>in order to take down
+remaining enemies.</b></font>
+
+19
+00:00:49,910 --> 00:00:52,580
+<font face="Open Sans Semibold" size="36"><b>Mifune's Fifth Company have joined up
+with the Commando Unit.</b></font>
+
+20
+00:00:52,620 --> 00:00:55,280
+<font face="Open Sans Semibold" size="36"><b>Deidara's escape was unexpected,</b></font>
+
+21
+00:00:55,280 --> 00:00:58,200
+<font face="Open Sans Semibold" size="36"><b>but they were successful
+in recapturing him.</b></font>
+
+22
+00:00:59,200 --> 00:01:00,910
+<font face="Open Sans Semibold" size="36"><b>Next up, we have news
+about White Zetsu.</b></font>
+
+23
+00:01:02,200 --> 00:01:06,240
+<font face="Open Sans Semibold" size="36"><b>His jutsu with which he mimics
+not only appearances, but even chakra,</b></font>
+
+24
+00:01:06,280 --> 00:01:08,830
+<font face="Open Sans Semibold" size="36"><b>has created chaos
+within the Allied Force…</b></font>
+
+25
+00:01:08,870 --> 00:01:10,780
+<font face="Open Sans Semibold" size="36"><b>However, thanks to
+the fine observations</b></font>
+
+26
+00:01:10,830 --> 00:01:13,200
+<font face="Open Sans Semibold" size="36"><b>of Sakura Haruno of
+the Medical Unit,</b></font>
+
+27
+00:01:13,240 --> 00:01:16,200
+<font face="Open Sans Semibold" size="36"><b>our genius strategist, Shikaku,
+has been able</b></font>
+
+28
+00:01:16,240 --> 00:01:19,160
+<font face="Open Sans Semibold" size="36"><b>to draw up a counter strategy.</b></font>
+
+29
+00:01:19,580 --> 00:01:23,080
+<font face="Open Sans Semibold" size="36"><b>I'm refining the strategy right now,
+so please be patient just a bit longer.</b></font>
+
+30
+00:01:23,370 --> 00:01:26,780
+<font face="Open Sans Semibold" size="36"><b>At the front, Sakura has just
+begun a news conference</b></font>
+
+31
+00:01:26,830 --> 00:01:29,660
+<font face="Open Sans Semibold" size="36"><b>in order to get data out
+about White Zetsu.</b></font>
+
+32
+00:01:31,530 --> 00:01:33,410
+<font face="Open Sans Semibold" size="36"><b>I understand you received
+a love letter,</b></font>
+
+33
+00:01:33,450 --> 00:01:36,280
+<font face="Open Sans Semibold" size="36"><b>but rejected it immediately.
+Is this true?</b></font>
+
+34
+00:01:36,370 --> 00:01:37,870
+<font face="Open Sans Semibold" size="36"><b>Err…N-No, that's…</b></font>
+
+35
+00:01:37,950 --> 00:01:40,410
+<font face="Open Sans Semibold" size="36"><b>That hasn't been the only declaration
+of love you've received, has it?</b></font>
+
+36
+00:01:40,740 --> 00:01:42,410
+<font face="Open Sans Semibold" size="36"><b>U-Um… Please…</b></font>
+
+37
+00:01:42,490 --> 00:01:46,080
+<font face="Open Sans Semibold" size="36"><b>You supposedly said that
+you're already in love…</b></font>
+
+38
+00:01:46,240 --> 00:01:48,620
+<font face="Open Sans Semibold" size="36"><b>– Who is this person?!
+– Please tell us!</b></font>
+
+39
+00:01:49,950 --> 00:01:52,700
+<font face="Open Sans Semibold" size="36"><b>That has nothing to do with
+this news conference!! Cha!</b></font>
+
+40
+00:01:53,280 --> 00:01:57,660
+<font face="Open Sans Semibold" size="36"><b>Whoa… The "Kosuke Kills" corner
+was scheduled in this time slot…</b></font>
+
+41
+00:01:57,700 --> 00:01:59,410
+<font face="Open Sans Semibold" size="36"><b>but we just received an update.</b></font>
+
+42
+00:01:59,950 --> 00:02:01,950
+<font face="Open Sans Semibold" size="36"><b>According to this bulletin,</b></font>
+
+43
+00:02:01,990 --> 00:02:04,330
+<font face="Open Sans Semibold" size="36"><b>the key figures of the
+Fourth Great Ninja World War,</b></font>
+
+44
+00:02:04,370 --> 00:02:07,910
+<font face="Open Sans Semibold" size="36"><b>Killer Bee the Eight Tails and
+Naruto the Nine Tails,</b></font>
+
+45
+00:02:07,950 --> 00:02:10,160
+<font face="Open Sans Semibold" size="36"><b>have persuaded Lady Tsunade
+and Lord Raikage…</b></font>
+
+46
+00:02:10,200 --> 00:02:13,200
+<font face="Open Sans Semibold" size="36"><b>and at long last, they are heading
+towards the battlefield.</b></font>
+
+47
+00:02:13,700 --> 00:02:16,200
+<font face="Open Sans Semibold" size="36"><b>I'm amazed that they were able
+to convince those two.</b></font>
+
+48
+00:02:17,160 --> 00:02:19,330
+<font face="Open Sans Semibold" size="36"><b>Looks like we have a satellite link
+with the duo.</b></font>
+
+49
+00:02:19,990 --> 00:02:23,240
+<font face="Open Sans Semibold" size="36"><b>Let's ask them if they're excited
+about joining the war effort.</b></font>
+
+50
+00:02:23,240 --> 00:02:25,740
+<font face="Open Sans Semibold" size="36"><b>Naruto… Naruto?</b></font>
+
+51
+00:02:27,870 --> 00:02:29,870
+<font face="Open Sans Semibold" size="36"><b>Was the link broken?</b></font>
+
+52
+00:02:30,200 --> 00:02:32,700
+<font face="Open Sans Semibold" size="36"><b>Is the equipment malfunctioning?</b></font>
+
+53
+00:02:33,330 --> 00:02:35,410
+<font face="Open Sans Semibold" size="36"><b>I'm not sure…</b></font>
+
+54
+00:02:36,410 --> 00:02:39,280
+<font face="Open Sans Semibold" size="36"><b>Okay, it seems we're connected now.</b></font>
+
+55
+00:02:39,950 --> 00:02:42,660
+<font face="Open Sans Semibold" size="36"><b>All right, let's try again.
+Naruto!</b></font>
+
+56
+00:02:43,410 --> 00:02:45,530
+<font face="Open Sans Semibold" size="36"><b>So do I talk into this
+as I'm running?</b></font>
+
+57
+00:02:46,990 --> 00:02:49,240
+<font face="Open Sans Semibold" size="36"><b>Stay put, so the camera can focus.</b></font>
+
+58
+00:02:49,280 --> 00:02:51,330
+<font face="Open Sans Semibold" size="36"><b>And I'll plant a kiss
+on you like this.</b></font>
+
+59
+00:02:52,200 --> 00:02:54,370
+<font face="Open Sans Semibold" size="36"><b>Hey! Get out of my way!</b></font>
+
+60
+00:02:54,780 --> 00:02:57,240
+<font face="Open Sans Semibold" size="36"><b>What are those two doing?!</b></font>
+
+61
+00:02:57,410 --> 00:02:58,950
+<font face="Open Sans Semibold" size="36"><b>We're still on the air…</b></font>
+
+62
+00:04:30,530 --> 00:04:34,740
+<font face="Open Sans Semibold" size="36"><b><i>Naruto Enters the Battle</i>
+
+</b></font>
+
+63
+00:04:44,200 --> 00:04:47,490
+<font face="Open Sans Semibold" size="36"><b><i>If Kisame's intel is correct,</i>
+<i>Naruto now has the same ability,</i></b></font>
+
+64
+00:04:47,530 --> 00:04:50,280
+<font face="Open Sans Semibold" size="36"><b><i>just like Mito Uzumaki,</i>
+<i>the wife of the First Hokage,</i></b></font>
+
+65
+00:04:50,330 --> 00:04:53,370
+<font face="Open Sans Semibold" size="36"><b><i>to sense the enemy.</i></b></font>
+
+66
+00:04:54,410 --> 00:04:56,910
+<font face="Open Sans Semibold" size="36"><b><i>Naruto will have no choice.</i></b></font>
+
+67
+00:04:57,410 --> 00:04:59,950
+<font face="Open Sans Semibold" size="36"><b><i>He'll have to battle</i>
+<i>with White Zetsu.</i></b></font>
+
+68
+00:05:01,410 --> 00:05:03,080
+<font face="Open Sans Semibold" size="36"><b><i>It's all going according to plan…</i></b></font>
+
+69
+00:05:03,120 --> 00:05:06,200
+<font face="Open Sans Semibold" size="36"><b><i>Today, the Senju's Will of Fire</i>
+<i>shall be extinguished.</i></b></font>
+
+70
+00:05:07,620 --> 00:05:11,700
+<font face="Open Sans Semibold" size="36"><b>The two Kage who block their path
+and refuse to let them go are…</b></font>
+
+71
+00:05:11,740 --> 00:05:13,990
+<font face="Open Sans Semibold" size="36"><b>Lord Raikage and Lady Tsunade.</b></font>
+
+72
+00:05:14,490 --> 00:05:17,080
+<font face="Open Sans Semibold" size="36"><b>Demanding that
+they get out of the way,</b></font>
+
+73
+00:05:17,120 --> 00:05:18,370
+<font face="Open Sans Semibold" size="36"><b>Naruto makes his approach.</b></font>
+
+74
+00:05:18,910 --> 00:05:23,030
+<font face="Open Sans Semibold" size="36"><b>The indomitable Bee is quick
+to react and jumps in to assist.</b></font>
+
+75
+00:05:23,660 --> 00:05:27,620
+<font face="Open Sans Semibold" size="36"><b>Shockingly, Lady Tsunade
+steps aside to let them pass,</b></font>
+
+76
+00:05:27,660 --> 00:05:30,530
+<font face="Open Sans Semibold" size="36"><b>inciting Lord Raikage
+to roar his dissent.</b></font>
+
+77
+00:05:30,580 --> 00:05:33,660
+<font face="Open Sans Semibold" size="36"><b>But the sun inside Naruto
+softens his heart…</b></font>
+
+78
+00:05:33,700 --> 00:05:37,330
+<font face="Open Sans Semibold" size="36"><b>The light of brotherly love and
+parental love burns so bright,</b></font>
+
+79
+00:05:37,370 --> 00:05:39,490
+<font face="Open Sans Semibold" size="36"><b>it makes him squint.</b></font>
+
+80
+00:05:39,580 --> 00:05:42,120
+<font face="Open Sans Semibold" size="36"><b>And so, he relents
+and lets them go.</b></font>
+
+81
+00:05:43,990 --> 00:05:47,030
+<font face="Open Sans Semibold" size="36"><b>In an intense,
+touching moment between men…</b></font>
+
+82
+00:05:47,080 --> 00:05:51,330
+<font face="Open Sans Semibold" size="36"><b>Lady Tsunade and Lord Raikage
+let Naruto have his way.</b></font>
+
+83
+00:05:52,780 --> 00:05:56,330
+<font face="Open Sans Semibold" size="36"><b>Oh sorry… Lady Tsunade isn't a man.</b></font>
+
+84
+00:05:57,280 --> 00:05:59,580
+<font face="Open Sans Semibold" size="36"><b>This is momentous.</b></font>
+
+85
+00:06:00,240 --> 00:06:02,950
+<font face="Open Sans Semibold" size="36"><b>To think that Lord Raikage
+could be persuaded…</b></font>
+
+86
+00:06:04,990 --> 00:06:06,910
+<font face="Open Sans Semibold" size="36"><b>I'm not that surprised.</b></font>
+
+87
+00:06:07,370 --> 00:06:09,530
+<font face="Open Sans Semibold" size="36"><b>There's something about Naruto</b></font>
+
+88
+00:06:09,580 --> 00:06:11,330
+<font face="Open Sans Semibold" size="36"><b>that makes the impossible
+seem possible.</b></font>
+
+89
+00:06:11,490 --> 00:06:15,410
+<font face="Open Sans Semibold" size="36"><b>But…this could be just
+what the enemy is hoping for.</b></font>
+
+90
+00:06:16,280 --> 00:06:19,240
+<font face="Open Sans Semibold" size="36"><b>Consider White Zetsu's
+Transformation Jutsu.</b></font>
+
+91
+00:06:19,950 --> 00:06:22,910
+<font face="Open Sans Semibold" size="36"><b>It's as though it's used specifically
+to lure Naruto out.</b></font>
+
+92
+00:06:23,200 --> 00:06:25,490
+<font face="Open Sans Semibold" size="36"><b>It definitely could be a trap.</b></font>
+
+93
+00:06:26,120 --> 00:06:29,240
+<font face="Open Sans Semibold" size="36"><b>However, we have no choice,
+but to leave this in Naruto's hands.</b></font>
+
+94
+00:06:32,450 --> 00:06:35,490
+<font face="Open Sans Semibold" size="36"><b>No one is allowed near
+Lady Shizune's tent!</b></font>
+
+95
+00:06:35,660 --> 00:06:38,580
+<font face="Open Sans Semibold" size="36"><b>Anyone making a move will
+be considered an enemy!</b></font>
+
+96
+00:06:38,740 --> 00:06:40,200
+<font face="Open Sans Semibold" size="36"><b>So, just stay put!</b></font>
+
+97
+00:07:04,740 --> 00:07:07,910
+<font face="Open Sans Semibold" size="36"><b>Don't move! You must not move!</b></font>
+
+98
+00:07:08,580 --> 00:07:12,330
+<font face="Open Sans Semibold" size="36"><b>Sakura, take a look at
+this genetic sequence data!</b></font>
+
+99
+00:07:12,830 --> 00:07:13,870
+<font face="Open Sans Semibold" size="36"><b>It's finally done?!</b></font>
+
+100
+00:07:15,490 --> 00:07:17,580
+<font face="Open Sans Semibold" size="36"><b>It has changed and become
+even more like Captain Yamato's</b></font>
+
+101
+00:07:17,620 --> 00:07:19,280
+<font face="Open Sans Semibold" size="36"><b>than it was at
+the Five Kage Summit!</b></font>
+
+102
+00:07:19,370 --> 00:07:20,700
+<font face="Open Sans Semibold" size="36"><b>In other words,</b></font>
+
+103
+00:07:20,740 --> 00:07:24,740
+<font face="Open Sans Semibold" size="36"><b>there's very little difference from
+the First Hokage's genetic data.</b></font>
+
+104
+00:07:25,530 --> 00:07:27,410
+<font face="Open Sans Semibold" size="36"><b>So it was true.</b></font>
+
+105
+00:07:27,450 --> 00:07:28,740
+<font face="Open Sans Semibold" size="36"><b>What are you saying?!</b></font>
+
+106
+00:07:29,490 --> 00:07:32,370
+<font face="Open Sans Semibold" size="36"><b>What's this about the white guy
+and the First Hokage?</b></font>
+
+107
+00:07:33,280 --> 00:07:36,870
+<font face="Open Sans Semibold" size="36"><b>Namely, this white guy is
+a clone of the First Hokage.</b></font>
+
+108
+00:07:37,410 --> 00:07:39,870
+<font face="Open Sans Semibold" size="36"><b>Or rather, judging from
+how many there are,</b></font>
+
+109
+00:07:39,910 --> 00:07:42,280
+<font face="Open Sans Semibold" size="36"><b>the First Hokage's cells
+were cultivated and</b></font>
+
+110
+00:07:42,330 --> 00:07:46,530
+<font face="Open Sans Semibold" size="36"><b>using mobile plants as a medium,
+clones that can move were created.</b></font>
+
+111
+00:07:47,120 --> 00:07:49,450
+<font face="Open Sans Semibold" size="36"><b>They are diluted in strength,
+but they still use the Wood Style.</b></font>
+
+112
+00:07:49,950 --> 00:07:52,580
+<font face="Open Sans Semibold" size="36"><b>Huh?! I still don't get it…</b></font>
+
+113
+00:07:53,280 --> 00:07:54,830
+<font face="Open Sans Semibold" size="36"><b>I don't get it,</b></font>
+
+114
+00:07:54,870 --> 00:07:58,030
+<font face="Open Sans Semibold" size="36"><b>but I'm supposed to guard you
+against plants. Right?</b></font>
+
+115
+00:07:58,370 --> 00:08:01,160
+<font face="Open Sans Semibold" size="36"><b>Well then, how about
+using termites?</b></font>
+
+116
+00:08:01,330 --> 00:08:04,280
+<font face="Open Sans Semibold" size="36"><b>Looking at this data,
+I'm sure Captain Yamato</b></font>
+
+117
+00:08:04,330 --> 00:08:07,240
+<font face="Open Sans Semibold" size="36"><b>is being used to make
+these clones stronger.</b></font>
+
+118
+00:08:07,240 --> 00:08:09,200
+<font face="Open Sans Semibold" size="36"><b>I'll notify HQ immediately!</b></font>
+
+119
+00:08:11,740 --> 00:08:12,910
+<font face="Open Sans Semibold" size="36"><b>I'm back!</b></font>
+
+120
+00:08:13,200 --> 00:08:15,240
+<font face="Open Sans Semibold" size="36"><b>I got word that those white beings
+are transforming,</b></font>
+
+121
+00:08:15,280 --> 00:08:17,280
+<font face="Open Sans Semibold" size="36"><b>and are causing havoc
+on the battlefield.</b></font>
+
+122
+00:08:17,580 --> 00:08:19,200
+<font face="Open Sans Semibold" size="36"><b>Perhaps it's too much
+of a coincidence,</b></font>
+
+123
+00:08:19,240 --> 00:08:20,910
+<font face="Open Sans Semibold" size="36"><b>but letting Naruto go
+couldn't have been timed better.</b></font>
+
+124
+00:08:20,950 --> 00:08:21,780
+<font face="Open Sans Semibold" size="36"><b>I agree.</b></font>
+
+125
+00:08:22,490 --> 00:08:23,660
+<font face="Open Sans Semibold" size="36"><b>Sorry to interrupt,</b></font>
+
+126
+00:08:23,700 --> 00:08:26,080
+<font face="Open Sans Semibold" size="36"><b>but we just got a report
+from the Medical Team.</b></font>
+
+127
+00:08:26,330 --> 00:08:27,830
+<font face="Open Sans Semibold" size="36"><b>It's data about those white beings.</b></font>
+
+128
+00:08:27,870 --> 00:08:28,950
+<font face="Open Sans Semibold" size="36"><b>Give it to me!</b></font>
+
+129
+00:08:31,280 --> 00:08:33,660
+<font face="Open Sans Semibold" size="36"><b>Who would have thought that
+Madara and Orochimaru's fixation</b></font>
+
+130
+00:08:33,700 --> 00:08:36,410
+<font face="Open Sans Semibold" size="36"><b>on the First Hokage
+would create this?</b></font>
+
+131
+00:08:37,410 --> 00:08:40,490
+<font face="Open Sans Semibold" size="36"><b>Botanical Ninja created
+from Grandfather's body.</b></font>
+
+132
+00:08:42,240 --> 00:08:43,740
+<font face="Open Sans Semibold" size="36"><b>This is proof that</b></font>
+
+133
+00:08:43,780 --> 00:08:45,780
+<font face="Open Sans Semibold" size="36"><b>Madara has possession of
+the First Hokage's cells!</b></font>
+
+134
+00:08:46,370 --> 00:08:47,530
+<font face="Open Sans Semibold" size="36"><b>He's cultivated them</b></font>
+
+135
+00:08:47,580 --> 00:08:50,030
+<font face="Open Sans Semibold" size="36"><b>and developed a way
+to replicate them.</b></font>
+
+136
+00:08:50,080 --> 00:08:51,530
+<font face="Open Sans Semibold" size="36"><b>Including his own body.</b></font>
+
+137
+00:08:52,330 --> 00:08:54,490
+<font face="Open Sans Semibold" size="36"><b>No wonder he's been
+able to live this long.</b></font>
+
+138
+00:08:55,080 --> 00:08:58,370
+<font face="Open Sans Semibold" size="36"><b>Well? Do we have an idea
+of how to destroy him?</b></font>
+
+139
+00:08:59,160 --> 00:09:00,490
+<font face="Open Sans Semibold" size="36"><b>No… Just the opposite…</b></font>
+
+140
+00:09:01,030 --> 00:09:03,280
+<font face="Open Sans Semibold" size="36"><b>Now, we don't even know
+what will kill him.</b></font>
+
+141
+00:09:03,870 --> 00:09:07,200
+<font face="Open Sans Semibold" size="36"><b>It seems Madara is really…immortal!</b></font>
+
+142
+00:09:12,280 --> 00:09:15,330
+<font face="Open Sans Semibold" size="36"><b>An immortal leader and
+his mobile plants…</b></font>
+
+143
+00:09:15,370 --> 00:09:17,240
+<font face="Open Sans Semibold" size="36"><b>Reanimation zombies…</b></font>
+
+144
+00:09:17,660 --> 00:09:20,660
+<font face="Open Sans Semibold" size="36"><b>Not a normal human among them.</b></font>
+
+145
+00:09:21,280 --> 00:09:23,530
+<font face="Open Sans Semibold" size="36"><b>Notify Naruto and Bee immediately</b></font>
+
+146
+00:09:23,580 --> 00:09:25,450
+<font face="Open Sans Semibold" size="36"><b>about the White Beings'
+Transformation Technique!</b></font>
+
+147
+00:09:30,620 --> 00:09:33,030
+<font face="Open Sans Semibold" size="36"><b><i>Naruto, please listen carefully.</i>
+<i>You too, Lord Bee.</i></b></font>
+
+148
+00:09:35,240 --> 00:09:39,120
+<font face="Open Sans Semibold" size="36"><b><i>I am transmitting this message</i>
+<i>directly into your minds.</i></b></font>
+
+149
+00:09:39,160 --> 00:09:43,160
+<font face="Open Sans Semibold" size="36"><b><i>Let me explain the enemy's battle jutsu</i>
+<i>and their objective.</i></b></font>
+
+150
+00:09:43,200 --> 00:09:44,950
+<font face="Open Sans Semibold" size="36"><b><i>Pay close attention.</i></b></font>
+
+151
+00:09:49,580 --> 00:09:52,950
+<font face="Open Sans Semibold" size="36"><b>That explains all the weird,
+fuzzy sensations I've been having.</b></font>
+
+152
+00:09:53,280 --> 00:09:56,120
+<font face="Open Sans Semibold" size="36"><b>I guess I have no choice,
+but to step up.</b></font>
+
+153
+00:09:57,120 --> 00:09:58,120
+<font face="Open Sans Semibold" size="36"><b><i>Yeah!</i></b></font>
+
+154
+00:09:58,370 --> 00:10:01,780
+<font face="Open Sans Semibold" size="36"><b><i>But remember, I mentioned</i>
+<i>that Madara's Project Tsuki no Me</i></b></font>
+
+155
+00:10:01,830 --> 00:10:04,200
+<font face="Open Sans Semibold" size="36"><b><i>won't work without</i>
+<i>your Tailed Beasts…</i></b></font>
+
+156
+00:10:04,950 --> 00:10:07,990
+<font face="Open Sans Semibold" size="36"><b><i>That means you two are his targets.</i></b></font>
+
+157
+00:10:08,620 --> 00:10:10,200
+<font face="Open Sans Semibold" size="36"><b><i>I know that!</i></b></font>
+
+158
+00:10:10,660 --> 00:10:12,660
+<font face="Open Sans Semibold" size="36"><b><i>As if I'd sit still and</i>
+<i>let them capture me!</i></b></font>
+
+159
+00:10:12,990 --> 00:10:14,200
+<font face="Open Sans Semibold" size="36"><b><i>Then this time,</i></b></font>
+
+160
+00:10:14,240 --> 00:10:17,200
+<font face="Open Sans Semibold" size="36"><b><i>don't even think about</i>
+<i>negotiating with him, Naruto.</i></b></font>
+
+161
+00:10:17,870 --> 00:10:20,240
+<font face="Open Sans Semibold" size="36"><b><i>Madara is different from</i>
+<i>Pain and Nagato.</i></b></font>
+
+162
+00:10:20,330 --> 00:10:22,280
+<font face="Open Sans Semibold" size="36"><b><i>He has no interest in peace.</i></b></font>
+
+163
+00:10:22,740 --> 00:10:26,370
+<font face="Open Sans Semibold" size="36"><b><i>He's a truly evil man</i>
+<i>who covets the entire world.</i></b></font>
+
+164
+00:10:28,330 --> 00:10:31,660
+<font face="Open Sans Semibold" size="36"><b><i>Controlling people requires</i>
+<i>the skill to manipulate</i></b></font>
+
+165
+00:10:31,700 --> 00:10:33,830
+<font face="Open Sans Semibold" size="36"><b><i>the darkness in their souls.</i></b></font>
+
+166
+00:10:34,870 --> 00:10:38,330
+<font face="Open Sans Semibold" size="36"><b><i>Although, Nagato just happened</i>
+<i>to be easily influenced.</i></b></font>
+
+167
+00:10:38,780 --> 00:10:40,870
+<font face="Open Sans Semibold" size="36"><b><i>Don't compare yourself with Nagato!</i></b></font>
+
+168
+00:10:41,450 --> 00:10:45,200
+<font face="Open Sans Semibold" size="36"><b><i>His ways were different,</i>
+<i>but he truly wished for peace!</i></b></font>
+
+169
+00:10:45,490 --> 00:10:47,030
+<font face="Open Sans Semibold" size="36"><b><i>But you're different!</i></b></font>
+
+170
+00:10:48,950 --> 00:10:49,950
+<font face="Open Sans Semibold" size="36"><b><i>You're right.</i></b></font>
+
+171
+00:10:52,280 --> 00:10:58,240
+<font face="Open Sans Semibold" size="36"><b><i>The appearance of an Uchiha…</i>
+<i>gathering Tailed Beasts…</i></b></font>
+
+172
+00:10:59,450 --> 00:11:01,160
+<font face="Open Sans Semibold" size="36"><b><i>Just what is your goal?</i></b></font>
+
+173
+00:11:01,490 --> 00:11:02,660
+<font face="Open Sans Semibold" size="36"><b><i>What do you hope to accomplish?</i></b></font>
+
+174
+00:11:04,280 --> 00:11:10,330
+<font face="Open Sans Semibold" size="36"><b><i>Let's see… If anything,</i>
+<i>it's to become complete.</i></b></font>
+
+175
+00:11:12,240 --> 00:11:14,200
+<font face="Open Sans Semibold" size="36"><b>And with Project Tsuki no Me,</b></font>
+
+176
+00:11:14,240 --> 00:11:17,910
+<font face="Open Sans Semibold" size="36"><b>he'll be able to completely control
+humans through genjutsu…</b></font>
+
+177
+00:11:18,530 --> 00:11:21,740
+<font face="Open Sans Semibold" size="36"><b><i>That's about it.</i>
+<i>So don't let down your guard!</i></b></font>
+
+178
+00:11:24,330 --> 00:11:26,780
+<font face="Open Sans Semibold" size="36"><b>I once talked to Madara
+in the Land of Iron.</b></font>
+
+179
+00:11:27,450 --> 00:11:29,530
+<font face="Open Sans Semibold" size="36"><b>He told me about
+the Uchiha Clan's destiny.</b></font>
+
+180
+00:11:30,120 --> 00:11:34,200
+<font face="Open Sans Semibold" size="36"><b>He knows all about hatred,
+and took advantage of Nagato.</b></font>
+
+181
+00:11:34,330 --> 00:11:36,240
+<font face="Open Sans Semibold" size="36"><b>He's the one fueling
+Sasuke's hatred too.</b></font>
+
+182
+00:11:36,990 --> 00:11:38,620
+<font face="Open Sans Semibold" size="36"><b>I know how evil he is.</b></font>
+
+183
+00:11:39,450 --> 00:11:44,330
+<font face="Open Sans Semibold" size="36"><b><i>He doesn't act out of hatred.</i>
+<i>He simply exploits hatred.</i></b></font>
+
+184
+00:11:44,870 --> 00:11:48,120
+<font face="Open Sans Semibold" size="36"><b><i>He's unlike any other foe</i>
+<i>you've faced, so be careful!</i></b></font>
+
+185
+00:11:48,780 --> 00:11:51,330
+<font face="Open Sans Semibold" size="36"><b>In any case, I'm going to
+pulverize Madara</b></font>
+
+186
+00:11:51,370 --> 00:11:53,030
+<font face="Open Sans Semibold" size="36"><b>and bring this war to an end!</b></font>
+
+187
+00:11:53,580 --> 00:11:55,490
+<font face="Open Sans Semibold" size="36"><b>Only then can we talk.</b></font>
+
+188
+00:11:56,330 --> 00:11:57,870
+<font face="Open Sans Semibold" size="36"><b><i>I don't know about Kabuto,</i></b></font>
+
+189
+00:11:57,910 --> 00:11:59,660
+<font face="Open Sans Semibold" size="36"><b><i>but Madara is supposedly immortal.</i></b></font>
+
+190
+00:12:00,280 --> 00:12:03,410
+<font face="Open Sans Semibold" size="36"><b><i>Furthermore, those mobile plants</i>
+<i>that were restructured</i></b></font>
+
+191
+00:12:03,450 --> 00:12:04,950
+<font face="Open Sans Semibold" size="36"><b><i>with the First Hokage's cells…</i></b></font>
+
+192
+00:12:05,280 --> 00:12:07,410
+<font face="Open Sans Semibold" size="36"><b><i>You know,</i>
+<i>those otherworldly zombies…</i></b></font>
+
+193
+00:12:08,080 --> 00:12:09,620
+<font face="Open Sans Semibold" size="36"><b><i>Nothing works against them</i>
+<i>except by sealing.</i></b></font>
+
+194
+00:12:10,080 --> 00:12:11,990
+<font face="Open Sans Semibold" size="36"><b><i>Talk about an undead army.</i></b></font>
+
+195
+00:12:12,450 --> 00:12:14,160
+<font face="Open Sans Semibold" size="36"><b><i>Beware of them too!</i></b></font>
+
+196
+00:12:14,450 --> 00:12:17,160
+<font face="Open Sans Semibold" size="36"><b>That's the only piece of
+good news.</b></font>
+
+197
+00:12:17,450 --> 00:12:19,370
+<font face="Open Sans Semibold" size="36"><b>I don't have to worry
+about holding back!</b></font>
+
+198
+00:12:23,330 --> 00:12:24,160
+<font face="Open Sans Semibold" size="36"><b>That's…</b></font>
+
+199
+00:12:25,410 --> 00:12:27,080
+<font face="Open Sans Semibold" size="36"><b>It's chaos out there
+in the battlefield!</b></font>
+
+200
+00:12:27,200 --> 00:12:30,200
+<font face="Open Sans Semibold" size="36"><b>We've got to get back and
+shore up HQ's defense!</b></font>
+
+201
+00:12:31,370 --> 00:12:32,530
+<font face="Open Sans Semibold" size="36"><b>Rasengan!</b></font>
+
+202
+00:12:33,240 --> 00:12:33,830
+<font face="Open Sans Semibold" size="36"><b>Naruto?!</b></font>
+
+203
+00:12:44,200 --> 00:12:46,780
+<font face="Open Sans Semibold" size="36"><b>Leave it all to Naruto here.</b></font>
+
+204
+00:12:46,830 --> 00:12:49,780
+<font face="Open Sans Semibold" size="36"><b>Those he gives his stamp of approval.
+Are the only ones I'll give an ear.</b></font>
+
+205
+00:12:50,240 --> 00:12:52,450
+<font face="Open Sans Semibold" size="36"><b>They're all enemies!</b></font>
+
+206
+00:12:58,450 --> 00:13:00,530
+<font face="Open Sans Semibold" size="36"><b>Let's do this, Octopops!</b></font>
+
+207
+00:13:04,120 --> 00:13:05,330
+<font face="Open Sans Semibold" size="36"><b>Rasenrangan!</b></font>
+
+208
+00:13:15,280 --> 00:13:16,780
+<font face="Open Sans Semibold" size="36"><b>Rasenkyugan!</b></font>
+
+209
+00:13:23,370 --> 00:13:26,240
+<font face="Open Sans Semibold" size="36"><b><i>Naruto's attack is affecting</i>
+<i>the Wood Style,</i></b></font>
+
+210
+00:13:26,280 --> 00:13:27,870
+<font face="Open Sans Semibold" size="36"><b><i>and turning them back</i>
+<i>into wood?</i></b></font>
+
+211
+00:13:31,280 --> 00:13:33,370
+<font face="Open Sans Semibold" size="36"><b><i>It's just like before…</i></b></font>
+
+212
+00:13:47,160 --> 00:13:51,910
+<font face="Open Sans Semibold" size="36"><b>This way, we won't be so vulnerable
+to the effects of his attack.</b></font>
+
+213
+00:13:55,080 --> 00:13:56,660
+<font face="Open Sans Semibold" size="36"><b><i>Mini-Rasen Shuriken…</i></b></font>
+
+214
+00:14:03,030 --> 00:14:05,910
+<font face="Open Sans Semibold" size="36"><b>Summoning, Mayhem Jutsu!</b></font>
+
+215
+00:14:10,330 --> 00:14:11,450
+<font face="Open Sans Semibold" size="36"><b>All right!</b></font>
+
+216
+00:14:11,740 --> 00:14:13,160
+<font face="Open Sans Semibold" size="36"><b>Yay!</b></font>
+
+217
+00:14:13,660 --> 00:14:16,330
+<font face="Open Sans Semibold" size="36"><b>The fruits of training.
+Thanks to my mentoring.</b></font>
+
+218
+00:14:16,410 --> 00:14:17,490
+<font face="Open Sans Semibold" size="36"><b>Yay…</b></font>
+
+219
+00:14:17,950 --> 00:14:19,740
+<font face="Open Sans Semibold" size="36"><b>I'll leave my Shadow Clones
+and Mr. Gamahiro</b></font>
+
+220
+00:14:19,780 --> 00:14:20,950
+<font face="Open Sans Semibold" size="36"><b>to keep an eye here.</b></font>
+
+221
+00:14:21,370 --> 00:14:23,080
+<font face="Open Sans Semibold" size="36"><b>Let's go!</b></font>
+
+222
+00:14:23,910 --> 00:14:26,870
+<font face="Open Sans Semibold" size="36"><b>I'm gonna hit all the battlefields
+at the same time!</b></font>
+
+223
+00:14:27,370 --> 00:14:29,490
+<font face="Open Sans Semibold" size="36"><b>Multi Shadow Clone Jutsu!</b></font>
+
+224
+00:14:41,660 --> 00:14:43,450
+<font face="Open Sans Semibold" size="36"><b>It's no good. He caught up to us!</b></font>
+
+225
+00:14:43,740 --> 00:14:45,580
+<font face="Open Sans Semibold" size="36"><b>H-He's…?!</b></font>
+
+226
+00:14:46,620 --> 00:14:49,830
+<font face="Open Sans Semibold" size="36"><b>He's a Cloud Ninja with
+a Kekkei Genkai!</b></font>
+
+227
+00:14:50,370 --> 00:14:52,370
+<font face="Open Sans Semibold" size="36"><b>Magnet Style Toroi!</b></font>
+
+228
+00:14:52,990 --> 00:14:55,660
+<font face="Open Sans Semibold" size="36"><b>The Hidden Cloud has
+a Magnet Style user too?</b></font>
+
+229
+00:14:56,280 --> 00:14:58,660
+<font face="Open Sans Semibold" size="36"><b>When he attacks, you must always…</b></font>
+
+230
+00:15:02,080 --> 00:15:04,660
+<font face="Open Sans Semibold" size="36"><b>You Idiot! I said you always
+have to dodge it!</b></font>
+
+231
+00:15:04,950 --> 00:15:06,410
+<font face="Open Sans Semibold" size="36"><b>Huh? You didn't say that!</b></font>
+
+232
+00:15:06,740 --> 00:15:08,280
+<font face="Open Sans Semibold" size="36"><b>I didn't have time to finish
+my sentence!</b></font>
+
+233
+00:15:08,780 --> 00:15:13,240
+<font face="Open Sans Semibold" size="36"><b>His Magnet Style magnetizes
+any object that he touches.</b></font>
+
+234
+00:15:14,280 --> 00:15:18,870
+<font face="Open Sans Semibold" size="36"><b>And subsequently, anything those
+things touch becomes magnetized…</b></font>
+
+235
+00:15:18,910 --> 00:15:20,700
+<font face="Open Sans Semibold" size="36"><b>although the effect is not
+as strong.</b></font>
+
+236
+00:15:21,240 --> 00:15:23,120
+<font face="Open Sans Semibold" size="36"><b>You are the first transfer point
+to have touched the shuriken,</b></font>
+
+237
+00:15:23,160 --> 00:15:25,200
+<font face="Open Sans Semibold" size="36"><b>so the magnetic power
+in your body is…</b></font>
+
+238
+00:15:25,200 --> 00:15:27,450
+<font face="Open Sans Semibold" size="36"><b>Huh? What exactly do you mean?</b></font>
+
+239
+00:15:28,200 --> 00:15:31,030
+<font face="Open Sans Semibold" size="36"><b>Right now, your body is infused
+with magnetic power</b></font>
+
+240
+00:15:31,080 --> 00:15:33,620
+<font face="Open Sans Semibold" size="36"><b>since his shuriken is magnetic.</b></font>
+
+241
+00:15:34,330 --> 00:15:36,620
+<font face="Open Sans Semibold" size="36"><b>Which means,
+your body and his shuriken</b></font>
+
+242
+00:15:36,660 --> 00:15:38,240
+<font face="Open Sans Semibold" size="36"><b>are going to be
+drawn to each other.</b></font>
+
+243
+00:15:39,870 --> 00:15:41,450
+<font face="Open Sans Semibold" size="36"><b>Which means, in his second attack,</b></font>
+
+244
+00:15:41,490 --> 00:15:43,240
+<font face="Open Sans Semibold" size="36"><b>you won't be able to dodge it!</b></font>
+
+245
+00:15:46,410 --> 00:15:48,700
+<font face="Open Sans Semibold" size="36"><b>That means I'm gonna die!</b></font>
+
+246
+00:15:51,620 --> 00:15:53,450
+<font face="Open Sans Semibold" size="36"><b>I'm gonna die!</b></font>
+
+247
+00:15:54,280 --> 00:15:55,490
+<font face="Open Sans Semibold" size="36"><b>Rasengan!</b></font>
+
+248
+00:16:03,660 --> 00:16:05,280
+<font face="Open Sans Semibold" size="36"><b>Are you guys okay?</b></font>
+
+249
+00:16:08,410 --> 00:16:11,950
+<font face="Open Sans Semibold" size="36"><b>What is all this ruckus?</b></font>
+
+250
+00:16:14,910 --> 00:16:16,910
+<font face="Open Sans Semibold" size="36"><b>Lord Bee!
+What are you doing here?</b></font>
+
+251
+00:16:17,660 --> 00:16:19,280
+<font face="Open Sans Semibold" size="36"><b>Are you okay?</b></font>
+
+252
+00:16:19,660 --> 00:16:21,330
+<font face="Open Sans Semibold" size="36"><b>You shouldn't be here!</b></font>
+
+253
+00:16:21,830 --> 00:16:24,330
+<font face="Open Sans Semibold" size="36"><b>Those white beings are disguising
+themselves as our comrades.</b></font>
+
+254
+00:16:24,450 --> 00:16:25,450
+<font face="Open Sans Semibold" size="36"><b>I know that.</b></font>
+
+255
+00:16:26,030 --> 00:16:27,870
+<font face="Open Sans Semibold" size="36"><b><i>So this is one of the zombies</i></b></font>
+
+256
+00:16:27,910 --> 00:16:30,410
+<font face="Open Sans Semibold" size="36"><b><i>controlled by</i>
+<i>the Reanimation Jutsu…</i></b></font>
+
+257
+00:16:30,740 --> 00:16:32,280
+<font face="Open Sans Semibold" size="36"><b><i>Looks like sealing them like this</i></b></font>
+
+258
+00:16:32,330 --> 00:16:33,990
+<font face="Open Sans Semibold" size="36"><b><i>is the only way to stop them.</i></b></font>
+
+259
+00:16:35,080 --> 00:16:37,330
+<font face="Open Sans Semibold" size="36"><b>We were rushing back to
+Headquarters with Eff</b></font>
+
+260
+00:16:37,370 --> 00:16:39,620
+<font face="Open Sans Semibold" size="36"><b>to tighten the security there,
+but got separated…</b></font>
+
+261
+00:16:40,410 --> 00:16:42,950
+<font face="Open Sans Semibold" size="36"><b>Eff was actually a white guy.</b></font>
+
+262
+00:16:43,240 --> 00:16:43,830
+<font face="Open Sans Semibold" size="36"><b>Huh?!</b></font>
+
+263
+00:16:45,030 --> 00:16:47,160
+<font face="Open Sans Semibold" size="36"><b>Things here have gone awry.</b></font>
+
+264
+00:16:48,620 --> 00:16:52,330
+<font face="Open Sans Semibold" size="36"><b>Octopops, we have to catch up
+with everyone else.</b></font>
+
+265
+00:16:52,490 --> 00:16:53,330
+<font face="Open Sans Semibold" size="36"><b>Yeah!</b></font>
+
+266
+00:16:56,160 --> 00:16:58,410
+<font face="Open Sans Semibold" size="36"><b>If Eff and the others
+were imposters…</b></font>
+
+267
+00:16:58,870 --> 00:17:00,240
+<font face="Open Sans Semibold" size="36"><b>– You…
+– You…</b></font>
+
+268
+00:17:00,530 --> 00:17:03,200
+<font face="Open Sans Semibold" size="36"><b>No, both of us were almost
+killed by the enemy.</b></font>
+
+269
+00:17:03,740 --> 00:17:06,030
+<font face="Open Sans Semibold" size="36"><b>So we're okay.</b></font>
+
+270
+00:17:06,580 --> 00:17:07,660
+<font face="Open Sans Semibold" size="36"><b>Y-You're right.</b></font>
+
+271
+00:17:15,370 --> 00:17:16,370
+<font face="Open Sans Semibold" size="36"><b>Gotcha!</b></font>
+
+272
+00:17:24,240 --> 00:17:26,080
+<font face="Open Sans Semibold" size="36"><b>Are you trying to kill me?!</b></font>
+
+273
+00:17:26,120 --> 00:17:28,740
+<font face="Open Sans Semibold" size="36"><b>It's your fault for joking around
+at a time like this!</b></font>
+
+274
+00:17:45,200 --> 00:17:47,200
+<font face="Open Sans Semibold" size="36"><b>We can't retreat any further.</b></font>
+
+275
+00:17:48,030 --> 00:17:50,330
+<font face="Open Sans Semibold" size="36"><b>We'll have to make our stand here!</b></font>
+
+276
+00:17:51,240 --> 00:17:52,330
+<font face="Open Sans Semibold" size="36"><b>I agree.</b></font>
+
+277
+00:17:52,370 --> 00:17:55,780
+<font face="Open Sans Semibold" size="36"><b>First, the two of us will launch
+long-range offensives.</b></font>
+
+278
+00:17:56,580 --> 00:17:58,240
+<font face="Open Sans Semibold" size="36"><b>We'll see how the enemy responds!</b></font>
+
+279
+00:18:01,330 --> 00:18:03,200
+<font face="Open Sans Semibold" size="36"><b>They were slowly retreating,</b></font>
+
+280
+00:18:03,240 --> 00:18:05,580
+<font face="Open Sans Semibold" size="36"><b>but it seems they've made up
+their minds.</b></font>
+
+281
+00:18:06,240 --> 00:18:08,280
+<font face="Open Sans Semibold" size="36"><b>Fighting those from other villages
+is understandable.</b></font>
+
+282
+00:18:08,580 --> 00:18:09,870
+<font face="Open Sans Semibold" size="36"><b>But we are forced to
+bring ourselves</b></font>
+
+283
+00:18:09,910 --> 00:18:11,410
+<font face="Open Sans Semibold" size="36"><b>to take on shinobi from
+our homelands.</b></font>
+
+284
+00:18:12,030 --> 00:18:15,910
+<font face="Open Sans Semibold" size="36"><b>Damn that brat Orochimaru
+for controlling us!</b></font>
+
+285
+00:18:16,280 --> 00:18:17,990
+<font face="Open Sans Semibold" size="36"><b>He will regret this!</b></font>
+
+286
+00:18:18,530 --> 00:18:20,580
+<font face="Open Sans Semibold" size="36"><b>I never saw eye to eye
+with you before,</b></font>
+
+287
+00:18:20,620 --> 00:18:22,490
+<font face="Open Sans Semibold" size="36"><b>but for the first time,
+I agree with you.</b></font>
+
+288
+00:18:23,160 --> 00:18:25,240
+<font face="Open Sans Semibold" size="36"><b>Do not lament.</b></font>
+
+289
+00:18:25,370 --> 00:18:30,120
+<font face="Open Sans Semibold" size="36"><b>I'm certain our children have grown
+and surpassed us.</b></font>
+
+290
+00:18:31,330 --> 00:18:32,490
+<font face="Open Sans Semibold" size="36"><b>I hope you are right…</b></font>
+
+291
+00:18:36,160 --> 00:18:36,870
+<font face="Open Sans Semibold" size="36"><b>Here they come.</b></font>
+
+292
+00:18:38,280 --> 00:18:39,490
+<font face="Open Sans Semibold" size="36"><b>First, two of them.</b></font>
+
+293
+00:18:45,780 --> 00:18:48,450
+<font face="Open Sans Semibold" size="36"><b>Look at those
+amazing waves of sand!</b></font>
+
+294
+00:18:48,740 --> 00:18:49,950
+<font face="Open Sans Semibold" size="36"><b><i>This is Shukaku…</i></b></font>
+
+295
+00:18:50,120 --> 00:18:51,160
+<font face="Open Sans Semibold" size="36"><b><i>The power of the One Tail…</i></b></font>
+
+296
+00:18:54,370 --> 00:18:56,990
+<font face="Open Sans Semibold" size="36"><b><i>So they're starting off with</i>
+<i>the Playing Possum Jutsu?</i></b></font>
+
+297
+00:19:00,990 --> 00:19:02,120
+<font face="Open Sans Semibold" size="36"><b>Gold Dust?</b></font>
+
+298
+00:19:03,330 --> 00:19:04,370
+<font face="Open Sans Semibold" size="36"><b>I see…</b></font>
+
+299
+00:19:05,120 --> 00:19:07,280
+<font face="Open Sans Semibold" size="36"><b>You were the shinobi
+who manipulated Gold Dust</b></font>
+
+300
+00:19:07,330 --> 00:19:08,530
+<font face="Open Sans Semibold" size="36"><b>with the Magnet Style…</b></font>
+
+301
+00:19:17,240 --> 00:19:18,410
+<font face="Open Sans Semibold" size="36"><b>It stopped.</b></font>
+
+302
+00:19:19,120 --> 00:19:21,200
+<font face="Open Sans Semibold" size="36"><b>Gold Dust is heavier than sand…</b></font>
+
+303
+00:19:21,700 --> 00:19:25,660
+<font face="Open Sans Semibold" size="36"><b>If I mix Gold Dust into
+the sand, I can slow it down.</b></font>
+
+304
+00:19:26,870 --> 00:19:29,910
+<font face="Open Sans Semibold" size="36"><b>I'm impressed that you knew
+how to counter it.</b></font>
+
+305
+00:19:31,240 --> 00:19:33,530
+<font face="Open Sans Semibold" size="36"><b>When Shukaku the One Tail
+would go on a rampage,</b></font>
+
+306
+00:19:33,580 --> 00:19:35,580
+<font face="Open Sans Semibold" size="36"><b>I'd stop his sand like this.</b></font>
+
+307
+00:19:45,160 --> 00:19:47,990
+<font face="Open Sans Semibold" size="36"><b><i>It's not Shukaku…but Gaara?!</i></b></font>
+
+308
+00:19:57,490 --> 00:19:58,490
+<font face="Open Sans Semibold" size="36"><b>From above…</b></font>
+
+309
+00:20:02,410 --> 00:20:04,490
+<font face="Open Sans Semibold" size="36"><b>You've aged, Ohnoki!</b></font>
+
+310
+00:20:05,280 --> 00:20:06,830
+<font face="Open Sans Semibold" size="36"><b>Do you owe your long life
+to the Particle Style?</b></font>
+
+311
+00:20:08,240 --> 00:20:09,280
+<font face="Open Sans Semibold" size="36"><b>– Particle Style!
+– Particle Style!</b></font>
+
+312
+00:20:09,280 --> 00:20:11,370
+<font face="Open Sans Semibold" size="36"><b>– Atomic Dismantling Jutsu!
+– Atomic Dismantling Jutsu!</b></font>
+
+313
+00:20:20,950 --> 00:20:25,240
+<font face="Open Sans Semibold" size="36"><b>My predecessor's Particle Style…
+is as powerful as ever.</b></font>
+
+314
+00:20:26,240 --> 00:20:28,950
+<font face="Open Sans Semibold" size="36"><b><i>The sand is even more powerful</i>
+<i>than before…</i></b></font>
+
+315
+00:20:35,120 --> 00:20:36,240
+<font face="Open Sans Semibold" size="36"><b>Wait for the signal.</b></font>
+
+316
+00:20:36,950 --> 00:20:38,450
+<font face="Open Sans Semibold" size="36"><b>Particle Style…</b></font>
+
+317
+00:20:38,740 --> 00:20:41,330
+<font face="Open Sans Semibold" size="36"><b>Don't tell me that's
+your former pupil, the brat Ohnoki?</b></font>
+
+318
+00:20:42,410 --> 00:20:45,030
+<font face="Open Sans Semibold" size="36"><b>Now I really feel like
+I traveled through time!</b></font>
+
+319
+00:20:45,700 --> 00:20:48,160
+<font face="Open Sans Semibold" size="36"><b>It's been a while…Father.</b></font>
+
+320
+00:20:48,660 --> 00:20:50,990
+<font face="Open Sans Semibold" size="36"><b>Gaara… Where's Shukaku?</b></font>
+
+321
+00:20:51,910 --> 00:20:53,780
+<font face="Open Sans Semibold" size="36"><b>He's long gone.</b></font>
+
+322
+00:20:55,120 --> 00:21:00,330
+<font face="Open Sans Semibold" size="36"><b>I am no longer the Jinchuriki
+that you created, Father.</b></font>
+
+323
+00:22:37,450 --> 00:22:39,160
+<font face="Open Sans Semibold" size="36">I am Kazekage now.
+
+</font>
+
+324
+00:22:39,330 --> 00:22:42,870
+<font face="Open Sans Semibold" size="36">It is a leader's duty to eliminate
+threats against one's village.
+
+</font>
+
+325
+00:22:42,910 --> 00:22:44,240
+<font face="Open Sans Semibold" size="36">We must protect it.
+
+</font>
+
+326
+00:22:44,910 --> 00:22:49,620
+<font face="Open Sans Semibold" size="36">This Reanimation Jutsu may
+have some merit, after all…
+
+</font>
+
+327
+00:22:50,370 --> 00:22:52,870
+<font face="Open Sans Semibold" size="36">Let me see what
+you may be worth!
+
+</font>
+
+328
+00:22:54,530 --> 00:22:55,660
+<font face="Open Sans Semibold" size="36">Can you defeat me?
+
+</font>
+
+329
+00:22:56,200 --> 00:23:01,290
+<font face="Open Sans Semibold" size="36">Next time on Naruto Shippuden:
+"A Father's Hope, A Mother's Love" 
+
+</font>
+
+330
+00:23:01,410 --> 00:23:03,280
+<font face="Open Sans Semibold" size="36">A FATHER'S HOPE,
+A MOTHER'S LOVE
+
+Karura, you…</font>
+
+331
+00:23:03,280 --> 00:23:04,730
+<font face="Open Sans Semibold" size="36">A FATHER'S HOPE,
+A MOTHER'S LOVE
+
+</font>
+
+332
+00:23:05,080 --> 00:23:08,830
+<font face="Open Sans Semibold" size="36">Tune in again!
+
+</font>
+

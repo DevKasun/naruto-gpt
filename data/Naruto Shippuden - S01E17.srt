@@ -1,0 +1,1138 @@
+1
+00:00:02,330 --> 00:00:04,170
+<font face="Trebuchet MS" size="26"><b>We have to walk again?</b></font>
+
+2
+00:00:04,970 --> 00:00:06,630
+<font face="Trebuchet MS" size="26"><b>I'm exhausted.</b></font>
+
+3
+00:00:07,530 --> 00:00:11,070
+<font face="Trebuchet MS" size="26"><b>Humph... We're going to
+the northern hideout now.</b></font>
+
+4
+00:00:11,100 --> 00:00:13,600
+<font face="Trebuchet MS" size="26"><b>At this rate, you'll be killed
+the moment we get there.</b></font>
+
+5
+00:00:13,830 --> 00:00:18,130
+<font face="Trebuchet MS" size="26"><b>I only know it through maps...
+but is the place really that bad?</b></font>
+
+6
+00:00:19,430 --> 00:00:21,770
+<font face="Trebuchet MS" size="26"><b>The northern hideout
+is no ordinary hideout.</b></font>
+
+7
+00:00:24,400 --> 00:00:25,830
+<font face="Trebuchet MS" size="26"><b>That place...</b></font>
+
+8
+00:00:25,870 --> 00:00:27,770
+<font face="Trebuchet MS" size="26"><b>is where human experiments
+are conducted.</b></font>
+
+9
+00:00:28,370 --> 00:00:33,600
+<font face="Trebuchet MS" size="26"><b>And the unmanageable monsters that
+result are kept locked up there.</b></font>
+
+10
+00:00:35,330 --> 00:00:36,400
+<font face="Trebuchet MS" size="26"><b>A male...</b></font>
+
+11
+00:00:37,030 --> 00:00:40,670
+<font face="Trebuchet MS" size="26"><b>No, a female.</b></font>
+
+12
+00:00:42,030 --> 00:00:45,470
+<font face="Trebuchet MS" size="26"><b>No, I'll kill a male next, after all.</b></font>
+
+13
+00:00:50,400 --> 00:00:51,270
+<font face="Trebuchet MS" size="26"><b>I see.</b></font>
+
+14
+00:00:52,330 --> 00:00:54,170
+<font face="Trebuchet MS" size="26"><b>It's already begun...</b></font>
+
+15
+00:01:03,100 --> 00:01:07,430
+<font face="Trebuchet MS" size="26"><b>Why... Why did you have to die?</b></font>
+
+16
+00:01:15,170 --> 00:01:18,600
+<font face="Trebuchet MS" size="26"><b>RAMEN  
+That's pretty heavy food
+to have in the morning.</b></font>
+
+17
+00:01:19,600 --> 00:01:24,500
+<font face="Trebuchet MS" size="26"><b>Sakura, today's our day off.
+How come you're up so early?</b></font>
+
+18
+00:01:25,530 --> 00:01:27,100
+<font face="Trebuchet MS" size="26"><b>It's already noon.</b></font>
+
+19
+00:01:27,830 --> 00:01:29,030
+<font face="Trebuchet MS" size="26"><b>Well, never mind.</b></font>
+
+20
+00:01:30,270 --> 00:01:33,370
+<font face="Trebuchet MS" size="26"><b>Just wash up quickly and get dressed.
+I'll be waiting.</b></font>
+
+21
+00:01:33,800 --> 00:01:35,170
+<font face="Trebuchet MS" size="26"><b>Huh? Is it a date?</b></font>
+
+22
+00:01:35,200 --> 00:01:37,670
+<font face="Trebuchet MS" size="26"><b>Idiot! Lady Tsunade has summoned us!</b></font>
+
+23
+00:01:44,300 --> 00:01:46,730
+<font face="Trebuchet MS" size="26"><b>Say, aren't you tired?</b></font>
+
+24
+00:01:47,370 --> 00:01:49,170
+<font face="Trebuchet MS" size="26"><b>How about a short break?</b></font>
+
+25
+00:01:49,270 --> 00:01:51,500
+<font face="Trebuchet MS" size="26"><b>You're already taking a break!</b></font>
+
+26
+00:01:51,670 --> 00:01:54,070
+<font face="Trebuchet MS" size="26"><b>You are so hopeless!</b></font>
+
+27
+00:01:54,300 --> 00:01:56,300
+<font face="Trebuchet MS" size="26"><b>We've still got a ways to go 'til
+we get to the northern hideout!</b></font>
+
+28
+00:01:56,670 --> 00:01:59,130
+<font face="Trebuchet MS" size="26"><b>My destination is different
+from yours.</b></font>
+
+29
+00:01:59,570 --> 00:02:03,000
+<font face="Trebuchet MS" size="26"><b>No need to bother with me.
+Just go on ahead.</b></font>
+
+30
+00:02:03,100 --> 00:02:06,000
+<font face="Trebuchet MS" size="26"><b>I remembered that I too have business
+at the northern hideout!</b></font>
+
+31
+00:02:06,030 --> 00:02:08,370
+<font face="Trebuchet MS" size="26"><b>So I'm going to take care of that first!</b></font>
+
+32
+00:02:34,670 --> 00:02:36,830
+<font face="Trebuchet MS" size="26"><b><i>Move...!</i></b></font>
+
+33
+00:02:36,870 --> 00:02:39,500
+<font face="Trebuchet MS" size="26"><b><i>I'll kill you too!</i></b></font>
+
+34
+00:02:40,170 --> 00:02:41,500
+<font face="Trebuchet MS" size="26"><b><i>Stop it, Jugo...</i></b></font>
+
+35
+00:02:49,070 --> 00:02:50,230
+<font face="Trebuchet MS" size="26"><b><i>That's...</i></b></font>
+
+36
+00:02:50,800 --> 00:02:51,870
+<font face="Trebuchet MS" size="26"><b><i>enough.</i></b></font>
+
+37
+00:03:04,770 --> 00:03:06,400
+<font face="Trebuchet MS" size="26"><b><i>You're not alone.</i></b></font>
+
+38
+00:03:09,030 --> 00:03:10,470
+<font face="Trebuchet MS" size="26"><b><i>You have me.</i></b></font>
+
+39
+00:03:17,600 --> 00:03:19,200
+<font face="Trebuchet MS" size="26"><b>Without you...</b></font>
+
+40
+00:03:21,000 --> 00:03:25,000
+<font face="Trebuchet MS" size="26"><b>I can never leave this place...</b></font>
+
+41
+00:03:27,670 --> 00:03:28,770
+<font face="Trebuchet MS" size="26"><b>Suigetsu...</b></font>
+
+42
+00:03:29,400 --> 00:03:31,730
+<font face="Trebuchet MS" size="26"><b>Why do you follow Sasuke?</b></font>
+
+43
+00:03:31,870 --> 00:03:33,870
+<font face="Trebuchet MS" size="26"><b>I have a goal.</b></font>
+
+44
+00:03:33,900 --> 00:03:36,700
+<font face="Trebuchet MS" size="26"><b>And if I stick with Sasuke,
+I can fulfill that goal.</b></font>
+
+45
+00:03:37,270 --> 00:03:42,000
+<font face="Trebuchet MS" size="26"><b>Say, I should be asking you
+the same question... Really.</b></font>
+
+46
+00:03:42,870 --> 00:03:45,800
+<font face="Trebuchet MS" size="26"><b>I don't know what your goals are...</b></font>
+
+47
+00:03:45,970 --> 00:03:49,330
+<font face="Trebuchet MS" size="26"><b>But you want me to join your team
+despite knowing about Jugo?</b></font>
+
+48
+00:03:50,300 --> 00:03:54,370
+<font face="Trebuchet MS" size="26"><b>I know him a little.
+We fought each other once.</b></font>
+
+49
+00:03:54,900 --> 00:03:58,500
+<font face="Trebuchet MS" size="26"><b>He had an unusual ability
+and was quite formidable.</b></font>
+
+50
+00:03:59,000 --> 00:04:01,800
+<font face="Trebuchet MS" size="26"><b>But I couldn't figure out
+what he was thinking,</b></font>
+
+51
+00:04:01,830 --> 00:04:03,500
+<font face="Trebuchet MS" size="26"><b>and I didn't really like him.</b></font>
+
+52
+00:04:04,200 --> 00:04:07,370
+<font face="Trebuchet MS" size="26"><b>I understand <i>he</i>  sought out
+Orochimaru.</b></font>
+
+53
+00:04:08,270 --> 00:04:09,930
+<font face="Trebuchet MS" size="26"><b>He's got to be crazy.</b></font>
+
+54
+00:04:12,400 --> 00:04:14,330
+<font face="Trebuchet MS" size="26"><b>According to rumors,</b></font>
+
+55
+00:04:14,370 --> 00:04:17,730
+<font face="Trebuchet MS" size="26"><b>Jugo usually has that
+unusual impulse well under control.</b></font>
+
+56
+00:04:18,300 --> 00:04:20,700
+<font face="Trebuchet MS" size="26"><b>But when he loses it,
+he transforms into a ruthless killer.</b></font>
+
+57
+00:04:20,730 --> 00:04:23,370
+<font face="Trebuchet MS" size="26"><b>His personality and appearance
+change completely.</b></font>
+
+58
+00:04:25,100 --> 00:04:28,830
+<font face="Trebuchet MS" size="26"><b>In other words, he's a maniac
+who loves to kill people.</b></font>
+
+59
+00:04:29,170 --> 00:04:33,930
+<font face="Trebuchet MS" size="26"><b>But to Orochimaru,
+Jugo's ability was enticing.</b></font>
+
+60
+00:04:34,330 --> 00:04:36,530
+<font face="Trebuchet MS" size="26"><b>He invented an enzyme,
+based on Jugo's body fluids,</b></font>
+
+61
+00:04:36,570 --> 00:04:40,670
+<font face="Trebuchet MS" size="26"><b>which induced the same condition
+in other Shinobi.</b></font>
+
+62
+00:04:41,770 --> 00:04:43,330
+<font face="Trebuchet MS" size="26"><b>You guys know it too, right?</b></font>
+
+63
+00:04:48,370 --> 00:04:51,770
+<font face="Trebuchet MS" size="26"><b>That's...the Curse Mark.</b></font>
+
+64
+00:04:52,270 --> 00:04:54,630
+<font face="Trebuchet MS" size="26"><b>Jugo is the one and only
+original carrier.</b></font>
+
+65
+00:04:55,470 --> 00:04:59,970
+<font face="Trebuchet MS" size="26"><b><i>I'm getting out of here!
+<i>I'll kill anyone who tries to stop me!</i></i></b></font>
+
+66
+00:05:00,370 --> 00:05:02,870
+<font face="Trebuchet MS" size="26"><b><i>Who's...next?</i></b></font>
+
+67
+00:06:33,000 --> 00:06:37,230
+<font face="Trebuchet MS" size="26"><b><i>Jugo of the Northern Hideout
+
+</i></b></font>
+
+68
+00:06:37,270 --> 00:06:38,230
+<font face="Trebuchet MS" size="26"><b>You're late!</b></font>
+
+69
+00:06:38,430 --> 00:06:40,570
+<font face="Trebuchet MS" size="26"><b>What took you two so long?! Cripes!</b></font>
+
+70
+00:06:40,970 --> 00:06:42,500
+<font face="Trebuchet MS" size="26"><b>I-I'm sorry.</b></font>
+
+71
+00:06:42,530 --> 00:06:46,030
+<font face="Trebuchet MS" size="26"><b>Naruto was eating lunch,
+which he calls breakfast...</b></font>
+
+72
+00:06:46,330 --> 00:06:48,470
+<font face="Trebuchet MS" size="26"><b>Now now... Tsunade...</b></font>
+
+73
+00:06:51,000 --> 00:06:54,970
+<font face="Trebuchet MS" size="26"><b>Huh? Pervy Sage?! You're back!</b></font>
+
+74
+00:06:55,270 --> 00:06:57,770
+<font face="Trebuchet MS" size="26"><b>It's been awhile, eh, Naruto?</b></font>
+
+75
+00:06:57,800 --> 00:07:01,170
+<font face="Trebuchet MS" size="26"><b>Aw man! Why didn't you tell me
+you were back?</b></font>
+
+76
+00:07:01,470 --> 00:07:03,670
+<font face="Trebuchet MS" size="26"><b>We had a hard time after you left.</b></font>
+
+77
+00:07:03,700 --> 00:07:05,470
+<font face="Trebuchet MS" size="26"><b>So I hear.</b></font>
+
+78
+00:07:05,830 --> 00:07:09,930
+<font face="Trebuchet MS" size="26"><b>I got the gist of it, but I understand
+you played a big part.</b></font>
+
+79
+00:07:09,970 --> 00:07:11,200
+<font face="Trebuchet MS" size="26"><b>That's for sure.</b></font>
+
+80
+00:07:11,370 --> 00:07:15,500
+<font face="Trebuchet MS" size="26"><b>I finally got my Collaboration Jutsu
+to work in sync with the two toads.</b></font>
+
+81
+00:07:15,530 --> 00:07:18,970
+<font face="Trebuchet MS" size="26"><b>Oh, is that so?! You finally did it!</b></font>
+
+82
+00:07:19,000 --> 00:07:21,230
+<font face="Trebuchet MS" size="26"><b>How about it?
+Wanna see my new Jutsu?</b></font>
+
+83
+00:07:21,370 --> 00:07:24,800
+<font face="Trebuchet MS" size="26"><b>Well, since I'm here...
+I don't mind if I do.</b></font>
+
+84
+00:07:24,900 --> 00:07:26,200
+<font face="Trebuchet MS" size="26"><b>I knew it!</b></font>
+
+85
+00:07:26,300 --> 00:07:30,530
+<font face="Trebuchet MS" size="26"><b>And naturally, after that,
+we'll go eat ramen at Ichiraku!</b></font>
+
+86
+00:07:31,170 --> 00:07:32,730
+<font face="Trebuchet MS" size="26"><b>Sure, it'll be my treat.</b></font>
+
+87
+00:07:32,770 --> 00:07:36,500
+<font face="Trebuchet MS" size="26"><b>- All right! Let's get going!
+- Let's go! Your new Jutsu, eh...?</b></font>
+
+88
+00:07:36,530 --> 00:07:38,300
+<font face="Trebuchet MS" size="26"><b>- I'm looking forward to this...
+- Hey!!</b></font>
+
+89
+00:07:42,400 --> 00:07:43,970
+<font face="Trebuchet MS" size="26"><b>- Ow!
+- Oh!</b></font>
+
+90
+00:07:49,170 --> 00:07:52,230
+<font face="Trebuchet MS" size="26"><b>Say, can we rest a bit?</b></font>
+
+91
+00:07:52,570 --> 00:07:55,930
+<font face="Trebuchet MS" size="26"><b>Suigetsu! You keep stopping to rest!</b></font>
+
+92
+00:07:56,030 --> 00:07:57,530
+<font face="Trebuchet MS" size="26"><b>We're almost at the hideout!</b></font>
+
+93
+00:07:57,900 --> 00:08:01,170
+<font face="Trebuchet MS" size="26"><b>Is it the sword?
+Is it too heavy for you?</b></font>
+
+94
+00:08:01,400 --> 00:08:03,470
+<font face="Trebuchet MS" size="26"><b>Then leave it, damn it!</b></font>
+
+95
+00:08:10,800 --> 00:08:12,870
+<font face="Trebuchet MS" size="26"><b>Tell him, Sasuke!</b></font>
+
+96
+00:08:17,900 --> 00:08:18,900
+<font face="Trebuchet MS" size="26"><b>What's wrong?</b></font>
+
+97
+00:08:19,200 --> 00:08:21,200
+<font face="Trebuchet MS" size="26"><b>Where's the guy who's on watch?</b></font>
+
+98
+00:08:21,400 --> 00:08:22,200
+<font face="Trebuchet MS" size="26"><b>Huh?</b></font>
+
+99
+00:08:23,570 --> 00:08:26,430
+<font face="Trebuchet MS" size="26"><b>You're right... That's strange.</b></font>
+
+100
+00:08:27,470 --> 00:08:28,330
+<font face="Trebuchet MS" size="26"><b>Hey...</b></font>
+
+101
+00:08:44,270 --> 00:08:47,200
+<font face="Trebuchet MS" size="26"><b>He's from the northern hideout.
+He's still breathing.</b></font>
+
+102
+00:08:47,370 --> 00:08:48,670
+<font face="Trebuchet MS" size="26"><b>What happened?</b></font>
+
+103
+00:08:50,600 --> 00:08:53,630
+<font face="Trebuchet MS" size="26"><b>Y-You're...Sasuke Uchiha...</b></font>
+
+104
+00:08:54,600 --> 00:08:55,830
+<font face="Trebuchet MS" size="26"><b>Help me...</b></font>
+
+105
+00:08:57,800 --> 00:08:59,300
+<font face="Trebuchet MS" size="26"><b>What happened?</b></font>
+
+106
+00:09:00,700 --> 00:09:02,970
+<font face="Trebuchet MS" size="26"><b>I-It all started...</b></font>
+
+107
+00:09:03,000 --> 00:09:06,600
+<font face="Trebuchet MS" size="26"><b>with the rumors that
+Orochimaru was dead.</b></font>
+
+108
+00:09:08,230 --> 00:09:10,700
+<font face="Trebuchet MS" size="26"><b>The prisoners went wild...</b></font>
+
+109
+00:09:11,330 --> 00:09:12,570
+<font face="Trebuchet MS" size="26"><b>At this rate...</b></font>
+
+110
+00:09:15,330 --> 00:09:18,230
+<font face="Trebuchet MS" size="26"><b>Oh dear... He died.</b></font>
+
+111
+00:09:34,300 --> 00:09:36,130
+<font face="Trebuchet MS" size="26"><b>You're...</b></font>
+
+112
+00:09:38,930 --> 00:09:40,500
+<font face="Trebuchet MS" size="26"><b>What is that?</b></font>
+
+113
+00:09:40,730 --> 00:09:44,030
+<font face="Trebuchet MS" size="26"><b>He's already in the
+"Curse Mark Second State."</b></font>
+
+114
+00:10:00,170 --> 00:10:01,800
+<font face="Trebuchet MS" size="26"><b>The northern hideout is over there.</b></font>
+
+115
+00:10:02,230 --> 00:10:04,130
+<font face="Trebuchet MS" size="26"><b>Let's go and see Jugo.</b></font>
+
+116
+00:10:06,730 --> 00:10:10,030
+<font face="Trebuchet MS" size="26"><b>Huh? Hey! Wait, Sasuke!</b></font>
+
+117
+00:10:18,900 --> 00:10:21,170
+<font face="Trebuchet MS" size="26"><b>Huh? Who is this guy?</b></font>
+
+118
+00:10:26,670 --> 00:10:27,670
+<font face="Trebuchet MS" size="26"><b>A male...</b></font>
+
+119
+00:10:29,000 --> 00:10:31,800
+<font face="Trebuchet MS" size="26"><b>The next one I kill
+will be a guy, after all...</b></font>
+
+120
+00:10:36,970 --> 00:10:38,370
+<font face="Trebuchet MS" size="26"><b>All right, decided.</b></font>
+
+121
+00:10:39,430 --> 00:10:42,630
+<font face="Trebuchet MS" size="26"><b>If the next one who comes
+through that door is a woman,</b></font>
+
+122
+00:10:43,970 --> 00:10:45,670
+<font face="Trebuchet MS" size="26"><b>I'll kill her.</b></font>
+
+123
+00:10:50,100 --> 00:10:51,970
+<font face="Trebuchet MS" size="26"><b>The guards have all been killed...</b></font>
+
+124
+00:10:53,030 --> 00:10:55,030
+<font face="Trebuchet MS" size="26"><b>and the prisoners have escaped.</b></font>
+
+125
+00:10:55,500 --> 00:10:58,370
+<font face="Trebuchet MS" size="26"><b>Then there's no way
+we can tell which one is Jugo...</b></font>
+
+126
+00:10:58,970 --> 00:10:59,870
+<font face="Trebuchet MS" size="26"><b>Eh, Sasuke?</b></font>
+
+127
+00:11:00,170 --> 00:11:03,500
+<font face="Trebuchet MS" size="26"><b>Karin, is Jugo among them?</b></font>
+
+128
+00:11:03,930 --> 00:11:07,500
+<font face="Trebuchet MS" size="26"><b>Cripes, what a pain!
+Just wait a bit!</b></font>
+
+129
+00:11:19,030 --> 00:11:20,800
+<font face="Trebuchet MS" size="26"><b>Nope, he's not.</b></font>
+
+130
+00:11:21,130 --> 00:11:23,970
+<font face="Trebuchet MS" size="26"><b>Well then, I can fight without
+worrying who they are.</b></font>
+
+131
+00:11:24,970 --> 00:11:26,530
+<font face="Trebuchet MS" size="26"><b>Just avoid killing them.</b></font>
+
+132
+00:11:29,570 --> 00:11:32,200
+<font face="Trebuchet MS" size="26"><b>You're from the Hidden Leaf,
+after all...</b></font>
+
+133
+00:11:32,530 --> 00:11:35,300
+<font face="Trebuchet MS" size="26"><b>You should've killed that
+guy back there too, you know.</b></font>
+
+134
+00:11:35,670 --> 00:11:37,000
+<font face="Trebuchet MS" size="26"><b>So naïve...</b></font>
+
+135
+00:11:38,500 --> 00:11:39,500
+<font face="Trebuchet MS" size="26"><b>Let's go.</b></font>
+
+136
+00:11:45,830 --> 00:11:47,470
+<font face="Trebuchet MS" size="26"><b>Stay away! You all stink!</b></font>
+
+137
+00:12:22,170 --> 00:12:25,630
+<font face="Trebuchet MS" size="26"><b>You're strong... You're...</b></font>
+
+138
+00:12:31,830 --> 00:12:32,830
+<font face="Trebuchet MS" size="26"><b>The keys!</b></font>
+
+139
+00:12:33,470 --> 00:12:34,730
+<font face="Trebuchet MS" size="26"><b>I found them!</b></font>
+
+140
+00:12:39,700 --> 00:12:40,770
+<font face="Trebuchet MS" size="26"><b>Kill...</b></font>
+
+141
+00:12:43,130 --> 00:12:44,100
+<font face="Trebuchet MS" size="26"><b>Kill...</b></font>
+
+142
+00:13:01,670 --> 00:13:05,130
+<font face="Trebuchet MS" size="26"><b>Karin, which way?
+Lead the way.</b></font>
+
+143
+00:13:05,630 --> 00:13:09,030
+<font face="Trebuchet MS" size="26"><b>Sasuke!
+Why're you ordering me around, huh?!</b></font>
+
+144
+00:13:09,300 --> 00:13:12,170
+<font face="Trebuchet MS" size="26"><b>Can you just hurry and check?</b></font>
+
+145
+00:13:12,670 --> 00:13:15,200
+<font face="Trebuchet MS" size="26"><b>That's the ability you
+pride yourself on, right?</b></font>
+
+146
+00:13:17,800 --> 00:13:18,870
+<font face="Trebuchet MS" size="26"><b>That way!</b></font>
+
+147
+00:13:35,830 --> 00:13:36,800
+<font face="Trebuchet MS" size="26"><b>What is it?</b></font>
+
+148
+00:13:37,530 --> 00:13:39,200
+<font face="Trebuchet MS" size="26"><b>Actually, it's this way.</b></font>
+
+149
+00:13:39,730 --> 00:13:41,100
+<font face="Trebuchet MS" size="26"><b>Let's go, Sasuke!</b></font>
+
+150
+00:13:41,670 --> 00:13:44,930
+<font face="Trebuchet MS" size="26"><b>Why did you lie? Suigetsu went...</b></font>
+
+151
+00:13:44,970 --> 00:13:47,070
+<font face="Trebuchet MS" size="26"><b>Suigetsu has a big mouth,
+that's why I don't like him.</b></font>
+
+152
+00:13:48,170 --> 00:13:48,900
+<font face="Trebuchet MS" size="26"><b>Let's go!</b></font>
+
+153
+00:13:49,900 --> 00:13:52,330
+<font face="Trebuchet MS" size="26"><b>Let go... I can walk on my own.</b></font>
+
+154
+00:13:54,900 --> 00:14:00,800
+<font face="Trebuchet MS" size="26"><b>So...the Curse Mark really does transform
+the body into such an ugly shape...</b></font>
+
+155
+00:14:01,270 --> 00:14:05,270
+<font face="Trebuchet MS" size="26"><b>Sasuke, does your Curse Mark
+do the same to you?</b></font>
+
+156
+00:14:06,070 --> 00:14:09,000
+<font face="Trebuchet MS" size="26"><b>Sasuke... Are you listening...?</b></font>
+
+157
+00:14:14,630 --> 00:14:16,530
+<font face="Trebuchet MS" size="26"><b>That witch...!</b></font>
+
+158
+00:14:17,500 --> 00:14:18,730
+<font face="Trebuchet MS" size="26"><b>A woman...</b></font>
+
+159
+00:14:19,400 --> 00:14:21,100
+<font face="Trebuchet MS" size="26"><b>If a woman enters,</b></font>
+
+160
+00:14:22,270 --> 00:14:23,330
+<font face="Trebuchet MS" size="26"><b>I'll kill her...!</b></font>
+
+161
+00:14:28,600 --> 00:14:29,700
+<font face="Trebuchet MS" size="26"><b>Here?</b></font>
+
+162
+00:14:30,130 --> 00:14:32,330
+<font face="Trebuchet MS" size="26"><b>Yeah, Jugo's inside.</b></font>
+
+163
+00:14:38,830 --> 00:14:39,830
+<font face="Trebuchet MS" size="26"><b>There...</b></font>
+
+164
+00:14:43,970 --> 00:14:46,100
+<font face="Trebuchet MS" size="26"><b>Now then, which will it be?</b></font>
+
+165
+00:14:46,300 --> 00:14:48,370
+<font face="Trebuchet MS" size="26"><b>All right! I'm gonna open it!</b></font>
+
+166
+00:14:56,300 --> 00:15:00,370
+<font face="Trebuchet MS" size="26"><b>I'll go in first. Karin, stay back.</b></font>
+
+167
+00:15:00,630 --> 00:15:02,230
+<font face="Trebuchet MS" size="26"><b>S-Sure!</b></font>
+
+168
+00:15:04,170 --> 00:15:05,070
+<font face="Trebuchet MS" size="26"><b>No...</b></font>
+
+169
+00:15:07,830 --> 00:15:12,270
+<font face="Trebuchet MS" size="26"><b>It's gotta be a guy.
+If it's a guy, I'll kill him.</b></font>
+
+170
+00:15:14,670 --> 00:15:16,800
+<font face="Trebuchet MS" size="26"><b>Bingo! I'm gonna kill!</b></font>
+
+171
+00:15:18,430 --> 00:15:19,300
+<font face="Trebuchet MS" size="26"><b>He's coming!</b></font>
+
+172
+00:15:25,170 --> 00:15:28,170
+<font face="Trebuchet MS" size="26"><b>Huh? I'm back where I started.</b></font>
+
+173
+00:15:28,700 --> 00:15:30,800
+<font face="Trebuchet MS" size="26"><b>I should've turned right back there.</b></font>
+
+174
+00:15:31,530 --> 00:15:33,200
+<font face="Trebuchet MS" size="26"><b>Damn that witch!</b></font>
+
+175
+00:15:33,500 --> 00:15:35,170
+<font face="Trebuchet MS" size="26"><b>Y-You guys...</b></font>
+
+176
+00:15:36,170 --> 00:15:41,570
+<font face="Trebuchet MS" size="26"><b>Just what is your purpose
+in coming here?</b></font>
+
+177
+00:15:42,000 --> 00:15:47,370
+<font face="Trebuchet MS" size="26"><b>We came to take Jugo outta here,
+so that he can join our team.</b></font>
+
+178
+00:15:49,300 --> 00:15:55,970
+<font face="Trebuchet MS" size="26"><b>Do you guys realize...
+what you're doing?</b></font>
+
+179
+00:15:57,900 --> 00:16:01,570
+<font face="Trebuchet MS" size="26"><b>If you let that guy...
+out into the world...</b></font>
+
+180
+00:16:01,700 --> 00:16:03,170
+<font face="Trebuchet MS" size="26"><b>I totally agree.</b></font>
+
+181
+00:16:03,670 --> 00:16:08,100
+<font face="Trebuchet MS" size="26"><b>But I'll convince him...
+with force, if necessary.</b></font>
+
+182
+00:16:09,470 --> 00:16:13,370
+<font face="Trebuchet MS" size="26"><b>You may be strong, but you're hardly...</b></font>
+
+183
+00:16:15,930 --> 00:16:20,330
+<font face="Trebuchet MS" size="26"><b>Listen... If it weren't for Sasuke's words,
+you'd be dead right now.</b></font>
+
+184
+00:16:22,330 --> 00:16:25,530
+<font face="Trebuchet MS" size="26"><b>Jugo will kill you all!</b></font>
+
+185
+00:16:27,700 --> 00:16:30,400
+<font face="Trebuchet MS" size="26"><b>I really could care less
+if one person died.</b></font>
+
+186
+00:16:34,700 --> 00:16:35,930
+<font face="Trebuchet MS" size="26"><b>Sasuke!</b></font>
+
+187
+00:16:47,270 --> 00:16:51,730
+<font face="Trebuchet MS" size="26"><b>I-I'm so sorry!
+Naruto always gets so rowdy...</b></font>
+
+188
+00:16:52,100 --> 00:16:56,070
+<font face="Trebuchet MS" size="26"><b>Hey, Naruto, you idiot!
+Say you're sorry too!!</b></font>
+
+189
+00:16:56,100 --> 00:16:58,300
+<font face="Trebuchet MS" size="26"><b>Oww... Sakura that hurt!</b></font>
+
+190
+00:17:01,230 --> 00:17:04,130
+<font face="Trebuchet MS" size="26"><b>And? What did you want
+to talk about?</b></font>
+
+191
+00:17:04,370 --> 00:17:06,730
+<font face="Trebuchet MS" size="26"><b>Huh? Mmm...</b></font>
+
+192
+00:17:09,530 --> 00:17:11,770
+<font face="Trebuchet MS" size="26"><b>What's wrong, Granny Tsunade?</b></font>
+
+193
+00:17:11,800 --> 00:17:14,100
+<font face="Trebuchet MS" size="26"><b>Don't you have something
+to talk about?</b></font>
+
+194
+00:17:15,470 --> 00:17:16,500
+<font face="Trebuchet MS" size="26"><b>Well...</b></font>
+
+195
+00:17:17,030 --> 00:17:21,370
+<font face="Trebuchet MS" size="26"><b>There's certain information that is
+being spread throughout the region...</b></font>
+
+196
+00:17:22,000 --> 00:17:23,730
+<font face="Trebuchet MS" size="26"><b>It's about that.</b></font>
+
+197
+00:17:24,300 --> 00:17:25,430
+<font face="Trebuchet MS" size="26"><b>Information?</b></font>
+
+198
+00:17:25,870 --> 00:17:28,000
+<font face="Trebuchet MS" size="26"><b>What? What about?</b></font>
+
+199
+00:17:31,700 --> 00:17:33,400
+<font face="Trebuchet MS" size="26"><b>Orochimaru is dead.</b></font>
+
+200
+00:17:36,500 --> 00:17:39,200
+<font face="Trebuchet MS" size="26"><b>It seems Sasuke Uchiha killed him.</b></font>
+
+201
+00:17:49,230 --> 00:17:50,100
+<font face="Trebuchet MS" size="26"><b>Is...</b></font>
+
+202
+00:17:50,630 --> 00:17:53,730
+<font face="Trebuchet MS" size="26"><b>Is that...true?</b></font>
+
+203
+00:17:54,600 --> 00:18:00,230
+<font face="Trebuchet MS" size="26"><b>There's no mistake about it.
+I heard it from a reliable source.</b></font>
+
+204
+00:18:06,000 --> 00:18:08,130
+<font face="Trebuchet MS" size="26"><b>Then...</b></font>
+
+205
+00:18:11,400 --> 00:18:14,930
+<font face="Trebuchet MS" size="26"><b>Heh! After all, there's no way
+he'd get killed by Orochimaru!</b></font>
+
+206
+00:18:15,330 --> 00:18:20,030
+<font face="Trebuchet MS" size="26"><b>That means Sasuke will be coming back
+to the Hidden Leaf! Right?</b></font>
+
+207
+00:18:27,830 --> 00:18:30,700
+<font face="Trebuchet MS" size="26"><b>That doesn't seem to be the case...</b></font>
+
+208
+00:18:37,030 --> 00:18:38,230
+<font face="Trebuchet MS" size="26"><b>It's not over yet!</b></font>
+
+209
+00:18:57,800 --> 00:18:59,470
+<font face="Trebuchet MS" size="26"><b><i>Sasuke's Chakra...</i></b></font>
+
+210
+00:19:10,670 --> 00:19:11,770
+<font face="Trebuchet MS" size="26"><b>...changed!</b></font>
+
+211
+00:19:17,270 --> 00:19:19,670
+<font face="Trebuchet MS" size="26"><b>Not another copy of me...!</b></font>
+
+212
+00:19:24,130 --> 00:19:25,400
+<font face="Trebuchet MS" size="26"><b><i>Sasuke...</i></b></font>
+
+213
+00:19:25,530 --> 00:19:27,400
+<font face="Trebuchet MS" size="26"><b>But you're quite a guy</b></font>
+
+214
+00:19:27,430 --> 00:19:29,800
+<font face="Trebuchet MS" size="26"><b>to be able to do
+a Partial Transformation!</b></font>
+
+215
+00:19:33,230 --> 00:19:35,500
+<font face="Trebuchet MS" size="26"><b>You're good at controlling
+your Curse Mark!</b></font>
+
+216
+00:19:48,700 --> 00:19:50,530
+<font face="Trebuchet MS" size="26"><b>I have no intention of fighting.</b></font>
+
+217
+00:19:59,400 --> 00:20:03,000
+<font face="Trebuchet MS" size="26"><b>I only wish to talk to you, Jugo.</b></font>
+
+218
+00:21:38,200 --> 00:21:39,900
+<font face="Trebuchet MS" size="26"><b>But you're quite a guy!
+
+</b></font>
+
+219
+00:21:39,930 --> 00:21:42,670
+<font face="Trebuchet MS" size="26"><b>You're good at controlling
+your Curse Mark!
+
+</b></font>
+
+220
+00:21:42,800 --> 00:21:47,200
+<font face="Trebuchet MS" size="26"><b>I have no intention of fighting.
+I only wish to talk to you.
+
+</b></font>
+
+221
+00:21:47,300 --> 00:21:48,200
+<font face="Trebuchet MS" size="26"><b>Talk?
+
+</b></font>
+
+222
+00:21:48,230 --> 00:21:51,200
+<font face="Trebuchet MS" size="26"><b>Jugo, I'm getting you out of here.
+
+</b></font>
+
+223
+00:21:53,200 --> 00:21:56,400
+<font face="Trebuchet MS" size="26"><b>Are you an idiot?!
+You don't know anything!
+
+</b></font>
+
+224
+00:21:56,430 --> 00:21:57,630
+<font face="Trebuchet MS" size="26"><b>What do you mean?
+
+</b></font>
+
+225
+00:21:58,030 --> 00:22:00,230
+<font face="Trebuchet MS" size="26"><b>He's gone. That's why...
+
+</b></font>
+
+226
+00:22:00,270 --> 00:22:02,430
+<font face="Trebuchet MS" size="26"><b>I can never leave this place!
+
+</b></font>
+
+227
+00:22:02,670 --> 00:22:05,200
+<font face="Trebuchet MS" size="26"><b>Next time: "Formation!"
+
+</b></font>
+
+228
+00:22:06,670 --> 00:22:08,970
+<font face="Trebuchet MS" size="26"><b>Captain Yamato gave me
+some raffle tickets!</b></font>
+
+229
+00:22:09,000 --> 00:22:10,470
+<font face="Trebuchet MS" size="26"><b>Naturally, I'm going for first prize...</b></font>
+
+230
+00:22:10,500 --> 00:22:12,600
+<font face="Trebuchet MS" size="26"><b>A year's supply of Cup Noodles!!</b></font>
+
+231
+00:22:12,630 --> 00:22:14,030
+<font face="Trebuchet MS" size="26"><b>Huh? This must be it.</b></font>
+
+232
+00:22:14,170 --> 00:22:16,670
+<font face="Trebuchet MS" size="26"><b>RAFFLE TICKET BOOTH
+Welcome...!
+Oh, it's just you, Naruto.</b></font>
+
+233
+00:22:16,700 --> 00:22:18,230
+<font face="Trebuchet MS" size="26"><b>Don't give me that attitude!</b></font>
+
+234
+00:22:18,400 --> 00:22:20,930
+<font face="Trebuchet MS" size="26"><b>By the way,
+are my cup noodles still here?</b></font>
+
+235
+00:22:21,100 --> 00:22:23,300
+<font face="Trebuchet MS" size="26"><b>Whether it's yours or not
+depends on your luck.</b></font>
+
+236
+00:22:23,730 --> 00:22:25,900
+<font face="Trebuchet MS" size="26"><b>FIRST PRIZE
+
+
+But, no first-prize winners yet!</b></font>
+
+237
+00:22:26,000 --> 00:22:27,130
+<font face="Trebuchet MS" size="26"><b>All right!!</b></font>
+
+238
+00:22:27,170 --> 00:22:28,870
+<font face="Trebuchet MS" size="26"><b>Okay. You get three tries.</b></font>
+
+239
+00:22:28,900 --> 00:22:30,170
+<font face="Trebuchet MS" size="26"><b>Come on ramen!</b></font>
+
+240
+00:22:31,170 --> 00:22:33,800
+<font face="Trebuchet MS" size="26"><b>Sorry! Here's a candy for
+drawing a blank.</b></font>
+
+241
+00:22:33,900 --> 00:22:35,400
+<font face="Trebuchet MS" size="26"><b>Damn it! Next one for sure!</b></font>
+
+242
+00:22:35,800 --> 00:22:38,670
+<font face="Trebuchet MS" size="26"><b>You lose! Here's your second candy.</b></font>
+
+243
+00:22:38,930 --> 00:22:41,300
+<font face="Trebuchet MS" size="26"><b>I'm putting everything
+on this last try!</b></font>
+
+244
+00:22:43,700 --> 00:22:44,430
+<font face="Trebuchet MS" size="26"><b>- Oh!
+- Oh!</b></font>
+
+245
+00:22:44,470 --> 00:22:46,170
+<font face="Trebuchet MS" size="26"><b>Jack pot!!</b></font>
+
+246
+00:22:46,300 --> 00:22:47,170
+<font face="Trebuchet MS" size="26"><b>Yay!</b></font>
+
+247
+00:22:47,200 --> 00:22:48,100
+<font face="Trebuchet MS" size="26"><b>- Here.
+- Huh?!</b></font>
+
+248
+00:22:48,170 --> 00:22:50,870
+<font face="Trebuchet MS" size="26"><b>Grand prize is
+the Make-Out Tactics Book Set</b></font>
+
+249
+00:22:50,900 --> 00:22:53,170
+<font face="Trebuchet MS" size="26"><b>signed by Master Jiraiya!</b></font>
+
+250
+00:22:53,300 --> 00:22:55,600
+<font face="Trebuchet MS" size="26"><b>What?! Who needs this?!</b></font>
+
+251
+00:22:55,770 --> 00:22:57,670
+<font face="Trebuchet MS" size="26"><b>This is stupid! I'm going home!</b></font>
+
+252
+00:22:58,730 --> 00:23:00,830
+<font face="Trebuchet MS" size="26"><b>GRAND PRIZE
+
+
+Huh? They already won the grand prize?</b></font>
+
+253
+00:23:01,030 --> 00:23:03,370
+<font face="Trebuchet MS" size="26"><b>And here I got these raffle tickets...</b></font>
+
+254
+00:23:03,530 --> 00:23:04,570
+<font face="Trebuchet MS" size="26"><b>How depressing!</b></font>
+
+255
+00:23:05,330 --> 00:23:09,430
+<font face="Trebuchet MS" size="26"><b>Tune in again!
+
+</b></font>
+

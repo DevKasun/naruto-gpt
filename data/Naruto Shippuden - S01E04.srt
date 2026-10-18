@@ -1,0 +1,686 @@
+1
+00:01:26,982 --> 00:01:28,210
+<font color="#FFFFFF">Wh-What's that?</font>
+
+2
+00:01:33,505 --> 00:01:34,874
+<font color="#FFFFFF">Just a little more.</font>
+
+3
+00:02:04,444 --> 00:02:06,202
+<font color="#FFFFFF">You're pretty good.</font>
+
+4
+00:02:32,046 --> 00:02:35,213
+<font color="#FFFFFF">Now that's a handy Jinchuriki.</font>
+
+5
+00:02:38,740 --> 00:02:41,567
+<font color="#FFFFFF">But... how'd you know
+I was the intruder?</font>
+
+6
+00:02:44,034 --> 00:02:46,662
+<font color="#FFFFFF">There are no birds like that
+in this desert.</font>
+
+7
+00:02:47,201 --> 00:02:48,460
+<font color="#FFFFFF">I see.</font>
+
+8
+00:04:20,568 --> 00:04:24,334
+<font color="#FFFFFF">The Jinchuriki of the Sand</font>
+
+9
+00:04:40,118 --> 00:04:41,886
+<font color="#FFFFFF">You're pretty good...</font>
+
+10
+00:05:07,960 --> 00:05:11,287
+<font color="#FFFFFF">Now that's a handy Jinchuriki.</font>
+
+11
+00:05:14,484 --> 00:05:17,081
+<font color="#FFFFFF">But... how'd you know
+I was the intruder?</font>
+
+12
+00:05:19,779 --> 00:05:22,476
+<font color="#FFFFFF">There are no birds like that
+in this desert.</font>
+
+13
+00:05:23,145 --> 00:05:24,374
+<font color="#FFFFFF">I see.</font>
+
+14
+00:05:25,003 --> 00:05:27,301
+<font color="#FFFFFF">Hey! What was that noise earlier?</font>
+
+15
+00:05:27,571 --> 00:05:29,838
+<font color="#FFFFFF">You're supposed to report immediately
+if something happens...</font>
+
+16
+00:05:34,963 --> 00:05:36,332
+<font color="#FFFFFF">Wh-What... happened?</font>
+
+17
+00:05:43,725 --> 00:05:45,053
+<font color="#FFFFFF">Lord Kazekage...</font>
+
+18
+00:05:45,523 --> 00:05:48,450
+<font color="#FFFFFF">What do you mean something strange
+got into the village?</font>
+
+19
+00:05:48,879 --> 00:05:52,446
+<font color="#FFFFFF">Captain Yura was supposed to have
+tightened village security.</font>
+
+20
+00:05:52,716 --> 00:05:57,111
+<font color="#FFFFFF">Actually... we have been unable to
+contact Captain Yura.</font>
+
+21
+00:05:58,670 --> 00:05:59,669
+<font color="#FFFFFF">Come again?</font>
+
+22
+00:06:01,067 --> 00:06:06,702
+<font color="#FFFFFF">Oh, man... That Deidara had to go
+and turn this into a circus.</font>
+
+23
+00:06:07,701 --> 00:06:08,630
+<font color="#FFFFFF">Yura.</font>
+
+24
+00:06:09,229 --> 00:06:10,897
+<font color="#FFFFFF">You head on back.</font>
+
+25
+00:06:11,397 --> 00:06:14,923
+<font color="#FFFFFF">Things will get complicated if the guys
+from the village find you here.</font>
+
+26
+00:06:15,323 --> 00:06:17,021
+<font color="#FFFFFF">Yes, Lord Sasori.</font>
+
+27
+00:06:19,019 --> 00:06:21,387
+<font color="#FFFFFF">Get a move on, Deidara.</font>
+
+28
+00:06:22,346 --> 00:06:25,543
+<font color="#FFFFFF">I don't like to be kept waiting.</font>
+
+29
+00:06:28,280 --> 00:06:29,609
+<font color="#FFFFFF">Gaara! I'm coming in!</font>
+
+30
+00:06:38,130 --> 00:06:39,469
+<font color="#FFFFFF">Where'd he go...?</font>
+
+31
+00:06:40,098 --> 00:06:43,724
+<font color="#FFFFFF">Kankuro, the Kazekage is fighting
+up in the sky.</font>
+
+32
+00:06:44,094 --> 00:06:45,593
+<font color="#FFFFFF">Wh-What did you say?</font>
+
+33
+00:06:53,714 --> 00:06:54,484
+<font color="#FFFFFF">Gaara...!</font>
+
+34
+00:07:12,765 --> 00:07:14,963
+<font color="#FFFFFF">The covert action is a failure.</font>
+
+35
+00:07:19,589 --> 00:07:21,057
+<font color="#FFFFFF">But now...</font>
+
+36
+00:07:21,387 --> 00:07:24,454
+<font color="#FFFFFF">I don't have to bother...
+looking for you anymore...!</font>
+
+37
+00:07:46,861 --> 00:07:48,759
+<font color="#FFFFFF">He's got the advantage,
+as expected...</font>
+
+38
+00:07:49,329 --> 00:07:50,797
+<font color="#FFFFFF">This is a real mess.</font>
+
+39
+00:07:57,551 --> 00:07:58,550
+<font color="#FFFFFF">Over there?</font>
+
+40
+00:08:04,883 --> 00:08:05,613
+<font color="#FFFFFF">This one is?</font>
+
+41
+00:08:08,210 --> 00:08:10,438
+<font color="#FFFFFF">A transformation of one
+of Naruto's Shadow Clones, huh?</font>
+
+42
+00:08:14,204 --> 00:08:16,032
+<font color="#FFFFFF">I'm finished if it even grazes me...</font>
+
+43
+00:08:49,269 --> 00:08:53,135
+<font color="#FFFFFF">Shinobi Battle Skills, part three...</font>
+
+44
+00:08:57,730 --> 00:08:58,759
+<font color="#FFFFFF">Ninjutsu!</font>
+
+45
+00:09:02,825 --> 00:09:04,554
+<font color="#FFFFFF">The speed of his seal forming...</font>
+
+46
+00:09:04,883 --> 00:09:06,322
+<font color="#FFFFFF">It's way too fast!</font>
+
+47
+00:09:09,519 --> 00:09:11,946
+<font color="#FFFFFF">Fire Style! Fireball Jutsu!</font>
+
+48
+00:09:32,995 --> 00:09:34,424
+<font color="#FFFFFF">Where's Kakashi Sensei?</font>
+
+49
+00:09:37,051 --> 00:09:39,489
+<font color="#FFFFFF">Earth Style: Headhunter Jutsu!</font>
+
+50
+00:09:48,440 --> 00:09:49,509
+<font color="#FFFFFF">A Shadow Clone, huh?</font>
+
+51
+00:09:57,131 --> 00:09:59,628
+<font color="#FFFFFF">Water Style! Water Dragon Missile!</font>
+
+52
+00:10:06,492 --> 00:10:07,461
+<font color="#FFFFFF">What?</font>
+
+53
+00:10:39,588 --> 00:10:43,125
+<font color="#FFFFFF">Using Fire Style, Earth Style
+and Water Style consecutively.</font>
+
+54
+00:10:43,355 --> 00:10:44,953
+<font color="#FFFFFF">Ordinarily that's totally impossible.</font>
+
+55
+00:10:45,153 --> 00:10:47,820
+<font color="#FFFFFF">He isn't called the "Copy Ninja"
+for nothing...</font>
+
+56
+00:10:48,250 --> 00:10:51,147
+<font color="#FFFFFF">Now I understand how amazing he is.</font>
+
+57
+00:10:51,476 --> 00:10:52,416
+<font color="#FFFFFF">Yeah...</font>
+
+58
+00:10:57,510 --> 00:11:00,038
+<font color="#FFFFFF">This is going to be
+a long-drawn-out affair.</font>
+
+59
+00:11:03,205 --> 00:11:06,232
+<font color="#FFFFFF">But there's still plenty of time
+until dawn.</font>
+
+60
+00:11:06,561 --> 00:11:07,361
+<font color="#FFFFFF">Yes, there is.</font>
+
+61
+00:11:07,560 --> 00:11:09,429
+<font color="#FFFFFF">Things might just be settled...</font>
+
+62
+00:11:10,158 --> 00:11:12,096
+<font color="#FFFFFF">more quickly than you'd expect...</font>
+
+63
+00:11:32,475 --> 00:11:33,405
+<font color="#FFFFFF">Gaara...</font>
+
+64
+00:11:40,467 --> 00:11:41,696
+<font color="#FFFFFF">It's almost time...</font>
+
+65
+00:12:36,741 --> 00:12:38,669
+<font color="#FFFFFF">The real show's about to begin.</font>
+
+66
+00:13:12,775 --> 00:13:13,904
+<font color="#FFFFFF">There!</font>
+
+67
+00:13:30,357 --> 00:13:35,482
+<font color="#FFFFFF">He uses strange explosives...
+And he's able to guide them, huh?</font>
+
+68
+00:13:40,307 --> 00:13:43,275
+<font color="#FFFFFF">I've pretty much got it now.</font>
+
+69
+00:13:55,233 --> 00:13:56,561
+<font color="#FFFFFF">I always knew, but...</font>
+
+70
+00:13:57,161 --> 00:13:59,588
+<font color="#FFFFFF">The Sharingan is really
+something else, isn't it?</font>
+
+71
+00:13:59,758 --> 00:14:00,657
+<font color="#FFFFFF">Yeah...</font>
+
+72
+00:14:01,127 --> 00:14:04,753
+<font color="#FFFFFF">But even more than that,
+the speed of his seal formation...</font>
+
+73
+00:14:04,783 --> 00:14:07,181
+<font color="#FFFFFF">It's so fast it's tough for us
+to even get near him...</font>
+
+74
+00:14:13,444 --> 00:14:15,812
+<font color="#FFFFFF">Fire Style! Fireball Jutsu!</font>
+
+75
+00:14:22,405 --> 00:14:24,863
+<font color="#FFFFFF">Water Style! Water Dragon Jutsu!</font>
+
+76
+00:14:32,156 --> 00:14:33,225
+<font color="#FFFFFF">For the time being,</font>
+
+77
+00:14:33,254 --> 00:14:35,153
+<font color="#FFFFFF">we won't have a prayer of getting
+the bells</font>
+
+78
+00:14:35,193 --> 00:14:36,821
+<font color="#FFFFFF">unless we can do something
+about both his hands.</font>
+
+79
+00:14:36,951 --> 00:14:42,216
+<font color="#FFFFFF">Yeah. That Kakashi Sensei's
+incredibly strong for sure.</font>
+
+80
+00:14:44,184 --> 00:14:45,882
+<font color="#FFFFFF">He's smarter than Shikamaru.</font>
+
+81
+00:14:47,810 --> 00:14:49,808
+<font color="#FFFFFF">He has a better sense of smell
+than Kiba.</font>
+
+82
+00:14:50,837 --> 00:14:52,505
+<font color="#FFFFFF">His Sharingan is better
+than Sasuke's.</font>
+
+83
+00:14:54,034 --> 00:14:56,032
+<font color="#FFFFFF">His Taijutsu is better than
+Bushy Brow's.</font>
+
+84
+00:14:57,230 --> 00:15:00,527
+<font color="#FFFFFF">And he's got way more...
+experience than us...</font>
+
+85
+00:15:00,797 --> 00:15:04,223
+<font color="#FFFFFF">But even Kakashi Sensei must
+have a weakness!</font>
+
+86
+00:15:04,763 --> 00:15:06,291
+<font color="#FFFFFF">If we think hard about it...</font>
+
+87
+00:15:07,990 --> 00:15:10,487
+<font color="#FFFFFF">Hmm. A weakness, huh...?</font>
+
+88
+00:15:28,339 --> 00:15:30,897
+<font color="#FFFFFF">Oh! He does...
+have a weakness?</font>
+
+89
+00:15:31,167 --> 00:15:31,936
+<font color="#FFFFFF">What?</font>
+
+90
+00:15:42,285 --> 00:15:45,182
+<font color="#FFFFFF">I never thought they'd make me
+use my Sharingan this much...</font>
+
+91
+00:15:46,481 --> 00:15:47,750
+<font color="#FFFFFF">But, oh well...</font>
+
+92
+00:15:47,780 --> 00:15:49,578
+<font color="#FFFFFF">I should be able to hang on
+until sunrise...</font>
+
+93
+00:15:51,816 --> 00:15:55,542
+<font color="#FFFFFF">I've still got... Shuriken...
+and Kunai Knives.</font>
+
+94
+00:15:55,872 --> 00:15:57,570
+<font color="#FFFFFF">Whoops! Mustn't do that.</font>
+
+95
+00:15:57,840 --> 00:15:59,268
+<font color="#FFFFFF">This isn't like the old days.</font>
+
+96
+00:15:59,308 --> 00:16:02,205
+<font color="#FFFFFF">They're too good for me to be
+able to fight them while reading.</font>
+
+97
+00:16:03,934 --> 00:16:05,802
+<font color="#FFFFFF">But I want to know what happens.</font>
+
+98
+00:16:05,832 --> 00:16:08,259
+<font color="#FFFFFF">It seems the main character
+in "Make-Out Tactics"</font>
+
+99
+00:16:08,299 --> 00:16:10,897
+<font color="#FFFFFF">has some sort of incredible secret...</font>
+
+100
+00:16:11,726 --> 00:16:14,353
+<font color="#FFFFFF">I can't wait to read what's next...</font>
+
+101
+00:16:16,022 --> 00:16:17,320
+<font color="#FFFFFF">R-Really?</font>
+
+102
+00:16:17,350 --> 00:16:19,848
+<font color="#FFFFFF">Did you really figure out
+Kakashi Sensei's weakness?</font>
+
+103
+00:16:22,046 --> 00:16:23,744
+<font color="#FFFFFF">You should be able to figure it out</font>
+
+104
+00:16:23,784 --> 00:16:27,081
+<font color="#FFFFFF">if you look back on
+his actions up until now.</font>
+
+105
+00:16:27,510 --> 00:16:32,036
+<font color="#FFFFFF">Quit stalling already...
+What's his weakness, Naruto?</font>
+
+106
+00:16:33,834 --> 00:16:36,102
+<font color="#FFFFFF">Well, you see...</font>
+
+107
+00:16:41,396 --> 00:16:42,825
+<font color="#FFFFFF">I get it!</font>
+
+108
+00:16:43,095 --> 00:16:45,962
+<font color="#FFFFFF">I never thought he'd have
+a weakness like that.</font>
+
+109
+00:16:46,521 --> 00:16:50,287
+<font color="#FFFFFF">See? It's clear if you think back
+on his actions up until now, right?</font>
+
+110
+00:16:51,486 --> 00:16:52,715
+<font color="#FFFFFF">Right, right.</font>
+
+111
+00:16:53,154 --> 00:16:54,983
+<font color="#FFFFFF">In addition to occupying
+both his hands,</font>
+
+112
+00:16:55,013 --> 00:16:57,410
+<font color="#FFFFFF">we might be able to seal off
+his Sharingan if things go well.</font>
+
+113
+00:16:57,650 --> 00:16:59,708
+<font color="#FFFFFF">And then if we seize the opportunity...</font>
+
+114
+00:16:59,748 --> 00:17:00,807
+<font color="#FFFFFF">Naruto...</font>
+
+115
+00:17:00,847 --> 00:17:04,004
+<font color="#FFFFFF">Sure enough, you're the number one
+most unpredictable Ninja!</font>
+
+116
+00:17:06,701 --> 00:17:09,398
+<font color="#FFFFFF">Still, I was so pleased with
+how much they've grown</font>
+
+117
+00:17:09,438 --> 00:17:11,096
+<font color="#FFFFFF">that I ended up getting
+kind of carried away...</font>
+
+118
+00:17:11,896 --> 00:17:15,632
+<font color="#FFFFFF">I guess this time I'll wait and see
+what kind of move they'll make.</font>
+
+119
+00:17:16,591 --> 00:17:19,088
+<font color="#FFFFFF">Now that that's settled,
+the first strike will decide this!</font>
+
+120
+00:17:19,188 --> 00:17:21,186
+<font color="#FFFFFF">We'll make the first move!</font>
+
+121
+00:17:21,556 --> 00:17:23,184
+<font color="#FFFFFF">Right! Let's go!</font>
+
+122
+00:17:29,978 --> 00:17:30,977
+<font color="#FFFFFF">All right.</font>
+
+123
+00:17:39,808 --> 00:17:41,436
+<font color="#FFFFFF">They're fast, this time.</font>
+
+124
+00:17:55,822 --> 00:17:56,821
+<font color="#FFFFFF">Gaara!</font>
+
+125
+00:18:11,036 --> 00:18:12,006
+<font color="#FFFFFF">They're here.</font>
+
+126
+00:18:21,566 --> 00:18:22,925
+<font color="#FFFFFF">You're underestimating me.</font>
+
+127
+00:18:23,594 --> 00:18:25,892
+<font color="#FFFFFF">To think you'd attack me
+head-on like that.</font>
+
+128
+00:18:29,258 --> 00:18:30,817
+<font color="#FFFFFF">Now, Naruto!</font>
+
+129
+00:18:30,917 --> 00:18:32,885
+<font color="#FFFFFF">Here we go, Kakashi Sensei!</font>
+
+130
+00:18:34,283 --> 00:18:37,550
+<font color="#FFFFFF">At the end of "Make-Out Tactics...!"</font>
+
+131
+00:18:37,710 --> 00:18:40,307
+<font color="#FFFFFF">Wh-What?</font>
+
+132
+00:18:41,106 --> 00:18:43,374
+<font color="#FFFFFF">As it happens, the main character...!</font>
+
+133
+00:18:43,874 --> 00:18:46,101
+<font color="#FFFFFF">He's giving away the ending!
+N-No!</font>
+
+134
+00:18:51,266 --> 00:18:53,564
+<font color="#FFFFFF">Oh, no! I still understand
+what he's saying.</font>
+
+135
+00:18:53,594 --> 00:18:56,031
+<font color="#FFFFFF">I can read his lips with my Sharingan.</font>
+
+136
+00:19:10,147 --> 00:19:10,976
+<font color="#FFFFFF">Oh!</font>
+
+137
+00:19:13,144 --> 00:19:15,372
+<font color="#FFFFFF">A Ninja is supposed to read
+below what's underneath.</font>
+
+138
+00:19:15,542 --> 00:19:17,170
+<font color="#FFFFFF">Right, Sensei?</font>
+
+139
+00:19:18,709 --> 00:19:19,808
+<font color="#FFFFFF">You got me...</font>
+
+140
+00:19:37,850 --> 00:19:41,146
+<font color="#FFFFFF">It's just like an eggshell
+protecting what's inside.</font>
+
+141
+00:19:47,610 --> 00:19:51,076
+<font color="#FFFFFF">But it's incredible that he was able
+to block the explosion completely.</font>
+
+142
+00:19:59,828 --> 00:20:01,566
+<font color="#FFFFFF">Sand Prison!</font>
+
+143
+00:21:38,469 --> 00:21:39,927
+<font color="#FFFFFF">Who'd have thought you'd
+ensnare Kakashi</font>
+
+144
+00:21:39,967 --> 00:21:41,196
+<font color="#FFFFFF">by pretending to give away
+the ending.</font>
+
+145
+00:21:41,226 --> 00:21:42,525
+<font color="#FFFFFF">That's a pretty good strategy.</font>
+
+146
+00:21:42,695 --> 00:21:45,262
+<font color="#FFFFFF">- You could say that.
+- But if I remember correctly,</font>
+
+147
+00:21:45,292 --> 00:21:46,661
+<font color="#FFFFFF">Master Jiraiya's book is
+targeted for adults, right?</font>
+
+148
+00:21:46,761 --> 00:21:48,459
+<font color="#FFFFFF">So when did you become an adult?</font>
+
+149
+00:21:48,489 --> 00:21:50,557
+<font color="#FFFFFF">That doesn't count as reading.</font>
+
+150
+00:21:50,587 --> 00:21:52,884
+<font color="#FFFFFF">It was so boring
+I quit after just ten pages...</font>
+
+151
+00:21:52,914 --> 00:21:54,413
+<font color="#FFFFFF">It seems he read ten pages.</font>
+
+152
+00:21:54,483 --> 00:21:56,111
+<font color="#FFFFFF">- Okay, you're guilty!
+- Huh?</font>
+
+153
+00:21:56,151 --> 00:21:57,879
+<font color="#FFFFFF">Naruto, for violating the regulations,</font>
+
+154
+00:21:57,909 --> 00:22:00,647
+<font color="#FFFFFF">you are sentenced to clean
+the Academy bathrooms for three days!</font>
+
+155
+00:22:00,777 --> 00:22:01,875
+<font color="#FFFFFF">No way!</font>
+
+156
+00:22:02,175 --> 00:22:04,573
+<font color="#FFFFFF">Next episode:
+"The Kazekage Stands Tall"</font>
+

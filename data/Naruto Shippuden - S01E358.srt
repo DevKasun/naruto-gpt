@@ -1,0 +1,1431 @@
+1
+00:01:30,500 --> 00:01:35,000
+<font face="Open Sans Semibold" size="36"><b><i>Coup D'état</i>
+
+
+</b></font>
+
+2
+00:01:47,750 --> 00:01:49,380
+<font face="Open Sans Semibold" size="36"><b>You're part of the ANBU now and</b></font>
+
+3
+00:01:49,420 --> 00:01:52,040
+<font face="Open Sans Semibold" size="36"><b>this is one mission
+you cannot avoid.</b></font>
+
+4
+00:01:52,080 --> 00:01:53,670
+<font face="Open Sans Semibold" size="36"><b>What kind of mission is this?</b></font>
+
+5
+00:01:54,580 --> 00:01:57,500
+<font face="Open Sans Semibold" size="36"><b>When the Nine Tails incident
+occurred six years ago,</b></font>
+
+6
+00:01:57,540 --> 00:02:01,580
+<font face="Open Sans Semibold" size="36"><b>the higher-ups suspected
+the Uchiha Clan was behind it.</b></font>
+
+7
+00:02:02,500 --> 00:02:06,330
+<font face="Open Sans Semibold" size="36"><b>Since then, the Uchiha district has been
+under 24-hour surveillance.</b></font>
+
+8
+00:02:12,960 --> 00:02:15,130
+<font face="Open Sans Semibold" size="36"><b>Lord Third! The Nine Tails!</b></font>
+
+9
+00:02:15,170 --> 00:02:17,420
+<font face="Open Sans Semibold" size="36"><b>The Nine Tails has suddenly
+appeared in the Village!</b></font>
+
+10
+00:02:19,080 --> 00:02:20,130
+<font face="Open Sans Semibold" size="36"><b>I'm aware of that!</b></font>
+
+11
+00:02:20,460 --> 00:02:22,130
+<font face="Open Sans Semibold" size="36"><b>I will suppress it.</b></font>
+
+12
+00:02:22,170 --> 00:02:25,000
+<font face="Open Sans Semibold" size="36"><b>You and the others,
+protect the civilians!</b></font>
+
+13
+00:02:25,000 --> 00:02:26,040
+<font face="Open Sans Semibold" size="36"><b>Yes, sir!</b></font>
+
+14
+00:02:28,460 --> 00:02:32,130
+<font face="Open Sans Semibold" size="36"><b>You should have ordered the Uchiha
+Police Force to guard the civilians</b></font>
+
+15
+00:02:32,170 --> 00:02:34,130
+<font face="Open Sans Semibold" size="36"><b>and kept them in the rear.</b></font>
+
+16
+00:02:34,670 --> 00:02:39,130
+<font face="Open Sans Semibold" size="36"><b>We can use the Visual Prowess of
+the Uchiha to suppress the Nine Tails!</b></font>
+
+17
+00:02:39,380 --> 00:02:42,000
+<font face="Open Sans Semibold" size="36"><b>They can also manipulate
+the Nine Tails!</b></font>
+
+18
+00:02:42,380 --> 00:02:47,000
+<font face="Open Sans Semibold" size="36"><b>If they take control of the Nine Tails,
+and use it to their advantage,</b></font>
+
+19
+00:02:47,000 --> 00:02:50,210
+<font face="Open Sans Semibold" size="36"><b>it will be like the second coming
+of Madara Uchiha.</b></font>
+
+20
+00:02:56,210 --> 00:02:59,040
+<font face="Open Sans Semibold" size="36"><b>I will leave you to
+protect the civilians.</b></font>
+
+21
+00:02:59,080 --> 00:03:02,130
+<font face="Open Sans Semibold" size="36"><b>Order the ANBU and
+security units as you wish.</b></font>
+
+22
+00:03:02,460 --> 00:03:05,710
+<font face="Open Sans Semibold" size="36"><b>Guard the village youth as well.</b></font>
+
+23
+00:03:05,960 --> 00:03:07,000
+<font face="Open Sans Semibold" size="36"><b>Understood.</b></font>
+
+24
+00:03:10,170 --> 00:03:11,460
+<font face="Open Sans Semibold" size="36"><b>This way, hurry!</b></font>
+
+25
+00:03:17,750 --> 00:03:19,000
+<font face="Open Sans Semibold" size="36"><b>Calm down!</b></font>
+
+26
+00:03:19,080 --> 00:03:20,420
+<font face="Open Sans Semibold" size="36"><b>You're safe here.</b></font>
+
+27
+00:03:21,330 --> 00:03:24,250
+<font face="Open Sans Semibold" size="36"><b>Captain, we should go and assist.</b></font>
+
+28
+00:03:24,710 --> 00:03:27,460
+<font face="Open Sans Semibold" size="36"><b>The Police Force will guard
+the civilians.</b></font>
+
+29
+00:03:27,500 --> 00:03:28,670
+<font face="Open Sans Semibold" size="36"><b>But Captain...!</b></font>
+
+30
+00:03:29,040 --> 00:03:31,130
+<font face="Open Sans Semibold" size="36"><b>That's the order from the Village.</b></font>
+
+31
+00:03:36,460 --> 00:03:37,790
+<font face="Open Sans Semibold" size="36"><b>It's over there!</b></font>
+
+32
+00:03:51,540 --> 00:03:54,130
+<font face="Open Sans Semibold" size="36"><b>There, there. You're scared, huh?</b></font>
+
+33
+00:03:54,880 --> 00:03:57,420
+<font face="Open Sans Semibold" size="36"><b>Now's our chance.
+Let's get you to safety.</b></font>
+
+34
+00:04:06,710 --> 00:04:08,710
+<font face="Open Sans Semibold" size="36"><b>There are too many
+unanswered questions</b></font>
+
+35
+00:04:08,750 --> 00:04:10,540
+<font face="Open Sans Semibold" size="36"><b>surrounding this recent
+Nine Tails incident.</b></font>
+
+36
+00:04:10,880 --> 00:04:13,830
+<font face="Open Sans Semibold" size="36"><b>I thought that Kushina's seal
+had been broken.</b></font>
+
+37
+00:04:13,880 --> 00:04:18,040
+<font face="Open Sans Semibold" size="36"><b>But that doesn't explain why Biwako
+and the ANBU were killed.</b></font>
+
+38
+00:04:18,040 --> 00:04:20,960
+<font face="Open Sans Semibold" size="36"><b>Which means someone is behind this.</b></font>
+
+39
+00:04:21,670 --> 00:04:23,790
+<font face="Open Sans Semibold" size="36"><b>Like someone from the Uchiha?</b></font>
+
+40
+00:04:24,290 --> 00:04:25,580
+<font face="Open Sans Semibold" size="36"><b>Why do you say that?</b></font>
+
+41
+00:04:25,750 --> 00:04:29,210
+<font face="Open Sans Semibold" size="36"><b>Even if the Nine Tails broke free,
+it would have just gone wild.</b></font>
+
+42
+00:04:29,290 --> 00:04:33,130
+<font face="Open Sans Semibold" size="36"><b>Without someone to control it,
+it couldn't have caused this incident.</b></font>
+
+43
+00:04:33,790 --> 00:04:35,250
+<font face="Open Sans Semibold" size="36"><b>Hence, the Sharingan...</b></font>
+
+44
+00:04:35,670 --> 00:04:39,580
+<font face="Open Sans Semibold" size="36"><b>The Uchiha can control the Nine Tails
+with their Visual Prowess...</b></font>
+
+45
+00:04:39,710 --> 00:04:41,170
+<font face="Open Sans Semibold" size="36"><b>But for what purpose?</b></font>
+
+46
+00:04:41,670 --> 00:04:44,540
+<font face="Open Sans Semibold" size="36"><b>To regain their position of power
+within the Hidden Leaf Village.</b></font>
+
+47
+00:04:44,710 --> 00:04:46,130
+<font face="Open Sans Semibold" size="36"><b>I see...</b></font>
+
+48
+00:04:46,880 --> 00:04:49,170
+<font face="Open Sans Semibold" size="36"><b>That's just conjecture.</b></font>
+
+49
+00:04:49,540 --> 00:04:53,580
+<font face="Open Sans Semibold" size="36"><b>We must increase our surveillance
+of the Uchiha.</b></font>
+
+50
+00:04:54,170 --> 00:04:58,250
+<font face="Open Sans Semibold" size="36"><b>We must keep them
+under 24-hour watch.</b></font>
+
+51
+00:04:58,630 --> 00:05:01,170
+<font face="Open Sans Semibold" size="36"><b>That's bound to
+incite them unnecessarily!</b></font>
+
+52
+00:05:01,380 --> 00:05:04,250
+<font face="Open Sans Semibold" size="36"><b>Let the ANBU do it secretly.</b></font>
+
+53
+00:05:04,500 --> 00:05:06,500
+<font face="Open Sans Semibold" size="36"><b>Better to be safe than sorry.</b></font>
+
+54
+00:05:07,500 --> 00:05:08,580
+<font face="Open Sans Semibold" size="36"><b>Wait!</b></font>
+
+55
+00:05:08,960 --> 00:05:11,630
+<font face="Open Sans Semibold" size="36"><b>We don't know if the Uchiha
+are responsible for this.</b></font>
+
+56
+00:05:11,670 --> 00:05:13,540
+<font face="Open Sans Semibold" size="36"><b>That's precisely why
+this is necessary.</b></font>
+
+57
+00:05:13,790 --> 00:05:15,330
+<font face="Open Sans Semibold" size="36"><b>And if nothing comes out of it...</b></font>
+
+58
+00:05:15,380 --> 00:05:17,790
+<font face="Open Sans Semibold" size="36"><b>it will be to the Uchiha's benefit.</b></font>
+
+59
+00:05:22,130 --> 00:05:24,880
+<font face="Open Sans Semibold" size="36"><b>HIDDEN LEAF HOSPITAL</b></font>
+
+60
+00:05:37,170 --> 00:05:38,170
+<font face="Open Sans Semibold" size="36"><b>Kushina...</b></font>
+
+61
+00:05:41,790 --> 00:05:42,790
+<font face="Open Sans Semibold" size="36"><b>Time to switch.</b></font>
+
+62
+00:05:43,830 --> 00:05:45,000
+<font face="Open Sans Semibold" size="36"><b>Nothing to report.</b></font>
+
+63
+00:05:45,040 --> 00:05:46,000
+<font face="Open Sans Semibold" size="36"><b>This is...</b></font>
+
+64
+00:05:46,040 --> 00:05:48,250
+<font face="Open Sans Semibold" size="36"><b>This isn't the only
+surveillance center around.</b></font>
+
+65
+00:05:48,670 --> 00:05:50,830
+<font face="Open Sans Semibold" size="36"><b>Lord Danzo's ANBU are
+also watching them.</b></font>
+
+66
+00:05:51,130 --> 00:05:52,420
+<font face="Open Sans Semibold" size="36"><b>Now what'll you do?</b></font>
+
+67
+00:05:52,460 --> 00:05:54,880
+<font face="Open Sans Semibold" size="36"><b>Notify your clan about this?</b></font>
+
+68
+00:05:55,420 --> 00:05:57,130
+<font face="Open Sans Semibold" size="36"><b>What is my job here?</b></font>
+
+69
+00:05:58,080 --> 00:05:59,960
+<font face="Open Sans Semibold" size="36"><b>Just keep watching through that.</b></font>
+
+70
+00:06:01,250 --> 00:06:03,790
+<font face="Open Sans Semibold" size="36"><b>Okay, Captain. We're going.</b></font>
+
+71
+00:06:04,580 --> 00:06:06,580
+<font face="Open Sans Semibold" size="36"><b>Stay alert, Itachi.</b></font>
+
+72
+00:06:09,460 --> 00:06:11,420
+<font face="Open Sans Semibold" size="36"><b>This is part of our job as ANBU.</b></font>
+
+73
+00:06:12,080 --> 00:06:13,500
+<font face="Open Sans Semibold" size="36"><b>It's not assassination</b></font>
+
+74
+00:06:13,830 --> 00:06:16,380
+<font face="Open Sans Semibold" size="36"><b>but it's still dirty work.</b></font>
+
+75
+00:06:16,830 --> 00:06:18,170
+<font face="Open Sans Semibold" size="36"><b>A mission is a mission.</b></font>
+
+76
+00:06:18,460 --> 00:06:23,080
+<font face="Open Sans Semibold" size="36"><b>You'll be spying on your friends
+and family. It's even dirtier.</b></font>
+
+77
+00:06:24,130 --> 00:06:25,460
+<font face="Open Sans Semibold" size="36"><b>I can take this shift,
+if you want.</b></font>
+
+78
+00:06:25,670 --> 00:06:28,170
+<font face="Open Sans Semibold" size="36"><b>No, that's not necessary.
+Besides...</b></font>
+
+79
+00:06:28,630 --> 00:06:29,460
+<font face="Open Sans Semibold" size="36"><b>Besides?</b></font>
+
+80
+00:06:30,710 --> 00:06:35,330
+<font face="Open Sans Semibold" size="36"><b>The Uchiha Clan is aware
+that they're under suspicion.</b></font>
+
+81
+00:06:37,170 --> 00:06:38,210
+<font face="Open Sans Semibold" size="36"><b>I guess you would be.</b></font>
+
+82
+00:06:42,080 --> 00:06:43,790
+<font face="Open Sans Semibold" size="36"><b>Go to hell!</b></font>
+
+83
+00:06:44,170 --> 00:06:46,000
+<font face="Open Sans Semibold" size="36"><b>What the hell was that for?!</b></font>
+
+84
+00:06:46,210 --> 00:06:48,210
+<font face="Open Sans Semibold" size="36"><b>You're the one that...</b></font>
+
+85
+00:06:49,170 --> 00:06:50,420
+<font face="Open Sans Semibold" size="36"><b>It's your fault.</b></font>
+
+86
+00:06:50,670 --> 00:06:52,920
+<font face="Open Sans Semibold" size="36"><b>- It wasn't me!
+- Sure, it was!</b></font>
+
+87
+00:06:52,960 --> 00:06:54,460
+<font face="Open Sans Semibold" size="36"><b>Hey, stop that!</b></font>
+
+88
+00:06:54,670 --> 00:06:56,210
+<font face="Open Sans Semibold" size="36"><b>Hey, what's going on?!</b></font>
+
+89
+00:06:57,670 --> 00:06:59,130
+<font face="Open Sans Semibold" size="36"><b>Calm down!</b></font>
+
+90
+00:06:59,750 --> 00:07:01,000
+<font face="Open Sans Semibold" size="36"><b>Why you...!</b></font>
+
+91
+00:07:01,040 --> 00:07:03,000
+<font face="Open Sans Semibold" size="36"><b>Who needs the Police Force?!</b></font>
+
+92
+00:07:03,380 --> 00:07:05,670
+<font face="Open Sans Semibold" size="36"><b>Just go and hide like you did
+with the Nine Tails!</b></font>
+
+93
+00:07:06,170 --> 00:07:07,830
+<font face="Open Sans Semibold" size="36"><b>What did you say?</b></font>
+
+94
+00:07:09,210 --> 00:07:10,420
+<font face="Open Sans Semibold" size="36"><b>Ow ow ow!</b></font>
+
+95
+00:07:10,500 --> 00:07:11,960
+<font face="Open Sans Semibold" size="36"><b>We're taking you both into custody!</b></font>
+
+96
+00:07:12,000 --> 00:07:13,290
+<font face="Open Sans Semibold" size="36"><b>Let me go!</b></font>
+
+97
+00:07:13,500 --> 00:07:15,670
+<font face="Open Sans Semibold" size="36"><b>Be quiet and walk!</b></font>
+
+98
+00:07:16,170 --> 00:07:17,420
+<font face="Open Sans Semibold" size="36"><b>It was just a drunken argument...</b></font>
+
+99
+00:07:17,750 --> 00:07:19,710
+<font face="Open Sans Semibold" size="36"><b>Couldn't they just
+stop the fighting?</b></font>
+
+100
+00:07:23,290 --> 00:07:27,670
+<font face="Open Sans Semibold" size="36"><b>Complaints about harsh treatment
+by the Police Force are on the rise.</b></font>
+
+101
+00:07:28,380 --> 00:07:31,880
+<font face="Open Sans Semibold" size="36"><b>People have started
+to distrust them.</b></font>
+
+102
+00:07:32,040 --> 00:07:34,750
+<font face="Open Sans Semibold" size="36"><b>The Uchiha are growing impudent.</b></font>
+
+103
+00:07:34,790 --> 00:07:36,670
+<font face="Open Sans Semibold" size="36"><b>No, it's backlash.</b></font>
+
+104
+00:07:37,040 --> 00:07:40,960
+<font face="Open Sans Semibold" size="36"><b>The negativity from the Nine Tails' incident
+six years ago still hangs over them.</b></font>
+
+105
+00:07:42,000 --> 00:07:45,000
+<font face="Open Sans Semibold" size="36"><b>The Uchiha didn't suffer
+any damage that time.</b></font>
+
+106
+00:07:45,500 --> 00:07:48,250
+<font face="Open Sans Semibold" size="36"><b>That is the cause of suspicion...</b></font>
+
+107
+00:07:48,960 --> 00:07:53,580
+<font face="Open Sans Semibold" size="36"><b>Furthermore, the Uchiha viewed
+our distancing them from the Nine Tails</b></font>
+
+108
+00:07:53,630 --> 00:07:58,710
+<font face="Open Sans Semibold" size="36"><b>as a sign of
+the Hidden Leaf's distrust.</b></font>
+
+109
+00:07:58,750 --> 00:08:02,170
+<font face="Open Sans Semibold" size="36"><b>Our strategy of isolating the Uchiha
+is a fundamental policy of the Leaf</b></font>
+
+110
+00:08:02,210 --> 00:08:04,080
+<font face="Open Sans Semibold" size="36"><b>put in place by Lord Second.</b></font>
+
+111
+00:08:04,460 --> 00:08:06,130
+<font face="Open Sans Semibold" size="36"><b>Why are they raising a fuss
+after all this time?</b></font>
+
+112
+00:08:06,380 --> 00:08:09,080
+<font face="Open Sans Semibold" size="36"><b>The Lord Second's intention
+wasn't isolation.</b></font>
+
+113
+00:08:09,210 --> 00:08:11,460
+<font face="Open Sans Semibold" size="36"><b>He was just concerned for each clan.</b></font>
+
+114
+00:08:11,580 --> 00:08:15,540
+<font face="Open Sans Semibold" size="36"><b>Have you forgotten about
+our friend Kagami Uchiha?</b></font>
+
+115
+00:08:15,750 --> 00:08:17,330
+<font face="Open Sans Semibold" size="36"><b>I haven't forgotten.</b></font>
+
+116
+00:08:17,790 --> 00:08:21,040
+<font face="Open Sans Semibold" size="36"><b>He saved me many times
+with his Visual Jutsu.</b></font>
+
+117
+00:08:21,130 --> 00:08:24,210
+<font face="Open Sans Semibold" size="36"><b>The Uchiha Clan is
+a friend of the Hidden Leaf.</b></font>
+
+118
+00:08:24,580 --> 00:08:27,000
+<font face="Open Sans Semibold" size="36"><b>We must ensure
+they stay that way.</b></font>
+
+119
+00:08:27,960 --> 00:08:30,040
+<font face="Open Sans Semibold" size="36"><b>If we can...</b></font>
+
+120
+00:08:39,420 --> 00:08:40,250
+<font face="Open Sans Semibold" size="36"><b>Calm down!</b></font>
+
+121
+00:08:40,290 --> 00:08:42,000
+<font face="Open Sans Semibold" size="36"><b>A genjutsu!
+But when did that happen?</b></font>
+
+122
+00:08:46,380 --> 00:08:47,290
+<font face="Open Sans Semibold" size="36"><b>Byakugan!</b></font>
+
+123
+00:08:57,750 --> 00:08:58,630
+<font face="Open Sans Semibold" size="36"><b>We're retreating!</b></font>
+
+124
+00:08:58,960 --> 00:09:00,000
+<font face="Open Sans Semibold" size="36"><b>But Captain...!</b></font>
+
+125
+00:09:00,420 --> 00:09:03,750
+<font face="Open Sans Semibold" size="36"><b>It's Shisui Uchiha,
+the Teleporter of the Leaf.</b></font>
+
+126
+00:09:04,080 --> 00:09:06,960
+<font face="Open Sans Semibold" size="36"><b>We're no match for him. Retreat!</b></font>
+
+127
+00:09:11,130 --> 00:09:14,040
+<font face="Open Sans Semibold" size="36"><b>That should keep the Hidden Mist
+quiet for a while.</b></font>
+
+128
+00:09:18,080 --> 00:09:21,210
+<font face="Open Sans Semibold" size="36"><b>Team Shisui has returned and
+our mission was successfully completed.</b></font>
+
+129
+00:09:21,710 --> 00:09:25,420
+<font face="Open Sans Semibold" size="36"><b>That was a long mission.
+Thank you for your hard work.</b></font>
+
+130
+00:09:25,830 --> 00:09:28,000
+<font face="Open Sans Semibold" size="36"><b>Go and rest.</b></font>
+
+131
+00:09:28,040 --> 00:09:30,330
+<font face="Open Sans Semibold" size="36"><b>I have a request, Lord Third.</b></font>
+
+132
+00:09:38,210 --> 00:09:42,130
+<font face="Open Sans Semibold" size="36"><b>I'm very troubled by the suspicion
+cast upon the Uchiha Clan.</b></font>
+
+133
+00:09:42,920 --> 00:09:44,210
+<font face="Open Sans Semibold" size="36"><b>So am I.</b></font>
+
+134
+00:09:45,210 --> 00:09:47,500
+<font face="Open Sans Semibold" size="36"><b>I'm hoping that
+my clan and the Village</b></font>
+
+135
+00:09:47,540 --> 00:09:49,420
+<font face="Open Sans Semibold" size="36"><b>will be able to trust
+each other again.</b></font>
+
+136
+00:09:50,210 --> 00:09:52,420
+<font face="Open Sans Semibold" size="36"><b>Will you assign this mission to me?</b></font>
+
+137
+00:09:54,000 --> 00:09:57,130
+<font face="Open Sans Semibold" size="36"><b>Do you want to be released
+from your regular duties?</b></font>
+
+138
+00:09:57,330 --> 00:10:01,290
+<font face="Open Sans Semibold" size="36"><b>Yes. And I'd like to be given
+a certain amount of authority.</b></font>
+
+139
+00:10:03,290 --> 00:10:09,040
+<font face="Open Sans Semibold" size="36"><b>All right. Let's say I ordered you on
+a top-secret investigative mission.</b></font>
+
+140
+00:10:09,460 --> 00:10:13,290
+<font face="Open Sans Semibold" size="36"><b>If anyone objects, tell them my name,</b></font>
+
+141
+00:10:13,330 --> 00:10:16,210
+<font face="Open Sans Semibold" size="36"><b>and I will take full responsibility.</b></font>
+
+142
+00:10:16,630 --> 00:10:17,420
+<font face="Open Sans Semibold" size="36"><b>Thank you.</b></font>
+
+143
+00:10:18,000 --> 00:10:24,210
+<font face="Open Sans Semibold" size="36"><b>You remind me so much
+of my old friend, Kagami Uchiha.</b></font>
+
+144
+00:10:24,790 --> 00:10:26,330
+<font face="Open Sans Semibold" size="36"><b>I am nowhere near his caliber.</b></font>
+
+145
+00:10:35,000 --> 00:10:36,040
+<font face="Open Sans Semibold" size="36"><b>Big Brother!</b></font>
+
+146
+00:10:36,630 --> 00:10:38,170
+<font face="Open Sans Semibold" size="36"><b>Are you done with your mission?</b></font>
+
+147
+00:10:38,170 --> 00:10:40,710
+<font face="Open Sans Semibold" size="36"><b>If you are, help me train!</b></font>
+
+148
+00:10:41,250 --> 00:10:43,960
+<font face="Open Sans Semibold" size="36"><b>Sorry, Sasuke.
+I have an urgent summons.</b></font>
+
+149
+00:10:55,630 --> 00:10:57,500
+<font face="Open Sans Semibold" size="36"><b>We played here a lot.</b></font>
+
+150
+00:10:57,880 --> 00:10:59,170
+<font face="Open Sans Semibold" size="36"><b>So you were back.</b></font>
+
+151
+00:10:59,460 --> 00:11:02,460
+<font face="Open Sans Semibold" size="36"><b>Yeah. We finally chased
+the Hidden Mist away.</b></font>
+
+152
+00:11:03,790 --> 00:11:04,750
+<font face="Open Sans Semibold" size="36"><b>Why did you want to see me?</b></font>
+
+153
+00:11:05,750 --> 00:11:08,210
+<font face="Open Sans Semibold" size="36"><b>I want to hear
+your honest opinion.</b></font>
+
+154
+00:11:08,250 --> 00:11:10,630
+<font face="Open Sans Semibold" size="36"><b>How serious do you think Fugaku is?</b></font>
+
+155
+00:11:11,130 --> 00:11:12,250
+<font face="Open Sans Semibold" size="36"><b>What do you mean by serious?</b></font>
+
+156
+00:11:14,040 --> 00:11:15,170
+<font face="Open Sans Semibold" size="36"><b>A coup d'état.</b></font>
+
+157
+00:11:16,420 --> 00:11:19,420
+<font face="Open Sans Semibold" size="36"><b>Dissatisfaction towards the Village
+is growing among the Uchiha.</b></font>
+
+158
+00:11:20,210 --> 00:11:24,000
+<font face="Open Sans Semibold" size="36"><b>If the Village doesn't change,
+the Uchiha won't stand for it anymore.</b></font>
+
+159
+00:11:25,460 --> 00:11:27,880
+<font face="Open Sans Semibold" size="36"><b>If the Village changes,
+so will the Uchiha.</b></font>
+
+160
+00:11:27,920 --> 00:11:30,580
+<font face="Open Sans Semibold" size="36"><b>But if the Uchiha doesn't change,
+neither will the Village.</b></font>
+
+161
+00:11:31,580 --> 00:11:33,670
+<font face="Open Sans Semibold" size="36"><b>As long as the two sides
+distrust each other,</b></font>
+
+162
+00:11:33,710 --> 00:11:35,540
+<font face="Open Sans Semibold" size="36"><b>things will only get worse.</b></font>
+
+163
+00:11:37,040 --> 00:11:39,000
+<font face="Open Sans Semibold" size="36"><b>I want to clear up that suspicion.</b></font>
+
+164
+00:11:39,540 --> 00:11:40,880
+<font face="Open Sans Semibold" size="36"><b>You think you can?</b></font>
+
+165
+00:11:41,170 --> 00:11:43,040
+<font face="Open Sans Semibold" size="36"><b>I don't know, but I have to try...</b></font>
+
+166
+00:11:44,000 --> 00:11:48,960
+<font face="Open Sans Semibold" size="36"><b>If the Uchiha attempts a coup d'état,
+it will bode badly for both sides.</b></font>
+
+167
+00:11:50,920 --> 00:11:53,080
+<font face="Open Sans Semibold" size="36"><b>I'm against a coup d'état as well.</b></font>
+
+168
+00:11:53,380 --> 00:11:56,170
+<font face="Open Sans Semibold" size="36"><b>But it will take something big
+to stop it.</b></font>
+
+169
+00:11:56,420 --> 00:11:59,710
+<font face="Open Sans Semibold" size="36"><b>I know.
+But you shouldn't do anything.</b></font>
+
+170
+00:11:59,960 --> 00:12:01,130
+<font face="Open Sans Semibold" size="36"><b>Why's that?</b></font>
+
+171
+00:12:01,290 --> 00:12:04,130
+<font face="Open Sans Semibold" size="36"><b>Some members on the Police Force
+are suspicious of you...</b></font>
+
+172
+00:12:05,040 --> 00:12:07,210
+<font face="Open Sans Semibold" size="36"><b>and I've been ordered
+to spy on you.</b></font>
+
+173
+00:12:16,870 --> 00:12:17,830
+<font face="Open Sans Semibold" size="36"><b>What?!</b></font>
+
+174
+00:12:18,330 --> 00:12:20,530
+<font face="Open Sans Semibold" size="36"><b>Do you know what day tomorrow is?!</b></font>
+
+175
+00:12:21,240 --> 00:12:23,620
+<font face="Open Sans Semibold" size="36"><b>You don't understand
+your own position!</b></font>
+
+176
+00:12:24,780 --> 00:12:27,080
+<font face="Open Sans Semibold" size="36"><b>I'm setting out on
+a mission tomorrow.</b></font>
+
+177
+00:12:27,530 --> 00:12:28,780
+<font face="Open Sans Semibold" size="36"><b>What kind of mission?</b></font>
+
+178
+00:12:29,780 --> 00:12:32,450
+<font face="Open Sans Semibold" size="36"><b>I can't tell you...
+It's top-secret.</b></font>
+
+179
+00:12:35,160 --> 00:12:38,780
+<font face="Open Sans Semibold" size="36"><b>Itachi... You also serve as
+the Uchiha Clan's pipeline</b></font>
+
+180
+00:12:38,830 --> 00:12:40,910
+<font face="Open Sans Semibold" size="36"><b>to the Village nerve center.</b></font>
+
+181
+00:12:41,830 --> 00:12:43,830
+<font face="Open Sans Semibold" size="36"><b>You know that, don't you?</b></font>
+
+182
+00:12:45,200 --> 00:12:46,030
+<font face="Open Sans Semibold" size="36"><b>Yes...</b></font>
+
+183
+00:12:46,700 --> 00:12:48,910
+<font face="Open Sans Semibold" size="36"><b>Bear that in mind.</b></font>
+
+184
+00:12:49,580 --> 00:12:51,870
+<font face="Open Sans Semibold" size="36"><b>And come to tomorrow's assembly!</b></font>
+
+185
+00:12:55,870 --> 00:12:59,280
+<font face="Open Sans Semibold" size="36"><b>The Uchiha are assembling
+again tonight.</b></font>
+
+186
+00:12:59,660 --> 00:13:01,700
+<font face="Open Sans Semibold" size="36"><b>I know about it as well.</b></font>
+
+187
+00:13:02,450 --> 00:13:06,780
+<font face="Open Sans Semibold" size="36"><b>But we cannot interfere
+with their clan rituals.</b></font>
+
+188
+00:13:06,830 --> 00:13:08,280
+<font face="Open Sans Semibold" size="36"><b>Rituals indeed!</b></font>
+
+189
+00:13:08,330 --> 00:13:12,620
+<font face="Open Sans Semibold" size="36"><b>They're going to fan the flames
+of distrust against us,</b></font>
+
+190
+00:13:12,660 --> 00:13:15,160
+<font face="Open Sans Semibold" size="36"><b>then use it to unite the clan.</b></font>
+
+191
+00:13:15,910 --> 00:13:17,990
+<font face="Open Sans Semibold" size="36"><b>They are preparing for a coup d'état.</b></font>
+
+192
+00:13:18,780 --> 00:13:21,080
+<font face="Open Sans Semibold" size="36"><b>And the one to nip it
+in the bud is...</b></font>
+
+193
+00:13:21,370 --> 00:13:22,450
+<font face="Open Sans Semibold" size="36"><b>Shisui!</b></font>
+
+194
+00:13:24,160 --> 00:13:25,830
+<font face="Open Sans Semibold" size="36"><b>Shisui Uchiha?</b></font>
+
+195
+00:13:26,580 --> 00:13:28,530
+<font face="Open Sans Semibold" size="36"><b>Shisui will attend the assembly.</b></font>
+
+196
+00:13:28,580 --> 00:13:33,870
+<font face="Open Sans Semibold" size="36"><b>And if Fugaku Uchiha incites
+a rebellion...</b></font>
+
+197
+00:13:33,950 --> 00:13:35,700
+<font face="Open Sans Semibold" size="36"><b>I will use my Kotoamatsukami.</b></font>
+
+198
+00:13:36,410 --> 00:13:37,990
+<font face="Open Sans Semibold" size="36"><b>Your Visual Jutsu...</b></font>
+
+199
+00:13:38,370 --> 00:13:41,870
+<font face="Open Sans Semibold" size="36"><b>He will have no clue that Shisui
+is controlling his actions.</b></font>
+
+200
+00:13:41,910 --> 00:13:44,370
+<font face="Open Sans Semibold" size="36"><b>He will believe that
+his words are his own.</b></font>
+
+201
+00:13:44,780 --> 00:13:47,910
+<font face="Open Sans Semibold" size="36"><b>I'm going to make Fugaku think
+about co-existence with the Village.</b></font>
+
+202
+00:13:47,950 --> 00:13:50,240
+<font face="Open Sans Semibold" size="36"><b>I don't think that
+controlling only Fugaku</b></font>
+
+203
+00:13:50,280 --> 00:13:53,120
+<font face="Open Sans Semibold" size="36"><b>will put an end to
+the Uchiha's dissatisfaction.</b></font>
+
+204
+00:13:53,160 --> 00:13:57,780
+<font face="Open Sans Semibold" size="36"><b>No. If the Uchiha will change,
+then we of the Leaf must change too.</b></font>
+
+205
+00:13:58,330 --> 00:14:01,030
+<font face="Open Sans Semibold" size="36"><b>Let us improve our relations
+with the Uchiha.</b></font>
+
+206
+00:14:01,410 --> 00:14:02,830
+<font face="Open Sans Semibold" size="36"><b>That is my hope.</b></font>
+
+207
+00:14:03,370 --> 00:14:05,870
+<font face="Open Sans Semibold" size="36"><b>I will assign one ANBU
+behind the scenes.</b></font>
+
+208
+00:14:06,950 --> 00:14:08,620
+<font face="Open Sans Semibold" size="36"><b>I'm counting on you, Shisui.</b></font>
+
+209
+00:14:08,870 --> 00:14:09,700
+<font face="Open Sans Semibold" size="36"><b>Yes, sir!</b></font>
+
+210
+00:14:17,200 --> 00:14:19,490
+<font face="Open Sans Semibold" size="36"><b>Itachi isn't coming, is he?</b></font>
+
+211
+00:14:27,280 --> 00:14:28,740
+<font face="Open Sans Semibold" size="36"><b><i>He's late.</i></b></font>
+
+212
+00:14:30,780 --> 00:14:32,120
+<font face="Open Sans Semibold" size="36"><b>What is it, Lord Danzo?</b></font>
+
+213
+00:14:32,580 --> 00:14:34,370
+<font face="Open Sans Semibold" size="36"><b>It's almost time for
+the assembly to start.</b></font>
+
+214
+00:14:35,660 --> 00:14:39,530
+<font face="Open Sans Semibold" size="36"><b>Even if you use your Visual Jutsu
+on Fugaku to get the clan to cooperate,</b></font>
+
+215
+00:14:39,580 --> 00:14:41,870
+<font face="Open Sans Semibold" size="36"><b>what if the Village doesn't change?</b></font>
+
+216
+00:14:42,580 --> 00:14:45,490
+<font face="Open Sans Semibold" size="36"><b>Lord Hokage has promised
+to make it change.</b></font>
+
+217
+00:14:46,160 --> 00:14:48,240
+<font face="Open Sans Semibold" size="36"><b>Even if Lord Third is satisfied,</b></font>
+
+218
+00:14:48,280 --> 00:14:51,450
+<font face="Open Sans Semibold" size="36"><b>the distrust among
+the Leaf will not go away.</b></font>
+
+219
+00:14:51,780 --> 00:14:55,080
+<font face="Open Sans Semibold" size="36"><b>I realize that. But in time...</b></font>
+
+220
+00:14:55,120 --> 00:15:01,450
+<font face="Open Sans Semibold" size="36"><b>Besides, someone who's always suspicious
+like me will never change.</b></font>
+
+221
+00:15:01,700 --> 00:15:03,160
+<font face="Open Sans Semibold" size="36"><b>What will you do then?</b></font>
+
+222
+00:15:03,870 --> 00:15:05,330
+<font face="Open Sans Semibold" size="36"><b>But Lord Danzo...</b></font>
+
+223
+00:15:05,490 --> 00:15:07,120
+<font face="Open Sans Semibold" size="36"><b>When the time comes,</b></font>
+
+224
+00:15:07,160 --> 00:15:10,530
+<font face="Open Sans Semibold" size="36"><b>will you use your Kotoamatsukami
+on me too?</b></font>
+
+225
+00:15:10,830 --> 00:15:11,740
+<font face="Open Sans Semibold" size="36"><b>I'm...</b></font>
+
+226
+00:15:11,780 --> 00:15:14,530
+<font face="Open Sans Semibold" size="36"><b>Your Sharingan...
+shall be in my safekeeping!</b></font>
+
+227
+00:15:14,580 --> 00:15:15,410
+<font face="Open Sans Semibold" size="36"><b>Forgive me.</b></font>
+
+228
+00:15:18,830 --> 00:15:21,490
+<font face="Open Sans Semibold" size="36"><b>It's only genjutsu...
+You'll snap out of it shortly.</b></font>
+
+229
+00:15:41,030 --> 00:15:41,990
+<font face="Open Sans Semibold" size="36"><b><i>Sharingan?!</i></b></font>
+
+230
+00:15:42,450 --> 00:15:44,910
+<font face="Open Sans Semibold" size="36"><b>I'm going to take it
+to replace this eye.</b></font>
+
+231
+00:15:45,740 --> 00:15:47,740
+<font face="Open Sans Semibold" size="36"><b>Give me the other one too.</b></font>
+
+232
+00:15:48,580 --> 00:15:50,700
+<font face="Open Sans Semibold" size="36"><b><i>Fire Style! Fireball Jutsu!</i></b></font>
+
+233
+00:15:51,700 --> 00:15:53,530
+<font face="Open Sans Semibold" size="36"><b>Water Style! Raging Waves!</b></font>
+
+234
+00:15:58,450 --> 00:16:00,120
+<font face="Open Sans Semibold" size="36"><b>It's a Teleportation Jutsu!</b></font>
+
+235
+00:16:00,160 --> 00:16:00,990
+<font face="Open Sans Semibold" size="36"><b>Go after him.</b></font>
+
+236
+00:16:07,160 --> 00:16:08,080
+<font face="Open Sans Semibold" size="36"><b>Is that you, Shisui?</b></font>
+
+237
+00:16:08,530 --> 00:16:09,620
+<font face="Open Sans Semibold" size="36"><b>Come with me.</b></font>
+
+238
+00:16:16,530 --> 00:16:19,910
+<font face="Open Sans Semibold" size="36"><b>It's too late to stop
+the coup d'état by the Uchiha.</b></font>
+
+239
+00:16:20,280 --> 00:16:22,490
+<font face="Open Sans Semibold" size="36"><b>If civil war breaks out
+in the Leaf Village,</b></font>
+
+240
+00:16:22,530 --> 00:16:24,330
+<font face="Open Sans Semibold" size="36"><b>other nations are sure
+to attack...</b></font>
+
+241
+00:16:24,370 --> 00:16:25,950
+<font face="Open Sans Semibold" size="36"><b>which means a full-scale war.</b></font>
+
+242
+00:16:26,620 --> 00:16:29,910
+<font face="Open Sans Semibold" size="36"><b>I was going to try to stop
+the coup d'état with Kotoamatsukami, but...</b></font>
+
+243
+00:16:30,490 --> 00:16:32,490
+<font face="Open Sans Semibold" size="36"><b>Lord Danzo took my right eye...</b></font>
+
+244
+00:16:33,740 --> 00:16:35,700
+<font face="Open Sans Semibold" size="36"><b>He doesn't trust me.</b></font>
+
+245
+00:16:35,990 --> 00:16:38,410
+<font face="Open Sans Semibold" size="36"><b>He intends to protect
+the Village his own way,</b></font>
+
+246
+00:16:38,450 --> 00:16:40,200
+<font face="Open Sans Semibold" size="36"><b>no matter what it takes
+or how it looks.</b></font>
+
+247
+00:16:40,910 --> 00:16:42,700
+<font face="Open Sans Semibold" size="36"><b>I suspect he'll come after
+my left eye as well.</b></font>
+
+248
+00:16:42,700 --> 00:16:45,580
+<font face="Open Sans Semibold" size="36"><b>So I want to give it to you
+before he has a chance.</b></font>
+
+249
+00:16:46,530 --> 00:16:47,740
+<font face="Open Sans Semibold" size="36"><b><i>Shisui.</i></b></font>
+
+250
+00:16:48,830 --> 00:16:51,530
+<font face="Open Sans Semibold" size="36"><b>You're the only person I can count on,
+my best friend.</b></font>
+
+251
+00:16:51,740 --> 00:16:56,030
+<font face="Open Sans Semibold" size="36"><b>Please protect this Village...
+and the honor of the Uchiha name.</b></font>
+
+252
+00:17:14,280 --> 00:17:15,870
+<font face="Open Sans Semibold" size="36"><b>I accept it.</b></font>
+
+253
+00:17:16,240 --> 00:17:17,780
+<font face="Open Sans Semibold" size="36"><b>What will you do now?</b></font>
+
+254
+00:17:18,740 --> 00:17:21,580
+<font face="Open Sans Semibold" size="36"><b>If I die, several circumstances
+will change.</b></font>
+
+255
+00:17:21,700 --> 00:17:23,280
+<font face="Open Sans Semibold" size="36"><b>I've left behind a note already...</b></font>
+
+256
+00:17:23,330 --> 00:17:24,580
+<font face="Open Sans Semibold" size="36"><b>Wait, Shisui!</b></font>
+
+257
+00:17:24,620 --> 00:17:25,870
+<font face="Open Sans Semibold" size="36"><b>Don't stop me, Itachi.</b></font>
+
+258
+00:17:31,660 --> 00:17:33,870
+<font face="Open Sans Semibold" size="36"><b>If you're my friend...</b></font>
+
+259
+00:17:35,580 --> 00:17:36,870
+<font face="Open Sans Semibold" size="36"><b>Shisui!</b></font>
+
+260
+00:17:40,910 --> 00:17:42,410
+<font face="Open Sans Semibold" size="36"><b>Shisui...</b></font>
+
+261
+00:17:46,240 --> 00:17:49,080
+<font face="Open Sans Semibold" size="36"><b>Oww! What are you accusing me of?!</b></font>
+
+262
+00:17:49,330 --> 00:17:50,740
+<font face="Open Sans Semibold" size="36"><b>Just be quiet!</b></font>
+
+263
+00:17:50,780 --> 00:17:52,580
+<font face="Open Sans Semibold" size="36"><b>Don't be so rough.</b></font>
+
+264
+00:17:52,830 --> 00:17:53,700
+<font face="Open Sans Semibold" size="36"><b>Captain...</b></font>
+
+265
+00:17:54,160 --> 00:17:56,160
+<font face="Open Sans Semibold" size="36"><b>You are a suspect...</b></font>
+
+266
+00:17:56,450 --> 00:17:58,370
+<font face="Open Sans Semibold" size="36"><b>and you're coming to
+Headquarters with us.</b></font>
+
+267
+00:17:58,410 --> 00:17:59,830
+<font face="Open Sans Semibold" size="36"><b>F-Fine...</b></font>
+
+268
+00:18:00,280 --> 00:18:02,780
+<font face="Open Sans Semibold" size="36"><b>Remember to follow
+our investigative procedures!</b></font>
+
+269
+00:18:02,830 --> 00:18:03,910
+<font face="Open Sans Semibold" size="36"><b>Yes, sir!</b></font>
+
+270
+00:18:04,160 --> 00:18:05,370
+<font face="Open Sans Semibold" size="36"><b>C'mon, move.</b></font>
+
+271
+00:18:08,330 --> 00:18:12,410
+<font face="Open Sans Semibold" size="36"><b>Shisui Uchiha was a core member
+of the Uchiha.</b></font>
+
+272
+00:18:12,950 --> 00:18:17,870
+<font face="Open Sans Semibold" size="36"><b>His suicide demoralized and
+lessened their fighting power all at once.</b></font>
+
+273
+00:18:18,780 --> 00:18:21,830
+<font face="Open Sans Semibold" size="36"><b>So the coup d'état has been foiled.</b></font>
+
+274
+00:18:22,410 --> 00:18:25,280
+<font face="Open Sans Semibold" size="36"><b>Are you saying
+there was no other way</b></font>
+
+275
+00:18:25,330 --> 00:18:27,950
+<font face="Open Sans Semibold" size="36"><b>but for Shisui to give his life?</b></font>
+
+276
+00:18:28,280 --> 00:18:30,870
+<font face="Open Sans Semibold" size="36"><b>I shouldn't have pushed him...</b></font>
+
+277
+00:18:31,280 --> 00:18:32,990
+<font face="Open Sans Semibold" size="36"><b>There are a few among the Uchiha</b></font>
+
+278
+00:18:33,030 --> 00:18:37,410
+<font face="Open Sans Semibold" size="36"><b>who believe that you killed Shisui.</b></font>
+
+279
+00:18:37,780 --> 00:18:40,700
+<font face="Open Sans Semibold" size="36"><b>The ones who believe that
+did not know</b></font>
+
+280
+00:18:40,740 --> 00:18:44,490
+<font face="Open Sans Semibold" size="36"><b>that Shisui and I were working
+towards the same goal.</b></font>
+
+281
+00:18:44,740 --> 00:18:47,280
+<font face="Open Sans Semibold" size="36"><b>Shisui did not appear at
+our rendezvous point.</b></font>
+
+282
+00:18:48,740 --> 00:18:51,740
+<font face="Open Sans Semibold" size="36"><b>He had secrets,
+so he was suspected.</b></font>
+
+283
+00:18:52,080 --> 00:18:54,830
+<font face="Open Sans Semibold" size="36"><b>I will notify the ANBU that
+it was officially a suicide.</b></font>
+
+284
+00:18:55,660 --> 00:18:57,030
+<font face="Open Sans Semibold" size="36"><b>Agreed, Hiruzen?</b></font>
+
+285
+00:19:35,080 --> 00:19:36,620
+<font face="Open Sans Semibold" size="36"><b>That's the Lightning Blade!</b></font>
+
+286
+00:19:36,700 --> 00:19:39,780
+<font face="Open Sans Semibold" size="36"><b>You're...the Copy Ninja of the Leaf!</b></font>
+
+287
+00:19:41,450 --> 00:19:44,080
+<font face="Open Sans Semibold" size="36"><b>Kaka...shi...</b></font>
+
+288
+00:19:45,780 --> 00:19:48,580
+<font face="Open Sans Semibold" size="36"><b>You've become quite well known.</b></font>
+
+289
+00:19:49,910 --> 00:19:52,080
+<font face="Open Sans Semibold" size="36"><b>Do it long enough and
+you're bound to become famous.</b></font>
+
+290
+00:19:52,490 --> 00:19:53,660
+<font face="Open Sans Semibold" size="36"><b>Clear the area.</b></font>
+
+291
+00:19:53,700 --> 00:19:56,030
+<font face="Open Sans Semibold" size="36"><b>Leave no trace of the Hidden Leaf.</b></font>
+
+292
+00:19:56,490 --> 00:19:58,370
+<font face="Open Sans Semibold" size="36"><b>Yeah, yeah. I know.</b></font>
+
+293
+00:19:59,030 --> 00:20:02,660
+<font face="Open Sans Semibold" size="36"><b>Dirty work is part of
+the ANBU's modus operandi.</b></font>
+
+294
+00:20:08,740 --> 00:20:12,120
+<font face="Open Sans Semibold" size="36"><b>You said that a friend gave
+your Sharingan to you.</b></font>
+
+295
+00:20:12,830 --> 00:20:14,700
+<font face="Open Sans Semibold" size="36"><b>Along with a wish.</b></font>
+
+296
+00:20:15,530 --> 00:20:17,990
+<font face="Open Sans Semibold" size="36"><b>Do you need to honor that wish?</b></font>
+
+297
+00:20:18,830 --> 00:20:21,120
+<font face="Open Sans Semibold" size="36"><b>Yes, I intend to.</b></font>
+
+298
+00:20:24,490 --> 00:20:26,910
+<font face="Open Sans Semibold" size="36"><b>I know about
+the Shisui Uchiha incident.</b></font>
+
+299
+00:20:27,240 --> 00:20:28,490
+<font face="Open Sans Semibold" size="36"><b>Is it about that?</b></font>
+
+300
+00:20:28,700 --> 00:20:30,030
+<font face="Open Sans Semibold" size="36"><b>No, I'm fine.</b></font>
+
+301
+00:20:30,780 --> 00:20:31,780
+<font face="Open Sans Semibold" size="36"><b>I see...</b></font>
+
+302
+00:20:32,160 --> 00:20:36,160
+<font face="Open Sans Semibold" size="36"><b>Anyway, there's not a lot I can do,
+but let me know if there's anything.</b></font>
+
+303
+00:20:36,450 --> 00:20:37,370
+<font face="Open Sans Semibold" size="36"><b>Yes.</b></font>
+
+304
+00:20:43,910 --> 00:20:46,870
+<font face="Open Sans Semibold" size="36"><b><i>You're the only person I can count on,</i>
+<i>my best friend.</i></b></font>
+
+305
+00:20:46,910 --> 00:20:51,450
+<font face="Open Sans Semibold" size="36"><b><i>Please protect this Village...</i>
+<i>and the honor of the Uchiha name. </i></b></font>
+
+306
+00:20:52,990 --> 00:20:54,030
+<font face="Open Sans Semibold" size="36"><b><i>Shisui. </i></b></font>
+
+307
+00:20:54,080 --> 00:20:56,950
+<font face="Open Sans Semibold" size="36"><b><i>Things have gotten much worse</i>
+<i>since then. </i></b></font>
+
+308
+00:20:57,740 --> 00:21:00,700
+<font face="Open Sans Semibold" size="36"><b><i>I don't think</i>
+<i>I can protect everyone.</i></b></font>
+
+309
+00:22:37,330 --> 00:22:41,240
+<font face="Open Sans Semibold" size="36"><b>It seems someone has been
+infiltrating the Village recently.
+
+</b></font>
+
+310
+00:22:41,660 --> 00:22:43,740
+<font face="Open Sans Semibold" size="36"><b>The only thing we can do is
+to ask the Police Force
+
+</b></font>
+
+311
+00:22:43,780 --> 00:22:45,330
+<font face="Open Sans Semibold" size="36"><b>to step up their patrols.
+
+</b></font>
+
+312
+00:22:45,740 --> 00:22:46,580
+<font face="Open Sans Semibold" size="36"><b>What happened?
+
+</b></font>
+
+313
+00:22:46,620 --> 00:22:49,490
+<font face="Open Sans Semibold" size="36"><b>I went to the Uchiha District
+for the first time in a long time.
+
+</b></font>
+
+314
+00:22:50,160 --> 00:22:53,490
+<font face="Open Sans Semibold" size="36"><b>It felt like they didn't want
+any outsiders there.
+
+</b></font>
+
+315
+00:22:54,700 --> 00:22:58,280
+<font face="Open Sans Semibold" size="36"><b>Next time on Naruto Shippuden:
+"The Night of the Tragedy"
+
+</b></font>
+
+316
+00:22:58,990 --> 00:23:00,160
+<font face="Open Sans Semibold" size="36"><b>I see...</b></font>
+
+317
+00:23:00,200 --> 00:23:05,330
+<font face="Open Sans Semibold" size="36"><b>THE NIGHT OF THE TRAGEDY
+
+
+</b></font>
+
+318
+00:23:05,370 --> 00:23:09,200
+<font face="Open Sans Semibold" size="36"><b>Tune in again!
+
+
+</b></font>
+

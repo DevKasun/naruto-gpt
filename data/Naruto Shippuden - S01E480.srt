@@ -1,0 +1,621 @@
+1
+00:02:39,470 --> 00:02:40,920
+<font face="Open Sans Semibold" size="36"><b>I hear it's true.</b></font>
+
+2
+00:02:41,760 --> 00:02:43,010
+<font face="Open Sans Semibold" size="36"><b>That boy, huh?</b></font>
+
+3
+00:02:55,970 --> 00:02:57,630
+<font face="Open Sans Semibold" size="36"><b>Look, isn't that the boy?</b></font>
+
+4
+00:02:58,010 --> 00:02:59,130
+<font face="Open Sans Semibold" size="36"><b>He gives me the creeps.</b></font>
+
+5
+00:02:59,880 --> 00:03:03,010
+<font face="Open Sans Semibold" size="36"><b>Hey, don't play with him.</b></font>
+
+6
+00:03:03,760 --> 00:03:05,880
+<font face="Open Sans Semibold" size="36"><b>You don't know what he'll do.</b></font>
+
+7
+00:03:18,090 --> 00:03:19,970
+<font face="Open Sans Semibold" size="36"><b>Is that right?</b></font>
+
+8
+00:03:27,420 --> 00:03:29,510
+<font face="Open Sans Semibold" size="36"><b>Man, that looks good!</b></font>
+
+9
+00:03:38,380 --> 00:03:41,220
+<font face="Open Sans Semibold" size="36"><b>Pops, give me an order of fried rice
+and dumplings!</b></font>
+
+10
+00:03:41,340 --> 00:03:43,010
+<font face="Open Sans Semibold" size="36"><b>Got it! Coming right up!</b></font>
+
+11
+00:03:43,050 --> 00:03:44,720
+<font face="Open Sans Semibold" size="36"><b>Dumplings for me!</b></font>
+
+12
+00:03:44,800 --> 00:03:45,510
+<font face="Open Sans Semibold" size="36"><b>Gotcha!</b></font>
+
+13
+00:04:09,010 --> 00:04:10,050
+<font face="Open Sans Semibold" size="36"><b>What a weird kid.</b></font>
+
+14
+00:04:11,630 --> 00:04:12,970
+<font face="Open Sans Semibold" size="36"><b>He's the kid…</b></font>
+
+15
+00:04:14,550 --> 00:04:18,050
+<font face="Open Sans Semibold" size="36"><b>Did you hear the rumors that
+the Fourth died because of him?</b></font>
+
+16
+00:04:18,170 --> 00:04:19,470
+<font face="Open Sans Semibold" size="36"><b>Oh…</b></font>
+
+17
+00:04:31,380 --> 00:04:32,590
+<font face="Open Sans Semibold" size="36"><b>I'm home…</b></font>
+
+18
+00:06:31,670 --> 00:06:33,920
+<font face="Open Sans Semibold" size="36"><b>Oww...</b></font>
+
+19
+00:06:38,510 --> 00:06:39,380
+<font face="Open Sans Semibold" size="36"><b>Oh!</b></font>
+
+20
+00:06:43,220 --> 00:06:45,340
+<font face="Open Sans Semibold" size="36"><b>Wow!</b></font>
+
+21
+00:06:45,970 --> 00:06:48,130
+<font face="Open Sans Semibold" size="36"><b>Wow!</b></font>
+
+22
+00:07:39,010 --> 00:07:40,510
+<font face="Open Sans Semibold" size="36"><b>Wh-Who are you?</b></font>
+
+23
+00:07:41,090 --> 00:07:46,920
+<font face="Open Sans Semibold" size="36"><b>Just an old man passing through.</b></font>
+
+24
+00:08:10,260 --> 00:08:12,800
+<font face="Open Sans Semibold" size="36"><b>Here, gramps, eat this.</b></font>
+
+25
+00:08:13,130 --> 00:08:15,670
+<font face="Open Sans Semibold" size="36"><b>Oh, thank you.</b></font>
+
+26
+00:08:15,760 --> 00:08:19,470
+<font face="Open Sans Semibold" size="36"><b>Oh, this looks so good.</b></font>
+
+27
+00:08:19,760 --> 00:08:23,130
+<font face="Open Sans Semibold" size="36"><b>Well, I caught it.</b></font>
+
+28
+00:08:24,590 --> 00:08:26,800
+<font face="Open Sans Semibold" size="36"><b>So of course,
+it's gonna taste good!</b></font>
+
+29
+00:08:27,170 --> 00:08:28,670
+<font face="Open Sans Semibold" size="36"><b>Is that so?</b></font>
+
+30
+00:08:29,300 --> 00:08:31,090
+<font face="Open Sans Semibold" size="36"><b>H-Hot!</b></font>
+
+31
+00:08:31,720 --> 00:08:34,260
+<font face="Open Sans Semibold" size="36"><b>Look at those stars.</b></font>
+
+32
+00:08:36,630 --> 00:08:41,590
+<font face="Open Sans Semibold" size="36"><b>Each one of those stars
+is like our world's sun.</b></font>
+
+33
+00:08:44,920 --> 00:08:48,470
+<font face="Open Sans Semibold" size="36"><b>What do you think?
+The sheer amount is incredible, eh?</b></font>
+
+34
+00:08:48,760 --> 00:08:52,260
+<font face="Open Sans Semibold" size="36"><b>The sun? That giant thing that
+shines in the sky during the day?</b></font>
+
+35
+00:08:53,260 --> 00:08:57,010
+<font face="Open Sans Semibold" size="36"><b>Yes. This world is boundless.</b></font>
+
+36
+00:08:57,550 --> 00:09:01,550
+<font face="Open Sans Semibold" size="36"><b>Yeah? You sure know a lot, gramps!</b></font>
+
+37
+00:09:02,760 --> 00:09:10,090
+<font face="Open Sans Semibold" size="36"><b>Compared to the vastness of the world,
+man's existence is very insignificant.</b></font>
+
+38
+00:09:11,380 --> 00:09:18,010
+<font face="Open Sans Semibold" size="36"><b>The things that insignificant humans
+fret about are petty indeed.</b></font>
+
+39
+00:09:19,760 --> 00:09:24,510
+<font face="Open Sans Semibold" size="36"><b>No kidding. The world is big, huh.</b></font>
+
+40
+00:09:28,260 --> 00:09:30,840
+<font face="Open Sans Semibold" size="36"><b>It goes on and on…</b></font>
+
+41
+00:09:46,630 --> 00:09:49,550
+<font face="Open Sans Semibold" size="36"><b>Do you want some
+mushroom soup, gramps?</b></font>
+
+42
+00:09:49,630 --> 00:09:52,420
+<font face="Open Sans Semibold" size="36"><b>Are you sure
+you can spare me some?</b></font>
+
+43
+00:09:52,670 --> 00:09:56,170
+<font face="Open Sans Semibold" size="36"><b>Sure! You tell great stories, gramps!</b></font>
+
+44
+00:09:56,670 --> 00:09:57,510
+<font face="Open Sans Semibold" size="36"><b>I see!</b></font>
+
+45
+00:09:57,720 --> 00:10:00,300
+<font face="Open Sans Semibold" size="36"><b>Are you sure these mushrooms
+are safe?</b></font>
+
+46
+00:10:00,380 --> 00:10:01,920
+<font face="Open Sans Semibold" size="36"><b>Won't know until we eat ‘em!</b></font>
+
+47
+00:10:42,220 --> 00:10:46,880
+<font face="Open Sans Semibold" size="36"><b>He's right…
+Compared to the world, I'm just…</b></font>
+
+48
+00:10:47,840 --> 00:10:50,840
+<font face="Open Sans Semibold" size="36"><b>I'm so small, whatever I do…</b></font>
+
+49
+00:10:52,920 --> 00:10:55,800
+<font face="Open Sans Semibold" size="36"><b>But I'm me. That's who I am!</b></font>
+
+50
+00:11:59,940 --> 00:12:02,990
+<font face="Open Sans Semibold" size="36"><b>All right, that will do for today.</b></font>
+
+51
+00:12:06,400 --> 00:12:08,940
+<font face="Open Sans Semibold" size="36"><b>No, Father…</b></font>
+
+52
+00:12:09,940 --> 00:12:11,900
+<font face="Open Sans Semibold" size="36"><b>I can still continue!</b></font>
+
+53
+00:12:16,900 --> 00:12:17,690
+<font face="Open Sans Semibold" size="36"><b>Neji…</b></font>
+
+54
+00:12:18,320 --> 00:12:19,610
+<font face="Open Sans Semibold" size="36"><b>You mustn't push yourself too hard.</b></font>
+
+55
+00:12:20,780 --> 00:12:24,400
+<font face="Open Sans Semibold" size="36"><b>But considering your age,
+you've certainly gotten strong.</b></font>
+
+56
+00:12:25,110 --> 00:12:26,240
+<font face="Open Sans Semibold" size="36"><b>Father…</b></font>
+
+57
+00:12:26,400 --> 00:12:29,110
+<font face="Open Sans Semibold" size="36"><b>Thank you for sparring with me.</b></font>
+
+58
+00:12:50,900 --> 00:12:52,940
+<font face="Open Sans Semibold" size="36"><b>Oh, Father…</b></font>
+
+59
+00:12:54,490 --> 00:12:59,860
+<font face="Open Sans Semibold" size="36"><b>I have heard that your older brother
+has a child like me.</b></font>
+
+60
+00:13:00,280 --> 00:13:03,900
+<font face="Open Sans Semibold" size="36"><b>Yes… A girl, one year younger than you.</b></font>
+
+61
+00:13:04,820 --> 00:13:06,030
+<font face="Open Sans Semibold" size="36"><b>A girl…</b></font>
+
+62
+00:13:06,030 --> 00:13:09,030
+<font face="Open Sans Semibold" size="36"><b>We will be going to a celebration
+tomorrow for her third birthday.</b></font>
+
+63
+00:13:09,820 --> 00:13:11,650
+<font face="Open Sans Semibold" size="36"><b>I wonder what she's like…</b></font>
+
+64
+00:13:15,900 --> 00:13:18,610
+<font face="Open Sans Semibold" size="36"><b>Father, it's snowing!</b></font>
+
+65
+00:13:23,030 --> 00:13:24,150
+<font face="Open Sans Semibold" size="36"><b>The first snow…</b></font>
+
+66
+00:13:25,530 --> 00:13:27,360
+<font face="Open Sans Semibold" size="36"><b>It's going to turn into
+a heavy snowfall.</b></font>
+
+67
+00:13:37,990 --> 00:13:40,360
+<font face="Open Sans Semibold" size="36"><b>Look at all the snow!</b></font>
+
+68
+00:13:41,940 --> 00:13:43,490
+<font face="Open Sans Semibold" size="36"><b>All right, we're off.</b></font>
+
+69
+00:13:44,610 --> 00:13:46,860
+<font face="Open Sans Semibold" size="36"><b>Dear, please...</b></font>
+
+70
+00:13:47,530 --> 00:13:49,610
+<font face="Open Sans Semibold" size="36"><b>Look after Neji.</b></font>
+
+71
+00:13:51,030 --> 00:13:53,490
+<font face="Open Sans Semibold" size="36"><b>Among the Hyuga,</b></font>
+
+72
+00:13:53,780 --> 00:13:56,570
+<font face="Open Sans Semibold" size="36"><b>he is the one with
+the most potential.</b></font>
+
+73
+00:13:57,110 --> 00:13:59,030
+<font face="Open Sans Semibold" size="36"><b>I shall protect him.</b></font>
+
+74
+00:13:59,900 --> 00:14:05,820
+<font face="Open Sans Semibold" size="36"><b>HYUGA
+
+</b></font>
+
+75
+00:14:05,820 --> 00:14:06,820
+<font face="Open Sans Semibold" size="36"><b>HYUGA
+
+Lady Hinata...</b></font>
+
+76
+00:14:06,900 --> 00:14:09,400
+<font face="Open Sans Semibold" size="36"><b>Congratulations
+on your third birthday.</b></font>
+
+77
+00:14:09,990 --> 00:14:11,360
+<font face="Open Sans Semibold" size="36"><b>Lady Hinata…</b></font>
+
+78
+00:14:11,780 --> 00:14:12,860
+<font face="Open Sans Semibold" size="36"><b>...is a cute child.</b></font>
+
+79
+00:14:14,150 --> 00:14:15,240
+<font face="Open Sans Semibold" size="36"><b>Neji...</b></font>
+
+80
+00:14:15,940 --> 00:14:17,900
+<font face="Open Sans Semibold" size="36"><b>It is your destiny to protect her,</b></font>
+
+81
+00:14:17,900 --> 00:14:21,820
+<font face="Open Sans Semibold" size="36"><b>and to protect
+the Hyuga bloodline.</b></font>
+
+82
+00:14:23,280 --> 00:14:25,650
+<font face="Open Sans Semibold" size="36"><b>The Hyuga…bloodline?</b></font>
+
+83
+00:14:31,190 --> 00:14:32,530
+<font face="Open Sans Semibold" size="36"><b>Father!</b></font>
+
+84
+00:15:05,440 --> 00:15:07,150
+<font face="Open Sans Semibold" size="36"><b>Neji is very strong.</b></font>
+
+85
+00:15:08,030 --> 00:15:09,070
+<font face="Open Sans Semibold" size="36"><b>When we were young—</b></font>
+
+86
+00:15:09,150 --> 00:15:11,740
+<font face="Open Sans Semibold" size="36"><b>Neji lives for Lady Hinata's sake.</b></font>
+
+87
+00:15:12,190 --> 00:15:13,860
+<font face="Open Sans Semibold" size="36"><b>That is the Hyuga destiny.</b></font>
+
+88
+00:15:22,650 --> 00:15:24,900
+<font face="Open Sans Semibold" size="36"><b>All right, that will do for today.</b></font>
+
+89
+00:15:27,030 --> 00:15:28,740
+<font face="Open Sans Semibold" size="36"><b>Neji, you are strong indeed.</b></font>
+
+90
+00:15:29,110 --> 00:15:30,990
+<font face="Open Sans Semibold" size="36"><b>Hinata, you have a ways to go.</b></font>
+
+91
+00:15:31,360 --> 00:15:34,030
+<font face="Open Sans Semibold" size="36"><b>No, my father's daily lessons are…</b></font>
+
+92
+00:15:35,610 --> 00:15:38,570
+<font face="Open Sans Semibold" size="36"><b>I…don't like…</b></font>
+
+93
+00:15:39,070 --> 00:15:40,690
+<font face="Open Sans Semibold" size="36"><b>to practice taijutsu.</b></font>
+
+94
+00:15:40,900 --> 00:15:42,530
+<font face="Open Sans Semibold" size="36"><b>What are you saying?</b></font>
+
+95
+00:15:42,900 --> 00:15:46,190
+<font face="Open Sans Semibold" size="36"><b>You are the important successor
+of the Hyuga clan.</b></font>
+
+96
+00:15:46,820 --> 00:15:49,780
+<font face="Open Sans Semibold" size="36"><b>You must be more positive
+and confident.</b></font>
+
+97
+00:15:51,030 --> 00:15:53,820
+<font face="Open Sans Semibold" size="36"><b>I wish I could switch with you,
+Big Brother Neji…</b></font>
+
+98
+00:15:54,030 --> 00:15:56,860
+<font face="Open Sans Semibold" size="36"><b>You are very strong, after all.</b></font>
+
+99
+00:15:58,070 --> 00:16:00,780
+<font face="Open Sans Semibold" size="36"><b>No, you must never say
+such a thing.</b></font>
+
+100
+00:16:01,070 --> 00:16:03,530
+<font face="Open Sans Semibold" size="36"><b>I will make you strong!</b></font>
+
+101
+00:16:04,190 --> 00:16:07,110
+<font face="Open Sans Semibold" size="36"><b>When you are in danger,
+I will give my life to protect you!</b></font>
+
+102
+00:16:09,360 --> 00:16:10,690
+<font face="Open Sans Semibold" size="36"><b>Brother Neji!</b></font>
+
+103
+00:16:12,940 --> 00:16:14,860
+<font face="Open Sans Semibold" size="36"><b>Lady Hinata, it's snowing!</b></font>
+
+104
+00:16:16,860 --> 00:16:22,240
+<font face="Open Sans Semibold" size="36"><b>I had a snowball fight with my father
+this morning, and I hit him twice!</b></font>
+
+105
+00:16:47,820 --> 00:16:52,990
+<font face="Open Sans Semibold" size="36"><b>LANTERN FOR THE DECEASED
+</b></font>
+
+106
+00:16:53,280 --> 00:16:54,320
+<font face="Open Sans Semibold" size="36"><b>Hizashi!</b></font>
+
+107
+00:16:54,400 --> 00:16:55,860
+<font face="Open Sans Semibold" size="36"><b>He's only four…</b></font>
+
+108
+00:16:55,940 --> 00:16:58,820
+<font face="Open Sans Semibold" size="36"><b>It's such a pity…</b></font>
+
+109
+00:17:09,990 --> 00:17:11,610
+<font face="Open Sans Semibold" size="36"><b>Big Brother Neji…</b></font>
+
+110
+00:17:33,150 --> 00:17:37,940
+<font face="Open Sans Semibold" size="36"><b>LANTERN FOR THE DECEASED
+</b></font>
+
+111
+00:18:55,990 --> 00:18:58,320
+<font face="Open Sans Semibold" size="36"><b>What are you doing?!</b></font>
+
+112
+00:19:00,940 --> 00:19:02,990
+<font face="Open Sans Semibold" size="36"><b>What're you doing here?</b></font>
+
+113
+00:19:04,940 --> 00:19:07,820
+<font face="Open Sans Semibold" size="36"><b>If you keep crying,
+how am I supposed to find out?</b></font>
+
+114
+00:19:09,490 --> 00:19:12,940
+<font face="Open Sans Semibold" size="36"><b>I…I…</b></font>
+
+115
+00:19:20,280 --> 00:19:22,530
+<font face="Open Sans Semibold" size="36"><b>Where's your house?</b></font>
+
+116
+00:19:23,990 --> 00:19:25,940
+<font face="Open Sans Semibold" size="36"><b>Oh well, come on.</b></font>
+
+117
+00:19:26,030 --> 00:19:27,240
+<font face="Open Sans Semibold" size="36"><b>Let's go.</b></font>
+
+118
+00:19:38,320 --> 00:19:41,860
+<font face="Open Sans Semibold" size="36"><b>HYUGA
+
+</b></font>
+
+119
+00:19:41,860 --> 00:19:46,070
+<font face="Open Sans Semibold" size="36"><b>HYUGA
+
+You live in a big house like this,</b></font>
+
+120
+00:19:46,150 --> 00:19:48,190
+<font face="Open Sans Semibold" size="36"><b>and you're crying?</b></font>
+
+121
+00:19:51,240 --> 00:19:55,860
+<font face="Open Sans Semibold" size="36"><b>I don't have anyone,
+but I never cry.</b></font>
+
+122
+00:19:56,360 --> 00:19:58,780
+<font face="Open Sans Semibold" size="36"><b>Never!</b></font>
+
+123
+00:20:08,150 --> 00:20:09,190
+<font face="Open Sans Semibold" size="36"><b>Later!</b></font>
+
+124
+00:20:13,860 --> 00:20:14,940
+<font face="Open Sans Semibold" size="36"><b>Hinata!</b></font>
+
+125
+00:20:18,030 --> 00:20:20,190
+<font face="Open Sans Semibold" size="36"><b>You are the important heir
+to the Main Family!</b></font>
+
+126
+00:20:20,280 --> 00:20:22,320
+<font face="Open Sans Semibold" size="36"><b>What do you think you're doing?!</b></font>
+
+127
+00:20:22,990 --> 00:20:23,900
+<font face="Open Sans Semibold" size="36"><b>I…</b></font>
+
+128
+00:20:24,740 --> 00:20:28,070
+<font face="Open Sans Semibold" size="36"><b>For your sake, and for the sake
+of the Main Family,</b></font>
+
+129
+00:20:28,150 --> 00:20:31,030
+<font face="Open Sans Semibold" size="36"><b>many people have made
+the ultimate sacrifice.</b></font>
+
+130
+00:20:32,190 --> 00:20:35,940
+<font face="Open Sans Semibold" size="36"><b>It's about time you learned
+about these things.</b></font>
+
+131
+00:22:40,650 --> 00:22:41,900
+<font face="Open Sans Semibold" size="36"><b>You must surpass me.
+
+</b></font>
+
+132
+00:22:41,900 --> 00:22:43,320
+<font face="Open Sans Semibold" size="36"><b>That's impossible!
+
+</b></font>
+
+133
+00:22:43,400 --> 00:22:46,690
+<font face="Open Sans Semibold" size="36"><b>You're a lot like me.
+You have the potential.
+
+</b></font>
+
+134
+00:22:46,860 --> 00:22:48,440
+<font face="Open Sans Semibold" size="36"><b>Then I will surpass you!
+
+</b></font>
+
+135
+00:22:48,530 --> 00:22:51,400
+<font face="Open Sans Semibold" size="36"><b>Sakura, aren't your bangs
+getting in the way?
+
+</b></font>
+
+136
+00:22:51,490 --> 00:22:52,690
+<font face="Open Sans Semibold" size="36"><b>You should just cut them!
+
+</b></font>
+
+137
+00:22:52,780 --> 00:22:55,280
+<font face="Open Sans Semibold" size="36"><b>If you say things like that,
+Sakura will start hating you!
+
+</b></font>
+
+138
+00:22:59,780 --> 00:23:03,570
+<font face="Open Sans Semibold" size="36"><b>Next time on Naruto Shippuden:
+"SASUKE - SAKURA"
+
+
+</b></font>
+
+139
+00:23:08,770 --> 00:23:28,360
+<font face="Open Sans Semibold" size="36"><b>Tune in again!
+
+
+</b></font>
+

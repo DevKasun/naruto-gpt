@@ -1,0 +1,1307 @@
+1
+00:00:17,270 --> 00:00:19,130
+<font face="Open Sans Semibold" size="36"><b>No, it's not them.</b></font>
+
+2
+00:00:19,700 --> 00:00:21,730
+<font face="Open Sans Semibold" size="36"><b>Okay... Let's go!</b></font>
+
+3
+00:00:49,470 --> 00:00:50,500
+<font face="Open Sans Semibold" size="36"><b>Scoundrels!</b></font>
+
+4
+00:00:54,900 --> 00:00:57,000
+<font face="Open Sans Semibold" size="36"><b>This is a problem, old guys.</b></font>
+
+5
+00:00:57,170 --> 00:00:58,600
+<font face="Open Sans Semibold" size="36"><b>You should have received
+a communication</b></font>
+
+6
+00:00:58,630 --> 00:01:01,300
+<font face="Open Sans Semibold" size="36"><b>from the Land of Fire
+about the temporary curfew.</b></font>
+
+7
+00:01:03,200 --> 00:01:06,770
+<font face="Open Sans Semibold" size="36"><b>We thought we could be
+of use somehow.</b></font>
+
+8
+00:01:07,100 --> 00:01:10,900
+<font face="Open Sans Semibold" size="36"><b>We won't be giving in
+to you youngsters!</b></font>
+
+9
+00:01:15,270 --> 00:01:17,200
+<font face="Open Sans Semibold" size="36"><b>That was a surprise.</b></font>
+
+10
+00:01:17,530 --> 00:01:18,530
+<font face="Open Sans Semibold" size="36"><b>Yeah...</b></font>
+
+11
+00:02:49,730 --> 00:02:53,900
+<font face="Open Sans Semibold" size="36"><b><i>The Old Monk's Prayer
+
+</i></b></font>
+
+12
+00:02:59,230 --> 00:03:01,600
+<font face="Open Sans Semibold" size="36"><b>Using the twenty platoons,</b></font>
+
+13
+00:03:01,630 --> 00:03:04,070
+<font face="Open Sans Semibold" size="36"><b>we are currently laying out a search net
+with a radius of 150 kilometers</b></font>
+
+14
+00:03:04,100 --> 00:03:06,630
+<font face="Open Sans Semibold" size="36"><b>around the border and
+the Temple of Fire.</b></font>
+
+15
+00:03:08,930 --> 00:03:11,030
+<font face="Open Sans Semibold" size="36"><b>Even an ant couldn't crawl out.</b></font>
+
+16
+00:03:14,100 --> 00:03:15,100
+<font face="Open Sans Semibold" size="36"><b>Excuse me.</b></font>
+
+17
+00:03:15,770 --> 00:03:17,900
+<font face="Open Sans Semibold" size="36"><b>We have received a report
+from Platoon Three.</b></font>
+
+18
+00:03:18,470 --> 00:03:22,230
+<font face="Open Sans Semibold" size="36"><b>No sign of the Akatsuki
+in border areas C and E.</b></font>
+
+19
+00:03:23,130 --> 00:03:24,170
+<font face="Open Sans Semibold" size="36"><b>No sign, huh?!</b></font>
+
+20
+00:03:25,100 --> 00:03:26,100
+<font face="Open Sans Semibold" size="36"><b>Reporting!</b></font>
+
+21
+00:03:26,930 --> 00:03:29,130
+<font face="Open Sans Semibold" size="36"><b>Areas F and G are normal!</b></font>
+
+22
+00:03:29,830 --> 00:03:31,670
+<font face="Open Sans Semibold" size="36"><b>The Akatsuki still have not been found!</b></font>
+
+23
+00:03:32,700 --> 00:03:33,700
+<font face="Open Sans Semibold" size="36"><b>Then...</b></font>
+
+24
+00:03:35,470 --> 00:03:36,870
+<font face="Open Sans Semibold" size="36"><b>Why haven't they been found?</b></font>
+
+25
+00:03:38,330 --> 00:03:40,530
+<font face="Open Sans Semibold" size="36"><b>Have we heard from Team Asuma
+who went to the Temple of Fire?</b></font>
+
+26
+00:03:40,830 --> 00:03:42,870
+<font face="Open Sans Semibold" size="36"><b>No report from them yet.</b></font>
+
+27
+00:03:51,670 --> 00:03:52,830
+<font face="Open Sans Semibold" size="36"><b><i>Chiriku...</i></b></font>
+
+28
+00:04:03,170 --> 00:04:04,230
+<font face="Open Sans Semibold" size="36"><b>What's this...?</b></font>
+
+29
+00:04:11,600 --> 00:04:13,770
+<font face="Open Sans Semibold" size="36"><b>You are from
+the Hidden Leaf Village, right?</b></font>
+
+30
+00:04:14,570 --> 00:04:15,370
+<font face="Open Sans Semibold" size="36"><b>Yes.</b></font>
+
+31
+00:04:16,030 --> 00:04:19,930
+<font face="Open Sans Semibold" size="36"><b>We were contacted by the monk
+who is in your care.</b></font>
+
+32
+00:04:20,730 --> 00:04:24,730
+<font face="Open Sans Semibold" size="36"><b>I am the head monk
+of the Temple of Fire.</b></font>
+
+33
+00:04:25,530 --> 00:04:28,530
+<font face="Open Sans Semibold" size="36"><b>I had been out of
+the temple for a while.</b></font>
+
+34
+00:04:28,700 --> 00:04:31,030
+<font face="Open Sans Semibold" size="36"><b>When I heard about
+what happened here...</b></font>
+
+35
+00:04:31,070 --> 00:04:33,700
+<font face="Open Sans Semibold" size="36"><b>I rushed back as quickly
+as I could, but...</b></font>
+
+36
+00:04:34,330 --> 00:04:36,770
+<font face="Open Sans Semibold" size="36"><b>It was a terrible sight...</b></font>
+
+37
+00:04:46,370 --> 00:04:50,400
+<font face="Open Sans Semibold" size="36"><b>We asked neighboring temples
+for help recovering the remains.</b></font>
+
+38
+00:04:53,900 --> 00:04:55,170
+<font face="Open Sans Semibold" size="36"><b>This is awful.</b></font>
+
+39
+00:04:56,000 --> 00:04:58,270
+<font face="Open Sans Semibold" size="36"><b>Where's Chiriku?</b></font>
+
+40
+00:05:00,230 --> 00:05:04,570
+<font face="Open Sans Semibold" size="36"><b>Actually...we have been unable
+to find Lord Chiriku's remains.</b></font>
+
+41
+00:05:06,870 --> 00:05:08,970
+<font face="Open Sans Semibold" size="36"><b>Umm... Captain Asuma.</b></font>
+
+42
+00:05:10,500 --> 00:05:13,270
+<font face="Open Sans Semibold" size="36"><b>I don't really want to bring this up...</b></font>
+
+43
+00:05:13,870 --> 00:05:16,830
+<font face="Open Sans Semibold" size="36"><b>But Chiriku has a 30 million ryo
+bounty on his head</b></font>
+
+44
+00:05:16,870 --> 00:05:18,430
+<font face="Open Sans Semibold" size="36"><b>on the black market.</b></font>
+
+45
+00:05:18,530 --> 00:05:19,870
+<font face="Open Sans Semibold" size="36"><b>A bounty...</b></font>
+
+46
+00:05:20,600 --> 00:05:23,770
+<font face="Open Sans Semibold" size="36"><b>If those guys from the Akatsuki
+know about the bounty...</b></font>
+
+47
+00:05:24,130 --> 00:05:25,130
+<font face="Open Sans Semibold" size="36"><b>Yeah...</b></font>
+
+48
+00:05:25,370 --> 00:05:26,900
+<font face="Open Sans Semibold" size="36"><b>A collection office, huh?</b></font>
+
+49
+00:05:27,400 --> 00:05:30,830
+<font face="Open Sans Semibold" size="36"><b>So that basically means the enemy
+is carrying the body, right?</b></font>
+
+50
+00:05:32,500 --> 00:05:34,800
+<font face="Open Sans Semibold" size="36"><b>Izumo, where is the collection office?</b></font>
+
+51
+00:05:35,100 --> 00:05:39,570
+<font face="Open Sans Semibold" size="36"><b>Including the closest one,
+there are five locations in total.</b></font>
+
+52
+00:05:45,400 --> 00:05:48,870
+<font face="Open Sans Semibold" size="36"><b>Now the nearby teams can rush right
+to the other four exchange point locations.</b></font>
+
+53
+00:05:49,600 --> 00:05:51,600
+<font face="Open Sans Semibold" size="36"><b>All right, let's hurry.</b></font>
+
+54
+00:05:51,630 --> 00:05:55,000
+<font face="Open Sans Semibold" size="36"><b>Please wait a moment,
+Lord Asuma Sarutobi.</b></font>
+
+55
+00:05:56,570 --> 00:06:02,600
+<font face="Open Sans Semibold" size="36"><b>Please allow me to say a prayer
+for all of you who are about to fight.</b></font>
+
+56
+00:06:04,830 --> 00:06:05,930
+<font face="Open Sans Semibold" size="36"><b>Please...</b></font>
+
+57
+00:06:08,100 --> 00:06:09,270
+<font face="Open Sans Semibold" size="36"><b>Okay.</b></font>
+
+58
+00:06:26,000 --> 00:06:27,200
+<font face="Open Sans Semibold" size="36"><b><i>Chiriku...</i></b></font>
+
+59
+00:07:10,130 --> 00:07:11,370
+<font face="Open Sans Semibold" size="36"><b><i>Chiriku...</i></b></font>
+
+60
+00:07:13,000 --> 00:07:17,070
+<font face="Open Sans Semibold" size="36"><b><i>Now I'm the only member of
+<i>the Guardian Shinobi Twelve left, huh...?</i></i></b></font>
+
+61
+00:07:18,370 --> 00:07:21,370
+<font face="Open Sans Semibold" size="36"><b><i>I wanted to talk the night away
+<i>with you one more time.</i></i></b></font>
+
+62
+00:07:23,170 --> 00:07:26,900
+<font face="Open Sans Semibold" size="36"><b><i>There were things I wanted
+<i>to talk to you about.</i></i></b></font>
+
+63
+00:07:26,930 --> 00:07:29,370
+<font face="Open Sans Semibold" size="36"><b><i>And things I wanted you to hear...</i></b></font>
+
+64
+00:07:43,400 --> 00:07:45,700
+<font face="Open Sans Semibold" size="36"><b>Please be safe.</b></font>
+
+65
+00:07:46,670 --> 00:07:47,930
+<font face="Open Sans Semibold" size="36"><b>Thank you very much.</b></font>
+
+66
+00:07:48,900 --> 00:07:52,070
+<font face="Open Sans Semibold" size="36"><b>At the very least...
+I'll get back Chiriku's remains.</b></font>
+
+67
+00:07:52,670 --> 00:07:55,170
+<font face="Open Sans Semibold" size="36"><b>Please don't push things too far.</b></font>
+
+68
+00:07:57,700 --> 00:08:01,870
+<font face="Open Sans Semibold" size="36"><b>You have a bounty on your head
+for being a former member</b></font>
+
+69
+00:08:01,900 --> 00:08:04,430
+<font face="Open Sans Semibold" size="36"><b>of the Guardian Shinobi Twelve...
+just like Chiriku.</b></font>
+
+70
+00:08:05,670 --> 00:08:07,400
+<font face="Open Sans Semibold" size="36"><b>Please be careful.</b></font>
+
+71
+00:08:08,070 --> 00:08:11,670
+<font face="Open Sans Semibold" size="36"><b>You don't need to worry!</b></font>
+
+72
+00:08:12,200 --> 00:08:16,530
+<font face="Open Sans Semibold" size="36"><b>The bounty on my head is
+five million ryo more than Chiriku's.</b></font>
+
+73
+00:08:21,570 --> 00:08:23,400
+<font face="Open Sans Semibold" size="36"><b><i>The only thing to worry about
+<i>with Asuma</i></i></b></font>
+
+74
+00:08:23,430 --> 00:08:25,670
+<font face="Open Sans Semibold" size="36"><b><i>is that he smokes too much.</i></b></font>
+
+75
+00:08:46,230 --> 00:08:48,130
+<font face="Open Sans Semibold" size="36"><b>I wonder what happened
+with the training.</b></font>
+
+76
+00:08:48,800 --> 00:08:51,370
+<font face="Open Sans Semibold" size="36"><b>And here I went to the trouble
+of making and bringing more food pills.</b></font>
+
+77
+00:08:53,900 --> 00:08:55,630
+<font face="Open Sans Semibold" size="36"><b>Nobody's here, huh?</b></font>
+
+78
+00:08:56,730 --> 00:08:57,730
+<font face="Open Sans Semibold" size="36"><b>Sai.</b></font>
+
+79
+00:08:58,470 --> 00:09:01,270
+<font face="Open Sans Semibold" size="36"><b>Did you come to check
+on Naruto, too?</b></font>
+
+80
+00:09:01,630 --> 00:09:04,470
+<font face="Open Sans Semibold" size="36"><b>No, I was just taking
+a walk to make sure</b></font>
+
+81
+00:09:04,500 --> 00:09:07,100
+<font face="Open Sans Semibold" size="36"><b>I didn't get out of shape
+due to my injury.</b></font>
+
+82
+00:09:07,530 --> 00:09:09,600
+<font face="Open Sans Semibold" size="36"><b>Oh, at a time like this...</b></font>
+
+83
+00:09:10,600 --> 00:09:12,530
+<font face="Open Sans Semibold" size="36"><b>Actually, that's exactly right.</b></font>
+
+84
+00:09:12,870 --> 00:09:15,300
+<font face="Open Sans Semibold" size="36"><b>Yes, it's good to be honest.</b></font>
+
+85
+00:09:15,870 --> 00:09:18,600
+<font face="Open Sans Semibold" size="36"><b>Was Naruto's training...suspended?</b></font>
+
+86
+00:09:18,970 --> 00:09:21,630
+<font face="Open Sans Semibold" size="36"><b>He probably just went off
+somewhere to unwind.</b></font>
+
+87
+00:09:22,030 --> 00:09:24,400
+<font face="Open Sans Semibold" size="36"><b>His body and mind won't hold up</b></font>
+
+88
+00:09:24,430 --> 00:09:26,800
+<font face="Open Sans Semibold" size="36"><b>if he continues tough
+special training like that.</b></font>
+
+89
+00:09:28,300 --> 00:09:32,070
+<font face="Open Sans Semibold" size="36"><b>Ramen... Ichiraku ramen...</b></font>
+
+90
+00:09:32,100 --> 00:09:36,200
+<font face="Open Sans Semibold" size="36"><b>Yeah-yeah, I know.
+Walk just a little while longer.</b></font>
+
+91
+00:09:36,800 --> 00:09:41,100
+<font face="Open Sans Semibold" size="36"><b>I know.
+You should have one of these, too!</b></font>
+
+92
+00:09:41,470 --> 00:09:44,300
+<font face="Open Sans Semibold" size="36"><b>What is this...? A mud ball?</b></font>
+
+93
+00:09:44,370 --> 00:09:47,770
+<font face="Open Sans Semibold" size="36"><b>How rude. This is one of
+my special homemade food pills!</b></font>
+
+94
+00:09:47,800 --> 00:09:49,670
+<font face="Open Sans Semibold" size="36"><b>It's extra special!</b></font>
+
+95
+00:09:51,500 --> 00:09:52,770
+<font face="Open Sans Semibold" size="36"><b>Special...?</b></font>
+
+96
+00:09:52,970 --> 00:09:56,370
+<font face="Open Sans Semibold" size="36"><b>I suppose it's more like medicine
+than a food pill.</b></font>
+
+97
+00:09:56,430 --> 00:10:00,370
+<font face="Open Sans Semibold" size="36"><b>It's filled with nutritious ingredients
+mixed with fast-acting digestive agents,</b></font>
+
+98
+00:10:00,400 --> 00:10:04,930
+<font face="Open Sans Semibold" size="36"><b>all of which I hand-picked and rolled up
+into a ball packed with energy!</b></font>
+
+99
+00:10:04,970 --> 00:10:06,470
+<font face="Open Sans Semibold" size="36"><b>It works really well!</b></font>
+
+100
+00:10:06,500 --> 00:10:11,630
+<font face="Open Sans Semibold" size="36"><b>And it might even add
+some healthy color to that pale skin</b></font>
+
+101
+00:10:11,670 --> 00:10:13,670
+<font face="Open Sans Semibold" size="36"><b>while it helps you recover!</b></font>
+
+102
+00:10:13,770 --> 00:10:16,030
+<font face="Open Sans Semibold" size="36"><b>They say good medicine
+tastes bitter,</b></font>
+
+103
+00:10:16,070 --> 00:10:18,430
+<font face="Open Sans Semibold" size="36"><b>so the food pills might taste
+a little strange.</b></font>
+
+104
+00:10:18,570 --> 00:10:20,770
+<font face="Open Sans Semibold" size="36"><b>But when you consider
+its merits after consumption,</b></font>
+
+105
+00:10:20,800 --> 00:10:23,830
+<font face="Open Sans Semibold" size="36"><b>little details like that will be of no...huh?</b></font>
+
+106
+00:10:26,320 --> 00:10:27,320
+<font face="Open Sans Semibold" size="36"><b>Sai...?</b></font>
+
+107
+00:10:30,430 --> 00:10:33,170
+<font face="Open Sans Semibold" size="36"><b><i>Thank you for the pill. - Sai.</i></b></font>
+
+108
+00:10:34,320 --> 00:10:36,430
+<font face="Open Sans Semibold" size="36"><b>Oh... I feel dizzy...</b></font>
+
+109
+00:10:37,690 --> 00:10:41,560
+<font face="Open Sans Semibold" size="36"><b>This smell and taste are
+going to make me sick</b></font>
+
+110
+00:10:41,600 --> 00:10:44,000
+<font face="Open Sans Semibold" size="36"><b>before the medicine can work...</b></font>
+
+111
+00:10:46,300 --> 00:10:48,270
+<font face="Open Sans Semibold" size="36"><b>T-Tonkotsu...</b></font>
+
+112
+00:10:48,300 --> 00:10:50,230
+<font face="Open Sans Semibold" size="36"><b>Look, we're here...</b></font>
+
+113
+00:10:51,190 --> 00:10:52,230
+<font face="Open Sans Semibold" size="36"><b>Hello.</b></font>
+
+114
+00:10:52,270 --> 00:10:53,870
+<font face="Open Sans Semibold" size="36"><b>Welcome!</b></font>
+
+115
+00:10:57,030 --> 00:10:58,770
+<font face="Open Sans Semibold" size="36"><b>Oh...hi.</b></font>
+
+116
+00:11:01,170 --> 00:11:05,820
+<font face="Open Sans Semibold" size="36"><b>Old man, I'll take an extra-large
+tonkotsu miso with pork slices...</b></font>
+
+117
+00:11:05,870 --> 00:11:07,190
+<font face="Open Sans Semibold" size="36"><b>on the double.</b></font>
+
+118
+00:11:07,370 --> 00:11:09,800
+<font face="Open Sans Semibold" size="36"><b>Here!
+We have a new menu now!</b></font>
+
+119
+00:11:10,270 --> 00:11:14,820
+<font face="Open Sans Semibold" size="36"><b>I want...an extra-large
+tonkotsu miso with pork slices...</b></font>
+
+120
+00:11:14,870 --> 00:11:16,130
+<font face="Open Sans Semibold" size="36"><b>and extra-firm noodles.</b></font>
+
+121
+00:11:16,170 --> 00:11:18,630
+<font face="Open Sans Semibold" size="36"><b>Hey! Look at the menu!</b></font>
+
+122
+00:11:18,670 --> 00:11:20,770
+<font face="Open Sans Semibold" size="36"><b>Sorry, Naruto.</b></font>
+
+123
+00:11:20,900 --> 00:11:23,930
+<font face="Open Sans Semibold" size="36"><b>We've made some big changes
+to the menu as of today.</b></font>
+
+124
+00:11:24,370 --> 00:11:26,560
+<font face="Open Sans Semibold" size="36"><b>We now serve tsukemen!</b></font>
+
+125
+00:11:26,600 --> 00:11:28,030
+<font face="Open Sans Semibold" size="36"><b>I see...</b></font>
+
+126
+00:11:28,300 --> 00:11:31,630
+<font face="Open Sans Semibold" size="36"><b>Then, I'll have an extra-large
+tonkotsu miso with pork slices...</b></font>
+
+127
+00:11:31,670 --> 00:11:33,400
+<font face="Open Sans Semibold" size="36"><b>and extra red pickled ginger...</b></font>
+
+128
+00:11:33,430 --> 00:11:37,000
+<font face="Open Sans Semibold" size="36"><b>I told you, we don't serve
+ramen anymore!</b></font>
+
+129
+00:11:37,030 --> 00:11:37,820
+<font face="Open Sans Semibold" size="36"><b>Huh?</b></font>
+
+130
+00:11:38,690 --> 00:11:43,320
+<font face="Open Sans Semibold" size="36"><b>SPECIAL
+ICHIRAKU TSUKEMEN</b></font>
+
+131
+00:11:45,000 --> 00:11:48,800
+<font face="Open Sans Semibold" size="36"><b>So that means...
+now you specialize in tsukemen?</b></font>
+
+132
+00:11:49,270 --> 00:11:53,630
+<font face="Open Sans Semibold" size="36"><b>My daughter Ayame went out for
+noodle-making training for a while.</b></font>
+
+133
+00:11:53,670 --> 00:11:57,400
+<font face="Open Sans Semibold" size="36"><b>And when she came back she said,
+"Dad, the age of tsukemen is here!</b></font>
+
+134
+00:11:57,430 --> 00:12:00,600
+<font face="Open Sans Semibold" size="36"><b>We should explore
+Ichiraku's new potential!"</b></font>
+
+135
+00:12:00,690 --> 00:12:04,130
+<font face="Open Sans Semibold" size="36"><b>She gives me this smart-aleck advice,
+you see...</b></font>
+
+136
+00:12:05,190 --> 00:12:06,970
+<font face="Open Sans Semibold" size="36"><b>The tastes and preferences
+of our customers change</b></font>
+
+137
+00:12:07,000 --> 00:12:08,300
+<font face="Open Sans Semibold" size="36"><b>along with the times!</b></font>
+
+138
+00:12:08,320 --> 00:12:11,670
+<font face="Open Sans Semibold" size="36"><b>Ichiraku will change so as
+not to fall behind the times!</b></font>
+
+139
+00:12:13,370 --> 00:12:15,630
+<font face="Open Sans Semibold" size="36"><b>What the heck are you doing?</b></font>
+
+140
+00:12:15,670 --> 00:12:19,270
+<font face="Open Sans Semibold" size="36"><b>And here I was looking forward to...
+tonkotsu miso with pork slices.</b></font>
+
+141
+00:12:19,470 --> 00:12:21,030
+<font face="Open Sans Semibold" size="36"><b>Well, it's fine, isn't it?</b></font>
+
+142
+00:12:21,060 --> 00:12:23,130
+<font face="Open Sans Semibold" size="36"><b>Tsukemen is pretty much
+like ramen anyway, right?</b></font>
+
+143
+00:12:23,170 --> 00:12:24,270
+<font face="Open Sans Semibold" size="36"><b>No, it's not.</b></font>
+
+144
+00:12:24,560 --> 00:12:26,170
+<font face="Open Sans Semibold" size="36"><b>As with soba noodles,</b></font>
+
+145
+00:12:26,190 --> 00:12:28,370
+<font face="Open Sans Semibold" size="36"><b>you dip tsukemen noodles
+in sauce before eating them.</b></font>
+
+146
+00:12:29,030 --> 00:12:30,820
+<font face="Open Sans Semibold" size="36"><b>It's the same thing in the end, right?</b></font>
+
+147
+00:12:31,320 --> 00:12:33,060
+<font face="Open Sans Semibold" size="36"><b>The concept is different.</b></font>
+
+148
+00:12:33,190 --> 00:12:34,670
+<font face="Open Sans Semibold" size="36"><b>That's right, that's right!</b></font>
+
+149
+00:12:34,690 --> 00:12:39,630
+<font face="Open Sans Semibold" size="36"><b>Ramen is different from tsukemen!
+I want to eat ramen!</b></font>
+
+150
+00:12:39,870 --> 00:12:42,690
+<font face="Open Sans Semibold" size="36"><b>We've only prepared tsukemen,
+so ramen is out of the question.</b></font>
+
+151
+00:12:43,060 --> 00:12:44,730
+<font face="Open Sans Semibold" size="36"><b>But if you tweak the soup a little</b></font>
+
+152
+00:12:44,770 --> 00:12:46,600
+<font face="Open Sans Semibold" size="36"><b>you could switch it
+back to ramen, right?</b></font>
+
+153
+00:12:46,970 --> 00:12:49,600
+<font face="Open Sans Semibold" size="36"><b>So you're satisfied with
+phony ramen like that?!</b></font>
+
+154
+00:12:49,630 --> 00:12:53,560
+<font face="Open Sans Semibold" size="36"><b>Is that all your love for tonkotsu miso
+with pork slices amounts to?!</b></font>
+
+155
+00:12:53,690 --> 00:12:57,230
+<font face="Open Sans Semibold" size="36"><b>No, it's not like that, but...</b></font>
+
+156
+00:13:00,670 --> 00:13:04,430
+<font face="Open Sans Semibold" size="36"><b>Getting all worked up...
+made me even hungrier.</b></font>
+
+157
+00:13:04,900 --> 00:13:08,820
+<font face="Open Sans Semibold" size="36"><b>I don't...care anymore...
+Just give me some tsukemen...</b></font>
+
+158
+00:13:09,100 --> 00:13:10,770
+<font face="Open Sans Semibold" size="36"><b>Sure! Three orders of tsukemen!</b></font>
+
+159
+00:13:10,900 --> 00:13:12,600
+<font face="Open Sans Semibold" size="36"><b>Right! Three orders of tsukemen!</b></font>
+
+160
+00:13:16,770 --> 00:13:18,190
+<font face="Open Sans Semibold" size="36"><b>There you go!</b></font>
+
+161
+00:13:18,560 --> 00:13:20,060
+<font face="Open Sans Semibold" size="36"><b>All right!</b></font>
+
+162
+00:13:20,270 --> 00:13:21,670
+<font face="Open Sans Semibold" size="36"><b>Just a minute!</b></font>
+
+163
+00:13:22,300 --> 00:13:23,170
+<font face="Open Sans Semibold" size="36"><b>Huh?</b></font>
+
+164
+00:13:23,970 --> 00:13:26,130
+<font face="Open Sans Semibold" size="36"><b>The noodles are just
+a tad undercooked.</b></font>
+
+165
+00:13:26,230 --> 00:13:28,100
+<font face="Open Sans Semibold" size="36"><b>Boil them for one extra minute!</b></font>
+
+166
+00:13:28,270 --> 00:13:29,300
+<font face="Open Sans Semibold" size="36"><b>Really?</b></font>
+
+167
+00:13:29,320 --> 00:13:30,970
+<font face="Open Sans Semibold" size="36"><b>And check the temperature
+of the hot water!</b></font>
+
+168
+00:13:31,000 --> 00:13:33,930
+<font face="Open Sans Semibold" size="36"><b>-Right!
+-You're going to make them again?</b></font>
+
+169
+00:13:38,190 --> 00:13:40,800
+<font face="Open Sans Semibold" size="36"><b>Here you go!
+Ichiraku tsukemen!</b></font>
+
+170
+00:13:40,900 --> 00:13:43,000
+<font face="Open Sans Semibold" size="36"><b>Ooh! Finally!</b></font>
+
+171
+00:13:43,100 --> 00:13:44,690
+<font face="Open Sans Semibold" size="36"><b>Huh? Where's the soup?</b></font>
+
+172
+00:13:44,870 --> 00:13:46,430
+<font face="Open Sans Semibold" size="36"><b>It might be a little strong.</b></font>
+
+173
+00:13:46,930 --> 00:13:48,870
+<font face="Open Sans Semibold" size="36"><b>The tsukemen that was popular
+in Yugao Village</b></font>
+
+174
+00:13:48,900 --> 00:13:50,470
+<font face="Open Sans Semibold" size="36"><b>was a little lighter.</b></font>
+
+175
+00:13:50,690 --> 00:13:52,000
+<font face="Open Sans Semibold" size="36"><b>Let's make the soup again!</b></font>
+
+176
+00:13:52,030 --> 00:13:52,870
+<font face="Open Sans Semibold" size="36"><b>Right!</b></font>
+
+177
+00:13:53,170 --> 00:13:54,300
+<font face="Open Sans Semibold" size="36"><b>What?!</b></font>
+
+178
+00:13:54,470 --> 00:13:55,930
+<font face="Open Sans Semibold" size="36"><b>The first taste is the key!</b></font>
+
+179
+00:13:55,970 --> 00:13:58,370
+<font face="Open Sans Semibold" size="36"><b>We must lavish our customers
+with the perfect flavor!</b></font>
+
+180
+00:13:58,470 --> 00:14:02,630
+<font face="Open Sans Semibold" size="36"><b>That's the spirit, Ayame!
+Show me the results of your training!</b></font>
+
+181
+00:14:03,900 --> 00:14:05,370
+<font face="Open Sans Semibold" size="36"><b>Ramen-chan...</b></font>
+
+182
+00:14:05,800 --> 00:14:09,100
+<font face="Open Sans Semibold" size="36"><b>Here you go!
+Ichiraku's original tsukemen!</b></font>
+
+183
+00:14:09,500 --> 00:14:11,500
+<font face="Open Sans Semibold" size="36"><b>This time it's perfect!</b></font>
+
+184
+00:14:12,470 --> 00:14:14,500
+<font face="Open Sans Semibold" size="36"><b>Finally...</b></font>
+
+185
+00:14:15,100 --> 00:14:18,560
+<font face="Open Sans Semibold" size="36"><b>O-Old man... Can I get some pork slices
+and pickled bamboo shoots...</b></font>
+
+186
+00:14:18,600 --> 00:14:21,820
+<font face="Open Sans Semibold" size="36"><b>and some fish cake...toppings...?</b></font>
+
+187
+00:14:22,170 --> 00:14:24,560
+<font face="Open Sans Semibold" size="36"><b>Uh, okay. Sure.</b></font>
+
+188
+00:14:28,600 --> 00:14:30,600
+<font face="Open Sans Semibold" size="36"><b>What're you doing, Naruto?!</b></font>
+
+189
+00:14:31,270 --> 00:14:33,030
+<font face="Open Sans Semibold" size="36"><b>It's ramen if I eat it like this!</b></font>
+
+190
+00:14:33,060 --> 00:14:35,820
+<font face="Open Sans Semibold" size="36"><b>That's tsukemen!
+You can't eat it like that--!</b></font>
+
+191
+00:14:35,870 --> 00:14:42,230
+<font face="Open Sans Semibold" size="36"><b>Ayame... You're forgetting the most
+important thing about a restaurant.</b></font>
+
+192
+00:14:42,560 --> 00:14:45,030
+<font face="Open Sans Semibold" size="36"><b>Instead of getting all caught up
+in the little details,</b></font>
+
+193
+00:14:45,060 --> 00:14:48,560
+<font face="Open Sans Semibold" size="36"><b>it's more important for
+the customer to be satisfied, right?</b></font>
+
+194
+00:14:48,800 --> 00:14:52,470
+<font face="Open Sans Semibold" size="36"><b>That's why I put my heart and soul
+into making this tsukemen.</b></font>
+
+195
+00:14:53,000 --> 00:14:56,560
+<font face="Open Sans Semibold" size="36"><b>It's a restaurant's responsibility to use
+the best ingredients and preparation,</b></font>
+
+196
+00:14:56,600 --> 00:15:03,530
+<font face="Open Sans Semibold" size="36"><b>and to advise the customer on
+how to best enjoy them.</b></font>
+
+197
+00:15:03,670 --> 00:15:06,030
+<font face="Open Sans Semibold" size="36"><b>But I want to eat ramen!</b></font>
+
+198
+00:15:06,060 --> 00:15:08,820
+<font face="Open Sans Semibold" size="36"><b>Save it for after you've tried some
+of the tsukemen.</b></font>
+
+199
+00:15:08,870 --> 00:15:11,470
+<font face="Open Sans Semibold" size="36"><b>You'll never selfishly
+ask for ramen ever again!</b></font>
+
+200
+00:15:11,930 --> 00:15:13,600
+<font face="Open Sans Semibold" size="36"><b>-Thank you.
+-Selfish? It's selfish for a restaurant</b></font>
+
+201
+00:15:13,630 --> 00:15:16,190
+<font face="Open Sans Semibold" size="36"><b>-<i>Tsukemen is lighter than ramen.
+-to make choices for the customer!</i></b></font>
+
+202
+00:15:16,230 --> 00:15:18,190
+<font face="Open Sans Semibold" size="36"><b>-<i>This might be a little more to my taste.
+-Only serving tsukemen means</i></b></font>
+
+203
+00:15:18,230 --> 00:15:19,230
+<font face="Open Sans Semibold" size="36"><b>we have absolute confidence!</b></font>
+
+204
+00:15:19,270 --> 00:15:21,230
+<font face="Open Sans Semibold" size="36"><b><i>Maybe I'm getting old.</i></b></font>
+
+205
+00:15:21,270 --> 00:15:22,500
+<font face="Open Sans Semibold" size="36"><b>-<i>My shoulders get really stiff
+-If you've got so much confidence,</i></b></font>
+
+206
+00:15:22,530 --> 00:15:24,060
+<font face="Open Sans Semibold" size="36"><b>-<i>when I do something I'm not used to.
+-then why does it take you so long?!</i></b></font>
+
+207
+00:15:24,100 --> 00:15:25,930
+<font face="Open Sans Semibold" size="36"><b>-<i>Maybe I'll hire some energetic youngster
+-What's wrong with a little wait?!</i></b></font>
+
+208
+00:15:25,970 --> 00:15:27,400
+<font face="Open Sans Semibold" size="36"><b>-<i>to work here part time.
+-You'll be able to eat</i></b></font>
+
+209
+00:15:27,430 --> 00:15:28,300
+<font face="Open Sans Semibold" size="36"><b>something more delicious!</b></font>
+
+210
+00:15:31,900 --> 00:15:34,930
+<font face="Open Sans Semibold" size="36"><b>At the end of the day,
+anything tastes good when you're hungry.</b></font>
+
+211
+00:15:35,300 --> 00:15:37,430
+<font face="Open Sans Semibold" size="36"><b>Thanks for the tsukemen-ramen!</b></font>
+
+212
+00:15:37,600 --> 00:15:39,100
+<font face="Open Sans Semibold" size="36"><b>I'm stuffed!</b></font>
+
+213
+00:15:39,130 --> 00:15:40,470
+<font face="Open Sans Semibold" size="36"><b><i>Considering he complained about it,</i></b></font>
+
+214
+00:15:40,500 --> 00:15:43,690
+<font face="Open Sans Semibold" size="36"><b><i>I can't believe he drank every last drop
+<i>of that strong tsukemen soup.</i></i></b></font>
+
+215
+00:15:43,730 --> 00:15:46,300
+<font face="Open Sans Semibold" size="36"><b>Although there's a problem
+with how he ate the tsukemen...</b></font>
+
+216
+00:15:46,630 --> 00:15:50,170
+<font face="Open Sans Semibold" size="36"><b>I guess I can't complain
+since he had three bowls.</b></font>
+
+217
+00:15:50,670 --> 00:15:53,930
+<font face="Open Sans Semibold" size="36"><b>All right, let's get right back to training!</b></font>
+
+218
+00:15:54,060 --> 00:15:55,730
+<font face="Open Sans Semibold" size="36"><b>No, before that...</b></font>
+
+219
+00:15:56,230 --> 00:15:56,870
+<font face="Open Sans Semibold" size="36"><b>Huh?</b></font>
+
+220
+00:15:57,230 --> 00:16:01,500
+<font face="Open Sans Semibold" size="36"><b>Naruto... I'll show you something cool.</b></font>
+
+221
+00:16:01,970 --> 00:16:04,030
+<font face="Open Sans Semibold" size="36"><b>Something cool?</b></font>
+
+222
+00:16:04,300 --> 00:16:06,320
+<font face="Open Sans Semibold" size="36"><b>There are some things
+I want to explain to you</b></font>
+
+223
+00:16:06,370 --> 00:16:08,300
+<font face="Open Sans Semibold" size="36"><b>while we take a little rest after eating.</b></font>
+
+224
+00:16:08,320 --> 00:16:11,230
+<font face="Open Sans Semibold" size="36"><b>What?
+More complicated explanations?</b></font>
+
+225
+00:16:11,430 --> 00:16:16,870
+<font face="Open Sans Semibold" size="36"><b>It'll be okay...
+I'm a slick talker, so you'll get it.</b></font>
+
+226
+00:16:17,560 --> 00:16:19,500
+<font face="Open Sans Semibold" size="36"><b>Here's your bill.</b></font>
+
+227
+00:16:20,230 --> 00:16:22,320
+<font face="Open Sans Semibold" size="36"><b>Yamato, you take care of this.</b></font>
+
+228
+00:16:22,430 --> 00:16:26,300
+<font face="Open Sans Semibold" size="36"><b>What?! Isn't it usually the senior
+who takes care of it?</b></font>
+
+229
+00:16:26,320 --> 00:16:29,500
+<font face="Open Sans Semibold" size="36"><b>There are no seniors or juniors
+in regards to the men I respect.</b></font>
+
+230
+00:16:29,900 --> 00:16:33,770
+<font face="Open Sans Semibold" size="36"><b>Well, you're pretty much
+the only junior...</b></font>
+
+231
+00:16:33,800 --> 00:16:35,690
+<font face="Open Sans Semibold" size="36"><b>I respect.</b></font>
+
+232
+00:16:37,470 --> 00:16:40,170
+<font face="Open Sans Semibold" size="36"><b>But I suppose I really should...</b></font>
+
+233
+00:16:42,370 --> 00:16:45,030
+<font face="Open Sans Semibold" size="36"><b>-Thank you very much!
+-Oh, keep the change.</b></font>
+
+234
+00:16:47,370 --> 00:16:49,670
+<font face="Open Sans Semibold" size="36"><b>You really are a slick talker.</b></font>
+
+235
+00:16:50,270 --> 00:16:53,770
+<font face="Open Sans Semibold" size="36"><b>I'm really sick of how lousy
+you are at conversation.</b></font>
+
+236
+00:16:54,560 --> 00:16:57,800
+<font face="Open Sans Semibold" size="36"><b>A nice trip is totally ruined</b></font>
+
+237
+00:16:57,820 --> 00:17:00,470
+<font face="Open Sans Semibold" size="36"><b>if you get stuck traveling with
+a totally boring person.</b></font>
+
+238
+00:17:01,600 --> 00:17:05,360
+<font face="Open Sans Semibold" size="36"><b>We're not traveling for fun.</b></font>
+
+239
+00:17:05,690 --> 00:17:08,090
+<font face="Open Sans Semibold" size="36"><b>And I've had it with looking
+for Jinchuriki</b></font>
+
+240
+00:17:08,120 --> 00:17:10,560
+<font face="Open Sans Semibold" size="36"><b>when we don't even know
+where the heck they might be.</b></font>
+
+241
+00:17:10,620 --> 00:17:12,620
+<font face="Open Sans Semibold" size="36"><b>Put yourself in my position.</b></font>
+
+242
+00:17:12,660 --> 00:17:14,460
+<font face="Open Sans Semibold" size="36"><b>I'm forced to go along
+with all this extra work.</b></font>
+
+243
+00:17:14,530 --> 00:17:17,190
+<font face="Open Sans Semibold" size="36"><b>I'd like a little sympathy here.</b></font>
+
+244
+00:17:17,300 --> 00:17:20,660
+<font face="Open Sans Semibold" size="36"><b>Just shut up and keep walking...
+We're late.</b></font>
+
+245
+00:17:20,890 --> 00:17:23,030
+<font face="Open Sans Semibold" size="36"><b>Huh?
+We're late because we're going</b></font>
+
+246
+00:17:23,060 --> 00:17:26,090
+<font face="Open Sans Semibold" size="36"><b>to that Collection Office
+or whatever it is, right?</b></font>
+
+247
+00:17:26,190 --> 00:17:27,490
+<font face="Open Sans Semibold" size="36"><b>For crying out loud...</b></font>
+
+248
+00:17:27,530 --> 00:17:30,420
+<font face="Open Sans Semibold" size="36"><b>you're making this boring trip
+even longer.</b></font>
+
+249
+00:17:30,460 --> 00:17:32,660
+<font face="Open Sans Semibold" size="36"><b>It's really annoying...I tell you...</b></font>
+
+250
+00:17:35,660 --> 00:17:40,370
+<font face="Open Sans Semibold" size="36"><b>Annoying, you say?
+This is also an important mission.</b></font>
+
+251
+00:17:40,600 --> 00:17:42,530
+<font face="Open Sans Semibold" size="36"><b>Yeah, whatever.
+You've been left in charge</b></font>
+
+252
+00:17:42,570 --> 00:17:44,920
+<font face="Open Sans Semibold" size="36"><b>of scraping together money
+for the organization, right?</b></font>
+
+253
+00:17:44,960 --> 00:17:47,660
+<font face="Open Sans Semibold" size="36"><b>A pittance like that would
+only be enough to pay</b></font>
+
+254
+00:17:47,690 --> 00:17:51,190
+<font face="Open Sans Semibold" size="36"><b>for an after-party
+for Tailed-Beast hunting.</b></font>
+
+255
+00:17:56,260 --> 00:17:57,390
+<font face="Open Sans Semibold" size="36"><b>Oh!</b></font>
+
+256
+00:18:00,260 --> 00:18:02,390
+<font face="Open Sans Semibold" size="36"><b>Hey, I'm sorry!</b></font>
+
+257
+00:18:02,460 --> 00:18:07,420
+<font face="Open Sans Semibold" size="36"><b>Hey, that body is heavy, isn't it?
+I could carry it for you.</b></font>
+
+258
+00:18:08,530 --> 00:18:12,260
+<font face="Open Sans Semibold" size="36"><b>What're you going to do...
+with my valuable bounty?</b></font>
+
+259
+00:18:13,870 --> 00:18:16,070
+<font face="Open Sans Semibold" size="36"><b>I was just being nice.</b></font>
+
+260
+00:18:16,120 --> 00:18:17,760
+<font face="Open Sans Semibold" size="36"><b>You're going to discard it, right?</b></font>
+
+261
+00:18:18,800 --> 00:18:20,160
+<font face="Open Sans Semibold" size="36"><b>What're you talking about?</b></font>
+
+262
+00:18:20,370 --> 00:18:22,660
+<font face="Open Sans Semibold" size="36"><b>I can see right through you.</b></font>
+
+263
+00:18:23,030 --> 00:18:26,760
+<font face="Open Sans Semibold" size="36"><b>You want to get rid of this body, right?</b></font>
+
+264
+00:18:27,260 --> 00:18:29,690
+<font face="Open Sans Semibold" size="36"><b>Oh, you got me.</b></font>
+
+265
+00:18:29,720 --> 00:18:32,330
+<font face="Open Sans Semibold" size="36"><b>We should just forget about that
+and get right to the Jinchuriki.</b></font>
+
+266
+00:18:37,300 --> 00:18:39,190
+<font face="Open Sans Semibold" size="36"><b>I finally got to you.</b></font>
+
+267
+00:18:40,260 --> 00:18:42,620
+<font face="Open Sans Semibold" size="36"><b>You're such a prick.</b></font>
+
+268
+00:18:47,100 --> 00:18:48,720
+<font face="Open Sans Semibold" size="36"><b>Hey, hey, hey!</b></font>
+
+269
+00:18:49,190 --> 00:18:51,030
+<font face="Open Sans Semibold" size="36"><b>Are you done already?</b></font>
+
+270
+00:18:51,070 --> 00:18:55,030
+<font face="Open Sans Semibold" size="36"><b>I don't have the time to
+be joining you in your diversions.</b></font>
+
+271
+00:18:55,370 --> 00:18:59,220
+<font face="Open Sans Semibold" size="36"><b>And besides...at some point after
+this mission is finished,</b></font>
+
+272
+00:18:59,260 --> 00:19:04,620
+<font face="Open Sans Semibold" size="36"><b>I'll send you to the next world
+so that you won't get bored in this one.</b></font>
+
+273
+00:19:04,990 --> 00:19:07,030
+<font face="Open Sans Semibold" size="36"><b>Not that again.</b></font>
+
+274
+00:19:07,990 --> 00:19:12,890
+<font face="Open Sans Semibold" size="36"><b>Oh, man... I hope our next opponent
+has enough fight in them</b></font>
+
+275
+00:19:12,920 --> 00:19:15,370
+<font face="Open Sans Semibold" size="36"><b>so I can let off some steam.</b></font>
+
+276
+00:19:26,460 --> 00:19:29,620
+<font face="Open Sans Semibold" size="36"><b>Kakashi Sensei,
+what're you going to show me?</b></font>
+
+277
+00:19:30,570 --> 00:19:35,030
+<font face="Open Sans Semibold" size="36"><b>This is the cool thing...
+I wanted to show you.</b></font>
+
+278
+00:19:41,690 --> 00:19:42,690
+<font face="Open Sans Semibold" size="36"><b>This is...</b></font>
+
+279
+00:19:50,620 --> 00:19:53,160
+<font face="Open Sans Semibold" size="36"><b>R-Rasengan...?</b></font>
+
+280
+00:19:56,530 --> 00:20:00,960
+<font face="Open Sans Semibold" size="36"><b>You can also use...
+the Rasengan, Kakashi Sensei?!</b></font>
+
+281
+00:21:40,390 --> 00:21:43,720
+<font face="Open Sans Semibold" size="36"><b>I can't believe the Rasengan was
+an unfinished Jutsu.</b></font>
+
+282
+00:21:43,760 --> 00:21:46,600
+<font face="Open Sans Semibold" size="36"><b>Adding a Change in Chakra Nature
+to the Rasengan</b></font>
+
+283
+00:21:46,620 --> 00:21:49,030
+<font face="Open Sans Semibold" size="36"><b>is something even the Fourth Hokage
+couldn't do.</b></font>
+
+284
+00:21:49,300 --> 00:21:51,800
+<font face="Open Sans Semibold" size="36"><b>In other words,
+I can't teach you what comes next.</b></font>
+
+285
+00:21:51,920 --> 00:21:53,600
+<font face="Open Sans Semibold" size="36"><b>You have to discover it for yourself.</b></font>
+
+286
+00:21:53,620 --> 00:21:54,690
+<font face="Open Sans Semibold" size="36"><b>No way...</b></font>
+
+287
+00:21:54,720 --> 00:21:58,660
+<font face="Open Sans Semibold" size="36"><b>Hey, do you know
+why I'm telling you this, Naruto?</b></font>
+
+288
+00:21:58,690 --> 00:22:01,220
+<font face="Open Sans Semibold" size="36"><b>- Huh?
+- It's because I believe...</b></font>
+
+289
+00:22:01,260 --> 00:22:04,960
+<font face="Open Sans Semibold" size="36"><b>you're the only Shinobi who
+can go beyond the Fourth Hokage.</b></font>
+
+290
+00:22:05,330 --> 00:22:07,460
+<font face="Open Sans Semibold" size="36"><b>Next time:
+"The Next Step"
+
+
+</b></font>
+

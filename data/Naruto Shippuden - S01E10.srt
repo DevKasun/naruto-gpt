@@ -1,0 +1,1140 @@
+1
+00:00:15,920 --> 00:00:16,790
+<font color="#FFFFFF">Who're they?</font>
+
+2
+00:00:16,820 --> 00:00:18,320
+<font color="#FFFFFF">Oh, that's...</font>
+
+3
+00:00:18,920 --> 00:00:21,190
+<font color="#FFFFFF">Granny Chiyo... and Ebizo.</font>
+
+4
+00:00:21,490 --> 00:00:24,490
+<font color="#FFFFFF">No way. I thought they were supposed
+to have long since been retired.</font>
+
+5
+00:00:29,550 --> 00:00:31,120
+<font color="#FFFFFF">Treatment Room 3</font>
+
+6
+00:00:36,390 --> 00:00:38,420
+<font color="#FFFFFF">Oh, we have been expecting you.</font>
+
+7
+00:00:38,650 --> 00:00:40,490
+<font color="#FFFFFF">Please enter.</font>
+
+8
+00:00:41,320 --> 00:00:43,090
+<font color="#FFFFFF">I think you all know who
+these people are.</font>
+
+9
+00:00:43,120 --> 00:00:44,920
+<font color="#FFFFFF">This is Lady Chiyo and Lord Ebizo.</font>
+
+10
+00:00:45,250 --> 00:00:46,050
+<font color="#FFFFFF">- Hello.
+- Welcome.</font>
+
+11
+00:00:49,790 --> 00:00:52,720
+<font color="#FFFFFF">Hm? If I'm not mistaken, this is...</font>
+
+12
+00:00:53,150 --> 00:00:54,250
+<font color="#FFFFFF">It's Kankuro.</font>
+
+13
+00:00:54,390 --> 00:00:56,550
+<font color="#FFFFFF">The current Kazekage's older brother.</font>
+
+14
+00:00:57,050 --> 00:00:59,090
+<font color="#FFFFFF">Oh, that's right.</font>
+
+15
+00:01:04,120 --> 00:01:06,250
+<font color="#FFFFFF">You checked his blood, right?</font>
+
+16
+00:01:06,420 --> 00:01:08,320
+<font color="#FFFFFF">Y-Yes. Please look at this.</font>
+
+17
+00:01:11,650 --> 00:01:14,920
+<font color="#FFFFFF">I've never seen...
+composition like this before.</font>
+
+18
+00:01:15,190 --> 00:01:17,690
+<font color="#FFFFFF">Yes. We believe it might be
+a new type of poison.</font>
+
+19
+00:01:18,220 --> 00:01:20,390
+<font color="#FFFFFF">Have you tried an antidote?</font>
+
+20
+00:01:20,850 --> 00:01:22,550
+<font color="#FFFFFF">For the time being,
+we tried using what we had.</font>
+
+21
+00:01:23,090 --> 00:01:25,490
+<font color="#FFFFFF">But none had any identifiable effects.</font>
+
+22
+00:01:26,390 --> 00:01:27,450
+<font color="#FFFFFF">I see...</font>
+
+23
+00:01:27,990 --> 00:01:32,020
+<font color="#FFFFFF">Ordinarily, he would just finish the job...</font>
+
+24
+00:01:32,720 --> 00:01:36,290
+<font color="#FFFFFF">It appears he's very confident
+about his poison.</font>
+
+25
+00:01:36,890 --> 00:01:41,490
+<font color="#FFFFFF">Leaving his prey as is
+on purpose is just like Sasori.</font>
+
+26
+00:01:57,720 --> 00:02:00,050
+<font color="#FFFFFF">Finally we're out of the Sand.</font>
+
+27
+00:02:04,050 --> 00:02:07,920
+<font color="#FFFFFF">I hate making people wait...
+Let's hurry.</font>
+
+28
+00:02:08,190 --> 00:02:12,850
+<font color="#FFFFFF">Good grief. Whose fault was it
+that it took this long?</font>
+
+29
+00:02:13,150 --> 00:02:15,190
+<font color="#FFFFFF">That goes for both of us.</font>
+
+30
+00:02:15,420 --> 00:02:16,420
+<font color="#FFFFFF">Oh yeah.</font>
+
+31
+00:03:50,690 --> 00:03:55,190
+<font color="#FFFFFF">Sealing Jutsu:
+Nine Phantom Dragons</font>
+
+32
+00:04:04,390 --> 00:04:05,620
+<font color="#FFFFFF">All right.</font>
+
+33
+00:04:12,690 --> 00:04:14,520
+<font color="#FFFFFF">This one didn't work, either.</font>
+
+34
+00:04:15,190 --> 00:04:18,250
+<font color="#FFFFFF">You haven't tried anything else?</font>
+
+35
+00:04:18,420 --> 00:04:19,790
+<font color="#FFFFFF">For the time being,</font>
+
+36
+00:04:19,820 --> 00:04:22,950
+<font color="#FFFFFF">we have requested the Leaf for
+a specialist team to be dispatched.</font>
+
+37
+00:04:23,420 --> 00:04:25,590
+<font color="#FFFFFF">It would be best to wait for their arrival.</font>
+
+38
+00:04:26,990 --> 00:04:29,250
+<font color="#FFFFFF">Talk about depending on others.</font>
+
+39
+00:04:30,020 --> 00:04:32,920
+<font color="#FFFFFF">This happened because you depend
+on alliances with other lands</font>
+
+40
+00:04:32,950 --> 00:04:36,220
+<font color="#FFFFFF">and conduct nothing
+but slipshod education.</font>
+
+41
+00:04:37,050 --> 00:04:40,150
+<font color="#FFFFFF">It is not... our intention to
+depend on others.</font>
+
+42
+00:04:40,720 --> 00:04:43,020
+<font color="#FFFFFF">I guess it can't be helped...</font>
+
+43
+00:04:43,050 --> 00:04:47,490
+<font color="#FFFFFF">It's his fault for losing his cool
+and pursuing too far.</font>
+
+44
+00:04:48,050 --> 00:04:50,350
+<font color="#FFFFFF">A Shinobi is the last person
+who should do that ...</font>
+
+45
+00:04:53,620 --> 00:04:55,720
+<font color="#FFFFFF">What's the point of trusting
+and being totally dependent</font>
+
+46
+00:04:55,750 --> 00:04:57,420
+<font color="#FFFFFF">on the likes of the Leaf?</font>
+
+47
+00:04:57,750 --> 00:05:01,620
+<font color="#FFFFFF">Improving the strength of your own village
+should be your top priority.</font>
+
+48
+00:05:02,590 --> 00:05:05,120
+<font color="#FFFFFF">They are them, we are us.</font>
+
+49
+00:05:05,890 --> 00:05:09,720
+<font color="#FFFFFF">Listen. An amicable alliance is nothing
+but a pipe dream.</font>
+
+50
+00:05:10,950 --> 00:05:13,390
+<font color="#FFFFFF">At times like this,
+the most we can expect</font>
+
+51
+00:05:13,420 --> 00:05:17,590
+<font color="#FFFFFF">is for them to send us some
+useless underlings for form's sake.</font>
+
+52
+00:05:17,920 --> 00:05:20,520
+<font color="#FFFFFF">That would never happen...</font>
+
+53
+00:05:20,720 --> 00:05:22,620
+<font color="#FFFFFF">That's how it goes.</font>
+
+54
+00:05:22,650 --> 00:05:26,350
+<font color="#FFFFFF">Everyone looks out for themselves.</font>
+
+55
+00:05:33,120 --> 00:05:34,920
+<font color="#FFFFFF">Okay, break's over.</font>
+
+56
+00:05:36,350 --> 00:05:39,650
+<font color="#FFFFFF">Huh? Kakashi Sensei, where's Naruto?</font>
+
+57
+00:05:40,220 --> 00:05:41,320
+<font color="#FFFFFF">Up there.</font>
+
+58
+00:05:56,520 --> 00:05:58,650
+<font color="#FFFFFF">One more day until
+we get to the Sand.</font>
+
+59
+00:05:59,890 --> 00:06:01,320
+<font color="#FFFFFF">We have to hurry.</font>
+
+60
+00:06:07,250 --> 00:06:08,720
+<font color="#FFFFFF">Okay, let's get going.</font>
+
+61
+00:06:18,190 --> 00:06:19,720
+<font color="#FFFFFF">This is not good.</font>
+
+62
+00:06:21,090 --> 00:06:25,320
+<font color="#FFFFFF">Poisons are my specialty,
+but even I can't figure this out.</font>
+
+63
+00:06:25,790 --> 00:06:26,990
+<font color="#FFFFFF">Even you, Lady Chiyo...?</font>
+
+64
+00:06:27,020 --> 00:06:29,220
+<font color="#FFFFFF">At best, he has one day...</font>
+
+65
+00:06:29,650 --> 00:06:34,490
+<font color="#FFFFFF">He may not even make it
+to dawn tomorrow, I'd say.</font>
+
+66
+00:06:35,050 --> 00:06:40,090
+<font color="#FFFFFF">That Sasori has sure grown considerably.</font>
+
+67
+00:06:40,590 --> 00:06:41,990
+<font color="#FFFFFF">What in the world should we do?</font>
+
+68
+00:06:42,350 --> 00:06:46,250
+<font color="#FFFFFF">Well, the only one who might
+know more about antidotes than me</font>
+
+69
+00:06:46,290 --> 00:06:49,290
+<font color="#FFFFFF">would be
+the Leaf's slug princess, Tsunade.</font>
+
+70
+00:06:50,190 --> 00:06:53,190
+<font color="#FFFFFF">I had a lot of trouble with her
+during the great war.</font>
+
+71
+00:06:53,220 --> 00:06:57,850
+<font color="#FFFFFF">She would decipher all the poisons
+I created and concoct antidotes.</font>
+
+72
+00:06:58,420 --> 00:07:01,090
+<font color="#FFFFFF">And now we're allies with the Leaf.</font>
+
+73
+00:07:01,390 --> 00:07:05,390
+<font color="#FFFFFF">All we can do is send for her and
+have her look at Kankuro.</font>
+
+74
+00:07:05,620 --> 00:07:08,720
+<font color="#FFFFFF">But she is now the Hokage</font>
+
+75
+00:07:08,750 --> 00:07:12,120
+<font color="#FFFFFF">and would not be able to
+leave her village so easily.</font>
+
+76
+00:07:12,490 --> 00:07:15,820
+<font color="#FFFFFF">And even if she were to come,</font>
+
+77
+00:07:15,850 --> 00:07:18,350
+<font color="#FFFFFF">it takes three days to get here
+from the Leaf.</font>
+
+78
+00:07:18,420 --> 00:07:23,890
+<font color="#FFFFFF">I know. Nobody's seriously thinking
+of summoning her.</font>
+
+79
+00:07:24,720 --> 00:07:28,620
+<font color="#FFFFFF">I don't like that slug girl, anyway.</font>
+
+80
+00:07:33,390 --> 00:07:35,520
+<font color="#FFFFFF">Are you okay, Lady Tsunade?</font>
+
+81
+00:07:36,050 --> 00:07:36,950
+<font color="#FFFFFF">Yeah.</font>
+
+82
+00:07:37,420 --> 00:07:40,990
+<font color="#FFFFFF">There's a cold going around,
+so please take care.</font>
+
+83
+00:07:41,490 --> 00:07:42,420
+<font color="#FFFFFF">Thanks.</font>
+
+84
+00:07:50,750 --> 00:07:53,320
+<font color="#FFFFFF">It's been two days
+since Team Kakashi left.</font>
+
+85
+00:07:53,350 --> 00:07:56,120
+<font color="#FFFFFF">They should be arriving
+tomorrow morning.</font>
+
+86
+00:08:00,190 --> 00:08:01,220
+<font color="#FFFFFF">This is a bad sign.</font>
+
+87
+00:08:02,820 --> 00:08:03,750
+<font color="#FFFFFF">Don't tell me...!</font>
+
+88
+00:08:08,250 --> 00:08:12,690
+<font color="#FFFFFF">Group 3, 117037... I knew it.</font>
+
+89
+00:08:12,920 --> 00:08:15,920
+<font color="#FFFFFF">I won. And first prize at that.</font>
+
+90
+00:08:16,350 --> 00:08:18,520
+<font color="#FFFFFF">This is really a bad omen.</font>
+
+91
+00:08:19,790 --> 00:08:22,050
+<font color="#FFFFFF">Shizune. Are you there, Shizune?</font>
+
+92
+00:08:24,390 --> 00:08:25,250
+<font color="#FFFFFF">All right!</font>
+
+93
+00:08:27,050 --> 00:08:28,150
+<font color="#FFFFFF">It's the desert!</font>
+
+94
+00:08:30,590 --> 00:08:32,920
+<font color="#FFFFFF">The Village Hidden in the Sand
+is up ahead.</font>
+
+95
+00:08:33,950 --> 00:08:36,190
+<font color="#FFFFFF">I'll take the lead from here.</font>
+
+96
+00:08:36,550 --> 00:08:37,490
+<font color="#FFFFFF">We're counting on you.</font>
+
+97
+00:08:49,120 --> 00:08:50,190
+<font color="#FFFFFF">We're here.</font>
+
+98
+00:08:54,190 --> 00:08:55,320
+<font color="#FFFFFF">Let's go.</font>
+
+99
+00:09:45,950 --> 00:09:49,420
+<font color="#FFFFFF">You're late. Prepare immediately.</font>
+
+100
+00:09:50,190 --> 00:09:54,220
+<font color="#FFFFFF">The Jinchuriki was unexpectedly strong.</font>
+
+101
+00:10:58,020 --> 00:11:00,220
+<font color="#FFFFFF">All right, gather.</font>
+
+102
+00:11:08,750 --> 00:11:11,350
+<font color="#FFFFFF">Now, let us begin.</font>
+
+103
+00:11:25,850 --> 00:11:29,120
+<font color="#FFFFFF">We will soon be done removing the traps
+and rocks from the road.</font>
+
+104
+00:11:29,390 --> 00:11:30,350
+<font color="#FFFFFF">Good work.</font>
+
+105
+00:11:30,520 --> 00:11:33,550
+<font color="#FFFFFF">We are currently working on
+gathering the bodies.</font>
+
+106
+00:11:33,750 --> 00:11:35,450
+<font color="#FFFFFF">But there is one thing that is
+a matter of concern.</font>
+
+107
+00:11:35,620 --> 00:11:36,490
+<font color="#FFFFFF">What is it?</font>
+
+108
+00:11:36,750 --> 00:11:39,090
+<font color="#FFFFFF">We have not yet found Captain Yura.</font>
+
+109
+00:11:39,420 --> 00:11:40,320
+<font color="#FFFFFF">What?</font>
+
+110
+00:11:40,890 --> 00:11:43,550
+<font color="#FFFFFF">It is clear that the Captain was
+heading for the road</font>
+
+111
+00:11:43,590 --> 00:11:44,850
+<font color="#FFFFFF">before the incident.</font>
+
+112
+00:11:45,690 --> 00:11:47,790
+<font color="#FFFFFF">We have not even found
+a scrap of his clothing,</font>
+
+113
+00:11:47,820 --> 00:11:48,790
+<font color="#FFFFFF">let alone his body.</font>
+
+114
+00:11:49,250 --> 00:11:50,590
+<font color="#FFFFFF">That's strange.</font>
+
+115
+00:11:51,190 --> 00:11:55,320
+<font color="#FFFFFF">He's either slipped past the enemy
+and is in pursuit,</font>
+
+116
+00:11:55,350 --> 00:11:57,850
+<font color="#FFFFFF">or perhaps nobody noticed
+that he was killed.</font>
+
+117
+00:11:58,620 --> 00:12:01,450
+<font color="#FFFFFF">I'd like to send backup for him
+if he's still alive.</font>
+
+118
+00:12:02,220 --> 00:12:04,150
+<font color="#FFFFFF">But if we don't know where he is...</font>
+
+119
+00:12:06,220 --> 00:12:08,490
+<font color="#FFFFFF">Did you call me, Lady Tsunade?</font>
+
+120
+00:12:09,020 --> 00:12:09,890
+<font color="#FFFFFF">Yes...</font>
+
+121
+00:12:10,650 --> 00:12:13,490
+<font color="#FFFFFF">I want to send reinforcements to
+the Village Hidden in the Sand.</font>
+
+122
+00:12:13,920 --> 00:12:15,050
+<font color="#FFFFFF">Reinforcements?</font>
+
+123
+00:12:15,590 --> 00:12:18,390
+<font color="#FFFFFF">They should be about done
+with their previous mission</font>
+
+124
+00:12:18,420 --> 00:12:19,850
+<font color="#FFFFFF">and on their way back by now.</font>
+
+125
+00:12:20,850 --> 00:12:21,920
+<font color="#FFFFFF">Them?</font>
+
+126
+00:12:22,420 --> 00:12:24,990
+<font color="#FFFFFF">Oh. Yes, ma'am. I'll make
+the preparations immediately.</font>
+
+127
+00:12:28,650 --> 00:12:31,090
+<font color="#FFFFFF">Can the worst-case scenario
+be considered?</font>
+
+128
+00:12:44,550 --> 00:12:46,850
+<font color="#FFFFFF">From now, it will take three days
+and three nights.</font>
+
+129
+00:12:46,890 --> 00:12:49,620
+<font color="#FFFFFF">Keep your attention to
+your real body as well.</font>
+
+130
+00:12:50,550 --> 00:12:54,590
+<font color="#FFFFFF">And Zetsu, you keep watch on the outside
+with the body for the time being.</font>
+
+131
+00:12:54,890 --> 00:12:57,250
+<font color="#FFFFFF">Use the longest range.</font>
+
+132
+00:12:57,820 --> 00:12:59,190
+<font color="#FFFFFF">I know.</font>
+
+133
+00:12:59,920 --> 00:13:01,890
+<font color="#FFFFFF">Three days?</font>
+
+134
+00:13:02,190 --> 00:13:05,220
+<font color="#FFFFFF">Shouldn't we consider that it might
+take a bit longer</font>
+
+135
+00:13:05,250 --> 00:13:07,620
+<font color="#FFFFFF">since we don't have Orochimaru?</font>
+
+136
+00:13:07,950 --> 00:13:10,850
+<font color="#FFFFFF">If that's what you think,
+then get right to it.</font>
+
+137
+00:13:11,750 --> 00:13:13,050
+<font color="#FFFFFF">That's true.</font>
+
+138
+00:13:13,750 --> 00:13:14,820
+<font color="#FFFFFF">Indeed.</font>
+
+139
+00:13:15,390 --> 00:13:16,490
+<font color="#FFFFFF">That sounds good.</font>
+
+140
+00:13:26,950 --> 00:13:28,750
+<font color="#FFFFFF">Spirit</font>
+
+141
+00:13:32,190 --> 00:13:33,450
+<font color="#FFFFFF">Blue</font>
+
+142
+00:13:34,490 --> 00:13:35,750
+<font color="#FFFFFF">White</font>
+
+143
+00:13:37,590 --> 00:13:39,090
+<font color="#FFFFFF">Red</font>
+
+144
+00:13:40,620 --> 00:13:41,920
+<font color="#FFFFFF">Boar</font>
+
+145
+00:13:43,350 --> 00:13:44,620
+<font color="#FFFFFF">South</font>
+
+146
+00:13:45,890 --> 00:13:47,450
+<font color="#FFFFFF">North</font>
+
+147
+00:13:49,050 --> 00:13:50,220
+<font color="#FFFFFF">Three</font>
+
+148
+00:13:51,850 --> 00:13:53,220
+<font color="#FFFFFF">Sphere</font>
+
+149
+00:14:02,650 --> 00:14:05,850
+<font color="#FFFFFF">Sealing Jutsu: Nine Phantom Dragons.</font>
+
+150
+00:14:27,720 --> 00:14:28,950
+<font color="#FFFFFF">Lady Tsunade.</font>
+
+151
+00:14:28,990 --> 00:14:31,320
+<font color="#FFFFFF">They have returned from their mission!</font>
+
+152
+00:14:31,750 --> 00:14:32,850
+<font color="#FFFFFF">All right.</font>
+
+153
+00:14:36,220 --> 00:14:37,490
+<font color="#FFFFFF">Oh, just a minute, Lady Tsunade.</font>
+
+154
+00:14:37,720 --> 00:14:39,950
+<font color="#FFFFFF">I'm giving you guys
+an S-rank mission!</font>
+
+155
+00:14:41,590 --> 00:14:43,250
+<font color="#FFFFFF">- Huh?
+- No way.</font>
+
+156
+00:14:44,390 --> 00:14:45,750
+<font color="#FFFFFF">S-rank?</font>
+
+157
+00:14:45,790 --> 00:14:47,720
+<font color="#FFFFFF">- Mission?
+- Don't tell me...</font>
+
+158
+00:14:47,950 --> 00:14:50,320
+<font color="#FFFFFF">All right! We got an S-rank mission!</font>
+
+159
+00:14:50,390 --> 00:14:51,650
+<font color="#FFFFFF">I can't believe it...</font>
+
+160
+00:14:51,750 --> 00:14:55,050
+<font color="#FFFFFF">Our ability has finally
+been acknowledged!</font>
+
+161
+00:14:55,350 --> 00:14:57,020
+<font color="#FFFFFF">I-It can't be!</font>
+
+162
+00:14:58,320 --> 00:15:00,350
+<font color="#FFFFFF">Are you okay, Ebisu Sensei?</font>
+
+163
+00:15:00,420 --> 00:15:03,890
+<font color="#FFFFFF">Well, I spent a bit too long soaking
+in the hot spring, you see.</font>
+
+164
+00:15:04,150 --> 00:15:06,750
+<font color="#FFFFFF">More like you were peeping.</font>
+
+165
+00:15:07,190 --> 00:15:10,450
+<font color="#FFFFFF">Here this is the first S-rank mission
+for us since we became Ninja.</font>
+
+166
+00:15:10,490 --> 00:15:13,190
+<font color="#FFFFFF">Don't be catching a cold,
+you closet pervert!</font>
+
+167
+00:15:14,050 --> 00:15:15,420
+<font color="#FFFFFF">What's with these guys?</font>
+
+168
+00:15:15,590 --> 00:15:18,120
+<font color="#FFFFFF">This is the wrong room, Lady Tsunade.
+They're over here.</font>
+
+169
+00:15:18,290 --> 00:15:19,850
+<font color="#FFFFFF">Geez, how confusing.</font>
+
+170
+00:15:21,650 --> 00:15:23,890
+<font color="#FFFFFF">What about our S-rank mission?</font>
+
+171
+00:15:23,920 --> 00:15:27,150
+<font color="#FFFFFF">It was a misunderstanding...
+Thank goodness.</font>
+
+172
+00:15:30,150 --> 00:15:33,520
+<font color="#FFFFFF">I'm giving you guys the same mission
+as Team Kakashi.</font>
+
+173
+00:15:34,120 --> 00:15:36,390
+<font color="#FFFFFF">Head for the Sand and
+complete the mission</font>
+
+174
+00:15:36,420 --> 00:15:38,090
+<font color="#FFFFFF">by providing backup for Kakashi
+and the others.</font>
+
+175
+00:15:38,120 --> 00:15:39,050
+<font color="#FFFFFF">Got it?</font>
+
+176
+00:15:40,120 --> 00:15:41,090
+<font color="#FFFFFF">Yes, ma'am!</font>
+
+177
+00:15:42,450 --> 00:15:43,650
+<font color="#FFFFFF">Please leave it to us.</font>
+
+178
+00:15:44,720 --> 00:15:45,720
+<font color="#FFFFFF">Roger.</font>
+
+179
+00:15:46,820 --> 00:15:47,690
+<font color="#FFFFFF">Understood.</font>
+
+180
+00:15:48,120 --> 00:15:48,920
+<font color="#FFFFFF">All right!</font>
+
+181
+00:15:49,450 --> 00:15:51,290
+<font color="#FFFFFF">Team Guy heading into action.</font>
+
+182
+00:15:54,820 --> 00:15:55,520
+<font color="#FFFFFF">You catch a cold?</font>
+
+183
+00:15:55,550 --> 00:15:58,650
+<font color="#FFFFFF">No, my hay fever started
+acting up before...</font>
+
+184
+00:16:01,390 --> 00:16:04,520
+<font color="#FFFFFF">All right, we'll make it to
+the Sand in one day.</font>
+
+185
+00:16:04,620 --> 00:16:06,790
+<font color="#FFFFFF">Sensei, let's make it in half a day.</font>
+
+186
+00:16:07,520 --> 00:16:10,150
+<font color="#FFFFFF">It'll take three days, no matter
+how you consider it.</font>
+
+187
+00:16:10,350 --> 00:16:13,890
+<font color="#FFFFFF">Please stop your conversations
+with that carried-away mood...</font>
+
+188
+00:16:14,020 --> 00:16:15,750
+<font color="#FFFFFF">All right, we're leaving!</font>
+
+189
+00:16:15,790 --> 00:16:18,490
+<font color="#FFFFFF">Together with me, everyone.
+The dash of youth!</font>
+
+190
+00:16:18,790 --> 00:16:20,120
+<font color="#FFFFFF">Yes, Guy Sensei!</font>
+
+191
+00:16:20,150 --> 00:16:21,850
+<font color="#FFFFFF">How embarrassing.</font>
+
+192
+00:16:22,020 --> 00:16:23,890
+<font color="#FFFFFF">Give it up, Tenten.</font>
+
+193
+00:16:24,590 --> 00:16:27,050
+<font color="#FFFFFF">They're as energetic as ever.</font>
+
+194
+00:16:33,050 --> 00:16:35,220
+<font color="#FFFFFF">It's sure been awhile
+since we've seen Naruto.</font>
+
+195
+00:16:35,450 --> 00:16:37,920
+<font color="#FFFFFF">I'm looking forward to seeing
+how much he's grown.</font>
+
+196
+00:16:38,390 --> 00:16:39,320
+<font color="#FFFFFF">Yeah.</font>
+
+197
+00:16:49,950 --> 00:16:52,520
+<font color="#FFFFFF">Here we're so close to
+the Village Hidden in the Sand...</font>
+
+198
+00:16:52,550 --> 00:16:54,350
+<font color="#FFFFFF">I can't just sit around waiting!</font>
+
+199
+00:16:54,450 --> 00:16:57,790
+<font color="#FFFFFF">Naruto, I told you not to
+lose your patience.</font>
+
+200
+00:16:57,990 --> 00:16:59,220
+<font color="#FFFFFF">But...!</font>
+
+201
+00:16:59,590 --> 00:17:03,490
+<font color="#FFFFFF">Be patient. Right now, Temari is
+the one who's the most anxious.</font>
+
+202
+00:17:04,420 --> 00:17:06,390
+<font color="#FFFFFF">The ironclad rule is to
+stay put right there</font>
+
+203
+00:17:06,420 --> 00:17:08,290
+<font color="#FFFFFF">if you encounter a sandstorm.</font>
+
+204
+00:17:09,250 --> 00:17:11,890
+<font color="#FFFFFF">You lose your sense of direction
+in a sandstorm.</font>
+
+205
+00:17:12,750 --> 00:17:14,320
+<font color="#FFFFFF">We often hear of people</font>
+
+206
+00:17:14,350 --> 00:17:17,050
+<font color="#FFFFFF">dying of dehydration after
+getting lost in the desert.</font>
+
+207
+00:17:18,420 --> 00:17:19,350
+<font color="#FFFFFF">It'll be okay.</font>
+
+208
+00:17:19,850 --> 00:17:22,920
+<font color="#FFFFFF">A sandstorm around this time
+of year shouldn't last too long.</font>
+
+209
+00:17:25,420 --> 00:17:26,890
+<font color="#FFFFFF">Please let up soon.</font>
+
+210
+00:17:32,490 --> 00:17:33,750
+<font color="#FFFFFF">Kankuro...</font>
+
+211
+00:17:34,650 --> 00:17:35,690
+<font color="#FFFFFF">Give him a sedative.</font>
+
+212
+00:17:35,750 --> 00:17:36,490
+<font color="#FFFFFF">Okay.</font>
+
+213
+00:17:43,050 --> 00:17:46,650
+<font color="#FFFFFF">All we can do now is ease his pain...</font>
+
+214
+00:17:47,620 --> 00:17:52,090
+<font color="#FFFFFF">Our only ray of hope is the Leaf Shinobi
+who are scheduled to arrive tomorrow.</font>
+
+215
+00:17:53,950 --> 00:17:56,850
+<font color="#FFFFFF">If they have a poison specialist
+with them...</font>
+
+216
+00:17:57,320 --> 00:18:01,120
+<font color="#FFFFFF">If Kankuro can hold on
+that long, of course.</font>
+
+217
+00:18:01,920 --> 00:18:05,950
+<font color="#FFFFFF">The road from the Leaf is currently
+impassable due to a sandstorm.</font>
+
+218
+00:18:06,520 --> 00:18:09,490
+<font color="#FFFFFF">In the worst case,
+they could arrive several days late.</font>
+
+219
+00:18:09,990 --> 00:18:12,220
+<font color="#FFFFFF">If that happens,
+then it's hopeless.</font>
+
+220
+00:18:12,620 --> 00:18:14,690
+<font color="#FFFFFF">This is pathetic...</font>
+
+221
+00:18:14,850 --> 00:18:19,450
+<font color="#FFFFFF">I can't believe the day has come when
+we have to rely on the aid of the Leaf.</font>
+
+222
+00:18:20,020 --> 00:18:24,090
+<font color="#FFFFFF">Aren't you tired, Big Sister?
+Let's have a seat outside.</font>
+
+223
+00:18:24,890 --> 00:18:27,990
+<font color="#FFFFFF">You haven't had a wink of
+sleep since yesterday, right?</font>
+
+224
+00:18:29,250 --> 00:18:32,820
+<font color="#FFFFFF">It's so sad,
+having to depend on the Leaf...</font>
+
+225
+00:18:38,020 --> 00:18:39,020
+<font color="#FFFFFF">Big Sister.</font>
+
+226
+00:18:44,820 --> 00:18:45,890
+<font color="#FFFFFF">She fell asleep, huh?</font>
+
+227
+00:18:54,390 --> 00:18:57,390
+<font color="#FFFFFF">If they're early, the help from the Leaf
+should be arriving pretty soon.</font>
+
+228
+00:18:57,950 --> 00:19:00,620
+<font color="#FFFFFF">But even a local wouldn't be
+able to get here quickly</font>
+
+229
+00:19:00,650 --> 00:19:02,290
+<font color="#FFFFFF">with yesterday's sandstorm.</font>
+
+230
+00:19:03,820 --> 00:19:05,250
+<font color="#FFFFFF">Hey, what's that?</font>
+
+231
+00:19:07,890 --> 00:19:08,750
+<font color="#FFFFFF">Oh!</font>
+
+232
+00:19:13,150 --> 00:19:14,420
+<font color="#FFFFFF">We've been expecting you.</font>
+
+233
+00:19:14,950 --> 00:19:16,420
+<font color="#FFFFFF">So you were with them, Temari?</font>
+
+234
+00:19:16,890 --> 00:19:18,150
+<font color="#FFFFFF">Please, come this way.</font>
+
+235
+00:19:23,220 --> 00:19:25,690
+<font color="#FFFFFF">What? They got Kankuro, too?</font>
+
+236
+00:19:25,890 --> 00:19:30,620
+<font color="#FFFFFF">Yes, Lord Kazekage was taken and
+Kankuro followed in pursuit.</font>
+
+237
+00:19:31,290 --> 00:19:34,620
+<font color="#FFFFFF">Kankuro was poisoned by the enemy
+and we don't know how to neutralize it.</font>
+
+238
+00:19:34,690 --> 00:19:36,520
+<font color="#FFFFFF">At this rate... he won't...</font>
+
+239
+00:19:38,690 --> 00:19:39,650
+<font color="#FFFFFF">Damn it!</font>
+
+240
+00:19:40,620 --> 00:19:42,190
+<font color="#FFFFFF">Let's hurry, Temari.</font>
+
+241
+00:19:43,090 --> 00:19:44,290
+<font color="#FFFFFF">I'll take a look at him.</font>
+
+242
+00:19:44,520 --> 00:19:46,290
+<font color="#FFFFFF">Treatment Room 3</font>
+
+243
+00:19:46,890 --> 00:19:47,750
+<font color="#FFFFFF">Kankuro!</font>
+
+244
+00:19:49,890 --> 00:19:50,550
+<font color="#FFFFFF">Kankuro!</font>
+
+245
+00:19:52,590 --> 00:19:55,690
+<font color="#FFFFFF">He's... the White Fang of the Leaf!</font>
+
+246
+00:19:56,090 --> 00:19:57,820
+<font color="#FFFFFF">You jerk!</font>
+
+247
+00:20:00,750 --> 00:20:01,520
+<font color="#FFFFFF">Huh?</font>
+
+248
+00:20:01,550 --> 00:20:03,920
+<font color="#FFFFFF">Prepare yourself!</font>
+
+249
+00:21:34,950 --> 00:21:36,420
+<font color="#FFFFFF">Medical Emergency 24 hours.</font>
+
+250
+00:21:36,450 --> 00:21:38,920
+<font color="#FFFFFF">Today we're reporting live from
+the Hidden Sand Medical Facility.</font>
+
+251
+00:21:39,490 --> 00:21:41,790
+<font color="#FFFFFF">It appears that a new patient
+has been brought in just now.</font>
+
+252
+00:21:41,820 --> 00:21:45,050
+<font color="#FFFFFF">The patient is a 17-year-old Jonin,
+poisoned, and in critical condition.</font>
+
+253
+00:21:45,090 --> 00:21:46,950
+<font color="#FFFFFF">Oh, his Kumadori make up
+is being washed off!</font>
+
+254
+00:21:47,920 --> 00:21:49,620
+<font color="#FFFFFF">The surgeon seems to be a girl.</font>
+
+255
+00:21:49,650 --> 00:21:51,620
+<font color="#FFFFFF">Can such a young doctor handle this?</font>
+
+256
+00:21:51,750 --> 00:21:54,350
+<font color="#FFFFFF">It looks like the toxin is
+being sucked out... however!</font>
+
+257
+00:21:56,650 --> 00:21:58,550
+<font color="#FFFFFF">Despite their medical efforts,</font>
+
+258
+00:21:58,590 --> 00:22:00,090
+<font color="#FFFFFF">it appears they have just
+lost the patient.</font>
+
+259
+00:22:00,120 --> 00:22:01,190
+<font color="#FFFFFF">Hey, don't kill me off just like that!</font>
+
+260
+00:22:01,520 --> 00:22:03,990
+<font color="#FFFFFF">Next time: "The Medical Ninja's Student"</font>
+

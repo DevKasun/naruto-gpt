@@ -1,0 +1,939 @@
+1
+00:00:05,020 --> 00:00:06,050
+<font color="#FFFFFF">Ichiraku Ramen</font>
+
+2
+00:00:06,080 --> 00:00:10,480
+<font color="#FFFFFF">Yeah. Ichiraku hasn't changed a bit!</font>
+
+3
+00:00:11,520 --> 00:00:15,450
+<font color="#FFFFFF">Mm... This aroma...
+It's whetting my appetite.</font>
+
+4
+00:00:17,080 --> 00:00:17,920
+<font color="#FFFFFF">All right!</font>
+
+5
+00:00:20,550 --> 00:00:21,620
+<font color="#FFFFFF">Hiya!</font>
+
+6
+00:00:22,250 --> 00:00:23,350
+<font color="#FFFFFF">Welcome!</font>
+
+7
+00:00:24,620 --> 00:00:28,280
+<font color="#FFFFFF">Old man... Do you remember me?</font>
+
+8
+00:00:29,020 --> 00:00:30,120
+<font color="#FFFFFF">Naruto...</font>
+
+9
+00:00:30,380 --> 00:00:31,780
+<font color="#FFFFFF">It's you, isn't it, Naruto?</font>
+
+10
+00:00:32,820 --> 00:00:34,520
+<font color="#FFFFFF">No way could I forget you!</font>
+
+11
+00:00:34,920 --> 00:00:35,780
+<font color="#FFFFFF">Long time no see!</font>
+
+12
+00:00:35,820 --> 00:00:37,220
+<font color="#FFFFFF">Huh? Naruto?</font>
+
+13
+00:00:37,920 --> 00:00:39,750
+<font color="#FFFFFF">You sure got big!</font>
+
+14
+00:00:39,780 --> 00:00:41,580
+<font color="#FFFFFF">Long time no see, miss!</font>
+
+15
+00:00:41,880 --> 00:00:44,050
+<font color="#FFFFFF">What'll you have?
+You're hungry, right?</font>
+
+16
+00:00:44,080 --> 00:00:46,380
+<font color="#FFFFFF">Yeah, I'm starved!</font>
+
+17
+00:00:46,480 --> 00:00:49,320
+<font color="#FFFFFF">All right then, today it's on me.</font>
+
+18
+00:00:49,680 --> 00:00:50,980
+<font color="#FFFFFF">Order whatever you like!</font>
+
+19
+00:00:51,150 --> 00:00:52,180
+<font color="#FFFFFF">All right!</font>
+
+20
+00:00:52,250 --> 00:00:53,120
+<font color="#FFFFFF">No...</font>
+
+21
+00:00:53,720 --> 00:00:55,850
+<font color="#FFFFFF">It's on me today.</font>
+
+22
+00:00:57,880 --> 00:01:00,150
+<font color="#FFFFFF">I knew you'd be here, Naruto!</font>
+
+23
+00:01:00,420 --> 00:01:01,550
+<font color="#FFFFFF">Iruka Sensei!</font>
+
+24
+00:01:02,350 --> 00:01:04,680
+<font color="#FFFFFF">Sakura isn't with you?</font>
+
+25
+00:01:07,620 --> 00:01:12,980
+<font color="#FFFFFF">If I'd known you were going to treat,
+I'd have brought Sakura, too...</font>
+
+26
+00:01:22,780 --> 00:01:27,580
+<font color="#FFFFFF">Maybe I should've let him
+treat me to half a ramen.</font>
+
+27
+00:01:31,920 --> 00:01:33,780
+<font color="#FFFFFF">Can I get some
+more rice-flour anmitsu?</font>
+
+28
+00:01:34,580 --> 00:01:35,480
+<font color="#FFFFFF">Oh!</font>
+
+29
+00:02:28,680 --> 00:02:30,350
+<font color="#FFFFFF">Wh-What's this?</font>
+
+30
+00:02:30,980 --> 00:02:32,680
+<font color="#FFFFFF">It's Lord Kazekage's sand...!</font>
+
+31
+00:02:33,120 --> 00:02:36,720
+<font color="#FFFFFF">Wow! Look at the size
+of the shield he made!</font>
+
+32
+00:02:37,720 --> 00:02:40,620
+<font color="#FFFFFF">Just what I'd expect from the Kazekage.</font>
+
+33
+00:02:43,380 --> 00:02:44,320
+<font color="#FFFFFF">Gaara...</font>
+
+34
+00:03:00,650 --> 00:03:02,650
+<font color="#FFFFFF">Okay, you're within...</font>
+
+35
+00:03:07,020 --> 00:03:07,920
+<font color="#FFFFFF">range!</font>
+
+36
+00:03:09,920 --> 00:03:10,750
+<font color="#FFFFFF">Gaara!</font>
+
+37
+00:04:43,250 --> 00:04:47,850
+<font color="#FFFFFF">Mission Cleared</font>
+
+38
+00:04:58,980 --> 00:05:00,880
+<font color="#FFFFFF">Okay, you're within...</font>
+
+39
+00:05:05,150 --> 00:05:06,050
+<font color="#FFFFFF">range!</font>
+
+40
+00:05:08,150 --> 00:05:09,220
+<font color="#FFFFFF">Gaara!</font>
+
+41
+00:05:10,620 --> 00:05:11,750
+<font color="#FFFFFF">Fifth Kazekage!</font>
+
+42
+00:05:33,650 --> 00:05:34,880
+<font color="#FFFFFF">I wonder if he's okay...</font>
+
+43
+00:05:35,050 --> 00:05:37,750
+<font color="#FFFFFF">He did it!
+You're amazing, Lord Kazekage.</font>
+
+44
+00:05:37,780 --> 00:05:38,820
+<font color="#FFFFFF">Ooh!</font>
+
+45
+00:05:40,150 --> 00:05:43,720
+<font color="#FFFFFF">Gaara's Total Sand Defense
+can't be broken that easily.</font>
+
+46
+00:05:44,080 --> 00:05:46,820
+<font color="#FFFFFF">Lord Baki! The preparations for attack
+have been completed!</font>
+
+47
+00:05:47,150 --> 00:05:50,020
+<font color="#FFFFFF">All right! Attack all together
+when I give the signal!</font>
+
+48
+00:06:09,720 --> 00:06:10,850
+<font color="#FFFFFF">I'd expect no less...</font>
+
+49
+00:06:10,880 --> 00:06:13,750
+<font color="#FFFFFF">His specially-created sand sure
+got some quick defense...</font>
+
+50
+00:06:27,920 --> 00:06:29,020
+<font color="#FFFFFF">However...</font>
+
+51
+00:06:32,350 --> 00:06:34,380
+<font color="#FFFFFF">That's just what I want.</font>
+
+52
+00:06:53,050 --> 00:06:54,980
+<font color="#FFFFFF">My left hand was crushed...</font>
+
+53
+00:07:07,620 --> 00:07:08,880
+<font color="#FFFFFF">Sand Coffin.</font>
+
+54
+00:07:10,120 --> 00:07:12,580
+<font color="#FFFFFF">However, I used that opportunity
+to eat some of your sand...</font>
+
+55
+00:07:12,620 --> 00:07:15,680
+<font color="#FFFFFF">and mix it with my bomb clay.</font>
+
+56
+00:07:16,880 --> 00:07:21,050
+<font color="#FFFFFF">You were doomed the instant you used
+that sand to defend yourself.</font>
+
+57
+00:07:22,580 --> 00:07:26,620
+<font color="#FFFFFF">That being said,
+I planned it that way!</font>
+
+58
+00:07:31,650 --> 00:07:32,950
+<font color="#FFFFFF">Art...</font>
+
+59
+00:07:33,420 --> 00:07:35,380
+<font color="#FFFFFF">- Oh, no...
+- ... is explosive!</font>
+
+60
+00:07:38,880 --> 00:07:41,750
+<font color="#FFFFFF">Here's an extra-large special serving
+of our ramen!</font>
+
+61
+00:07:44,650 --> 00:07:47,050
+<font color="#FFFFFF">It's the real-deal Ichiraku ramen...</font>
+
+62
+00:07:48,980 --> 00:07:53,820
+<font color="#FFFFFF">I dreamed about this ramen
+so many times during my training...</font>
+
+63
+00:07:54,020 --> 00:07:56,220
+<font color="#FFFFFF">Now, eat up before it gets cold!</font>
+
+64
+00:07:56,380 --> 00:07:57,220
+<font color="#FFFFFF">Right.</font>
+
+65
+00:07:59,780 --> 00:08:00,920
+<font color="#FFFFFF">Thank you!</font>
+
+66
+00:08:05,350 --> 00:08:07,950
+<font color="#FFFFFF">By the way,
+can I ask you a favor, Sensei?</font>
+
+67
+00:08:08,450 --> 00:08:09,820
+<font color="#FFFFFF">You want seconds?</font>
+
+68
+00:08:11,280 --> 00:08:13,850
+<font color="#FFFFFF">Let me wear your Leaf Headband.</font>
+
+69
+00:08:14,020 --> 00:08:17,150
+<font color="#FFFFFF">Oh, this? No way.</font>
+
+70
+00:08:17,580 --> 00:08:19,480
+<font color="#FFFFFF">This is proof that you've graduated
+from the Academy</font>
+
+71
+00:08:19,520 --> 00:08:22,350
+<font color="#FFFFFF">and have been acknowledged
+as a full-fledged Ninja, you see!</font>
+
+72
+00:08:22,980 --> 00:08:24,620
+<font color="#FFFFFF">Wait for yours until tomorrow!</font>
+
+73
+00:08:25,320 --> 00:08:26,320
+<font color="#FFFFFF">You cheapskate!</font>
+
+74
+00:08:33,480 --> 00:08:35,350
+<font color="#FFFFFF">- Naruto...
+- Huh?</font>
+
+75
+00:08:35,880 --> 00:08:37,950
+<font color="#FFFFFF">You've sure grown
+a lot compared to the time</font>
+
+76
+00:08:37,980 --> 00:08:40,180
+<font color="#FFFFFF">when you wanted this...</font>
+
+77
+00:08:40,850 --> 00:08:43,320
+<font color="#FFFFFF">Have I? Have I?
+Do you think so?</font>
+
+78
+00:08:43,880 --> 00:08:46,320
+<font color="#FFFFFF">This Headband you gave me,</font>
+
+79
+00:08:46,350 --> 00:08:48,880
+<font color="#FFFFFF">it looks perfect on me now, doesn't it?</font>
+
+80
+00:08:51,920 --> 00:08:55,650
+<font color="#FFFFFF">Don't be getting carried away!
+You've still got a long way to go.</font>
+
+81
+00:08:56,050 --> 00:08:58,020
+<font color="#FFFFFF">You've still got to do better and better!</font>
+
+82
+00:09:00,550 --> 00:09:02,680
+<font color="#FFFFFF">You've gotten so big...</font>
+
+83
+00:09:04,180 --> 00:09:06,050
+<font color="#FFFFFF">Man, this is good!</font>
+
+84
+00:09:06,420 --> 00:09:09,920
+<font color="#FFFFFF">Sure enough, Ichiraku Ramen
+is the greatest!</font>
+
+85
+00:09:11,950 --> 00:09:13,450
+<font color="#FFFFFF">Isn't it, though?</font>
+
+86
+00:09:14,080 --> 00:09:15,150
+<font color="#FFFFFF">But...</font>
+
+87
+00:09:15,180 --> 00:09:16,050
+<font color="#FFFFFF">Hm?</font>
+
+88
+00:09:16,420 --> 00:09:18,820
+<font color="#FFFFFF">There's one thing
+I'm not quite happy with.</font>
+
+89
+00:09:19,980 --> 00:09:23,350
+<font color="#FFFFFF">Naruto... We meet for
+the first time in ages</font>
+
+90
+00:09:23,380 --> 00:09:27,020
+<font color="#FFFFFF">and the first thing you do is find fault
+with my ramen? Huh?</font>
+
+91
+00:09:27,020 --> 00:09:29,220
+<font color="#FFFFFF">It's... It's not like that.</font>
+
+92
+00:09:29,250 --> 00:09:31,480
+<font color="#FFFFFF">I don't have a problem
+with the ramen.</font>
+
+93
+00:09:31,550 --> 00:09:32,450
+<font color="#FFFFFF">Then what is it?</font>
+
+94
+00:09:34,250 --> 00:09:39,450
+<font color="#FFFFFF">I... thought the next time Iruka Sensei
+would treat me to ramen</font>
+
+95
+00:09:39,480 --> 00:09:41,880
+<font color="#FFFFFF">would be after I'd become a Chunin...</font>
+
+96
+00:09:43,550 --> 00:09:44,720
+<font color="#FFFFFF">Naruto...</font>
+
+97
+00:09:45,280 --> 00:09:48,880
+<font color="#FFFFFF">All of my classmates have
+become Chunin,</font>
+
+98
+00:09:49,450 --> 00:09:52,220
+<font color="#FFFFFF">and I'm the only one
+who's still just a Genin.</font>
+
+99
+00:09:54,750 --> 00:09:57,450
+<font color="#FFFFFF">You don't need to worry about
+whether you're a Genin or a Chunin.</font>
+
+100
+00:09:57,950 --> 00:10:01,780
+<font color="#FFFFFF">After all, Master Jiraiya
+trained you personally...</font>
+
+101
+00:10:01,920 --> 00:10:03,520
+<font color="#FFFFFF">I know, but...</font>
+
+102
+00:10:03,850 --> 00:10:07,720
+<font color="#FFFFFF">But listen, that Pervy Sage
+is really merciless!</font>
+
+103
+00:10:08,420 --> 00:10:14,480
+<font color="#FFFFFF">The cloth on the precious Headband
+you gave me got all tattered.</font>
+
+104
+00:10:14,650 --> 00:10:16,550
+<font color="#FFFFFF">The same with my clothes, too.</font>
+
+105
+00:10:16,580 --> 00:10:19,350
+<font color="#FFFFFF">So I got this cloth newly made along
+with my new threads!</font>
+
+106
+00:10:20,050 --> 00:10:24,650
+<font color="#FFFFFF">But thanks to that intense training,
+you've gotten quite strong, haven't you?</font>
+
+107
+00:10:25,250 --> 00:10:26,720
+<font color="#FFFFFF">You should be happy about it.</font>
+
+108
+00:10:26,750 --> 00:10:28,920
+<font color="#FFFFFF">Yeah. I feel like I've gotten
+another step closer</font>
+
+109
+00:10:28,950 --> 00:10:31,120
+<font color="#FFFFFF">to becoming the Hokage!</font>
+
+110
+00:10:31,450 --> 00:10:34,220
+<font color="#FFFFFF">Ooh, sounds like you've got
+quite the confidence!</font>
+
+111
+00:10:34,320 --> 00:10:36,150
+<font color="#FFFFFF">Yeah! Speaking of which,</font>
+
+112
+00:10:36,180 --> 00:10:39,520
+<font color="#FFFFFF">I heard Gaara of the Hidden Sand
+has already become the Kazekage!</font>
+
+113
+00:10:39,920 --> 00:10:44,150
+<font color="#FFFFFF">Oh... That kid's kind of special, so.</font>
+
+114
+00:10:45,750 --> 00:10:48,020
+<font color="#FFFFFF">What do you mean by special?</font>
+
+115
+00:10:48,650 --> 00:10:49,580
+<font color="#FFFFFF">Huh?</font>
+
+116
+00:10:50,420 --> 00:10:53,620
+<font color="#FFFFFF">You don't become the Kazekage
+just by being special.</font>
+
+117
+00:10:55,580 --> 00:10:57,320
+<font color="#FFFFFF">I can tell...</font>
+
+118
+00:10:57,780 --> 00:11:01,450
+<font color="#FFFFFF">I bet... he worked incredibly hard...</font>
+
+119
+00:11:02,580 --> 00:11:06,550
+<font color="#FFFFFF">He worked really hard,
+everyone acknowledged him...</font>
+
+120
+00:11:07,650 --> 00:11:09,880
+<font color="#FFFFFF">and then he became the Kazekage!</font>
+
+121
+00:11:26,180 --> 00:11:28,420
+<font color="#FFFFFF">What the hell happened...?</font>
+
+122
+00:11:28,880 --> 00:11:30,520
+<font color="#FFFFFF">G-Gaara...</font>
+
+123
+00:11:42,280 --> 00:11:43,650
+<font color="#FFFFFF">Gaara!</font>
+
+124
+00:11:49,150 --> 00:11:50,320
+<font color="#FFFFFF">Lady Tsunade.</font>
+
+125
+00:11:50,820 --> 00:11:54,450
+<font color="#FFFFFF">Have you decided on
+the first mission for Team Kakashi?</font>
+
+126
+00:11:54,920 --> 00:11:57,050
+<font color="#FFFFFF">Naruto and Sakura did
+nothing but training</font>
+
+127
+00:11:57,080 --> 00:11:59,150
+<font color="#FFFFFF">for two and a half years, after all.</font>
+
+128
+00:11:59,880 --> 00:12:02,880
+<font color="#FFFFFF">I'm going to have them work off
+those two and a half years!</font>
+
+129
+00:12:03,280 --> 00:12:05,250
+<font color="#FFFFFF">Oh, how about something like this...?</font>
+
+130
+00:12:05,650 --> 00:12:07,920
+<font color="#FFFFFF">A VIP escort in the Land of Rice Paddies...</font>
+
+131
+00:12:08,450 --> 00:12:09,820
+<font color="#FFFFFF">This is a B-rank mission, huh...?</font>
+
+132
+00:12:11,020 --> 00:12:14,650
+<font color="#FFFFFF">But Naruto hasn't been on
+a mission in quite awhile.</font>
+
+133
+00:12:14,880 --> 00:12:17,920
+<font color="#FFFFFF">Wouldn't an easier mission
+be better to start...?</font>
+
+134
+00:12:19,180 --> 00:12:20,850
+<font color="#FFFFFF">Look, how about something like this...?</font>
+
+135
+00:12:23,480 --> 00:12:24,820
+<font color="#FFFFFF">Dog-walking...?</font>
+
+136
+00:12:24,850 --> 00:12:26,620
+<font color="#FFFFFF">This is a D-rank mission!</font>
+
+137
+00:12:26,880 --> 00:12:28,420
+<font color="#FFFFFF">Sakura's a Chunin,</font>
+
+138
+00:12:28,450 --> 00:12:30,050
+<font color="#FFFFFF">and I'm sure Naruto is
+much stronger now.</font>
+
+139
+00:12:30,350 --> 00:12:32,150
+<font color="#FFFFFF">I can't send them on
+a mission like this!</font>
+
+140
+00:12:32,420 --> 00:12:35,480
+<font color="#FFFFFF">However... there's the issue with
+the Nine-Tails to consider.</font>
+
+141
+00:12:35,520 --> 00:12:38,350
+<font color="#FFFFFF">I don't think it's wise to imprudently
+send him out of the village too much...</font>
+
+142
+00:12:38,380 --> 00:12:40,820
+<font color="#FFFFFF">That's why I teamed them up
+with Kakashi.</font>
+
+143
+00:12:41,250 --> 00:12:43,680
+<font color="#FFFFFF">I... understand that, but...</font>
+
+144
+00:12:44,280 --> 00:12:45,680
+<font color="#FFFFFF">We can at least give them
+this mission.</font>
+
+145
+00:12:45,720 --> 00:12:46,980
+<font color="#FFFFFF">I'll concede no further.</font>
+
+146
+00:12:48,550 --> 00:12:52,150
+<font color="#FFFFFF">A gold bullion transport convoy...
+A C-rank mission...?</font>
+
+147
+00:12:52,720 --> 00:12:57,350
+<font color="#FFFFFF">Naruto will probably still get miffed.
+He'll say it's too easy.</font>
+
+148
+00:12:58,180 --> 00:12:59,350
+<font color="#FFFFFF">Ichiraku Ramen</font>
+
+149
+00:13:04,080 --> 00:13:05,120
+<font color="#FFFFFF">Oh!</font>
+
+150
+00:13:06,320 --> 00:13:08,180
+<font color="#FFFFFF">Sorry about that, old man!</font>
+
+151
+00:13:08,420 --> 00:13:09,750
+<font color="#FFFFFF">Don't worry about it.</font>
+
+152
+00:13:10,120 --> 00:13:12,450
+<font color="#FFFFFF">Man, what a waste.</font>
+
+153
+00:13:24,280 --> 00:13:25,480
+<font color="#FFFFFF">Lord Kazekage!</font>
+
+154
+00:13:25,680 --> 00:13:29,780
+<font color="#FFFFFF">It-It can't be! Gaara's Ultimate Defense
+has been...</font>
+
+155
+00:13:30,280 --> 00:13:31,850
+<font color="#FFFFFF">What the hell did he do...?</font>
+
+156
+00:13:46,880 --> 00:13:49,380
+<font color="#FFFFFF">I cause an explosion
+at point-blank range...</font>
+
+157
+00:13:49,980 --> 00:13:52,150
+<font color="#FFFFFF">and you're forced to use</font>
+
+158
+00:13:52,180 --> 00:13:56,120
+<font color="#FFFFFF">your speedy gourd sand you crushed
+my hand with to defend yourself...</font>
+
+159
+00:13:56,780 --> 00:14:00,080
+<font color="#FFFFFF">However...
+then I'm down to my last attack...</font>
+
+160
+00:14:00,220 --> 00:14:02,280
+<font color="#FFFFFF">I had to create an opening</font>
+
+161
+00:14:02,320 --> 00:14:06,880
+<font color="#FFFFFF">in order to cause a sure explosion
+at close range...</font>
+
+162
+00:14:07,480 --> 00:14:12,020
+<font color="#FFFFFF">I dropped my "specialty..."
+on the village for that very purpose.</font>
+
+163
+00:14:41,520 --> 00:14:42,820
+<font color="#FFFFFF">I guess I'll go retrieve him.</font>
+
+164
+00:15:12,080 --> 00:15:13,480
+<font color="#FFFFFF">I get it.</font>
+
+165
+00:15:14,450 --> 00:15:15,880
+<font color="#FFFFFF">Wh-What's happening...?</font>
+
+166
+00:15:16,650 --> 00:15:18,850
+<font color="#FFFFFF">He's draining his last remaining strength</font>
+
+167
+00:15:18,880 --> 00:15:21,780
+<font color="#FFFFFF">in an attempt to move the sand
+outside the village...</font>
+
+168
+00:15:22,580 --> 00:15:24,720
+<font color="#FFFFFF">He wants to make sure the village
+isn't damaged!</font>
+
+169
+00:15:26,180 --> 00:15:28,050
+<font color="#FFFFFF">I'd expect no less from the Kazekage...</font>
+
+170
+00:15:28,750 --> 00:15:31,950
+<font color="#FFFFFF">Even when it'd be easier just to
+drop it on the village.</font>
+
+171
+00:15:38,850 --> 00:15:40,720
+<font color="#FFFFFF">G-Gaara...</font>
+
+172
+00:15:41,250 --> 00:15:45,080
+<font color="#FFFFFF">Hey, what're you guys doing?
+We must protect Lord Kazekage!</font>
+
+173
+00:15:45,480 --> 00:15:46,550
+<font color="#FFFFFF">Commence attack!</font>
+
+174
+00:15:47,150 --> 00:15:48,120
+<font color="#FFFFFF">- Yes, sir!
+- Yes, sir!</font>
+
+175
+00:15:52,150 --> 00:15:53,020
+<font color="#FFFFFF">Fire!</font>
+
+176
+00:16:04,550 --> 00:16:06,280
+<font color="#FFFFFF">Your attacks are futile.</font>
+
+177
+00:16:07,520 --> 00:16:08,220
+<font color="#FFFFFF">Fire!</font>
+
+178
+00:16:10,950 --> 00:16:13,280
+<font color="#FFFFFF">Your attacks are futile, I'm telling you!</font>
+
+179
+00:16:24,380 --> 00:16:26,180
+<font color="#FFFFFF">They got a bit creative, huh...?</font>
+
+180
+00:16:31,820 --> 00:16:36,280
+<font color="#FFFFFF">My man Sasori will be ticked off if
+I keep him waiting too long.</font>
+
+181
+00:16:43,750 --> 00:16:46,180
+<font color="#FFFFFF">Is he going to keep me waiting forever?</font>
+
+182
+00:17:02,950 --> 00:17:05,320
+<font color="#FFFFFF">Hang in there, Lord Kazekage!</font>
+
+183
+00:17:22,520 --> 00:17:25,080
+<font color="#FFFFFF">Gaara! Hang in there just a little longer!</font>
+
+184
+00:17:47,120 --> 00:17:48,080
+<font color="#FFFFFF">He did it!</font>
+
+185
+00:18:07,720 --> 00:18:10,720
+<font color="#FFFFFF">Now it's your turn
+to work hard, Naruto.</font>
+
+186
+00:18:11,920 --> 00:18:13,920
+<font color="#FFFFFF">But my opposition's the Kazekage...</font>
+
+187
+00:18:14,450 --> 00:18:16,950
+<font color="#FFFFFF">I'm still just a Genin...</font>
+
+188
+00:18:17,550 --> 00:18:21,420
+<font color="#FFFFFF">But your training with Master Jiraiya
+wasn't for nothing, right?</font>
+
+189
+00:18:22,080 --> 00:18:28,820
+<font color="#FFFFFF">I heard you and Sakura were able
+to take the bells away from Kakashi.</font>
+
+190
+00:18:29,220 --> 00:18:31,180
+<font color="#FFFFFF">It was more of a cinch than I thought!</font>
+
+191
+00:18:31,620 --> 00:18:35,020
+<font color="#FFFFFF">I might even be stronger
+than you, Iruka Sensei!</font>
+
+192
+00:18:35,050 --> 00:18:36,450
+<font color="#FFFFFF">What're you talking about?</font>
+
+193
+00:18:36,650 --> 00:18:38,980
+<font color="#FFFFFF">I'm a long way from being outdone!</font>
+
+194
+00:18:39,220 --> 00:18:41,980
+<font color="#FFFFFF">We won't know unless we try!</font>
+
+195
+00:18:42,480 --> 00:18:43,550
+<font color="#FFFFFF">Oh, come on!</font>
+
+196
+00:18:44,380 --> 00:18:46,750
+<font color="#FFFFFF">In any event, starting tomorrow,</font>
+
+197
+00:18:46,780 --> 00:18:49,250
+<font color="#FFFFFF">you'll be working as a member
+of Team Kakashi, right?</font>
+
+198
+00:18:49,420 --> 00:18:50,450
+<font color="#FFFFFF">Good luck!</font>
+
+199
+00:18:52,420 --> 00:18:53,420
+<font color="#FFFFFF">Right!</font>
+
+200
+00:18:54,550 --> 00:18:57,420
+<font color="#FFFFFF">I'm going to become Hokage
+in the future, after all...</font>
+
+201
+00:18:57,880 --> 00:19:00,520
+<font color="#FFFFFF">No way will I be outdone by
+the likes of Gaara!</font>
+
+202
+00:19:04,150 --> 00:19:05,080
+<font color="#FFFFFF">Gaara!</font>
+
+203
+00:19:05,680 --> 00:19:07,420
+<font color="#FFFFFF">Rescue Lord Kazekage!</font>
+
+204
+00:19:13,950 --> 00:19:18,050
+<font color="#FFFFFF">It was harder than
+I thought not to kill him...</font>
+
+205
+00:19:44,580 --> 00:19:46,650
+<font color="#FFFFFF">Mission cleared.</font>
+
+206
+00:19:56,050 --> 00:19:57,920
+<font color="#FFFFFF">Gaara!</font>
+
+207
+00:21:35,720 --> 00:21:39,150
+<font color="#FFFFFF">Here is the latest forecast from
+today's weather report.</font>
+
+208
+00:21:39,550 --> 00:21:42,350
+<font color="#FFFFFF">Mostly clear skies in
+the Hidden Sand Village.</font>
+
+209
+00:21:42,380 --> 00:21:45,220
+<font color="#FFFFFF">However, certain areas may expect
+showers of various colored sands.</font>
+
+210
+00:21:45,380 --> 00:21:50,120
+<font color="#FFFFFF">There are also chances of sudden falls
+of detonation clay similar to last night.</font>
+
+211
+00:21:50,150 --> 00:21:52,480
+<font color="#FFFFFF">Please be careful
+when going outdoors.</font>
+
+212
+00:21:52,720 --> 00:21:56,720
+<font color="#FFFFFF">It is recommended for well-used Puppets
+to be placed within Scrolls.</font>
+
+213
+00:21:57,080 --> 00:22:00,120
+<font color="#FFFFFF">That was the forecast report form
+the Hidden Sand Weather Station.</font>
+
+214
+00:22:01,950 --> 00:22:04,420
+<font color="#FFFFFF">Next time: "Run, Kankuro"</font>
+

@@ -1,0 +1,982 @@
+1
+00:01:26,560 --> 00:01:29,930
+<font face="Open Sans Semibold" size="36"><b>~Thanks for watching on Crunchyroll.com~</b></font>
+
+2
+00:01:46,070 --> 00:01:47,500
+<font face="Open Sans Semibold" size="36"><b>You finally came.</b></font>
+
+3
+00:01:48,300 --> 00:01:49,330
+<font face="Open Sans Semibold" size="36"><b>What is the situation?</b></font>
+
+4
+00:01:49,630 --> 00:01:51,530
+<font face="Open Sans Semibold" size="36"><b>I'd say there are about fifty
+of the enemy.</b></font>
+
+5
+00:01:51,870 --> 00:01:55,300
+<font face="Open Sans Semibold" size="36"><b>Compared to that,
+there are just four of us left alive.</b></font>
+
+6
+00:01:59,930 --> 00:02:02,800
+<font face="Open Sans Semibold" size="36"><b>It'll all be over soon.
+We will all attack at once.</b></font>
+
+7
+00:02:04,800 --> 00:02:08,700
+<font face="Open Sans Semibold" size="36"><b>Everyone, please direct these kunai knives
+towards the enemy all at once.</b></font>
+
+8
+00:02:09,500 --> 00:02:11,200
+<font face="Open Sans Semibold" size="36"><b>I will do the rest...</b></font>
+
+9
+00:02:12,630 --> 00:02:15,170
+<font face="Open Sans Semibold" size="36"><b>That's crazy! Not even you could...</b></font>
+
+10
+00:02:15,570 --> 00:02:17,300
+<font face="Open Sans Semibold" size="36"><b>Shut up and do as he says.</b></font>
+
+11
+00:02:17,870 --> 00:02:21,170
+<font face="Open Sans Semibold" size="36"><b>We're about to see
+the Yellow Flash of the Leaf in battle.</b></font>
+
+12
+00:02:21,600 --> 00:02:24,300
+<font face="Open Sans Semibold" size="36"><b>It'll happen in a flash. Don't miss it.</b></font>
+
+13
+00:02:39,400 --> 00:02:41,130
+<font face="Open Sans Semibold" size="36"><b><i>It's healing well...</i></b></font>
+
+14
+00:02:41,330 --> 00:02:44,570
+<font face="Open Sans Semibold" size="36"><b><i>But don't over-exert yourself
+<i>or you'll open up the wound.</i></i></b></font>
+
+15
+00:02:48,670 --> 00:02:50,600
+<font face="Open Sans Semibold" size="36"><b><i>When you and I were wounded,</i></b></font>
+
+16
+00:02:50,630 --> 00:02:54,000
+<font face="Open Sans Semibold" size="36"><b><i>Rin saved our lives with
+<i>her Medical Ninjutsu!</i></i></b></font>
+
+17
+00:02:54,670 --> 00:02:59,200
+<font face="Open Sans Semibold" size="36"><b><i>If she hadn't been there,
+<i>we'd both be dead by now!</i></i></b></font>
+
+18
+00:02:59,770 --> 00:03:03,370
+<font face="Open Sans Semibold" size="36"><b><i>Right now, saving Rin takes priority
+<i>over the mission!</i></i></b></font>
+
+19
+00:03:04,100 --> 00:03:06,570
+<font face="Open Sans Semibold" size="36"><b><i>Kakashi, rules and regulations
+<i>are indeed important.</i></i></b></font>
+
+20
+00:03:06,600 --> 00:03:10,000
+<font face="Open Sans Semibold" size="36"><b><i>But that isn't everything.
+<i>Didn't I teach you...?</i></i></b></font>
+
+21
+00:03:10,500 --> 00:03:12,430
+<font face="Open Sans Semibold" size="36"><b><i>There are times
+<i>when the situation requires</i></i></b></font>
+
+22
+00:03:12,470 --> 00:03:14,600
+<font face="Open Sans Semibold" size="36"><b><i>impromptu responses
+<i>against the enemy.</i></i></b></font>
+
+23
+00:03:21,330 --> 00:03:24,800
+<font face="Open Sans Semibold" size="36"><b><i>I believe that the White Fang
+<i>was a true hero...</i></i></b></font>
+
+24
+00:03:25,970 --> 00:03:27,870
+<font face="Open Sans Semibold" size="36"><b><i>Sure in the world of ninja,</i></b></font>
+
+25
+00:03:27,900 --> 00:03:30,900
+<font face="Open Sans Semibold" size="36"><b><i>those who break the rules and regulations
+<i>are regarded as scum...</i></i></b></font>
+
+26
+00:03:31,100 --> 00:03:32,130
+<font face="Open Sans Semibold" size="36"><b><i>But...</i></b></font>
+
+27
+00:03:33,270 --> 00:03:37,030
+<font face="Open Sans Semibold" size="36"><b><i>those who abandon their comrades
+<i>are worse than scum!</i></i></b></font>
+
+28
+00:03:41,100 --> 00:03:46,300
+<font face="Open Sans Semibold" size="36"><b><i>Kakashi Chronicles
+<i>~ A Boy's Life on the Battlefield ~ Part 2
+
+</i></i></b></font>
+
+29
+00:03:50,730 --> 00:03:51,900
+<font face="Open Sans Semibold" size="36"><b><i>I found them...</i></b></font>
+
+30
+00:03:53,330 --> 00:03:55,730
+<font face="Open Sans Semibold" size="36"><b><i>Calm down... I can do this!</i></b></font>
+
+31
+00:04:01,700 --> 00:04:03,230
+<font face="Open Sans Semibold" size="36"><b>I'll take care of it.</b></font>
+
+32
+00:04:03,830 --> 00:04:08,130
+<font face="Open Sans Semibold" size="36"><b>In the meantime, use your genjutsu
+and get the information from her.</b></font>
+
+33
+00:04:09,170 --> 00:04:10,900
+<font face="Open Sans Semibold" size="36"><b>Camouflage Jutsu...</b></font>
+
+34
+00:04:19,630 --> 00:04:21,430
+<font face="Open Sans Semibold" size="36"><b>All right... Here I go!</b></font>
+
+35
+00:04:22,100 --> 00:04:23,100
+<font face="Open Sans Semibold" size="36"><b>Go where?</b></font>
+
+36
+00:04:41,730 --> 00:04:44,970
+<font face="Open Sans Semibold" size="36"><b>K-Kakashi... How come you're...?!</b></font>
+
+37
+00:04:45,370 --> 00:04:49,800
+<font face="Open Sans Semibold" size="36"><b>Well, I can't leave this up to
+a crybaby ninja like you, can I?</b></font>
+
+38
+00:04:50,530 --> 00:04:51,600
+<font face="Open Sans Semibold" size="36"><b>Kakashi...</b></font>
+
+39
+00:04:52,970 --> 00:04:56,330
+<font face="Open Sans Semibold" size="36"><b>That silver-white hair and
+White Chakra Blade...!</b></font>
+
+40
+00:04:56,930 --> 00:05:00,070
+<font face="Open Sans Semibold" size="36"><b>Don't tell me you're...
+the "White Fang" of the Leaf?!</b></font>
+
+41
+00:05:01,170 --> 00:05:02,770
+<font face="Open Sans Semibold" size="36"><b>This is my father's keepsake.</b></font>
+
+42
+00:05:04,430 --> 00:05:07,300
+<font face="Open Sans Semibold" size="36"><b><i>To carry out his mission,
+<i>useful tools are essential to a ninja.</i></i></b></font>
+
+43
+00:05:07,800 --> 00:05:10,770
+<font face="Open Sans Semibold" size="36"><b><i>Something like emotions are useless.</i></b></font>
+
+44
+00:05:12,770 --> 00:05:14,370
+<font face="Open Sans Semibold" size="36"><b><i>Kakashi...you...</i></b></font>
+
+45
+00:05:14,970 --> 00:05:18,030
+<font face="Open Sans Semibold" size="36"><b>I see... You're the White Fang's kid...</b></font>
+
+46
+00:05:18,430 --> 00:05:20,500
+<font face="Open Sans Semibold" size="36"><b>Then there's no need to
+be afraid of you.</b></font>
+
+47
+00:05:26,170 --> 00:05:27,270
+<font face="Open Sans Semibold" size="36"><b><i>I thought so.</i></b></font>
+
+48
+00:05:28,070 --> 00:05:29,770
+<font face="Open Sans Semibold" size="36"><b>The scent has been completely erased.</b></font>
+
+49
+00:05:30,300 --> 00:05:32,570
+<font face="Open Sans Semibold" size="36"><b>We'll have to locate him</b></font>
+
+50
+00:05:32,600 --> 00:05:34,800
+<font face="Open Sans Semibold" size="36"><b>by the slightest movement
+and noise he makes.</b></font>
+
+51
+00:05:35,370 --> 00:05:37,000
+<font face="Open Sans Semibold" size="36"><b>Wh-Where is he?</b></font>
+
+52
+00:05:40,830 --> 00:05:41,970
+<font face="Open Sans Semibold" size="36"><b>Obito, behind you!</b></font>
+
+53
+00:05:49,070 --> 00:05:49,830
+<font face="Open Sans Semibold" size="36"><b>My eye...!</b></font>
+
+54
+00:05:50,500 --> 00:05:51,370
+<font face="Open Sans Semibold" size="36"><b>Kakashi!</b></font>
+
+55
+00:05:54,530 --> 00:05:56,670
+<font face="Open Sans Semibold" size="36"><b>Hey Kakashi! Are you all right?!</b></font>
+
+56
+00:06:02,600 --> 00:06:06,000
+<font face="Open Sans Semibold" size="36"><b>Even if he's just a kid,
+it doesn't hurt to be cautious...</b></font>
+
+57
+00:06:06,330 --> 00:06:07,770
+<font face="Open Sans Semibold" size="36"><b>I'll take it nice and slow.</b></font>
+
+58
+00:06:08,830 --> 00:06:11,230
+<font face="Open Sans Semibold" size="36"><b>Our enemy... He's good...</b></font>
+
+59
+00:06:11,730 --> 00:06:14,730
+<font face="Open Sans Semibold" size="36"><b>He threw away the kunai knife stained
+with the smell of my blood.</b></font>
+
+60
+00:06:18,030 --> 00:06:20,200
+<font face="Open Sans Semibold" size="36"><b>Don't tell me you got dust
+in your eye again?</b></font>
+
+61
+00:06:21,230 --> 00:06:22,800
+<font face="Open Sans Semibold" size="36"><b>A ninja shouldn't cry...</b></font>
+
+62
+00:06:23,230 --> 00:06:24,770
+<font face="Open Sans Semibold" size="36"><b>I'm not dead yet.</b></font>
+
+63
+00:06:25,400 --> 00:06:26,430
+<font face="Open Sans Semibold" size="36"><b>Stay focused!</b></font>
+
+64
+00:06:29,100 --> 00:06:30,670
+<font face="Open Sans Semibold" size="36"><b>There's no way dust can
+get into your eyes</b></font>
+
+65
+00:06:30,700 --> 00:06:32,600
+<font face="Open Sans Semibold" size="36"><b>when you have goggles on.</b></font>
+
+66
+00:06:33,300 --> 00:06:36,470
+<font face="Open Sans Semibold" size="36"><b>If you're going to advocate self-control,
+don't just mouth the words.</b></font>
+
+67
+00:06:36,500 --> 00:06:38,070
+<font face="Open Sans Semibold" size="36"><b>Act strong too.</b></font>
+
+68
+00:06:38,830 --> 00:06:43,570
+<font face="Open Sans Semibold" size="36"><b><i>I'm just talk...
+<i>Always being saved by others...</i></i></b></font>
+
+69
+00:06:44,570 --> 00:06:46,470
+<font face="Open Sans Semibold" size="36"><b><i>Just a big-mouthed loser...</i></b></font>
+
+70
+00:06:47,600 --> 00:06:48,400
+<font face="Open Sans Semibold" size="36"><b><i>But...</i></b></font>
+
+71
+00:06:49,700 --> 00:06:53,170
+<font face="Open Sans Semibold" size="36"><b>I believe that the White Fang
+was a true hero...</b></font>
+
+72
+00:06:54,470 --> 00:06:58,300
+<font face="Open Sans Semibold" size="36"><b>Those who abandon their comrades...
+are worse than scum!</b></font>
+
+73
+00:06:59,900 --> 00:07:03,570
+<font face="Open Sans Semibold" size="36"><b><i>I don't want those words
+<i>to be just empty talk!</i></i></b></font>
+
+74
+00:07:10,200 --> 00:07:11,170
+<font face="Open Sans Semibold" size="36"><b><i>Die!</i></b></font>
+
+75
+00:07:15,500 --> 00:07:17,200
+<font face="Open Sans Semibold" size="36"><b>Wh-Why...?</b></font>
+
+76
+00:07:18,230 --> 00:07:19,800
+<font face="Open Sans Semibold" size="36"><b>There's no way you can see...</b></font>
+
+77
+00:07:20,500 --> 00:07:22,130
+<font face="Open Sans Semibold" size="36"><b>Obito... You...!</b></font>
+
+78
+00:07:30,500 --> 00:07:33,370
+<font face="Open Sans Semibold" size="36"><b>Wh-What is... that eye...?</b></font>
+
+79
+00:07:35,100 --> 00:07:37,630
+<font face="Open Sans Semibold" size="36"><b>This time... I'll protect my comrade!</b></font>
+
+80
+00:07:46,600 --> 00:07:48,730
+<font face="Open Sans Semibold" size="36"><b>Obito... That eye of yours...</b></font>
+
+81
+00:07:49,530 --> 00:07:52,370
+<font face="Open Sans Semibold" size="36"><b>Yeah... I guess this is the Sharingan.</b></font>
+
+82
+00:07:53,000 --> 00:07:55,400
+<font face="Open Sans Semibold" size="36"><b>I can now see the movement
+and flow of chakra.</b></font>
+
+83
+00:07:58,870 --> 00:08:00,100
+<font face="Open Sans Semibold" size="36"><b>Are you all right, Kakashi?!</b></font>
+
+84
+00:08:00,870 --> 00:08:01,670
+<font face="Open Sans Semibold" size="36"><b>Yeah...</b></font>
+
+85
+00:08:02,270 --> 00:08:04,770
+<font face="Open Sans Semibold" size="36"><b>Looks like I lost my left eye,</b></font>
+
+86
+00:08:05,400 --> 00:08:06,930
+<font face="Open Sans Semibold" size="36"><b>but I have the kit Rin gave me.</b></font>
+
+87
+00:08:07,670 --> 00:08:09,330
+<font face="Open Sans Semibold" size="36"><b>I can use it for emergency first-aid.</b></font>
+
+88
+00:08:10,130 --> 00:08:11,800
+<font face="Open Sans Semibold" size="36"><b>We're going to save Rin immediately!</b></font>
+
+89
+00:08:12,170 --> 00:08:12,800
+<font face="Open Sans Semibold" size="36"><b>Okay!</b></font>
+
+90
+00:08:23,700 --> 00:08:25,870
+<font face="Open Sans Semibold" size="36"><b>You're surprisingly stubborn.</b></font>
+
+91
+00:08:33,900 --> 00:08:37,170
+<font face="Open Sans Semibold" size="36"><b>Hmm.... They're all so pathetic.</b></font>
+
+92
+00:08:45,070 --> 00:08:46,830
+<font face="Open Sans Semibold" size="36"><b>The flow of Rin's chakra is disturbed...</b></font>
+
+93
+00:08:47,470 --> 00:08:49,670
+<font face="Open Sans Semibold" size="36"><b>It's different from your chakra
+or mine.</b></font>
+
+94
+00:08:50,470 --> 00:08:52,300
+<font face="Open Sans Semibold" size="36"><b>She's probably under a genjutsu...</b></font>
+
+95
+00:08:53,070 --> 00:08:55,330
+<font face="Open Sans Semibold" size="36"><b>They didn't waste any time trying
+to get the information out of her.</b></font>
+
+96
+00:08:57,070 --> 00:08:59,530
+<font face="Open Sans Semibold" size="36"><b>It seems they're not mere kids.</b></font>
+
+97
+00:09:00,470 --> 00:09:03,900
+<font face="Open Sans Semibold" size="36"><b>We fought him earlier.
+He's fast... Stay alert!</b></font>
+
+98
+00:09:04,200 --> 00:09:04,870
+<font face="Open Sans Semibold" size="36"><b>Right!</b></font>
+
+99
+00:09:43,830 --> 00:09:44,570
+<font face="Open Sans Semibold" size="36"><b>Release!</b></font>
+
+100
+00:09:46,130 --> 00:09:48,170
+<font face="Open Sans Semibold" size="36"><b>Kakashi... Obito...!</b></font>
+
+101
+00:09:49,100 --> 00:09:50,400
+<font face="Open Sans Semibold" size="36"><b>We've come to save you, Rin!</b></font>
+
+102
+00:09:51,330 --> 00:09:52,600
+<font face="Open Sans Semibold" size="36"><b>You'll be all right now.</b></font>
+
+103
+00:09:53,330 --> 00:09:55,630
+<font face="Open Sans Semibold" size="36"><b>All right, now let's get out of here!</b></font>
+
+104
+00:10:00,130 --> 00:10:01,230
+<font face="Open Sans Semibold" size="36"><b>I see...</b></font>
+
+105
+00:10:01,500 --> 00:10:04,730
+<font face="Open Sans Semibold" size="36"><b>You two made a good team,
+but you're still just kids.</b></font>
+
+106
+00:10:05,930 --> 00:10:08,800
+<font face="Open Sans Semibold" size="36"><b>Right now, you're in enemy hands.</b></font>
+
+107
+00:10:11,130 --> 00:10:13,130
+<font face="Open Sans Semibold" size="36"><b>Earth Style: Rock Breaker!</b></font>
+
+108
+00:10:16,500 --> 00:10:17,400
+<font face="Open Sans Semibold" size="36"><b>This is bad!!</b></font>
+
+109
+00:10:17,830 --> 00:10:19,000
+<font face="Open Sans Semibold" size="36"><b>Run for the exit!</b></font>
+
+110
+00:10:27,730 --> 00:10:28,500
+<font face="Open Sans Semibold" size="36"><b>Kakashi!</b></font>
+
+111
+00:10:43,300 --> 00:10:45,730
+<font face="Open Sans Semibold" size="36"><b>Too bad, I lost a good source
+of information...</b></font>
+
+112
+00:10:46,000 --> 00:10:48,000
+<font face="Open Sans Semibold" size="36"><b>Oh well, it can't be helped.</b></font>
+
+113
+00:11:01,200 --> 00:11:04,770
+<font face="Open Sans Semibold" size="36"><b>Are you all right?
+Rin...? Kakashi...?</b></font>
+
+114
+00:11:06,700 --> 00:11:07,430
+<font face="Open Sans Semibold" size="36"><b>Obito!</b></font>
+
+115
+00:11:16,370 --> 00:11:19,500
+<font face="Open Sans Semibold" size="36"><b>Don't... It's okay, Kakashi.</b></font>
+
+116
+00:11:20,630 --> 00:11:23,730
+<font face="Open Sans Semibold" size="36"><b>I don't think...I can make it...</b></font>
+
+117
+00:11:25,100 --> 00:11:28,430
+<font face="Open Sans Semibold" size="36"><b>My right side is totally crushed.</b></font>
+
+118
+00:11:29,300 --> 00:11:30,500
+<font face="Open Sans Semibold" size="36"><b>I can't even feel anything...</b></font>
+
+119
+00:11:36,170 --> 00:11:37,230
+<font face="Open Sans Semibold" size="36"><b>Dammit!!</b></font>
+
+120
+00:11:38,500 --> 00:11:42,130
+<font face="Open Sans Semibold" size="36"><b>No... This can't be... Why...?</b></font>
+
+121
+00:11:44,530 --> 00:11:45,530
+<font face="Open Sans Semibold" size="36"><b>Obito...!</b></font>
+
+122
+00:11:52,800 --> 00:11:53,770
+<font face="Open Sans Semibold" size="36"><b>Dammit!</b></font>
+
+123
+00:11:54,800 --> 00:11:55,900
+<font face="Open Sans Semibold" size="36"><b>Dammit!!</b></font>
+
+124
+00:11:56,730 --> 00:11:59,900
+<font face="Open Sans Semibold" size="36"><b>If...If only I had listened to you,</b></font>
+
+125
+00:11:59,930 --> 00:12:01,970
+<font face="Open Sans Semibold" size="36"><b>and we had come to rescue Rin
+in the first place...</b></font>
+
+126
+00:12:02,130 --> 00:12:04,230
+<font face="Open Sans Semibold" size="36"><b>This never would've happened!</b></font>
+
+127
+00:12:10,970 --> 00:12:14,430
+<font face="Open Sans Semibold" size="36"><b>So what if I'm a captain?!
+So what if I made jonin?!</b></font>
+
+128
+00:12:16,000 --> 00:12:19,500
+<font face="Open Sans Semibold" size="36"><b>Oh yeah... I had forgotten...</b></font>
+
+129
+00:12:22,770 --> 00:12:24,230
+<font face="Open Sans Semibold" size="36"><b>I was the only one who...</b></font>
+
+130
+00:12:24,630 --> 00:12:27,600
+<font face="Open Sans Semibold" size="36"><b>didn't give you a gift...</b></font>
+
+131
+00:12:28,030 --> 00:12:31,230
+<font face="Open Sans Semibold" size="36"><b>for becoming a jonin, Kakashi.</b></font>
+
+132
+00:12:35,270 --> 00:12:38,370
+<font face="Open Sans Semibold" size="36"><b>I was...wondering what to give you...</b></font>
+
+133
+00:12:39,200 --> 00:12:43,170
+<font face="Open Sans Semibold" size="36"><b>and I just had a thought.</b></font>
+
+134
+00:12:45,230 --> 00:12:47,430
+<font face="Open Sans Semibold" size="36"><b>Don't worry...</b></font>
+
+135
+00:12:47,900 --> 00:12:52,070
+<font face="Open Sans Semibold" size="36"><b>It's not some useless, extra baggage...</b></font>
+
+136
+00:12:56,230 --> 00:13:01,530
+<font face="Open Sans Semibold" size="36"><b>I'm giving you...my Sharingan.</b></font>
+
+137
+00:13:04,930 --> 00:13:07,800
+<font face="Open Sans Semibold" size="36"><b>Whatever the village may say...</b></font>
+
+138
+00:13:08,470 --> 00:13:11,430
+<font face="Open Sans Semibold" size="36"><b>you are...a great jonin.</b></font>
+
+139
+00:13:12,130 --> 00:13:15,300
+<font face="Open Sans Semibold" size="36"><b>That's how I really feel...</b></font>
+
+140
+00:13:16,300 --> 00:13:17,470
+<font face="Open Sans Semibold" size="36"><b>So please accept it.</b></font>
+
+141
+00:13:22,200 --> 00:13:26,270
+<font face="Open Sans Semibold" size="36"><b>Rin... Use your Medical Ninjutsu...</b></font>
+
+142
+00:13:27,230 --> 00:13:30,770
+<font face="Open Sans Semibold" size="36"><b>Take the entire eye and transplant...
+my Sharingan...</b></font>
+
+143
+00:13:30,800 --> 00:13:34,230
+<font face="Open Sans Semibold" size="36"><b>into Kakashi's left eye.</b></font>
+
+144
+00:13:36,930 --> 00:13:40,330
+<font face="Open Sans Semibold" size="36"><b>Kakashi, come over here...
+I'll start it right away.</b></font>
+
+145
+00:13:42,970 --> 00:13:45,230
+<font face="Open Sans Semibold" size="36"><b>I'm about to...die...</b></font>
+
+146
+00:13:46,300 --> 00:13:49,270
+<font face="Open Sans Semibold" size="36"><b>But...I'll become your eye and...</b></font>
+
+147
+00:13:49,830 --> 00:13:52,470
+<font face="Open Sans Semibold" size="36"><b>see the future...for you.</b></font>
+
+148
+00:14:09,430 --> 00:14:12,700
+<font face="Open Sans Semibold" size="36"><b>How stubborn...
+You're still alive, huh?</b></font>
+
+149
+00:14:16,530 --> 00:14:19,170
+<font face="Open Sans Semibold" size="36"><b>But...you're just a kid, after all.</b></font>
+
+150
+00:14:19,830 --> 00:14:21,770
+<font face="Open Sans Semibold" size="36"><b>What's a ninja crying for?</b></font>
+
+151
+00:14:22,270 --> 00:14:25,300
+<font face="Open Sans Semibold" size="36"><b>Come on, crybaby! Let's settle this.</b></font>
+
+152
+00:14:40,800 --> 00:14:44,800
+<font face="Open Sans Semibold" size="36"><b><i>That kid...
+<i>He seems different than before...</i></i></b></font>
+
+153
+00:14:49,900 --> 00:14:53,630
+<font face="Open Sans Semibold" size="36"><b>Kakashi...take care of...Rin.</b></font>
+
+154
+00:14:54,430 --> 00:14:55,300
+<font face="Open Sans Semibold" size="36"><b>Yeah...</b></font>
+
+155
+00:15:51,000 --> 00:15:53,670
+<font face="Open Sans Semibold" size="36"><b>Don't panic...Rin.</b></font>
+
+156
+00:16:02,970 --> 00:16:06,200
+<font face="Open Sans Semibold" size="36"><b>Kakashi... Take Rin...</b></font>
+
+157
+00:16:06,270 --> 00:16:10,970
+<font face="Open Sans Semibold" size="36"><b>Take Rin and...get out...of here.</b></font>
+
+158
+00:16:12,030 --> 00:16:15,070
+<font face="Open Sans Semibold" size="36"><b>Enemy reinforcements...
+will be coming.</b></font>
+
+159
+00:16:15,900 --> 00:16:16,800
+<font face="Open Sans Semibold" size="36"><b>Obito...</b></font>
+
+160
+00:16:19,130 --> 00:16:21,170
+<font face="Open Sans Semibold" size="36"><b>It's okay... Just go...</b></font>
+
+161
+00:16:24,300 --> 00:16:25,070
+<font face="Open Sans Semibold" size="36"><b>Rin!</b></font>
+
+162
+00:16:34,600 --> 00:16:36,800
+<font face="Open Sans Semibold" size="36"><b>Earth Style! Earthquake Slam!</b></font>
+
+163
+00:16:41,470 --> 00:16:43,030
+<font face="Open Sans Semibold" size="36"><b>Rin, hurry, take my hand!</b></font>
+
+164
+00:16:43,430 --> 00:16:44,270
+<font face="Open Sans Semibold" size="36"><b>Rin!</b></font>
+
+165
+00:16:57,770 --> 00:16:58,800
+<font face="Open Sans Semibold" size="36"><b>Obito!!</b></font>
+
+166
+00:17:02,830 --> 00:17:07,400
+<font face="Open Sans Semibold" size="36"><b><i>Just when Kakashi and I were...
+<i>starting to get along...</i></i></b></font>
+
+167
+00:17:08,930 --> 00:17:13,130
+<font face="Open Sans Semibold" size="36"><b><i>I couldn't tell Rin that I...
+<i>loved her...</i></i></b></font>
+
+168
+00:17:15,000 --> 00:17:19,430
+<font face="Open Sans Semibold" size="36"><b><i>I wish...I could've spent more time...
+<i>with everyone.</i></i></b></font>
+
+169
+00:17:24,230 --> 00:17:25,030
+<font face="Open Sans Semibold" size="36"><b>Obito!</b></font>
+
+170
+00:17:55,630 --> 00:17:57,500
+<font face="Open Sans Semibold" size="36"><b><i>Damn it...!</i></b></font>
+
+171
+00:18:01,400 --> 00:18:05,000
+<font face="Open Sans Semibold" size="36"><b>Obito... This is the jutsu
+you helped me perfect!</b></font>
+
+172
+00:18:08,830 --> 00:18:13,500
+<font face="Open Sans Semibold" size="36"><b>Hmm... You still have the will to fight,
+even in this situation?</b></font>
+
+173
+00:18:13,870 --> 00:18:17,600
+<font face="Open Sans Semibold" size="36"><b>No wonder you were able to sneak
+so deep into enemy territory.</b></font>
+
+174
+00:18:17,870 --> 00:18:19,100
+<font face="Open Sans Semibold" size="36"><b>You are a determined one.</b></font>
+
+175
+00:18:20,530 --> 00:18:24,370
+<font face="Open Sans Semibold" size="36"><b>Rin! I'll hold them off!
+Get out now!</b></font>
+
+176
+00:18:24,770 --> 00:18:25,570
+<font face="Open Sans Semibold" size="36"><b>But...!</b></font>
+
+177
+00:18:26,070 --> 00:18:28,530
+<font face="Open Sans Semibold" size="36"><b>I promised Obito I'd look after you...</b></font>
+
+178
+00:18:29,330 --> 00:18:31,230
+<font face="Open Sans Semibold" size="36"><b>I'll protect you with my life!</b></font>
+
+179
+00:18:32,330 --> 00:18:33,330
+<font face="Open Sans Semibold" size="36"><b>Kakashi...</b></font>
+
+180
+00:18:34,570 --> 00:18:37,830
+<font face="Open Sans Semibold" size="36"><b>Rin... Obito cared about you.</b></font>
+
+181
+00:18:38,930 --> 00:18:40,300
+<font face="Open Sans Semibold" size="36"><b>He loved you...</b></font>
+
+182
+00:18:40,500 --> 00:18:41,900
+<font face="Open Sans Semibold" size="36"><b>You were everything to him.</b></font>
+
+183
+00:18:42,430 --> 00:18:45,070
+<font face="Open Sans Semibold" size="36"><b>That's why he gave his life
+to protect you.</b></font>
+
+184
+00:18:52,400 --> 00:18:54,770
+<font face="Open Sans Semibold" size="36"><b>Then, Kakashi! You should know
+my feelings for you...</b></font>
+
+185
+00:18:54,800 --> 00:18:55,670
+<font face="Open Sans Semibold" size="36"><b>I...!</b></font>
+
+186
+00:18:56,570 --> 00:18:58,800
+<font face="Open Sans Semibold" size="36"><b>I tried to abandon you...</b></font>
+
+187
+00:18:58,830 --> 00:19:00,030
+<font face="Open Sans Semibold" size="36"><b>I'm nothing but scum.</b></font>
+
+188
+00:19:09,200 --> 00:19:10,230
+<font face="Open Sans Semibold" size="36"><b>Rin, go!</b></font>
+
+189
+00:19:19,400 --> 00:19:22,000
+<font face="Open Sans Semibold" size="36"><b>Am I...dead?</b></font>
+
+190
+00:19:26,530 --> 00:19:27,630
+<font face="Open Sans Semibold" size="36"><b>Where am I?</b></font>
+
+191
+00:19:30,470 --> 00:19:31,930
+<font face="Open Sans Semibold" size="36"><b>Looks like
+you've regained consciousness.</b></font>
+
+192
+00:19:32,100 --> 00:19:33,030
+<font face="Open Sans Semibold" size="36"><b>Huh?!</b></font>
+
+193
+00:19:33,470 --> 00:19:35,330
+<font face="Open Sans Semibold" size="36"><b>Sensei! But how...?</b></font>
+
+194
+00:19:36,300 --> 00:19:39,600
+<font face="Open Sans Semibold" size="36"><b>The jutsu formula on this kunai knife
+serves as a marker</b></font>
+
+195
+00:19:39,630 --> 00:19:41,500
+<font face="Open Sans Semibold" size="36"><b>when I leap using
+the Transportation Technique.</b></font>
+
+196
+00:19:42,770 --> 00:19:44,330
+<font face="Open Sans Semibold" size="36"><b>Then...the enemy?</b></font>
+
+197
+00:19:45,170 --> 00:19:46,800
+<font face="Open Sans Semibold" size="36"><b>I took them all down...</b></font>
+
+198
+00:19:48,700 --> 00:19:49,430
+<font face="Open Sans Semibold" size="36"><b>Rin...</b></font>
+
+199
+00:19:49,700 --> 00:19:50,700
+<font face="Open Sans Semibold" size="36"><b>Where is Rin?!</b></font>
+
+200
+00:19:55,000 --> 00:19:58,230
+<font face="Open Sans Semibold" size="36"><b>I'm sorry
+I couldn't make it in time, Kakashi...</b></font>
+
+201
+00:19:59,070 --> 00:20:01,400
+<font face="Open Sans Semibold" size="36"><b>Rin told me everything.</b></font>
+
+202
+00:20:15,500 --> 00:20:18,270
+<font face="Open Sans Semibold" size="36"><b>The Third Great Ninja War.</b></font>
+
+203
+00:20:18,430 --> 00:20:20,870
+<font face="Open Sans Semibold" size="36"><b>With the sacrifice of
+many nameless ninja,</b></font>
+
+204
+00:20:20,900 --> 00:20:25,570
+<font face="Open Sans Semibold" size="36"><b>this long war finally came to a close.</b></font>
+
+205
+00:20:26,230 --> 00:20:30,230
+<font face="Open Sans Semibold" size="36"><b>In its wake, it also left legends...</b></font>
+
+206
+00:20:30,270 --> 00:20:31,930
+<font face="Open Sans Semibold" size="36"><b>The stories of great heroes,</b></font>
+
+207
+00:20:31,970 --> 00:20:34,300
+<font face="Open Sans Semibold" size="36"><b>to be told and retold
+for generations to come.</b></font>
+
+208
+00:20:34,570 --> 00:20:36,700
+<font face="Open Sans Semibold" size="36"><b>The Battle of Kannabi Bridge...</b></font>
+
+209
+00:20:37,030 --> 00:20:40,070
+<font face="Open Sans Semibold" size="36"><b>That day, two heroes were born
+in the Hidden Leaf Village,</b></font>
+
+210
+00:20:40,100 --> 00:20:43,030
+<font face="Open Sans Semibold" size="36"><b>each with his own Sharingan.</b></font>
+
+211
+00:20:43,600 --> 00:20:46,930
+<font face="Open Sans Semibold" size="36"><b>One found his name engraved
+on the memorial stone.</b></font>
+
+212
+00:20:46,970 --> 00:20:50,770
+<font face="Open Sans Semibold" size="36"><b>The other came to be known
+as "Kakashi of the Sharingan."</b></font>
+
+213
+00:20:50,800 --> 00:20:55,500
+<font face="Open Sans Semibold" size="36"><b>In time, the tales of his bravery spanned
+all borders, and beyond.</b></font>
+
+214
+00:22:36,900 --> 00:22:38,700
+<font face="Open Sans Semibold" size="36"><b>Capture Itachi Uchiha...
+
+</b></font>
+
+215
+00:22:39,000 --> 00:22:42,030
+<font face="Open Sans Semibold" size="36"><b>It won't be an easy mission.
+
+</b></font>
+
+216
+00:22:42,230 --> 00:22:45,130
+<font face="Open Sans Semibold" size="36"><b>But it's something I can't avoid.
+
+</b></font>
+
+217
+00:22:45,300 --> 00:22:47,230
+<font face="Open Sans Semibold" size="36"><b>To bring back Sasuke, eh?
+
+</b></font>
+
+218
+00:22:47,930 --> 00:22:49,430
+<font face="Open Sans Semibold" size="36"><b>I'm sure you're aware of this,
+
+</b></font>
+
+219
+00:22:49,470 --> 00:22:53,270
+<font face="Open Sans Semibold" size="36"><b>but Sasuke is now powerful enough
+to even kill Orochimaru.
+
+</b></font>
+
+220
+00:22:53,400 --> 00:22:58,330
+<font face="Open Sans Semibold" size="36"><b>I know that.
+But I never go back on my word.
+
+</b></font>
+
+221
+00:22:58,870 --> 00:23:01,330
+<font face="Open Sans Semibold" size="36"><b>That's my Ninja Way.
+
+</b></font>
+
+222
+00:23:01,970 --> 00:23:05,130
+<font face="Open Sans Semibold" size="36"><b>Next time: "Assemble"
+
+</b></font>
+
+223
+00:23:05,400 --> 00:23:09,330
+<font face="Open Sans Semibold" size="36"><b>Tune in again!
+
+</b></font>
+

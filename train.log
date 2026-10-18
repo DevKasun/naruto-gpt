@@ -1,0 +1,39 @@
+training on mps, 2.73M params
+step     0 | train loss 4.692 | val loss 4.693 | 7s
+step   250 | train loss 2.445 | val loss 2.466 | 67s
+step   500 | train loss 2.263 | val loss 2.282 | 126s
+step   750 | train loss 1.990 | val loss 2.014 | 180s
+step  1000 | train loss 1.816 | val loss 1.867 | 234s
+step  1250 | train loss 1.709 | val loss 1.753 | 288s
+step  1500 | train loss 1.625 | val loss 1.693 | 342s
+step  1750 | train loss 1.572 | val loss 1.631 | 396s
+step  2000 | train loss 1.511 | val loss 1.577 | 449s
+step  2250 | train loss 1.470 | val loss 1.551 | 503s
+step  2500 | train loss 1.427 | val loss 1.512 | 557s
+step  2750 | train loss 1.399 | val loss 1.498 | 611s
+step  3000 | train loss 1.365 | val loss 1.487 | 664s
+step  3250 | train loss 1.352 | val loss 1.463 | 718s
+step  3500 | train loss 1.324 | val loss 1.466 | 772s
+step  3750 | train loss 1.303 | val loss 1.446 | 825s
+step  4000 | train loss 1.283 | val loss 1.417 | 879s
+step  4250 | train loss 1.263 | val loss 1.407 | 934s
+step  4500 | train loss 1.254 | val loss 1.400 | 987s
+step  4750 | train loss 1.231 | val loss 1.392 | 1039s
+step  5000 | train loss 1.222 | val loss 1.388 | 1072s
+aved naruto_gpt.pt
+--- sample ---
+
+I'm took I had blooding from the Jinct of Sixths Partision What's wrong was strong?
+Are you word anything?
+No good with this checkped the Medical Ninja knatai!
+And the wound looks fannyone!
+There's akle.
+Thank you...
+How's befored?!
+The can it way like a prease diecades will be stoppeted!
+You the protect to anything.
+There's a tracked.
+Uselver one that a tries phallence.
+The way become all started too.
+You're not the formation dater to und saver hasn't been a respectial.
+Sorry, if I really the w

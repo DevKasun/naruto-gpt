@@ -1,0 +1,704 @@
+1
+00:00:24,000 --> 00:00:26,000
+<font face="Trebuchet MS" size="26"><b>Sasuke!</b></font>
+
+2
+00:01:57,700 --> 00:02:02,500
+<font face="Trebuchet MS" size="26"><b><i>Eye of the Hawk
+
+</i></b></font>
+
+3
+00:02:18,530 --> 00:02:20,000
+<font face="Trebuchet MS" size="26"><b>What is this?</b></font>
+
+4
+00:02:20,300 --> 00:02:23,130
+<font face="Trebuchet MS" size="26"><b>Ah! How lucky of you to find this.</b></font>
+
+5
+00:02:23,170 --> 00:02:26,000
+<font face="Trebuchet MS" size="26"><b>It's the skin of a white snake.</b></font>
+
+6
+00:02:26,630 --> 00:02:28,800
+<font face="Trebuchet MS" size="26"><b>I've never...seen anything
+like it before.</b></font>
+
+7
+00:02:30,300 --> 00:02:32,130
+<font face="Trebuchet MS" size="26"><b>Actually, neither have I.</b></font>
+
+8
+00:02:32,370 --> 00:02:36,130
+<font face="Trebuchet MS" size="26"><b>It's a rare item that
+you almost never see.</b></font>
+
+9
+00:02:36,670 --> 00:02:38,170
+<font face="Trebuchet MS" size="26"><b>Why is it white?</b></font>
+
+10
+00:02:38,470 --> 00:02:41,300
+<font face="Trebuchet MS" size="26"><b>Well, I don't really know.</b></font>
+
+11
+00:02:41,470 --> 00:02:43,870
+<font face="Trebuchet MS" size="26"><b>No one really cares about
+such things.</b></font>
+
+12
+00:02:44,400 --> 00:02:46,800
+<font face="Trebuchet MS" size="26"><b>But from times past,</b></font>
+
+13
+00:02:46,830 --> 00:02:49,700
+<font face="Trebuchet MS" size="26"><b>the white snake has been
+a symbol of good luck and renewal.</b></font>
+
+14
+00:02:51,170 --> 00:02:53,630
+<font face="Trebuchet MS" size="26"><b>Good luck and renewal...</b></font>
+
+15
+00:02:58,730 --> 00:03:01,770
+<font face="Trebuchet MS" size="26"><b>It must be some sort of karma
+for you to find it here.</b></font>
+
+16
+00:03:01,800 --> 00:03:06,300
+<font face="Trebuchet MS" size="26"><b>Perhaps your parents are
+now reborn somewhere.</b></font>
+
+17
+00:03:06,970 --> 00:03:11,230
+<font face="Trebuchet MS" size="26"><b>Maybe someday...
+you'll meet them when you're grown up.</b></font>
+
+18
+00:03:12,030 --> 00:03:13,800
+<font face="Trebuchet MS" size="26"><b>When would that be...?</b></font>
+
+19
+00:03:14,470 --> 00:03:17,400
+<font face="Trebuchet MS" size="26"><b>Who knows? I couldn't say.</b></font>
+
+20
+00:03:34,500 --> 00:03:37,700
+<font face="Trebuchet MS" size="26"><b><i>Nawaki...sure is eager.</i></b></font>
+
+21
+00:04:03,770 --> 00:04:07,100
+<font face="Trebuchet MS" size="26"><b>We're at war...after all.</b></font>
+
+22
+00:04:12,070 --> 00:04:13,970
+<font face="Trebuchet MS" size="26"><b>Tsunade's team has been...?</b></font>
+
+23
+00:04:18,700 --> 00:04:21,370
+<font face="Trebuchet MS" size="26"><b>Stop! Stop! Stop!</b></font>
+
+24
+00:04:21,400 --> 00:04:22,600
+<font face="Trebuchet MS" size="26"><b>I said, stop!</b></font>
+
+25
+00:04:22,770 --> 00:04:24,770
+<font face="Trebuchet MS" size="26"><b>That's enough! He's dead!</b></font>
+
+26
+00:04:29,370 --> 00:04:34,230
+<font face="Trebuchet MS" size="26"><b><i>Humans...are such fragile beings.</i></b></font>
+
+27
+00:04:36,800 --> 00:04:42,600
+<font face="Trebuchet MS" size="26"><b><i>Power that was not used in a lifetime
+rests inside the human body.</i></b></font>
+
+28
+00:04:42,770 --> 00:04:45,230
+<font face="Trebuchet MS" size="26"><b><i>If we could release that power...</i></b></font>
+
+29
+00:04:45,330 --> 00:04:46,900
+<font face="Trebuchet MS" size="26"><b>Orochimaru Sensei!</b></font>
+
+30
+00:04:47,870 --> 00:04:49,370
+<font face="Trebuchet MS" size="26"><b>What is this?</b></font>
+
+31
+00:04:50,430 --> 00:04:51,630
+<font face="Trebuchet MS" size="26"><b>An amulet.</b></font>
+
+32
+00:04:51,730 --> 00:04:54,000
+<font face="Trebuchet MS" size="26"><b>An amulet...? This...?</b></font>
+
+33
+00:04:57,600 --> 00:05:03,930
+<font face="Trebuchet MS" size="26"><b>It's a very rare amulet for
+good luck and renewal.</b></font>
+
+34
+00:05:04,630 --> 00:05:06,700
+<font face="Trebuchet MS" size="26"><b>Renewal? With this...?</b></font>
+
+35
+00:05:07,430 --> 00:05:09,730
+<font face="Trebuchet MS" size="26"><b>But...Orochimaru Sensei,</b></font>
+
+36
+00:05:09,770 --> 00:05:11,800
+<font face="Trebuchet MS" size="26"><b>no matter how earnest you are
+about your research,</b></font>
+
+37
+00:05:11,830 --> 00:05:14,470
+<font face="Trebuchet MS" size="26"><b>you can't bring back the dead,
+can you?</b></font>
+
+38
+00:05:15,500 --> 00:05:19,670
+<font face="Trebuchet MS" size="26"><b>Yes... Bringing the dead
+back to life is difficult.</b></font>
+
+39
+00:05:20,400 --> 00:05:24,430
+<font face="Trebuchet MS" size="26"><b>But, I've grasped a clue
+about regeneration.</b></font>
+
+40
+00:05:25,300 --> 00:05:27,800
+<font face="Trebuchet MS" size="26"><b>By activating their bodies,</b></font>
+
+41
+00:05:27,830 --> 00:05:30,470
+<font face="Trebuchet MS" size="26"><b>humans can become immensely
+more powerful</b></font>
+
+42
+00:05:30,500 --> 00:05:34,170
+<font face="Trebuchet MS" size="26"><b>and heighten their regenerative powers too.</b></font>
+
+43
+00:05:35,400 --> 00:05:40,270
+<font face="Trebuchet MS" size="26"><b>I will share that power
+with you some day, as well.</b></font>
+
+44
+00:05:40,570 --> 00:05:43,870
+<font face="Trebuchet MS" size="26"><b>Yes! Thank you very much,
+Orochimaru Sensei!</b></font>
+
+45
+00:05:45,600 --> 00:05:49,730
+<font face="Trebuchet MS" size="26"><b><i>The Body Activating Jutsu
+called the Curse Mark...</i></b></font>
+
+46
+00:06:20,470 --> 00:06:23,530
+<font face="Trebuchet MS" size="26"><b><i>How foolish!
+There's a limit to unreasonable training!</i></b></font>
+
+47
+00:06:50,100 --> 00:06:51,430
+<font face="Trebuchet MS" size="26"><b>Beautiful...</b></font>
+
+48
+00:06:52,470 --> 00:06:54,870
+<font face="Trebuchet MS" size="26"><b>So this is the power of the Sharingan.</b></font>
+
+49
+00:06:55,200 --> 00:06:58,500
+<font face="Trebuchet MS" size="26"><b>No matter how many Ninja try
+to enter this territory...</b></font>
+
+50
+00:06:59,130 --> 00:07:04,670
+<font face="Trebuchet MS" size="26"><b>No matter how hard they train,
+they could never surpass the Uchiha.</b></font>
+
+51
+00:07:08,900 --> 00:07:10,370
+<font face="Trebuchet MS" size="26"><b>ENTRY RESTRICTED</b></font>
+
+52
+00:07:20,970 --> 00:07:22,730
+<font face="Trebuchet MS" size="26"><b>TRANSFER</b></font>
+
+53
+00:07:24,070 --> 00:07:25,270
+<font face="Trebuchet MS" size="26"><b><i>I understand...</i></b></font>
+
+54
+00:07:26,230 --> 00:07:29,530
+<font face="Trebuchet MS" size="26"><b><i>I understand the awesomeness
+of this Jutsu...</i></b></font>
+
+55
+00:07:30,800 --> 00:07:35,470
+<font face="Trebuchet MS" size="26"><b><i>TRANSFER
+But, it would take at least one month
+to master this Forbidden Jutsu...</i></b></font>
+
+56
+00:07:40,000 --> 00:07:47,330
+<font face="Trebuchet MS" size="26"><b><i>How many years would it take
+to master all the Jutsu that are here...?</i></b></font>
+
+57
+00:07:48,730 --> 00:07:51,770
+<font face="Trebuchet MS" size="26"><b><i>It's impossible to grasp all the Jutsu</i></b></font>
+
+58
+00:07:51,800 --> 00:07:55,000
+<font face="Trebuchet MS" size="26"><b><i>within the limited time
+of a human lifespan...</i></b></font>
+
+59
+00:07:55,470 --> 00:07:57,900
+<font face="Trebuchet MS" size="26"><b><i>There would be a limit
+even if I could extend my life</i></b></font>
+
+60
+00:07:57,930 --> 00:08:00,900
+<font face="Trebuchet MS" size="26"><b><i>via a Reanimation Jutsu...</i></b></font>
+
+61
+00:08:02,130 --> 00:08:05,300
+<font face="Trebuchet MS" size="26"><b><i>Once I die, everything would be lost...</i></b></font>
+
+62
+00:08:08,430 --> 00:08:11,430
+<font face="Trebuchet MS" size="26"><b><i>In order to grasp every Jutsu,
+I would have to...</i></b></font>
+
+63
+00:08:17,700 --> 00:08:21,130
+<font face="Trebuchet MS" size="26"><b>Orochimaru! So it was you,
+just as I suspected...</b></font>
+
+64
+00:08:22,270 --> 00:08:25,000
+<font face="Trebuchet MS" size="26"><b>Tell me! What were you doing here?</b></font>
+
+65
+00:08:28,130 --> 00:08:31,270
+<font face="Trebuchet MS" size="26"><b>You probably couldn't understand...</b></font>
+
+66
+00:08:32,230 --> 00:08:36,830
+<font face="Trebuchet MS" size="26"><b>You who puts the village
+before your own reason.</b></font>
+
+67
+00:08:37,630 --> 00:08:41,300
+<font face="Trebuchet MS" size="26"><b>To me, the lifespan of
+the human body is too short.</b></font>
+
+68
+00:08:42,530 --> 00:08:45,270
+<font face="Trebuchet MS" size="26"><b>Even if I were to be called a Hokage,</b></font>
+
+69
+00:08:45,300 --> 00:08:49,070
+<font face="Trebuchet MS" size="26"><b>once I die,
+everything would end there.</b></font>
+
+70
+00:08:49,200 --> 00:08:52,470
+<font face="Trebuchet MS" size="26"><b>The Jutsu you're experimenting with...
+It can't be...?!</b></font>
+
+71
+00:08:53,400 --> 00:08:58,100
+<font face="Trebuchet MS" size="26"><b>That very one...
+the Immortality Jutsu!</b></font>
+
+72
+00:08:58,730 --> 00:09:02,330
+<font face="Trebuchet MS" size="26"><b>Can't you reconsider Orochimaru?</b></font>
+
+73
+00:09:02,430 --> 00:09:03,400
+<font face="Trebuchet MS" size="26"><b>Out of the question!</b></font>
+
+74
+00:09:05,000 --> 00:09:06,800
+<font face="Trebuchet MS" size="26"><b>How stupid can you be?!</b></font>
+
+75
+00:09:09,070 --> 00:09:10,430
+<font face="Trebuchet MS" size="26"><b><i>I'm so close...</i></b></font>
+
+76
+00:09:10,700 --> 00:09:14,170
+<font face="Trebuchet MS" size="26"><b><i>So close with my research.</i></b></font>
+
+77
+00:09:16,670 --> 00:09:19,970
+<font face="Trebuchet MS" size="26"><b><i>I will have everything.</i></b></font>
+
+78
+00:09:20,770 --> 00:09:25,070
+<font face="Trebuchet MS" size="26"><b><i>My vessel is neither this body,
+nor the Leaf!</i></b></font>
+
+79
+00:09:26,570 --> 00:09:31,200
+<font face="Trebuchet MS" size="26"><b><i>To that end, I will use that organization
+and anything else!</i></b></font>
+
+80
+00:09:37,500 --> 00:09:40,100
+<font face="Trebuchet MS" size="26"><b>A new member has arrived.</b></font>
+
+81
+00:09:56,270 --> 00:09:58,030
+<font face="Trebuchet MS" size="26"><b>Itachi Uchiha.</b></font>
+
+82
+00:10:07,570 --> 00:10:13,070
+<font face="Trebuchet MS" size="26"><b><i>You destroyed the Uchiha.
+What brings you to the Akatsuki?</i></b></font>
+
+83
+00:10:22,770 --> 00:10:27,900
+<font face="Trebuchet MS" size="26"><b>One who possesses the precious Sharingan
+appears before me...</b></font>
+
+84
+00:10:28,630 --> 00:10:32,130
+<font face="Trebuchet MS" size="26"><b>How lucky I am...</b></font>
+
+85
+00:10:33,270 --> 00:10:36,330
+<font face="Trebuchet MS" size="26"><b>I will have your body!</b></font>
+
+86
+00:10:40,830 --> 00:10:46,600
+<font face="Trebuchet MS" size="26"><b>Could it be...that I...
+am under a Paralysis Genjutsu...</b></font>
+
+87
+00:10:48,870 --> 00:10:51,170
+<font face="Trebuchet MS" size="26"><b>What visual prowess...</b></font>
+
+88
+00:10:51,470 --> 00:10:53,330
+<font face="Trebuchet MS" size="26"><b>Marvelous...</b></font>
+
+89
+00:11:16,370 --> 00:11:17,630
+<font face="Trebuchet MS" size="26"><b>Orochimaru...</b></font>
+
+90
+00:11:18,270 --> 00:11:23,970
+<font face="Trebuchet MS" size="26"><b>Any Jutsu you use will have
+no effect before these eyes.</b></font>
+
+91
+00:11:45,800 --> 00:11:47,300
+<font face="Trebuchet MS" size="26"><b>You've come.</b></font>
+
+92
+00:11:52,670 --> 00:11:55,130
+<font face="Trebuchet MS" size="26"><b>Now, let's go...</b></font>
+
+93
+00:11:59,420 --> 00:12:04,020
+<font face="Trebuchet MS" size="26"><b><i>My future lies in this child!</i></b></font>
+
+94
+00:12:24,790 --> 00:12:28,150
+<font face="Trebuchet MS" size="26"><b>It's over... That was too quick.</b></font>
+
+95
+00:12:38,350 --> 00:12:40,920
+<font face="Trebuchet MS" size="26"><b>Looks like it's beginning
+to take effect...</b></font>
+
+96
+00:12:42,150 --> 00:12:46,320
+<font face="Trebuchet MS" size="26"><b>The body fluid of the giant white snake skin
+vaporizes upon contact with the air</b></font>
+
+97
+00:12:46,350 --> 00:12:48,390
+<font face="Trebuchet MS" size="26"><b>and becomes an anesthetic.</b></font>
+
+98
+00:12:49,020 --> 00:12:50,750
+<font face="Trebuchet MS" size="26"><b>I am immortal.</b></font>
+
+99
+00:12:51,490 --> 00:12:55,350
+<font face="Trebuchet MS" size="26"><b>The likes of your Jutsu cannot kill me...!</b></font>
+
+100
+00:12:55,750 --> 00:12:56,890
+<font face="Trebuchet MS" size="26"><b>Now then...</b></font>
+
+101
+00:12:58,220 --> 00:13:00,320
+<font face="Trebuchet MS" size="26"><b>I shall have you now!</b></font>
+
+102
+00:13:16,390 --> 00:13:17,520
+<font face="Trebuchet MS" size="26"><b>What is this?</b></font>
+
+103
+00:13:18,120 --> 00:13:22,390
+<font face="Trebuchet MS" size="26"><b>This is...a different space inside my body.</b></font>
+
+104
+00:13:22,790 --> 00:13:26,320
+<font face="Trebuchet MS" size="26"><b>Here, the Transference Ritual will be held...</b></font>
+
+105
+00:13:30,720 --> 00:13:32,290
+<font face="Trebuchet MS" size="26"><b>We'll begin now.</b></font>
+
+106
+00:13:49,350 --> 00:13:53,720
+<font face="Trebuchet MS" size="26"><b>What visual prowess... Marvelous...</b></font>
+
+107
+00:13:55,620 --> 00:13:59,190
+<font face="Trebuchet MS" size="26"><b>This is almost like...that time...</b></font>
+
+108
+00:14:11,450 --> 00:14:12,890
+<font face="Trebuchet MS" size="26"><b>Those eyes...</b></font>
+
+109
+00:14:15,420 --> 00:14:19,550
+<font face="Trebuchet MS" size="26"><b>Those eyes will be mine at last...!</b></font>
+
+110
+00:14:25,120 --> 00:14:27,090
+<font face="Trebuchet MS" size="26"><b><i>He won't last with only the medicine...</i></b></font>
+
+111
+00:14:27,690 --> 00:14:31,420
+<font face="Trebuchet MS" size="26"><b><i>He'll have to do the Transference Ritual
+as soon as today...</i></b></font>
+
+112
+00:14:34,750 --> 00:14:35,950
+<font face="Trebuchet MS" size="26"><b><i>But...</i></b></font>
+
+113
+00:14:36,190 --> 00:14:39,620
+<font face="Trebuchet MS" size="26"><b><i>It's hard to believe that
+Sasuke would consent willingly...</i></b></font>
+
+114
+00:14:47,450 --> 00:14:52,250
+<font face="Trebuchet MS" size="26"><b><i>Well, even Sasuke can't resist that ritual...</i></b></font>
+
+115
+00:15:32,450 --> 00:15:34,650
+<font face="Trebuchet MS" size="26"><b><i>Why is Sasuke here?!</i></b></font>
+
+116
+00:15:36,220 --> 00:15:38,750
+<font face="Trebuchet MS" size="26"><b><i>That is the cast-off skin
+of the giant snake...</i></b></font>
+
+117
+00:15:38,990 --> 00:15:42,090
+<font face="Trebuchet MS" size="26"><b><i>Does that mean the ritual
+is already done?</i></b></font>
+
+118
+00:15:45,690 --> 00:15:47,290
+<font face="Trebuchet MS" size="26"><b><i>What's going on?</i></b></font>
+
+119
+00:15:49,850 --> 00:15:51,350
+<font face="Trebuchet MS" size="26"><b>Kabuto, is that you?</b></font>
+
+120
+00:16:22,250 --> 00:16:23,650
+<font face="Trebuchet MS" size="26"><b>Which one...</b></font>
+
+121
+00:16:25,350 --> 00:16:26,920
+<font face="Trebuchet MS" size="26"><b>are you now?</b></font>
+
+122
+00:16:35,390 --> 00:16:37,020
+<font face="Trebuchet MS" size="26"><b>Which one do you think?</b></font>
+
+123
+00:16:54,390 --> 00:16:56,320
+<font face="Trebuchet MS" size="26"><b><i>This is the Transference Ritual!</i></b></font>
+
+124
+00:16:57,150 --> 00:16:59,950
+<font face="Trebuchet MS" size="26"><b><i>He's showing me the memories
+of the Transference Ritual!</i></b></font>
+
+125
+00:17:02,190 --> 00:17:05,820
+<font face="Trebuchet MS" size="26"><b><i>The ritual between the two
+will be settled right now!</i></b></font>
+
+126
+00:17:31,050 --> 00:17:32,150
+<font face="Trebuchet MS" size="26"><b>What the--?!</b></font>
+
+127
+00:17:36,050 --> 00:17:37,750
+<font face="Trebuchet MS" size="26"><b>This...can't be...</b></font>
+
+128
+00:17:37,790 --> 00:17:42,190
+<font face="Trebuchet MS" size="26"><b>This is a place I created.
+This is impossible...!</b></font>
+
+129
+00:17:42,550 --> 00:17:43,820
+<font face="Trebuchet MS" size="26"><b>Impossible!</b></font>
+
+130
+00:17:44,190 --> 00:17:45,750
+<font face="Trebuchet MS" size="26"><b>It can't be...</b></font>
+
+131
+00:17:46,390 --> 00:17:48,750
+<font face="Trebuchet MS" size="26"><b>This is my only...!</b></font>
+
+132
+00:17:52,950 --> 00:17:54,450
+<font face="Trebuchet MS" size="26"><b>Orochimaru...</b></font>
+
+133
+00:17:55,090 --> 00:17:59,450
+<font face="Trebuchet MS" size="26"><b>Any Jutsu you use will have
+no effect before these eyes.</b></font>
+
+134
+00:18:03,750 --> 00:18:06,950
+<font face="Trebuchet MS" size="26"><b>You...should realize that by now.</b></font>
+
+135
+00:18:08,990 --> 00:18:10,590
+<font face="Trebuchet MS" size="26"><b><i>How...hideous...</i></b></font>
+
+136
+00:18:10,690 --> 00:18:13,420
+<font face="Trebuchet MS" size="26"><b><i>Sasuke's will is eroding the space!</i></b></font>
+
+137
+00:18:18,590 --> 00:18:22,320
+<font face="Trebuchet MS" size="26"><b>I'm not...going to let this happen!</b></font>
+
+138
+00:18:22,790 --> 00:18:25,520
+<font face="Trebuchet MS" size="26"><b>I am the immortal Orochimaru!</b></font>
+
+139
+00:18:26,190 --> 00:18:29,250
+<font face="Trebuchet MS" size="26"><b>Not here!</b></font>
+
+140
+00:18:30,150 --> 00:18:33,550
+<font face="Trebuchet MS" size="26"><b>I won't let this happen here!</b></font>
+
+141
+00:18:34,150 --> 00:18:37,750
+<font face="Trebuchet MS" size="26"><b>I am the one to unravel
+the order of this world...!</b></font>
+
+142
+00:18:38,490 --> 00:18:42,520
+<font face="Trebuchet MS" size="26"><b>Everything...will be mine!</b></font>
+
+143
+00:19:26,220 --> 00:19:29,190
+<font face="Trebuchet MS" size="26"><b>The clouds are moving ominously...</b></font>
+
+144
+00:19:34,450 --> 00:19:35,820
+<font face="Trebuchet MS" size="26"><b>Almost like...</b></font>
+
+145
+00:19:35,950 --> 00:19:39,690
+<font face="Trebuchet MS" size="26"><b>A flaming sunset, like blood...</b></font>
+
+146
+00:20:03,220 --> 00:20:04,750
+<font face="Trebuchet MS" size="26"><b>What's the matter?</b></font>
+
+147
+00:20:04,990 --> 00:20:06,950
+<font face="Trebuchet MS" size="26"><b>No, it's nothing.</b></font>
+
+148
+00:20:26,950 --> 00:20:28,750
+<font face="Trebuchet MS" size="26"><b>Lord Orochimaru is dead.</b></font>
+
+149
+00:20:29,890 --> 00:20:32,350
+<font face="Trebuchet MS" size="26"><b>No... It's almost as if...</b></font>
+
+150
+00:20:33,850 --> 00:20:37,950
+<font face="Trebuchet MS" size="26"><b>I took over all that he was.</b></font>
+
+151
+00:22:37,430 --> 00:22:39,670
+<font face="Trebuchet MS" size="26"><b>Three years have passed since
+he broke away all ties,
+
+</b></font>
+
+152
+00:22:39,700 --> 00:22:42,430
+<font face="Trebuchet MS" size="26"><b>suppressed his personal feelings
+and trained himself,
+
+</b></font>
+
+153
+00:22:42,470 --> 00:22:47,100
+<font face="Trebuchet MS" size="26"><b>just so he can achieve his goal...
+
+</b></font>
+
+154
+00:22:47,470 --> 00:22:53,070
+<font face="Trebuchet MS" size="26"><b>Now is the time for him to take action
+with Orochimaru's power.
+
+</b></font>
+
+155
+00:22:53,630 --> 00:22:57,600
+<font face="Trebuchet MS" size="26"><b>What awaits him, as he pushes his way
+through the dark corridor?
+
+</b></font>
+
+156
+00:22:57,630 --> 00:22:59,800
+<font face="Trebuchet MS" size="26"><b>Light or darkness?
+
+</b></font>
+
+157
+00:23:00,130 --> 00:23:05,770
+<font face="Trebuchet MS" size="26"><b>Next time: "Zabuza's Blade"
+
+</b></font>
+
+158
+00:23:05,800 --> 00:23:10,070
+<font face="Trebuchet MS" size="26"><b>Tune in again
+
+</b></font>
+

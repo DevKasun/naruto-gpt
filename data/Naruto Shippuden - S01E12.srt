@@ -1,0 +1,966 @@
+1
+00:00:18,472 --> 00:00:19,641
+<font color="#FFFFFF">Over there, huh...</font>
+
+2
+00:00:27,992 --> 00:00:30,630
+<font color="#FFFFFF">Any closer and I'll be noticed...</font>
+
+3
+00:01:21,339 --> 00:01:22,508
+<font color="#FFFFFF">Big Sister...</font>
+
+4
+00:01:23,537 --> 00:01:25,934
+<font color="#FFFFFF">Are you taking those
+with you?</font>
+
+5
+00:01:26,734 --> 00:01:28,971
+<font color="#FFFFFF">Fate must have meant
+for this to happen...</font>
+
+6
+00:01:29,171 --> 00:01:31,469
+<font color="#FFFFFF">Nothing will serve me better
+than these</font>
+
+7
+00:01:31,499 --> 00:01:33,297
+<font color="#FFFFFF">if I'm gonna fight against him...</font>
+
+8
+00:01:37,663 --> 00:01:40,290
+<font color="#FFFFFF">I've lived too long a life...</font>
+
+9
+00:03:11,399 --> 00:03:16,024
+<font color="#FFFFFF">The Retired Granny's Determination</font>
+
+10
+00:03:17,493 --> 00:03:21,888
+<font color="#FFFFFF">So... that's where his hideout is.</font>
+
+11
+00:03:22,987 --> 00:03:24,116
+<font color="#FFFFFF">Most likely.</font>
+
+12
+00:03:24,316 --> 00:03:26,853
+<font color="#FFFFFF">Gaara's scent was also coming
+from that same place.</font>
+
+13
+00:03:27,213 --> 00:03:28,212
+<font color="#FFFFFF">I see.</font>
+
+14
+00:03:30,710 --> 00:03:32,378
+<font color="#FFFFFF">I have one more favor to ask you.</font>
+
+15
+00:03:33,777 --> 00:03:34,646
+<font color="#FFFFFF">Huh?</font>
+
+16
+00:03:45,735 --> 00:03:47,962
+<font color="#FFFFFF">Hey, are you awake, Naruto?</font>
+
+17
+00:03:48,292 --> 00:03:49,790
+<font color="#FFFFFF">Huh? Pakkun...</font>
+
+18
+00:03:50,490 --> 00:03:52,258
+<font color="#FFFFFF">Okay, Pakkun, I'm counting on you.</font>
+
+19
+00:03:53,357 --> 00:03:54,985
+<font color="#FFFFFF">See you around then, Naruto!</font>
+
+20
+00:04:04,446 --> 00:04:05,615
+<font color="#FFFFFF">Kakashi Sensei!</font>
+
+21
+00:04:05,645 --> 00:04:08,242
+<font color="#FFFFFF">Could it be that you've found
+the Akatsuki's hideout?</font>
+
+22
+00:04:08,712 --> 00:04:11,069
+<font color="#FFFFFF">Yeah... We're heading out immediately.</font>
+
+23
+00:04:17,733 --> 00:04:19,800
+<font color="#FFFFFF">What, Gaara's whereabouts
+have been—?</font>
+
+24
+00:04:20,230 --> 00:04:22,598
+<font color="#FFFFFF">Yes ma'am! His whereabouts
+have just been located.</font>
+
+25
+00:04:23,097 --> 00:04:26,154
+<font color="#FFFFFF">The Leaf are preparing
+to depart immediately!</font>
+
+26
+00:04:26,694 --> 00:04:30,020
+<font color="#FFFFFF">Understood! Gather
+our skilled men immediately!</font>
+
+27
+00:04:30,350 --> 00:04:31,449
+<font color="#FFFFFF">I will be heading out as well!</font>
+
+28
+00:04:31,549 --> 00:04:32,548
+<font color="#FFFFFF">Yes, ma'am!</font>
+
+29
+00:04:34,945 --> 00:04:35,784
+<font color="#FFFFFF">Temari...</font>
+
+30
+00:04:38,342 --> 00:04:39,980
+<font color="#FFFFFF">Kankuro, don't be so reckless!</font>
+
+31
+00:04:40,939 --> 00:04:42,578
+<font color="#FFFFFF">You need to stay in bed
+and take it easy!</font>
+
+32
+00:04:45,605 --> 00:04:48,302
+<font color="#FFFFFF">I will get Gaara back,
+no matter what!</font>
+
+33
+00:05:25,794 --> 00:05:28,332
+<font color="#FFFFFF">All right, as soon
+as the Sand is ready,</font>
+
+34
+00:05:28,362 --> 00:05:30,859
+<font color="#FFFFFF">we'll join them for Gaara's rescue.</font>
+
+35
+00:05:30,889 --> 00:05:31,788
+<font color="#FFFFFF">Got it?</font>
+
+36
+00:05:32,458 --> 00:05:33,427
+<font color="#FFFFFF">Sorry to have kept you waiting!</font>
+
+37
+00:05:35,085 --> 00:05:36,124
+<font color="#FFFFFF">Temari!</font>
+
+38
+00:05:37,023 --> 00:05:38,022
+<font color="#FFFFFF">Everyone's here...</font>
+
+39
+00:05:38,851 --> 00:05:41,978
+<font color="#FFFFFF">All right! Then let's head out!</font>
+
+40
+00:05:42,078 --> 00:05:43,017
+<font color="#FFFFFF">Wait!</font>
+
+41
+00:05:46,544 --> 00:05:50,839
+<font color="#FFFFFF">Temari... You and the others stay here
+in the village and patrol the border.</font>
+
+42
+00:05:51,838 --> 00:05:53,407
+<font color="#FFFFFF">What do you mean by that?</font>
+
+43
+00:05:53,567 --> 00:05:55,535
+<font color="#FFFFFF">That's an order from... above.</font>
+
+44
+00:05:55,764 --> 00:05:56,703
+<font color="#FFFFFF">Huh...?</font>
+
+45
+00:05:57,363 --> 00:05:58,931
+<font color="#FFFFFF">Their reasoning is...</font>
+
+46
+00:05:58,961 --> 00:06:02,498
+<font color="#FFFFFF">if it becomes widely known that
+the Kazekage is absent,</font>
+
+47
+00:06:02,528 --> 00:06:05,095
+<font color="#FFFFFF">there's no telling when other villages
+will attack our village...</font>
+
+48
+00:06:05,595 --> 00:06:06,494
+<font color="#FFFFFF">I can't believe this...</font>
+
+49
+00:06:06,624 --> 00:06:07,952
+<font color="#FFFFFF">That's all the more reason that</font>
+
+50
+00:06:07,992 --> 00:06:11,219
+<font color="#FFFFFF">we have to get Gaara back
+as soon as possible!</font>
+
+51
+00:06:11,818 --> 00:06:13,886
+<font color="#FFFFFF">These Leaf people came
+all this way</font>
+
+52
+00:06:13,916 --> 00:06:16,913
+<font color="#FFFFFF">for the very purpose of
+going to Gaara's aid!</font>
+
+53
+00:06:17,712 --> 00:06:20,610
+<font color="#FFFFFF">Gaara is our Kazekage, right?</font>
+
+54
+00:06:21,009 --> 00:06:23,577
+<font color="#FFFFFF">What's the point if we,
+the Sand people, don't go to save him!</font>
+
+55
+00:06:24,176 --> 00:06:25,205
+<font color="#FFFFFF">But...</font>
+
+56
+00:06:25,235 --> 00:06:26,703
+<font color="#FFFFFF">I'm going.</font>
+
+57
+00:06:39,361 --> 00:06:42,617
+<font color="#FFFFFF">The only Sand Shinobi
+you need is me!</font>
+
+58
+00:06:43,157 --> 00:06:44,256
+<font color="#FFFFFF">Granny Chiyo!</font>
+
+59
+00:06:44,316 --> 00:06:45,984
+<font color="#FFFFFF">But that's...</font>
+
+60
+00:06:47,213 --> 00:06:49,281
+<font color="#FFFFFF">I am already retired, you know...</font>
+
+61
+00:06:49,311 --> 00:06:52,907
+<font color="#FFFFFF">I can do whatever I like.</font>
+
+62
+00:06:53,177 --> 00:06:55,205
+<font color="#FFFFFF">You really shouldn't overdo it...!</font>
+
+63
+00:06:55,704 --> 00:06:58,771
+<font color="#FFFFFF">Don't you dare treat me
+like an old woman!</font>
+
+64
+00:07:01,139 --> 00:07:01,898
+<font color="#FFFFFF">She jumped!</font>
+
+65
+00:07:01,968 --> 00:07:02,897
+<font color="#FFFFFF">Wha—?</font>
+
+66
+00:07:05,465 --> 00:07:10,689
+<font color="#FFFFFF">I haven't doted on my dear grandchild
+for a while, after all...</font>
+
+67
+00:07:35,505 --> 00:07:37,632
+<font color="#FFFFFF">All right, we'll head out.</font>
+
+68
+00:07:38,062 --> 00:07:42,498
+<font color="#FFFFFF">Sorry... I will try to convince
+the higher-ups...</font>
+
+69
+00:07:42,697 --> 00:07:45,025
+<font color="#FFFFFF">We'll follow behind later,
+no matter what!</font>
+
+70
+00:07:48,192 --> 00:07:51,289
+<font color="#FFFFFF">Gaara will be long rescued
+by that time!</font>
+
+71
+00:07:51,449 --> 00:07:52,348
+<font color="#FFFFFF">See you later!</font>
+
+72
+00:08:08,472 --> 00:08:11,798
+<font color="#FFFFFF">Damn! If only I were
+physically fit.</font>
+
+73
+00:08:12,068 --> 00:08:13,826
+<font color="#FFFFFF">There'd be no stopping me
+from going...!</font>
+
+74
+00:08:20,559 --> 00:08:22,657
+<font color="#FFFFFF">Hey, we're going a little too fast!</font>
+
+75
+00:08:22,817 --> 00:08:25,155
+<font color="#FFFFFF">We haven't stopped running
+since we left!</font>
+
+76
+00:08:25,714 --> 00:08:27,552
+<font color="#FFFFFF">Let's take a little break!</font>
+
+77
+00:08:28,681 --> 00:08:31,249
+<font color="#FFFFFF">Tenten, you need more training!</font>
+
+78
+00:08:32,278 --> 00:08:33,846
+<font color="#FFFFFF">Lee! In front of you!</font>
+
+79
+00:08:42,098 --> 00:08:43,696
+<font color="#FFFFFF">Wait, Guy!</font>
+
+80
+00:08:44,495 --> 00:08:45,534
+<font color="#FFFFFF">Pakkun!</font>
+
+81
+00:09:00,120 --> 00:09:01,119
+<font color="#FFFFFF">Naruto!</font>
+
+82
+00:09:03,247 --> 00:09:04,575
+<font color="#FFFFFF">Can I ask you something?</font>
+
+83
+00:09:06,513 --> 00:09:09,111
+<font color="#FFFFFF">Since when have you been
+targeted by the Akatsuki?</font>
+
+84
+00:09:18,861 --> 00:09:19,930
+<font color="#FFFFFF">I don't know...</font>
+
+85
+00:09:23,996 --> 00:09:26,723
+<font color="#FFFFFF">There was that one time when
+two people from the Akatsuki</font>
+
+86
+00:09:26,753 --> 00:09:29,191
+<font color="#FFFFFF">came to the Leaf Village in order to
+make contact with Naruto.</font>
+
+87
+00:09:30,250 --> 00:09:32,048
+<font color="#FFFFFF">But that was three years ago...</font>
+
+88
+00:09:32,248 --> 00:09:34,216
+<font color="#FFFFFF">and they've just started
+making a move now.</font>
+
+89
+00:09:34,515 --> 00:09:36,014
+<font color="#FFFFFF">I don't know why.</font>
+
+90
+00:09:37,143 --> 00:09:39,411
+<font color="#FFFFFF">Why did they wait three years?</font>
+
+91
+00:09:43,636 --> 00:09:45,574
+<font color="#FFFFFF">It could be that it's not because
+they didn't want to,</font>
+
+92
+00:09:45,604 --> 00:09:47,273
+<font color="#FFFFFF">but because they couldn't.</font>
+
+93
+00:09:47,972 --> 00:09:51,229
+<font color="#FFFFFF">Because Lord Jiraiya was always
+hanging close to Naruto...</font>
+
+94
+00:09:56,224 --> 00:09:57,323
+<font color="#FFFFFF">No...</font>
+
+95
+00:09:58,661 --> 00:10:03,486
+<font color="#FFFFFF">Based on information I acquired,
+there apparently is another reason.</font>
+
+96
+00:10:04,655 --> 00:10:06,114
+<font color="#FFFFFF">Another... reason?</font>
+
+97
+00:10:06,513 --> 00:10:09,550
+<font color="#FFFFFF">There's quite a bit of
+preparation involved</font>
+
+98
+00:10:09,580 --> 00:10:13,177
+<font color="#FFFFFF">if one's gonna draw out the Tailed Beast
+that's sealed within people.</font>
+
+99
+00:10:13,207 --> 00:10:15,005
+<font color="#FFFFFF">They encountered difficulties
+with that.</font>
+
+100
+00:10:25,734 --> 00:10:28,561
+<font color="#FFFFFF">What's this "Tailed Beast"
+that you were talking about?</font>
+
+101
+00:10:28,791 --> 00:10:29,960
+<font color="#FFFFFF">What?</font>
+
+102
+00:10:29,990 --> 00:10:33,926
+<font color="#FFFFFF">You're Tsunade's disciple
+and you don't even know that?</font>
+
+103
+00:10:34,256 --> 00:10:37,283
+<font color="#FFFFFF">The Leaf Village had
+a Nine-Tailed Fox Spirit...</font>
+
+104
+00:10:40,879 --> 00:10:42,477
+<font color="#FFFFFF">The Nine-Tailed Fox Spirit is</font>
+
+105
+00:10:42,517 --> 00:10:44,915
+<font color="#FFFFFF">treated as top secret
+amongst the Leaf Village...</font>
+
+106
+00:10:45,215 --> 00:10:48,611
+<font color="#FFFFFF">Well, that's not surprising, I guess...</font>
+
+107
+00:10:49,970 --> 00:10:53,207
+<font color="#FFFFFF">A Tailed Beast refers to
+Beast Spirits with tails.</font>
+
+108
+00:10:54,365 --> 00:10:57,662
+<font color="#FFFFFF">Long, long ago,
+the Sand had a One-Tail.</font>
+
+109
+00:10:57,702 --> 00:11:01,528
+<font color="#FFFFFF">That's the Shukaku sealed
+within Gaara.</font>
+
+110
+00:11:01,858 --> 00:11:02,927
+<font color="#FFFFFF">One-Tail?</font>
+
+111
+00:11:03,696 --> 00:11:05,424
+<font color="#FFFFFF">Do you mean that there are
+other beasts</font>
+
+112
+00:11:05,454 --> 00:11:06,793
+<font color="#FFFFFF">besides the Nine-Tailed Fox Spirit?</font>
+
+113
+00:11:06,853 --> 00:11:07,952
+<font color="#FFFFFF">That's right...</font>
+
+114
+00:11:08,791 --> 00:11:12,318
+<font color="#FFFFFF">There are a total of nine
+tailed beasts in this world...</font>
+
+115
+00:11:13,017 --> 00:11:15,514
+<font color="#FFFFFF">Tailed beasts have
+special characteristics.</font>
+
+116
+00:11:15,714 --> 00:11:18,581
+<font color="#FFFFFF">Each of them have
+a different number of tails.</font>
+
+117
+00:11:19,011 --> 00:11:22,907
+<font color="#FFFFFF">The One-Tailed has one tail.
+The Two-Tailed has two.</font>
+
+118
+00:11:22,937 --> 00:11:25,974
+<font color="#FFFFFF">And up to the Nine-Tailed
+as the name suggests,</font>
+
+119
+00:11:26,004 --> 00:11:28,871
+<font color="#FFFFFF">each name represents
+the number of tails the beast has.</font>
+
+120
+00:11:29,530 --> 00:11:32,327
+<font color="#FFFFFF">The Tailed beasts have
+immense Chakra</font>
+
+121
+00:11:32,367 --> 00:11:34,695
+<font color="#FFFFFF">and in the world of Ninja,</font>
+
+122
+00:11:34,725 --> 00:11:37,692
+<font color="#FFFFFF">they were used for military purposes
+by Hidden Villages around the world.</font>
+
+123
+00:11:38,192 --> 00:11:40,359
+<font color="#FFFFFF">They competed to get
+their hands on them.</font>
+
+124
+00:11:41,388 --> 00:11:44,385
+<font color="#FFFFFF">But no one was able
+to control that power</font>
+
+125
+00:11:44,415 --> 00:11:47,652
+<font color="#FFFFFF">which surpassed human intelligence.</font>
+
+126
+00:11:48,511 --> 00:11:52,847
+<font color="#FFFFFF">I don't know why
+the Akatsuki is after it,</font>
+
+127
+00:11:53,077 --> 00:11:55,604
+<font color="#FFFFFF">but that power is too dangerous...</font>
+
+128
+00:11:56,343 --> 00:12:01,898
+<font color="#FFFFFF">But in this new peaceful age,
+the Tailed beasts apparently...</font>
+
+129
+00:12:01,938 --> 00:12:06,763
+<font color="#FFFFFF">still exist, having scattered
+all around the world...</font>
+
+130
+00:12:20,879 --> 00:12:23,846
+<font color="#FFFFFF">Kakashi directed us,
+the Eight Ninja Hounds,</font>
+
+131
+00:12:23,876 --> 00:12:25,914
+<font color="#FFFFFF">to fan out in every direction</font>
+
+132
+00:12:25,944 --> 00:12:28,311
+<font color="#FFFFFF">to follow the Akatsuki
+Organization's scent.</font>
+
+133
+00:12:28,841 --> 00:12:30,609
+<font color="#FFFFFF">While we were doing that,
+we realized that</font>
+
+134
+00:12:30,639 --> 00:12:32,767
+<font color="#FFFFFF">those guys were headed towards
+the Land of Rivers</font>
+
+135
+00:12:32,807 --> 00:12:34,405
+<font color="#FFFFFF">which is situated between
+the Leaf and Sand.</font>
+
+136
+00:12:35,035 --> 00:12:36,204
+<font color="#FFFFFF">The Land of Rivers...?</font>
+
+137
+00:12:36,933 --> 00:12:37,902
+<font color="#FFFFFF">That's right.</font>
+
+138
+00:12:38,331 --> 00:12:39,660
+<font color="#FFFFFF">In other words,</font>
+
+139
+00:12:39,700 --> 00:12:42,797
+<font color="#FFFFFF">you guys are closest to the Akatsuki
+at this point in time.</font>
+
+140
+00:12:42,827 --> 00:12:45,494
+<font color="#FFFFFF">You, who were heading from
+the Leaf to the Sand Village.</font>
+
+141
+00:12:47,892 --> 00:12:48,951
+<font color="#FFFFFF">I see...</font>
+
+142
+00:12:49,720 --> 00:12:53,816
+<font color="#FFFFFF">Follow me...
+I'll explain the details as we run.</font>
+
+143
+00:12:54,615 --> 00:12:56,943
+<font color="#FFFFFF">All right! Let's go, everybody!</font>
+
+144
+00:12:57,043 --> 00:12:58,641
+<font color="#FFFFFF">Huh? Already?</font>
+
+145
+00:13:35,774 --> 00:13:40,569
+<font color="#FFFFFF">An enemy is nearing
+this hideout.</font>
+
+146
+00:13:41,638 --> 00:13:42,797
+<font color="#FFFFFF">An enemy, you said?</font>
+
+147
+00:13:43,137 --> 00:13:45,894
+<font color="#FFFFFF">And a highly skilled one at that.</font>
+
+148
+00:13:45,934 --> 00:13:49,360
+<font color="#FFFFFF">His name is... Might Guy.</font>
+
+149
+00:13:49,860 --> 00:13:51,728
+<font color="#FFFFFF">Who's that?</font>
+
+150
+00:13:53,157 --> 00:13:55,824
+<font color="#FFFFFF">A Leaf Jonin Ninja who
+uses Taijutsu.</font>
+
+151
+00:13:55,854 --> 00:13:58,851
+<font color="#FFFFFF">He's one clever operator.
+Don't underestimate him.</font>
+
+152
+00:13:59,021 --> 00:14:02,947
+<font color="#FFFFFF">Ah... that freak beast, huh...</font>
+
+153
+00:14:05,544 --> 00:14:07,372
+<font color="#FFFFFF">We will use that Jutsu...</font>
+
+154
+00:14:08,971 --> 00:14:10,909
+<font color="#FFFFFF">In that case, I'll go...</font>
+
+155
+00:14:11,168 --> 00:14:16,034
+<font color="#FFFFFF">I was getting irritated for not
+having any luck finding a Jinchuriki.</font>
+
+156
+00:14:16,403 --> 00:14:19,031
+<font color="#FFFFFF">No, I'll go...</font>
+
+157
+00:14:19,131 --> 00:14:23,726
+<font color="#FFFFFF">I have something of a personal quarrel
+with him, you see...</font>
+
+158
+00:14:24,026 --> 00:14:27,252
+<font color="#FFFFFF">You're right. That Jutsu is more suited
+to someone like you.</font>
+
+159
+00:14:27,292 --> 00:14:29,190
+<font color="#FFFFFF">Among the Akatsuki,</font>
+
+160
+00:14:29,220 --> 00:14:32,147
+<font color="#FFFFFF">you are more heavily loaded
+with Chakra, Kisame.</font>
+
+161
+00:14:32,517 --> 00:14:33,446
+<font color="#FFFFFF">Yes...</font>
+
+162
+00:14:33,686 --> 00:14:36,683
+<font color="#FFFFFF">Even so, I'll take 30%
+of your Chakra.</font>
+
+163
+00:14:38,981 --> 00:14:40,110
+<font color="#FFFFFF">Well, well, well...</font>
+
+164
+00:14:40,139 --> 00:14:42,637
+<font color="#FFFFFF">It looks like I'll finally be
+able to get pay back</font>
+
+165
+00:14:42,677 --> 00:14:45,604
+<font color="#FFFFFF">for that kick he gave me...</font>
+
+166
+00:14:49,101 --> 00:14:51,628
+<font color="#FFFFFF">Severe Leaf Hurricane!</font>
+
+167
+00:14:57,522 --> 00:14:58,861
+<font color="#FFFFFF">Who the heck is he?</font>
+
+168
+00:15:00,459 --> 00:15:05,454
+<font color="#FFFFFF">The Noble Blue Beast of
+the Leaf Village... Mighty Guy.</font>
+
+169
+00:15:29,090 --> 00:15:30,030
+<font color="#FFFFFF">What's up?</font>
+
+170
+00:15:30,729 --> 00:15:31,758
+<font color="#FFFFFF">Someone's coming!</font>
+
+171
+00:15:36,223 --> 00:15:37,322
+<font color="#FFFFFF">Byakugan!</font>
+
+172
+00:15:53,406 --> 00:15:54,335
+<font color="#FFFFFF">Behind us!</font>
+
+173
+00:16:40,819 --> 00:16:42,057
+<font color="#FFFFFF">You...</font>
+
+174
+00:16:43,986 --> 00:16:46,553
+<font color="#FFFFFF">Do you know him, Guy Sensei?</font>
+
+175
+00:16:51,348 --> 00:16:52,747
+<font color="#FFFFFF">Who are you?</font>
+
+176
+00:17:26,213 --> 00:17:27,812
+<font color="#FFFFFF">Another guest...</font>
+
+177
+00:17:29,110 --> 00:17:32,207
+<font color="#FFFFFF">It's a little noisy this time,
+isn't it, Deidara!</font>
+
+178
+00:17:33,236 --> 00:17:38,061
+<font color="#FFFFFF">Well, the Jinchuriki was
+stronger than the other two...</font>
+
+179
+00:17:39,200 --> 00:17:42,197
+<font color="#FFFFFF">I told you at the start, didn't I?</font>
+
+180
+00:17:42,357 --> 00:17:46,423
+<font color="#FFFFFF">Your Jutsu wasn't suited
+for covert operations.</font>
+
+181
+00:17:46,753 --> 00:17:51,248
+<font color="#FFFFFF">I'd say your traps were
+pretty loud too, weren't they?</font>
+
+182
+00:17:52,217 --> 00:17:53,446
+<font color="#FFFFFF">What!</font>
+
+183
+00:17:53,486 --> 00:17:54,944
+<font color="#FFFFFF">Stop fighting amongst yourselves!</font>
+
+184
+00:17:55,884 --> 00:17:57,882
+<font color="#FFFFFF">Concentrate on the Jutsu!</font>
+
+185
+00:17:58,541 --> 00:18:01,508
+<font color="#FFFFFF">Now then...
+who should I send this time...</font>
+
+186
+00:18:01,538 --> 00:18:04,235
+<font color="#FFFFFF">This time it's my turn,
+without any doubt.</font>
+
+187
+00:18:04,405 --> 00:18:07,472
+<font color="#FFFFFF">Another Leaf Shinobi...</font>
+
+188
+00:18:09,230 --> 00:18:10,299
+<font color="#FFFFFF">Damn!</font>
+
+189
+00:18:11,268 --> 00:18:13,226
+<font color="#FFFFFF">In that case, it's decided...</font>
+
+190
+00:18:19,260 --> 00:18:20,259
+<font color="#FFFFFF">Everybody, halt!</font>
+
+191
+00:18:33,076 --> 00:18:34,205
+<font color="#FFFFFF">Who is that?</font>
+
+192
+00:18:35,674 --> 00:18:37,172
+<font color="#FFFFFF">Out of the blue, huh...</font>
+
+193
+00:18:38,701 --> 00:18:41,268
+<font color="#FFFFFF">That guy... those eyes...</font>
+
+194
+00:18:44,135 --> 00:18:45,294
+<font color="#FFFFFF">You're...</font>
+
+195
+00:18:50,988 --> 00:18:54,355
+<font color="#FFFFFF">This guy... has a ridiculous amount
+of Chakra.</font>
+
+196
+00:18:56,753 --> 00:19:00,849
+<font color="#FFFFFF">I've never seen anyone besides
+Naruto with that amount of Chakra.</font>
+
+197
+00:19:01,448 --> 00:19:02,547
+<font color="#FFFFFF">That much...?</font>
+
+198
+00:19:03,376 --> 00:19:06,073
+<font color="#FFFFFF">Are you really saying
+you don't remember...?</font>
+
+199
+00:19:07,242 --> 00:19:08,841
+<font color="#FFFFFF">Don't tell me you're...!</font>
+
+200
+00:19:10,039 --> 00:19:12,467
+<font color="#FFFFFF">It appears that you've remembered...</font>
+
+201
+00:19:14,365 --> 00:19:16,403
+<font color="#FFFFFF">Have we met before?</font>
+
+202
+00:19:19,630 --> 00:19:22,057
+<font color="#FFFFFF">It looks like
+the freak beast's intelligence</font>
+
+203
+00:19:22,097 --> 00:19:24,795
+<font color="#FFFFFF">is at the level of a beast too...</font>
+
+204
+00:19:25,154 --> 00:19:29,520
+<font color="#FFFFFF">Well... I'll make you
+remember soon...</font>
+
+205
+00:19:48,031 --> 00:19:49,770
+<font color="#FFFFFF">Itachi... Uchiha!</font>
+
+206
+00:19:51,867 --> 00:19:53,825
+<font color="#FFFFFF">Th-That guy is...</font>
+
+207
+00:20:01,658 --> 00:20:05,384
+<font color="#FFFFFF">That guy is... Itachi... Uchiha!</font>
+
+208
+00:21:37,562 --> 00:21:39,390
+<font color="#FFFFFF">Guy Sensei, what is that?</font>
+
+209
+00:21:39,420 --> 00:21:42,217
+<font color="#FFFFFF">Lee, that is what we've been
+waiting for!</font>
+
+210
+00:21:42,287 --> 00:21:44,984
+<font color="#FFFFFF">Then that is what all
+the surfers long for,</font>
+
+211
+00:21:45,014 --> 00:21:48,051
+<font color="#FFFFFF">the legendary big wave that
+arrives only once every few years...?</font>
+
+212
+00:21:48,081 --> 00:21:51,078
+<font color="#FFFFFF">Big Thursday! Go, Lee!</font>
+
+213
+00:21:51,108 --> 00:21:53,276
+<font color="#FFFFFF">Now is your chance to conquer
+that big wave</font>
+
+214
+00:21:53,306 --> 00:21:54,645
+<font color="#FFFFFF">and become a man!</font>
+
+215
+00:21:54,744 --> 00:21:55,803
+<font color="#FFFFFF">Yes, sir!</font>
+
+216
+00:21:55,873 --> 00:22:00,399
+<font color="#FFFFFF">Please watch Guy Sensei,
+I'll prove to you my fighting spirit!</font>
+
+217
+00:22:00,469 --> 00:22:01,967
+<font color="#FFFFFF">Will you two stop talking
+like that already?</font>
+
+218
+00:22:02,597 --> 00:22:04,964
+<font color="#FFFFFF">Next time: "A Meeting With Destiny"</font>
+

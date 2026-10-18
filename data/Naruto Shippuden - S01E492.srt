@@ -1,0 +1,1407 @@
+1
+00:00:07,310 --> 00:00:08,440
+<font face="Open Sans Semibold" size="36"><b>It's no use.</b></font>
+
+2
+00:00:08,860 --> 00:00:11,240
+<font face="Open Sans Semibold" size="36"><b>Shikamaru, you must come
+to your senses.</b></font>
+
+3
+00:00:11,360 --> 00:00:13,070
+<font face="Open Sans Semibold" size="36"><b>Forget it!</b></font>
+
+4
+00:00:13,070 --> 00:00:18,580
+<font face="Open Sans Semibold" size="36"><b>I hate to be woken up when
+I'm having a good sleep!</b></font>
+
+5
+00:02:15,110 --> 00:02:19,090
+<font face="Open Sans Semibold" size="36"><b><i>Cloud of Suspicion</i>
+
+
+
+</b></font>
+
+6
+00:02:30,040 --> 00:02:34,960
+<font face="Open Sans Semibold" size="36"><b>Silver-4c, pawn-3f, rook-4b, rook-4h,</b></font>
+
+7
+00:02:35,050 --> 00:02:41,300
+<font face="Open Sans Semibold" size="36"><b>bishop-3f, pawn-1f, pawn-1d,
+pawn-2f, king-6b…</b></font>
+
+8
+00:02:42,050 --> 00:02:48,680
+<font face="Open Sans Semibold" size="36"><b>King-6h, king-7b, king-7h, silver-6b…</b></font>
+
+9
+00:02:57,070 --> 00:02:58,940
+<font face="Open Sans Semibold" size="36"><b>You're really hanging in there.</b></font>
+
+10
+00:03:00,740 --> 00:03:03,870
+<font face="Open Sans Semibold" size="36"><b>The average shinobi would
+have given up long ago.</b></font>
+
+11
+00:03:04,780 --> 00:03:08,000
+<font face="Open Sans Semibold" size="36"><b>I'm busy playing shogi
+with past masters.</b></font>
+
+12
+00:03:08,080 --> 00:03:10,250
+<font face="Open Sans Semibold" size="36"><b>I don't have time to get bored.</b></font>
+
+13
+00:03:10,540 --> 00:03:13,080
+<font face="Open Sans Semibold" size="36"><b>I like your stubbornness.</b></font>
+
+14
+00:03:13,750 --> 00:03:16,090
+<font face="Open Sans Semibold" size="36"><b>You can learn a lot from shogi.</b></font>
+
+15
+00:03:16,300 --> 00:03:20,630
+<font face="Open Sans Semibold" size="36"><b>No matter what position you're in,
+there's always a way out.</b></font>
+
+16
+00:03:21,010 --> 00:03:23,180
+<font face="Open Sans Semibold" size="36"><b>Are you planning on
+getting out of this situation?</b></font>
+
+17
+00:03:23,800 --> 00:03:25,010
+<font face="Open Sans Semibold" size="36"><b>I look forward to seeing that.</b></font>
+
+18
+00:03:25,720 --> 00:03:28,810
+<font face="Open Sans Semibold" size="36"><b>Hey, can you at least
+give me back my lighter?</b></font>
+
+19
+00:03:28,890 --> 00:03:30,770
+<font face="Open Sans Semibold" size="36"><b>I just can't calm down
+without it.</b></font>
+
+20
+00:03:30,980 --> 00:03:35,110
+<font face="Open Sans Semibold" size="36"><b>Sure, when you decide to
+accept Lord Gengo's beliefs.</b></font>
+
+21
+00:03:35,810 --> 00:03:38,070
+<font face="Open Sans Semibold" size="36"><b>Why would you follow
+a guy like that?</b></font>
+
+22
+00:03:38,150 --> 00:03:41,360
+<font face="Open Sans Semibold" size="36"><b>Let's just say I found
+the place where I belong.</b></font>
+
+23
+00:03:41,400 --> 00:03:43,160
+<font face="Open Sans Semibold" size="36"><b>And that wasn't
+the Hidden Leaf Village?</b></font>
+
+24
+00:03:43,490 --> 00:03:46,370
+<font face="Open Sans Semibold" size="36"><b>Weren't you a member of Team 7?</b></font>
+
+25
+00:03:46,830 --> 00:03:48,990
+<font face="Open Sans Semibold" size="36"><b>Then why didn't Naruto come?</b></font>
+
+26
+00:03:49,450 --> 00:03:53,120
+<font face="Open Sans Semibold" size="36"><b>You and I aren't close,
+so why did you come?</b></font>
+
+27
+00:03:54,040 --> 00:03:57,250
+<font face="Open Sans Semibold" size="36"><b>Naruto knows nothing
+about this situation.</b></font>
+
+28
+00:03:57,840 --> 00:03:59,380
+<font face="Open Sans Semibold" size="36"><b>This was all my decision.</b></font>
+
+29
+00:03:59,880 --> 00:04:03,340
+<font face="Open Sans Semibold" size="36"><b>Even still, if this had been
+Sasuke or Sakura,</b></font>
+
+30
+00:04:03,470 --> 00:04:05,390
+<font face="Open Sans Semibold" size="36"><b>surely Naruto would have come…</b></font>
+
+31
+00:04:05,550 --> 00:04:08,970
+<font face="Open Sans Semibold" size="36"><b>I bet Gengo put those ideas
+in your head, right?</b></font>
+
+32
+00:04:10,220 --> 00:04:13,730
+<font face="Open Sans Semibold" size="36"><b>There's no doubt that
+Gengo controls people with words.</b></font>
+
+33
+00:04:13,810 --> 00:04:15,850
+<font face="Open Sans Semibold" size="36"><b>So why don't you snap out
+of it and wake up?</b></font>
+
+34
+00:04:15,850 --> 00:04:17,860
+<font face="Open Sans Semibold" size="36"><b>I woke up a long time ago.</b></font>
+
+35
+00:04:17,980 --> 00:04:20,990
+<font face="Open Sans Semibold" size="36"><b>When Lord Gengo gave me a will.</b></font>
+
+36
+00:04:25,610 --> 00:04:26,530
+<font face="Open Sans Semibold" size="36"><b>Wait.</b></font>
+
+37
+00:04:27,280 --> 00:04:28,620
+<font face="Open Sans Semibold" size="36"><b>Do you still have more to say?</b></font>
+
+38
+00:04:29,120 --> 00:04:30,870
+<font face="Open Sans Semibold" size="36"><b>I promise…</b></font>
+
+39
+00:04:30,870 --> 00:04:33,330
+<font face="Open Sans Semibold" size="36"><b>I'm gonna undo Gengo's jutsu
+and save you.</b></font>
+
+40
+00:04:35,960 --> 00:04:37,880
+<font face="Open Sans Semibold" size="36"><b>I'd resign myself if I were you.</b></font>
+
+41
+00:04:39,380 --> 00:04:42,130
+<font face="Open Sans Semibold" size="36"><b>Otherwise, things will get much worse.</b></font>
+
+42
+00:04:48,010 --> 00:04:49,970
+<font face="Open Sans Semibold" size="36"><b>You're a member of the Hidden Leaf.</b></font>
+
+43
+00:04:50,060 --> 00:04:51,520
+<font face="Open Sans Semibold" size="36"><b>Don't forget that!</b></font>
+
+44
+00:05:05,110 --> 00:05:08,070
+<font face="Open Sans Semibold" size="36"><b>Pawn-4e, bishop-3c…</b></font>
+
+45
+00:05:08,660 --> 00:05:10,080
+<font face="Open Sans Semibold" size="36"><b>Knight-3g…</b></font>
+
+46
+00:05:10,160 --> 00:05:11,200
+<font face="Open Sans Semibold" size="36"><b>Nope…</b></font>
+
+47
+00:05:11,290 --> 00:05:13,500
+<font face="Open Sans Semibold" size="36"><b>I don't have enough pieces right now.</b></font>
+
+48
+00:05:13,580 --> 00:05:15,410
+<font face="Open Sans Semibold" size="36"><b>The king's gonna get away.</b></font>
+
+49
+00:05:20,880 --> 00:05:22,500
+<font face="Open Sans Semibold" size="36"><b>Ro! Is that you?!</b></font>
+
+50
+00:05:22,880 --> 00:05:25,720
+<font face="Open Sans Semibold" size="36"><b>That voice…is it you Lord Shikamaru?</b></font>
+
+51
+00:05:25,840 --> 00:05:26,880
+<font face="Open Sans Semibold" size="36"><b>Hey Gengo!</b></font>
+
+52
+00:05:27,050 --> 00:05:29,800
+<font face="Open Sans Semibold" size="36"><b>These guys were just
+obeying my orders!</b></font>
+
+53
+00:05:29,800 --> 00:05:31,970
+<font face="Open Sans Semibold" size="36"><b>If you're gonna kill someone,
+kill me!</b></font>
+
+54
+00:05:33,310 --> 00:05:36,230
+<font face="Open Sans Semibold" size="36"><b>Remember, as long as you live,
+there's a chance.</b></font>
+
+55
+00:05:36,310 --> 00:05:37,900
+<font face="Open Sans Semibold" size="36"><b>Don't give up!</b></font>
+
+56
+00:05:37,900 --> 00:05:40,860
+<font face="Open Sans Semibold" size="36"><b>I won't let you give up and die!</b></font>
+
+57
+00:05:41,820 --> 00:05:43,530
+<font face="Open Sans Semibold" size="36"><b>Worry not.</b></font>
+
+58
+00:05:43,610 --> 00:05:46,030
+<font face="Open Sans Semibold" size="36"><b>This is nothing…</b></font>
+
+59
+00:05:46,950 --> 00:05:49,570
+<font face="Open Sans Semibold" size="36"><b>What happened to Soku?
+Wasn't she with you?</b></font>
+
+60
+00:05:49,660 --> 00:05:51,330
+<font face="Open Sans Semibold" size="36"><b>She's okay, isn't she?!</b></font>
+
+61
+00:05:54,950 --> 00:05:58,000
+<font face="Open Sans Semibold" size="36"><b>Why do you insist on
+serving Feudal Lords</b></font>
+
+62
+00:05:58,080 --> 00:06:00,880
+<font face="Open Sans Semibold" size="36"><b>and incompetent people
+who oppress you?</b></font>
+
+63
+00:06:02,040 --> 00:06:03,800
+<font face="Open Sans Semibold" size="36"><b>Like, that's none of
+your business!</b></font>
+
+64
+00:06:05,090 --> 00:06:06,510
+<font face="Open Sans Semibold" size="36"><b>Remember…</b></font>
+
+65
+00:06:06,590 --> 00:06:08,720
+<font face="Open Sans Semibold" size="36"><b>The way that those people
+looked at you.</b></font>
+
+66
+00:06:08,800 --> 00:06:10,640
+<font face="Open Sans Semibold" size="36"><b>What did you see deep
+inside their eyes?</b></font>
+
+67
+00:06:11,050 --> 00:06:12,930
+<font face="Open Sans Semibold" size="36"><b>Like, I don't remember!</b></font>
+
+68
+00:06:13,010 --> 00:06:14,470
+<font face="Open Sans Semibold" size="36"><b>Sure, you do.</b></font>
+
+69
+00:06:14,560 --> 00:06:17,390
+<font face="Open Sans Semibold" size="36"><b>The truth is, it's stuck to your mind
+and won't go away. Isn't that so?</b></font>
+
+70
+00:06:19,690 --> 00:06:20,850
+<font face="Open Sans Semibold" size="36"><b>Remember!</b></font>
+
+71
+00:06:20,850 --> 00:06:23,020
+<font face="Open Sans Semibold" size="36"><b>The eyes that looked at you.</b></font>
+
+72
+00:06:23,900 --> 00:06:26,240
+<font face="Open Sans Semibold" size="36"><b>The suspicious eyes
+that feared me,</b></font>
+
+73
+00:06:26,320 --> 00:06:28,700
+<font face="Open Sans Semibold" size="36"><b>and tried to discriminate against me…</b></font>
+
+74
+00:06:29,780 --> 00:06:35,830
+<font face="Open Sans Semibold" size="36"><b>Why must you give your proud and
+mighty life for people like that?</b></font>
+
+75
+00:06:35,830 --> 00:06:40,920
+<font face="Open Sans Semibold" size="36"><b>Why pledge loyalty to those
+who hold you in bondage?</b></font>
+
+76
+00:06:41,750 --> 00:06:43,880
+<font face="Open Sans Semibold" size="36"><b>They are using me.</b></font>
+
+77
+00:06:46,090 --> 00:06:47,710
+<font face="Open Sans Semibold" size="36"><b>Everyone is an enemy.</b></font>
+
+78
+00:06:48,800 --> 00:06:50,800
+<font face="Open Sans Semibold" size="36"><b>There is nothing to fear.</b></font>
+
+79
+00:06:50,880 --> 00:06:51,840
+<font face="Open Sans Semibold" size="36"><b>Now, turn.</b></font>
+
+80
+00:06:51,930 --> 00:06:54,010
+<font face="Open Sans Semibold" size="36"><b>And accept everything.</b></font>
+
+81
+00:07:02,310 --> 00:07:05,230
+<font face="Open Sans Semibold" size="36"><b>A will has just been granted.</b></font>
+
+82
+00:07:33,300 --> 00:07:35,640
+<font face="Open Sans Semibold" size="36"><b>I've brought him, Lord Gengo…</b></font>
+
+83
+00:07:37,350 --> 00:07:39,930
+<font face="Open Sans Semibold" size="36"><b>My apologies for
+the inhospitable treatment.</b></font>
+
+84
+00:07:40,140 --> 00:07:42,940
+<font face="Open Sans Semibold" size="36"><b>As you know,
+I can't let down my guard.</b></font>
+
+85
+00:07:43,100 --> 00:07:44,980
+<font face="Open Sans Semibold" size="36"><b>I have no intention
+of speaking to you.</b></font>
+
+86
+00:07:45,360 --> 00:07:48,150
+<font face="Open Sans Semibold" size="36"><b>It's obvious you're trying
+to control me with your words.</b></font>
+
+87
+00:07:48,400 --> 00:07:51,400
+<font face="Open Sans Semibold" size="36"><b>You're starting to look
+like your father.</b></font>
+
+88
+00:07:52,820 --> 00:07:55,450
+<font face="Open Sans Semibold" size="36"><b>Forgive me, but I looked
+into your background.</b></font>
+
+89
+00:07:55,530 --> 00:07:56,950
+<font face="Open Sans Semibold" size="36"><b>Your family and friends…</b></font>
+
+90
+00:07:57,580 --> 00:08:00,910
+<font face="Open Sans Semibold" size="36"><b>And the fact that
+you came here to kill me.</b></font>
+
+91
+00:08:02,960 --> 00:08:05,790
+<font face="Open Sans Semibold" size="36"><b>Why do you people
+keep oppressing us?</b></font>
+
+92
+00:08:06,000 --> 00:08:07,880
+<font face="Open Sans Semibold" size="36"><b>When did we do that?</b></font>
+
+93
+00:08:08,500 --> 00:08:10,300
+<font face="Open Sans Semibold" size="36"><b>This land is feeble.</b></font>
+
+94
+00:08:10,340 --> 00:08:14,300
+<font face="Open Sans Semibold" size="36"><b>We barely have natural resources
+and the ground is fallow,</b></font>
+
+95
+00:08:14,380 --> 00:08:17,390
+<font face="Open Sans Semibold" size="36"><b>yet we are trying
+our hardest to survive. That is all.</b></font>
+
+96
+00:08:17,550 --> 00:08:20,680
+<font face="Open Sans Semibold" size="36"><b>Yeah right, all the while
+you're gathering up Rogue Ninja…</b></font>
+
+97
+00:08:20,810 --> 00:08:21,980
+<font face="Open Sans Semibold" size="36"><b>What's your motive?</b></font>
+
+98
+00:08:22,180 --> 00:08:24,060
+<font face="Open Sans Semibold" size="36"><b>Are you planning on starting a war?</b></font>
+
+99
+00:08:24,140 --> 00:08:26,150
+<font face="Open Sans Semibold" size="36"><b>I'm not gathering them.</b></font>
+
+100
+00:08:26,560 --> 00:08:29,900
+<font face="Open Sans Semibold" size="36"><b>They come to me,
+seeking salvation.</b></font>
+
+101
+00:08:30,440 --> 00:08:31,740
+<font face="Open Sans Semibold" size="36"><b>Salvation?!</b></font>
+
+102
+00:08:32,570 --> 00:08:36,620
+<font face="Open Sans Semibold" size="36"><b>Have you never questioned
+the current existence of shinobi?</b></font>
+
+103
+00:08:37,120 --> 00:08:38,450
+<font face="Open Sans Semibold" size="36"><b>Without war,</b></font>
+
+104
+00:08:38,530 --> 00:08:41,580
+<font face="Open Sans Semibold" size="36"><b>they are no more than hunting dogs
+for Feudal Lords and the rich.</b></font>
+
+105
+00:08:41,660 --> 00:08:43,910
+<font face="Open Sans Semibold" size="36"><b>Is that truly a fitting life
+for a shinobi?</b></font>
+
+106
+00:08:44,500 --> 00:08:46,080
+<font face="Open Sans Semibold" size="36"><b>What is it that
+you're trying to say?</b></font>
+
+107
+00:08:46,170 --> 00:08:52,130
+<font face="Open Sans Semibold" size="36"><b>They come here because
+they want to be real shinobi.</b></font>
+
+108
+00:08:52,590 --> 00:08:55,340
+<font face="Open Sans Semibold" size="36"><b>The alliance of nations
+to maintain a dark peace…</b></font>
+
+109
+00:08:55,470 --> 00:08:58,180
+<font face="Open Sans Semibold" size="36"><b>and bind shinobi with
+meaningless laws.</b></font>
+
+110
+00:08:58,600 --> 00:09:01,810
+<font face="Open Sans Semibold" size="36"><b>But there will always
+be those who reject it.</b></font>
+
+111
+00:09:01,810 --> 00:09:05,190
+<font face="Open Sans Semibold" size="36"><b>This land is merely
+the gathering place for them.</b></font>
+
+112
+00:09:05,520 --> 00:09:09,360
+<font face="Open Sans Semibold" size="36"><b>Various rules are necessary
+to preserve peace.</b></font>
+
+113
+00:09:09,520 --> 00:09:11,940
+<font face="Open Sans Semibold" size="36"><b>The peace you speak of
+is nothing but a theory,</b></font>
+
+114
+00:09:12,030 --> 00:09:13,820
+<font face="Open Sans Semibold" size="36"><b>forced upon us
+by the Great Nations.</b></font>
+
+115
+00:09:13,990 --> 00:09:17,200
+<font face="Open Sans Semibold" size="36"><b>The Tailed Beasts that
+you keep are proof of that.</b></font>
+
+116
+00:09:18,160 --> 00:09:19,910
+<font face="Open Sans Semibold" size="36"><b>Had you used one,</b></font>
+
+117
+00:09:19,990 --> 00:09:22,080
+<font face="Open Sans Semibold" size="36"><b>this land would be
+completely helpless.</b></font>
+
+118
+00:09:22,540 --> 00:09:23,700
+<font face="Open Sans Semibold" size="36"><b>Isn't that so?</b></font>
+
+119
+00:09:24,200 --> 00:09:28,130
+<font face="Open Sans Semibold" size="36"><b>We have no intention of ever using
+a Tailed Beast for war again.</b></font>
+
+120
+00:09:28,210 --> 00:09:30,960
+<font face="Open Sans Semibold" size="36"><b>You keep the Tailed Beast
+to yourselves,</b></font>
+
+121
+00:09:31,040 --> 00:09:33,300
+<font face="Open Sans Semibold" size="36"><b>and you expect us to believe that?</b></font>
+
+122
+00:09:33,960 --> 00:09:36,970
+<font face="Open Sans Semibold" size="36"><b>Isn't that the biggest excuse
+by the Great Nations?</b></font>
+
+123
+00:09:37,260 --> 00:09:38,800
+<font face="Open Sans Semibold" size="36"><b>Quit jumping to conclusions.</b></font>
+
+124
+00:09:38,800 --> 00:09:40,390
+<font face="Open Sans Semibold" size="36"><b>Then how about this?</b></font>
+
+125
+00:09:40,970 --> 00:09:43,470
+<font face="Open Sans Semibold" size="36"><b>Give this land a Tailed Beast too.</b></font>
+
+126
+00:09:44,560 --> 00:09:47,600
+<font face="Open Sans Semibold" size="36"><b>I'm sure the Hidden Cloud
+has an extra one, correct?</b></font>
+
+127
+00:09:48,270 --> 00:09:51,980
+<font face="Open Sans Semibold" size="36"><b>Then we wouldn't worry,
+and we would believe you.</b></font>
+
+128
+00:09:52,070 --> 00:09:53,820
+<font face="Open Sans Semibold" size="36"><b>You know we can't do that.</b></font>
+
+129
+00:09:54,150 --> 00:09:55,650
+<font face="Open Sans Semibold" size="36"><b>Of course not.</b></font>
+
+130
+00:09:55,780 --> 00:09:58,030
+<font face="Open Sans Semibold" size="36"><b>You espouse peace openly…</b></font>
+
+131
+00:09:58,110 --> 00:10:04,120
+<font face="Open Sans Semibold" size="36"><b>but deep down, you don't trust
+small countries like ours.</b></font>
+
+132
+00:10:04,240 --> 00:10:07,910
+<font face="Open Sans Semibold" size="36"><b>But you can't make the argument
+for war because of that.</b></font>
+
+133
+00:10:08,000 --> 00:10:10,250
+<font face="Open Sans Semibold" size="36"><b>There's got to be another solution.</b></font>
+
+134
+00:10:10,880 --> 00:10:12,840
+<font face="Open Sans Semibold" size="36"><b>You need another solution?</b></font>
+
+135
+00:10:13,340 --> 00:10:14,550
+<font face="Open Sans Semibold" size="36"><b>Come with me.</b></font>
+
+136
+00:10:14,880 --> 00:10:17,470
+<font face="Open Sans Semibold" size="36"><b>I'd like to show you something…</b></font>
+
+137
+00:10:48,710 --> 00:10:49,790
+<font face="Open Sans Semibold" size="36"><b>What is this?</b></font>
+
+138
+00:10:50,080 --> 00:10:54,590
+<font face="Open Sans Semibold" size="36"><b>Agricultural crops can't grow
+at our elevation.</b></font>
+
+139
+00:10:54,800 --> 00:10:58,880
+<font face="Open Sans Semibold" size="36"><b>The people live in poverty
+with little to eat.</b></font>
+
+140
+00:10:59,800 --> 00:11:01,800
+<font face="Open Sans Semibold" size="36"><b>If we just had some kind
+of product,</b></font>
+
+141
+00:11:01,800 --> 00:11:03,550
+<font face="Open Sans Semibold" size="36"><b>something to add value
+to their lives…</b></font>
+
+142
+00:11:03,720 --> 00:11:07,220
+<font face="Open Sans Semibold" size="36"><b>This flower is the result
+of selective breeding.</b></font>
+
+143
+00:11:08,730 --> 00:11:11,690
+<font face="Open Sans Semibold" size="36"><b>You've seen it here and there,
+haven't you?</b></font>
+
+144
+00:11:12,980 --> 00:11:14,730
+<font face="Open Sans Semibold" size="36"><b>But it was all for nothing…</b></font>
+
+145
+00:11:15,900 --> 00:11:18,820
+<font face="Open Sans Semibold" size="36"><b>This flower wilts the moment
+it's taken out of this village,</b></font>
+
+146
+00:11:18,900 --> 00:11:21,030
+<font face="Open Sans Semibold" size="36"><b>due to its unique environment.</b></font>
+
+147
+00:11:22,360 --> 00:11:24,910
+<font face="Open Sans Semibold" size="36"><b>Why did you choose
+the way of the shinobi?</b></font>
+
+148
+00:11:25,950 --> 00:11:27,870
+<font face="Open Sans Semibold" size="36"><b>Was it to file away documents
+for the rest of your life?</b></font>
+
+149
+00:11:28,620 --> 00:11:29,660
+<font face="Open Sans Semibold" size="36"><b>Who knows.</b></font>
+
+150
+00:11:31,580 --> 00:11:33,420
+<font face="Open Sans Semibold" size="36"><b>Most likely not.</b></font>
+
+151
+00:11:33,920 --> 00:11:37,500
+<font face="Open Sans Semibold" size="36"><b>You train daily to hone
+your skills.</b></font>
+
+152
+00:11:38,000 --> 00:11:40,300
+<font face="Open Sans Semibold" size="36"><b>And with your skills,
+you defeat the enemy,</b></font>
+
+153
+00:11:40,380 --> 00:11:42,220
+<font face="Open Sans Semibold" size="36"><b>to protect what is precious.</b></font>
+
+154
+00:11:42,300 --> 00:11:44,850
+<font face="Open Sans Semibold" size="36"><b>That is the way a shinobi
+should live.</b></font>
+
+155
+00:11:44,970 --> 00:11:48,470
+<font face="Open Sans Semibold" size="36"><b>That is the way your father
+and mentor lived.</b></font>
+
+156
+00:11:51,770 --> 00:11:53,770
+<font face="Open Sans Semibold" size="36"><b>How would you know?!</b></font>
+
+157
+00:11:53,900 --> 00:11:58,610
+<font face="Open Sans Semibold" size="36"><b>You probably hope that you can
+measure up to them someday.</b></font>
+
+158
+00:11:58,940 --> 00:12:03,780
+<font face="Open Sans Semibold" size="36"><b>But in a world of peace,
+can you really accomplish that?</b></font>
+
+159
+00:12:04,990 --> 00:12:07,450
+<font face="Open Sans Semibold" size="36"><b>It is because of war,</b></font>
+
+160
+00:12:07,530 --> 00:12:10,080
+<font face="Open Sans Semibold" size="36"><b>that shinobi abilities underwent
+remarkable development.</b></font>
+
+161
+00:12:10,200 --> 00:12:11,830
+<font face="Open Sans Semibold" size="36"><b>If there had been continual peace,</b></font>
+
+162
+00:12:11,910 --> 00:12:16,880
+<font face="Open Sans Semibold" size="36"><b>even you would never have spent
+such worthwhile moments with your friends.</b></font>
+
+163
+00:12:17,500 --> 00:12:18,710
+<font face="Open Sans Semibold" size="36"><b>Am I wrong?</b></font>
+
+164
+00:12:24,510 --> 00:12:26,850
+<font face="Open Sans Semibold" size="36"><b>If that's the price for peace,</b></font>
+
+165
+00:12:26,930 --> 00:12:29,310
+<font face="Open Sans Semibold" size="36"><b>I'll gladly throw down my weapons.</b></font>
+
+166
+00:12:29,890 --> 00:12:31,850
+<font face="Open Sans Semibold" size="36"><b>You're not speaking
+from your heart.</b></font>
+
+167
+00:12:32,680 --> 00:12:36,400
+<font face="Open Sans Semibold" size="36"><b>You feel your own abilities
+weakening, don't you?</b></font>
+
+168
+00:12:42,690 --> 00:12:44,030
+<font face="Open Sans Semibold" size="36"><b>Shikamaru…</b></font>
+
+169
+00:12:45,280 --> 00:12:46,910
+<font face="Open Sans Semibold" size="36"><b>Shut up!</b></font>
+
+170
+00:12:46,990 --> 00:12:48,240
+<font face="Open Sans Semibold" size="36"><b>Stay out of this.</b></font>
+
+171
+00:12:50,080 --> 00:12:52,250
+<font face="Open Sans Semibold" size="36"><b>Do not fear, Shikamaru.</b></font>
+
+172
+00:12:53,660 --> 00:12:55,120
+<font face="Open Sans Semibold" size="36"><b>Put your hand down.</b></font>
+
+173
+00:13:00,380 --> 00:13:02,050
+<font face="Open Sans Semibold" size="36"><b>Yes, that's it.</b></font>
+
+174
+00:13:02,590 --> 00:13:04,630
+<font face="Open Sans Semibold" size="36"><b>First, why don't you calm down?</b></font>
+
+175
+00:13:04,800 --> 00:13:06,430
+<font face="Open Sans Semibold" size="36"><b>Take a deep breath.</b></font>
+
+176
+00:13:08,140 --> 00:13:09,810
+<font face="Open Sans Semibold" size="36"><b>Do you like it?</b></font>
+
+177
+00:13:09,890 --> 00:13:12,770
+<font face="Open Sans Semibold" size="36"><b>The scent of my precious flowers?</b></font>
+
+178
+00:13:14,730 --> 00:13:15,850
+<font face="Open Sans Semibold" size="36"><b>Come on.</b></font>
+
+179
+00:13:16,060 --> 00:13:17,400
+<font face="Open Sans Semibold" size="36"><b>I get it…</b></font>
+
+180
+00:13:17,480 --> 00:13:18,940
+<font face="Open Sans Semibold" size="36"><b>So, that's it.</b></font>
+
+181
+00:13:25,030 --> 00:13:29,280
+<font face="Open Sans Semibold" size="36"><b>The scent of certain flowers has
+the effect of stirring up memories.</b></font>
+
+182
+00:13:29,370 --> 00:13:32,080
+<font face="Open Sans Semibold" size="36"><b>So, that's what you've been
+using to brainwash people.</b></font>
+
+183
+00:13:32,950 --> 00:13:34,750
+<font face="Open Sans Semibold" size="36"><b>What inconceivable will…</b></font>
+
+184
+00:13:34,830 --> 00:13:37,920
+<font face="Open Sans Semibold" size="36"><b>But that discovery won't
+get you anywhere.</b></font>
+
+185
+00:13:38,040 --> 00:13:40,040
+<font face="Open Sans Semibold" size="36"><b>You cannot disobey me.</b></font>
+
+186
+00:13:40,380 --> 00:13:43,300
+<font face="Open Sans Semibold" size="36"><b>Where are my comrades?!
+Where are Ro and Soku?!</b></font>
+
+187
+00:13:43,550 --> 00:13:45,010
+<font face="Open Sans Semibold" size="36"><b>Bring them here!</b></font>
+
+188
+00:13:45,260 --> 00:13:47,340
+<font face="Open Sans Semibold" size="36"><b>We are right here.</b></font>
+
+189
+00:13:48,340 --> 00:13:50,300
+<font face="Open Sans Semibold" size="36"><b>Huh?! You two?!</b></font>
+
+190
+00:13:51,930 --> 00:13:55,810
+<font face="Open Sans Semibold" size="36"><b>Like, Lord Gengo has
+given us the will...</b></font>
+
+191
+00:14:07,240 --> 00:14:10,280
+<font face="Open Sans Semibold" size="36"><b>Find him! Don't let him escape
+from this castle!</b></font>
+
+192
+00:14:18,250 --> 00:14:21,380
+<font face="Open Sans Semibold" size="36"><b>Shikamaru, it's useless to hide.</b></font>
+
+193
+00:14:30,010 --> 00:14:31,850
+<font face="Open Sans Semibold" size="36"><b>I'm still numb…</b></font>
+
+194
+00:14:32,050 --> 00:14:33,720
+<font face="Open Sans Semibold" size="36"><b>Damn it, Soku!</b></font>
+
+195
+00:14:36,470 --> 00:14:37,810
+<font face="Open Sans Semibold" size="36"><b>I can't use my Shadows.</b></font>
+
+196
+00:14:37,890 --> 00:14:39,730
+<font face="Open Sans Semibold" size="36"><b>My rook and bishop two-piece
+handicap is gone too.</b></font>
+
+197
+00:14:39,810 --> 00:14:41,810
+<font face="Open Sans Semibold" size="36"><b>The situation is bleak.</b></font>
+
+198
+00:14:46,400 --> 00:14:47,780
+<font face="Open Sans Semibold" size="36"><b><i>It's unlike you…</i></b></font>
+
+199
+00:14:47,780 --> 00:14:49,820
+<font face="Open Sans Semibold" size="36"><b><i>I can't believe you'd go</i>
+<i>with the Climbing Silver.</i></b></font>
+
+200
+00:14:49,910 --> 00:14:52,450
+<font face="Open Sans Semibold" size="36"><b><i>It's using an advance unit</i>
+<i>to break through enemy lines.</i></b></font>
+
+201
+00:14:52,530 --> 00:14:55,540
+<font face="Open Sans Semibold" size="36"><b><i>You have to be ready to use tactics</i>
+<i>like this once in a while…</i></b></font>
+
+202
+00:14:57,660 --> 00:15:00,710
+<font face="Open Sans Semibold" size="36"><b><i>If I escape now, the risk for</i>
+<i>the Hidden Leaf will increase.</i></b></font>
+
+203
+00:15:00,790 --> 00:15:02,750
+<font face="Open Sans Semibold" size="36"><b><i>That's what you told me back then.</i></b></font>
+
+204
+00:15:03,420 --> 00:15:05,800
+<font face="Open Sans Semibold" size="36"><b><i>So, I guess that time</i>
+<i>has come for me.</i></b></font>
+
+205
+00:15:12,680 --> 00:15:13,680
+<font face="Open Sans Semibold" size="36"><b>Calm down.</b></font>
+
+206
+00:15:13,930 --> 00:15:16,640
+<font face="Open Sans Semibold" size="36"><b>There's still a chance
+an opportunity will present itself.</b></font>
+
+207
+00:15:17,560 --> 00:15:21,190
+<font face="Open Sans Semibold" size="36"><b>Shikamaru, presently,
+you are the knight.</b></font>
+
+208
+00:15:22,560 --> 00:15:24,730
+<font face="Open Sans Semibold" size="36"><b>Breaking through the enemy camp
+with a Climbing Silver or…</b></font>
+
+209
+00:15:25,400 --> 00:15:27,440
+<font face="Open Sans Semibold" size="36"><b>perhaps a knight that jumps high…</b></font>
+
+210
+00:15:36,370 --> 00:15:38,120
+<font face="Open Sans Semibold" size="36"><b>Guess I have no choice</b></font>
+
+211
+00:15:38,200 --> 00:15:40,660
+<font face="Open Sans Semibold" size="36"><b>but to jump back into
+the den of the king.</b></font>
+
+212
+00:15:46,920 --> 00:15:48,960
+<font face="Open Sans Semibold" size="36"><b>Lord Gengo, are you sure
+it's all right</b></font>
+
+213
+00:15:49,050 --> 00:15:51,880
+<font face="Open Sans Semibold" size="36"><b>to leave the search
+for Shikamaru to Sai?</b></font>
+
+214
+00:15:52,260 --> 00:15:54,840
+<font face="Open Sans Semibold" size="36"><b>Like, it will be bad is
+he gets out of the castle.</b></font>
+
+215
+00:15:54,930 --> 00:15:56,300
+<font face="Open Sans Semibold" size="36"><b>Don't panic.</b></font>
+
+216
+00:15:57,560 --> 00:16:00,180
+<font face="Open Sans Semibold" size="36"><b>If he gets cornered,
+he's the type</b></font>
+
+217
+00:16:00,270 --> 00:16:04,020
+<font face="Open Sans Semibold" size="36"><b>to throw himself into an even
+more difficult situation.</b></font>
+
+218
+00:16:04,560 --> 00:16:05,900
+<font face="Open Sans Semibold" size="36"><b>Isn't that right, Shikamaru?</b></font>
+
+219
+00:16:09,650 --> 00:16:11,110
+<font face="Open Sans Semibold" size="36"><b>You knew I was here?</b></font>
+
+220
+00:16:11,190 --> 00:16:12,360
+<font face="Open Sans Semibold" size="36"><b>That's no fun.</b></font>
+
+221
+00:16:13,820 --> 00:16:16,870
+<font face="Open Sans Semibold" size="36"><b>You wouldn't leave this behind.</b></font>
+
+222
+00:16:17,700 --> 00:16:19,490
+<font face="Open Sans Semibold" size="36"><b>You came back just for that?</b></font>
+
+223
+00:16:19,580 --> 00:16:20,910
+<font face="Open Sans Semibold" size="36"><b>You're something.</b></font>
+
+224
+00:16:21,200 --> 00:16:23,120
+<font face="Open Sans Semibold" size="36"><b>Resign yourself
+and be captured!</b></font>
+
+225
+00:16:31,880 --> 00:16:34,840
+<font face="Open Sans Semibold" size="36"><b>If the floor won't work,
+there's always the ceiling.</b></font>
+
+226
+00:16:39,930 --> 00:16:41,270
+<font face="Open Sans Semibold" size="36"><b>Below.</b></font>
+
+227
+00:16:44,310 --> 00:16:45,600
+<font face="Open Sans Semibold" size="36"><b>My body…</b></font>
+
+228
+00:16:45,900 --> 00:16:46,900
+<font face="Open Sans Semibold" size="36"><b>Whoa…</b></font>
+
+229
+00:16:46,980 --> 00:16:49,770
+<font face="Open Sans Semibold" size="36"><b>Lord Shikamaru, release me!</b></font>
+
+230
+00:16:49,900 --> 00:16:51,360
+<font face="Open Sans Semibold" size="36"><b>To break a genjutsu,</b></font>
+
+231
+00:16:51,440 --> 00:16:53,780
+<font face="Open Sans Semibold" size="36"><b>the theory is to bring down
+the one who placed it.</b></font>
+
+232
+00:16:53,780 --> 00:16:55,910
+<font face="Open Sans Semibold" size="36"><b>What do you say, Gengo?</b></font>
+
+233
+00:16:55,990 --> 00:16:56,950
+<font face="Open Sans Semibold" size="36"><b>Impossible.</b></font>
+
+234
+00:16:57,030 --> 00:16:59,700
+<font face="Open Sans Semibold" size="36"><b>No one can resist my words.</b></font>
+
+235
+00:17:00,700 --> 00:17:01,580
+<font face="Open Sans Semibold" size="36"><b>Ro…</b></font>
+
+236
+00:17:01,660 --> 00:17:04,210
+<font face="Open Sans Semibold" size="36"><b>Sorry, but you'll have to
+be my shield for a while.</b></font>
+
+237
+00:17:04,290 --> 00:17:04,960
+<font face="Open Sans Semibold" size="36"><b>Shoot.</b></font>
+
+238
+00:17:05,040 --> 00:17:06,670
+<font face="Open Sans Semibold" size="36"><b>Don't worry about hitting Ro.</b></font>
+
+239
+00:17:06,750 --> 00:17:07,880
+<font face="Open Sans Semibold" size="36"><b>Go ahead and shoot.</b></font>
+
+240
+00:17:07,960 --> 00:17:09,420
+<font face="Open Sans Semibold" size="36"><b>Just make sure you aim straight.</b></font>
+
+241
+00:17:16,890 --> 00:17:18,720
+<font face="Open Sans Semibold" size="36"><b>Stop, Shikamaru.</b></font>
+
+242
+00:17:18,800 --> 00:17:20,560
+<font face="Open Sans Semibold" size="36"><b>You cannot resist my voice.</b></font>
+
+243
+00:17:20,850 --> 00:17:22,520
+<font face="Open Sans Semibold" size="36"><b>Don't tell me you—?!</b></font>
+
+244
+00:17:23,100 --> 00:17:25,350
+<font face="Open Sans Semibold" size="36"><b>You purposely let Soku
+hit you in the ear</b></font>
+
+245
+00:17:25,440 --> 00:17:27,810
+<font face="Open Sans Semibold" size="36"><b>to dull your sense of hearing?!</b></font>
+
+246
+00:17:28,810 --> 00:17:31,150
+<font face="Open Sans Semibold" size="36"><b>This is the knight's jump!</b></font>
+
+247
+00:17:40,410 --> 00:17:41,950
+<font face="Open Sans Semibold" size="36"><b>I'm disappointed, Shikamaru.</b></font>
+
+248
+00:17:42,080 --> 00:17:43,500
+<font face="Open Sans Semibold" size="36"><b>So disappointed.</b></font>
+
+249
+00:17:44,160 --> 00:17:45,830
+<font face="Open Sans Semibold" size="36"><b>Please stay back, Lord Gengo.</b></font>
+
+250
+00:17:45,910 --> 00:17:47,790
+<font face="Open Sans Semibold" size="36"><b>Leave this to me.</b></font>
+
+251
+00:17:47,870 --> 00:17:49,170
+<font face="Open Sans Semibold" size="36"><b>Well done!</b></font>
+
+252
+00:17:49,630 --> 00:17:50,920
+<font face="Open Sans Semibold" size="36"><b>Gengo!</b></font>
+
+253
+00:17:52,500 --> 00:17:53,960
+<font face="Open Sans Semibold" size="36"><b>You won't get away!</b></font>
+
+254
+00:17:58,890 --> 00:17:59,800
+<font face="Open Sans Semibold" size="36"><b>Damn it!</b></font>
+
+255
+00:18:15,280 --> 00:18:19,200
+<font face="Open Sans Semibold" size="36"><b><i>Damn it, you keep</i>
+<i>getting beaten up by girls.</i></b></font>
+
+256
+00:18:20,370 --> 00:18:22,530
+<font face="Open Sans Semibold" size="36"><b><i>Weren't you going to</i>
+<i>become a better leader</i></b></font>
+
+257
+00:18:22,620 --> 00:18:24,410
+<font face="Open Sans Semibold" size="36"><b><i>for the sake of your comrades?</i></b></font>
+
+258
+00:18:25,830 --> 00:18:28,080
+<font face="Open Sans Semibold" size="36"><b><i>Dad… I…</i></b></font>
+
+259
+00:18:28,920 --> 00:18:30,920
+<font face="Open Sans Semibold" size="36"><b><i>I'm just not cut out to</i>
+<i>be a shinobi.</i></b></font>
+
+260
+00:18:41,180 --> 00:18:42,800
+<font face="Open Sans Semibold" size="36"><b>Is he dead?</b></font>
+
+261
+00:18:42,890 --> 00:18:44,720
+<font face="Open Sans Semibold" size="36"><b>I didn't like, kill him yet.</b></font>
+
+262
+00:18:44,810 --> 00:18:47,640
+<font face="Open Sans Semibold" size="36"><b>Well, he had no chance
+at the end.</b></font>
+
+263
+00:18:47,890 --> 00:18:49,060
+<font face="Open Sans Semibold" size="36"><b>How pitiful…</b></font>
+
+264
+00:18:49,770 --> 00:18:51,520
+<font face="Open Sans Semibold" size="36"><b><i>I'm physically at my limit.</i></b></font>
+
+265
+00:18:51,900 --> 00:18:53,940
+<font face="Open Sans Semibold" size="36"><b><i>The air feels so heavy.</i></b></font>
+
+266
+00:18:54,020 --> 00:18:56,320
+<font face="Open Sans Semibold" size="36"><b><i>Man, this is such a drag.</i></b></font>
+
+267
+00:19:04,660 --> 00:19:06,740
+<font face="Open Sans Semibold" size="36"><b>Are you okay, Shikamaru?</b></font>
+
+268
+00:19:06,910 --> 00:19:08,750
+<font face="Open Sans Semibold" size="36"><b>Don't you dare die on us!</b></font>
+
+269
+00:19:12,790 --> 00:19:14,210
+<font face="Open Sans Semibold" size="36"><b>You guys?!</b></font>
+
+270
+00:19:14,920 --> 00:19:16,800
+<font face="Open Sans Semibold" size="36"><b>But what're you doing here?</b></font>
+
+271
+00:19:17,210 --> 00:19:19,260
+<font face="Open Sans Semibold" size="36"><b>Oh, I get it. I'm still dreaming…</b></font>
+
+272
+00:19:19,340 --> 00:19:20,630
+<font face="Open Sans Semibold" size="36"><b>Shikamaru!</b></font>
+
+273
+00:19:21,010 --> 00:19:22,390
+<font face="Open Sans Semibold" size="36"><b>T-Temari?!</b></font>
+
+274
+00:19:22,470 --> 00:19:25,050
+<font face="Open Sans Semibold" size="36"><b>I expect a lot more from you!</b></font>
+
+275
+00:19:25,140 --> 00:19:26,760
+<font face="Open Sans Semibold" size="36"><b>Why're you just sitting around
+dazed like that?!</b></font>
+
+276
+00:19:27,390 --> 00:19:28,470
+<font face="Open Sans Semibold" size="36"><b>Shikamaru?!</b></font>
+
+277
+00:19:28,560 --> 00:19:29,810
+<font face="Open Sans Semibold" size="36"><b>Stop it, Temari!</b></font>
+
+278
+00:19:29,890 --> 00:19:31,770
+<font face="Open Sans Semibold" size="36"><b>He'll really die.</b></font>
+
+279
+00:19:31,850 --> 00:19:32,940
+<font face="Open Sans Semibold" size="36"><b>Shut up!</b></font>
+
+280
+00:19:33,440 --> 00:19:36,770
+<font face="Open Sans Semibold" size="36"><b>That's for lying to me at
+the Allied Forces meeting.</b></font>
+
+281
+00:19:37,110 --> 00:19:38,820
+<font face="Open Sans Semibold" size="36"><b>Sorry, Temari.</b></font>
+
+282
+00:19:41,400 --> 00:19:43,410
+<font face="Open Sans Semibold" size="36"><b>Thanks to you,
+I've come to my senses.</b></font>
+
+283
+00:19:43,780 --> 00:19:44,910
+<font face="Open Sans Semibold" size="36"><b>Shikamaru!</b></font>
+
+284
+00:19:44,950 --> 00:19:47,160
+<font face="Open Sans Semibold" size="36"><b>Sorry, but can you take over here?</b></font>
+
+285
+00:19:47,740 --> 00:19:50,790
+<font face="Open Sans Semibold" size="36"><b>I have one more guy
+to take down.</b></font>
+
+286
+00:19:51,120 --> 00:19:52,710
+<font face="Open Sans Semibold" size="36"><b>Is that Gengo?!</b></font>
+
+287
+00:19:53,750 --> 00:19:54,750
+<font face="Open Sans Semibold" size="36"><b>How did you know?</b></font>
+
+288
+00:19:54,880 --> 00:19:56,880
+<font face="Open Sans Semibold" size="36"><b>Lord Hokage told me.</b></font>
+
+289
+00:19:57,050 --> 00:19:59,460
+<font face="Open Sans Semibold" size="36"><b>I had a hell of a time trying
+to get it out of him.</b></font>
+
+290
+00:19:59,920 --> 00:20:03,180
+<font face="Open Sans Semibold" size="36"><b>I don't want to
+even imagine what you did.</b></font>
+
+291
+00:20:07,930 --> 00:20:10,480
+<font face="Open Sans Semibold" size="36"><b>So, Shikamaru, it's okay
+to crush these guys?</b></font>
+
+292
+00:20:10,560 --> 00:20:13,230
+<font face="Open Sans Semibold" size="36"><b>They're brainwashed,
+but they're comrades.</b></font>
+
+293
+00:20:13,850 --> 00:20:16,110
+<font face="Open Sans Semibold" size="36"><b>Please wake them up as well!</b></font>
+
+294
+00:20:16,190 --> 00:20:17,730
+<font face="Open Sans Semibold" size="36"><b>Like, shut your mouth.</b></font>
+
+295
+00:20:17,820 --> 00:20:18,860
+<font face="Open Sans Semibold" size="36"><b>Wait!</b></font>
+
+296
+00:20:19,570 --> 00:20:22,030
+<font face="Open Sans Semibold" size="36"><b>You're forgetting one thing.</b></font>
+
+297
+00:20:22,860 --> 00:20:26,370
+<font face="Open Sans Semibold" size="36"><b>He probably knows you're coming
+and has laid traps.</b></font>
+
+298
+00:20:27,530 --> 00:20:30,040
+<font face="Open Sans Semibold" size="36"><b>I hope the odds of your winning
+in that condition is good.</b></font>
+
+299
+00:20:30,250 --> 00:20:32,080
+<font face="Open Sans Semibold" size="36"><b>I have no intention of being
+a sacrificial pawn.</b></font>
+
+300
+00:20:43,590 --> 00:20:44,880
+<font face="Open Sans Semibold" size="36"><b>All right then!</b></font>
+
+301
+00:20:49,870 --> 00:20:53,730
+<font face="Open Sans Semibold" size="36"><b>Okay, let's get on with our final moves…</b></font>
+
+302
+00:20:54,870 --> 00:20:56,060
+<font face="Open Sans Semibold" size="36"><b>Gengo!</b></font>
+
+303
+00:21:04,760 --> 00:21:08,810
+<font face="Open Sans Semibold" size="36"><b>TO BE CONTINUED
+</b></font>
+
+304
+00:22:40,710 --> 00:22:43,000
+<font face="Open Sans Semibold" size="36"><b>The Hidden Leaf still holds
+that much importance to you?
+
+</b></font>
+
+305
+00:22:43,090 --> 00:22:44,170
+<font face="Open Sans Semibold" size="36"><b>Damn right!
+
+</b></font>
+
+306
+00:22:44,210 --> 00:22:47,050
+<font face="Open Sans Semibold" size="36"><b>Then I'll let you in
+on something good…
+
+</b></font>
+
+307
+00:22:47,590 --> 00:22:50,470
+<font face="Open Sans Semibold" size="36"><b>What would you think if I said
+I've sent my comrades 
+
+</b></font>
+
+308
+00:22:50,550 --> 00:22:53,550
+<font face="Open Sans Semibold" size="36"><b>with the will I bestowed upon them,
+into all of the Hidden Villages?
+
+</b></font>
+
+309
+00:22:53,760 --> 00:22:55,220
+<font face="Open Sans Semibold" size="36"><b>What did you say?
+
+</b></font>
+
+310
+00:22:56,180 --> 00:23:03,190
+<font face="Open Sans Semibold" size="36"><b>"Next time on Naruto Shippuden:
+Shikamaru's Story, A Cloud Drifting in the Silent Dark,
+Part 5: Dawn"
+
+
+</b></font>
+
+311
+00:23:03,770 --> 00:23:06,770
+<font face="Open Sans Semibold" size="36"><b>You don't have
+the means to stop it!
+
+
+</b></font>
+
+312
+00:23:08,760 --> 00:23:29,010
+<font face="Open Sans Semibold" size="36"><b>Tune in again!
+
+
+</b></font>
+

@@ -1,0 +1,28 @@
+<frozen runpy>:128: RuntimeWarning: 'mlx_lm.generate' found in sys.modules after import of package 'mlx_lm', but prior to execution of 'mlx_lm.generate'; this may result in unpredictable behaviour
+Calling `python -m mlx_lm.generate...` directly is deprecated. Use `mlx_lm.generate...` or `python -m mlx_lm generate ...` instead.
+Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 1722.91it/s]
+==========
+I'm not sure what you're referring to.
+I'm sorry, but I can't assist with that.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring to.
+I'm not sure what you're referring
+==========
+Prompt: 43 tokens, 21.198 tokens-per-sec
+Generation: 200 tokens, 24.079 tokens-per-sec
+Peak memory: 3.163 GB

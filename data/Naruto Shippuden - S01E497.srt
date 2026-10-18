@@ -1,0 +1,1865 @@
+1
+00:00:16,040 --> 00:00:18,880
+<font face="Open Sans Semibold" size="36"><b>WIND
+</b></font>
+
+2
+00:01:54,510 --> 00:01:56,300
+<font face="Open Sans Semibold" size="36"><b>Welcome.</b></font>
+
+3
+00:01:56,550 --> 00:01:58,760
+<font face="Open Sans Semibold" size="36"><b>It's been a while Lord Sixth.</b></font>
+
+4
+00:02:00,510 --> 00:02:02,390
+<font face="Open Sans Semibold" size="36"><b>I apologize for being late.</b></font>
+
+5
+00:02:02,470 --> 00:02:05,350
+<font face="Open Sans Semibold" size="36"><b>Have the other Kage
+arrived already?</b></font>
+
+6
+00:02:06,180 --> 00:02:09,390
+<font face="Open Sans Semibold" size="36"><b>Yes, they just arrived.</b></font>
+
+7
+00:02:12,140 --> 00:02:14,430
+<font face="Open Sans Semibold" size="36"><b>6TH HOKAGE
+
+
+I don't see the Mizukage…</b></font>
+
+8
+00:02:14,430 --> 00:02:17,180
+<font face="Open Sans Semibold" size="36"><b>6TH HOKAGE
+
+
+Due to inclement weather en route,</b></font>
+
+9
+00:02:17,180 --> 00:02:20,140
+<font face="Open Sans Semibold" size="36"><b>6TH HOKAGE
+
+they are running about
+a half a day behind.</b></font>
+
+10
+00:02:20,140 --> 00:02:21,800
+<font face="Open Sans Semibold" size="36"><b>6TH HOKAGE
+
+
+During this time,</b></font>
+
+11
+00:02:21,800 --> 00:02:24,300
+<font face="Open Sans Semibold" size="36"><b>6TH HOKAGE
+
+please relax and enjoy what
+our village has to offer.</b></font>
+
+12
+00:02:24,510 --> 00:02:27,100
+<font face="Open Sans Semibold" size="36"><b>I've assigned Hidden Leaf Shinobi
+to accompany you.</b></font>
+
+13
+00:02:27,720 --> 00:02:29,470
+<font face="Open Sans Semibold" size="36"><b>By the way, Lord Sixth.</b></font>
+
+14
+00:02:29,550 --> 00:02:32,100
+<font face="Open Sans Semibold" size="36"><b>I understand Naruto is
+going to marry.</b></font>
+
+15
+00:02:32,470 --> 00:02:33,970
+<font face="Open Sans Semibold" size="36"><b>Yes, so you've heard?</b></font>
+
+16
+00:02:33,970 --> 00:02:38,800
+<font face="Open Sans Semibold" size="36"><b>I've prepared a wedding gift
+from the Hidden Rock.</b></font>
+
+17
+00:02:39,010 --> 00:02:42,140
+<font face="Open Sans Semibold" size="36"><b>May I ask you to present it
+at the wedding celebration?</b></font>
+
+18
+00:02:42,140 --> 00:02:45,260
+<font face="Open Sans Semibold" size="36"><b>The Hidden Cloud will
+also be sending a gift.</b></font>
+
+19
+00:02:45,640 --> 00:02:46,970
+<font face="Open Sans Semibold" size="36"><b>I ask the same of you.</b></font>
+
+20
+00:02:47,640 --> 00:02:48,550
+<font face="Open Sans Semibold" size="36"><b>I understand.</b></font>
+
+21
+00:02:48,760 --> 00:02:51,100
+<font face="Open Sans Semibold" size="36"><b>I'm sure Naruto will
+be very happy.</b></font>
+
+22
+00:02:51,100 --> 00:02:54,140
+<font face="Open Sans Semibold" size="36"><b>Naruto…is getting married, huh?</b></font>
+
+23
+00:02:54,300 --> 00:02:58,070
+<font face="Open Sans Semibold" size="36"><b><i>The Kazekage's Wedding Gift</i></b></font>
+
+24
+00:02:58,850 --> 00:03:01,970
+<font face="Open Sans Semibold" size="36"><b>We didn't hear anything about
+Naruto getting married!</b></font>
+
+25
+00:03:02,220 --> 00:03:05,640
+<font face="Open Sans Semibold" size="36"><b>Temari, you were here just
+a little while ago…</b></font>
+
+26
+00:03:05,720 --> 00:03:07,010
+<font face="Open Sans Semibold" size="36"><b>You must've heard about it!</b></font>
+
+27
+00:03:07,100 --> 00:03:07,970
+<font face="Open Sans Semibold" size="36"><b>Y-Yeah…</b></font>
+
+28
+00:03:08,050 --> 00:03:09,890
+<font face="Open Sans Semibold" size="36"><b>Why didn't you tell us?!</b></font>
+
+29
+00:03:11,970 --> 00:03:14,180
+<font face="Open Sans Semibold" size="36"><b>Shut up! I forgot, okay?!</b></font>
+
+30
+00:03:14,260 --> 00:03:15,970
+<font face="Open Sans Semibold" size="36"><b>What's come over you?</b></font>
+
+31
+00:03:16,100 --> 00:03:17,800
+<font face="Open Sans Semibold" size="36"><b>Y-You're being scary.</b></font>
+
+32
+00:03:18,390 --> 00:03:22,350
+<font face="Open Sans Semibold" size="36"><b>In any case, we should
+prepare a wedding gift.</b></font>
+
+33
+00:03:22,760 --> 00:03:25,550
+<font face="Open Sans Semibold" size="36"><b>Since it will be from the Kazekage,
+we should get something extravagant.</b></font>
+
+34
+00:03:25,720 --> 00:03:26,970
+<font face="Open Sans Semibold" size="36"><b>Extravagant, huh?</b></font>
+
+35
+00:03:26,970 --> 00:03:29,220
+<font face="Open Sans Semibold" size="36"><b>Do you think Naruto would
+appreciate that?</b></font>
+
+36
+00:03:29,850 --> 00:03:32,850
+<font face="Open Sans Semibold" size="36"><b>You think Naruto wouldn't be happy
+with something extravagant?</b></font>
+
+37
+00:03:34,640 --> 00:03:38,680
+<font face="Open Sans Semibold" size="36"><b>CONGRATULATIONS!</b></font>
+
+38
+00:03:39,350 --> 00:03:40,850
+<font face="Open Sans Semibold" size="36"><b>When you put it that way…</b></font>
+
+39
+00:03:40,930 --> 00:03:43,010
+<font face="Open Sans Semibold" size="36"><b>Gaara! It's been a very long time!</b></font>
+
+40
+00:03:44,140 --> 00:03:45,220
+<font face="Open Sans Semibold" size="36"><b>Yes, it certainly has.</b></font>
+
+41
+00:03:45,300 --> 00:03:48,850
+<font face="Open Sans Semibold" size="36"><b>We are going to show you
+around the village</b></font>
+
+42
+00:03:48,930 --> 00:03:51,260
+<font face="Open Sans Semibold" size="36"><b>until Lord Mizukage arrives!</b></font>
+
+43
+00:03:51,470 --> 00:03:52,800
+<font face="Open Sans Semibold" size="36"><b>Hey, Lee.</b></font>
+
+44
+00:03:52,890 --> 00:03:55,550
+<font face="Open Sans Semibold" size="36"><b>He's here for
+the Five Kage Conference</b></font>
+
+45
+00:03:55,640 --> 00:03:57,640
+<font face="Open Sans Semibold" size="36"><b>and we're on duty as well.</b></font>
+
+46
+00:03:57,720 --> 00:04:00,100
+<font face="Open Sans Semibold" size="36"><b>Don't get too casual.</b></font>
+
+47
+00:04:00,180 --> 00:04:02,600
+<font face="Open Sans Semibold" size="36"><b>No, let's not stand on ceremony.</b></font>
+
+48
+00:04:02,680 --> 00:04:03,850
+<font face="Open Sans Semibold" size="36"><b>We appreciate your company.</b></font>
+
+49
+00:04:03,930 --> 00:04:05,260
+<font face="Open Sans Semibold" size="36"><b>We're looking forward to it.</b></font>
+
+50
+00:04:05,350 --> 00:04:09,140
+<font face="Open Sans Semibold" size="36"><b>So, is there somewhere
+you want to go first?</b></font>
+
+51
+00:04:09,800 --> 00:04:11,100
+<font face="Open Sans Semibold" size="36"><b>Let's see…</b></font>
+
+52
+00:04:11,550 --> 00:04:14,430
+<font face="Open Sans Semibold" size="36"><b>Actually, I want to know
+what kinds of things Naruto likes.</b></font>
+
+53
+00:04:14,510 --> 00:04:17,100
+<font face="Open Sans Semibold" size="36"><b>What Naruto likes?</b></font>
+
+54
+00:04:17,300 --> 00:04:18,600
+<font face="Open Sans Semibold" size="36"><b>Let's see…</b></font>
+
+55
+00:04:19,550 --> 00:04:21,510
+<font face="Open Sans Semibold" size="36"><b>I know just the place!</b></font>
+
+56
+00:04:21,600 --> 00:04:23,010
+<font face="Open Sans Semibold" size="36"><b>I'll take you there now!</b></font>
+
+57
+00:04:23,100 --> 00:04:25,010
+<font face="Open Sans Semibold" size="36"><b>Great. Are you both coming?</b></font>
+
+58
+00:04:25,010 --> 00:04:26,180
+<font face="Open Sans Semibold" size="36"><b>Of course!</b></font>
+
+59
+00:04:29,430 --> 00:04:31,970
+<font face="Open Sans Semibold" size="36"><b>I'm just going to relax here.</b></font>
+
+60
+00:04:32,470 --> 00:04:35,180
+<font face="Open Sans Semibold" size="36"><b><i>It will be awkward if I run into him.</i></b></font>
+
+61
+00:04:36,100 --> 00:04:37,180
+<font face="Open Sans Semibold" size="36"><b>What's up, Temari?</b></font>
+
+62
+00:04:37,260 --> 00:04:38,930
+<font face="Open Sans Semibold" size="36"><b>You seem weirdly irritated…</b></font>
+
+63
+00:04:39,510 --> 00:04:41,180
+<font face="Open Sans Semibold" size="36"><b>There's nothing going on!</b></font>
+
+64
+00:04:41,260 --> 00:04:43,300
+<font face="Open Sans Semibold" size="36"><b>You guys just go!</b></font>
+
+65
+00:04:44,930 --> 00:04:47,600
+<font face="Open Sans Semibold" size="36"><b>RAMEN ICHIRAKU
+</b></font>
+
+66
+00:04:49,970 --> 00:04:50,850
+<font face="Open Sans Semibold" size="36"><b>Hello!</b></font>
+
+67
+00:04:50,930 --> 00:04:53,640
+<font face="Open Sans Semibold" size="36"><b>Oh! Welcome, Iruka Sensei!</b></font>
+
+68
+00:04:54,010 --> 00:04:56,390
+<font face="Open Sans Semibold" size="36"><b>I'd like a large miso char siu ramen.</b></font>
+
+69
+00:04:56,470 --> 00:04:57,890
+<font face="Open Sans Semibold" size="36"><b>Sure thing!</b></font>
+
+70
+00:04:58,050 --> 00:05:01,550
+<font face="Open Sans Semibold" size="36"><b>But, Iruka Sensei, you've been
+coming around a lot lately.</b></font>
+
+71
+00:05:01,640 --> 00:05:03,430
+<font face="Open Sans Semibold" size="36"><b>Don't be rude, Ayame!</b></font>
+
+72
+00:05:03,510 --> 00:05:05,010
+<font face="Open Sans Semibold" size="36"><b>He's a very important customer!</b></font>
+
+73
+00:05:06,930 --> 00:05:10,510
+<font face="Open Sans Semibold" size="36"><b>What's going on with you?
+You seem to be troubled.</b></font>
+
+74
+00:05:10,970 --> 00:05:11,970
+<font face="Open Sans Semibold" size="36"><b>Well…</b></font>
+
+75
+00:05:12,510 --> 00:05:15,430
+<font face="Open Sans Semibold" size="36"><b>Everyone's in a tizzy over
+what to get Naruto</b></font>
+
+76
+00:05:15,510 --> 00:05:17,350
+<font face="Open Sans Semibold" size="36"><b>for his wedding gift for
+the past few days.</b></font>
+
+77
+00:05:17,430 --> 00:05:19,180
+<font face="Open Sans Semibold" size="36"><b>It doesn't involve me
+since I'm not a shinobi.</b></font>
+
+78
+00:05:19,260 --> 00:05:22,300
+<font face="Open Sans Semibold" size="36"><b>But I still want to give him something.
+And I came up with…</b></font>
+
+79
+00:05:22,390 --> 00:05:24,010
+<font face="Open Sans Semibold" size="36"><b>this!</b></font>
+
+80
+00:05:24,140 --> 00:05:25,680
+<font face="Open Sans Semibold" size="36"><b>FREE RAMEN PASS
+ICHIRAKU
+
+A free ramen pass?</b></font>
+
+81
+00:05:26,680 --> 00:05:27,850
+<font face="Open Sans Semibold" size="36"><b>Oh! Not this.</b></font>
+
+82
+00:05:29,180 --> 00:05:31,300
+<font face="Open Sans Semibold" size="36"><b>RAMEN FREE PASS
+FOR ONE YEAR
+ICHIRAKU
+</b></font>
+
+83
+00:05:31,800 --> 00:05:36,100
+<font face="Open Sans Semibold" size="36"><b>I see… He gets to eat free ramen
+for a limited time.</b></font>
+
+84
+00:05:36,180 --> 00:05:38,680
+<font face="Open Sans Semibold" size="36"><b>I'm sure this'll make him
+very happy.</b></font>
+
+85
+00:05:38,760 --> 00:05:41,600
+<font face="Open Sans Semibold" size="36"><b>But I wonder about a whole year…</b></font>
+
+86
+00:06:06,140 --> 00:06:08,640
+<font face="Open Sans Semibold" size="36"><b>A year is too long.</b></font>
+
+87
+00:06:08,720 --> 00:06:10,180
+<font face="Open Sans Semibold" size="36"><b>Too long…</b></font>
+
+88
+00:06:10,350 --> 00:06:11,760
+<font face="Open Sans Semibold" size="36"><b>RAMEN FREE PASS
+FOR SIX MONTHS
+ICHIRAKU
+</b></font>
+
+89
+00:06:11,890 --> 00:06:14,180
+<font face="Open Sans Semibold" size="36"><b>It's the same with half a year.</b></font>
+
+90
+00:06:14,220 --> 00:06:15,970
+<font face="Open Sans Semibold" size="36"><b>Yeah, you're right…</b></font>
+
+91
+00:06:17,010 --> 00:06:18,010
+<font face="Open Sans Semibold" size="36"><b>I see.</b></font>
+
+92
+00:06:18,100 --> 00:06:21,180
+<font face="Open Sans Semibold" size="36"><b>You want to give Naruto
+a wedding gift too?</b></font>
+
+93
+00:06:21,600 --> 00:06:23,050
+<font face="Open Sans Semibold" size="36"><b>He'll definitely be overjoyed!</b></font>
+
+94
+00:06:23,140 --> 00:06:26,850
+<font face="Open Sans Semibold" size="36"><b>So, does that mean
+you have something already, Lee?</b></font>
+
+95
+00:06:26,970 --> 00:06:27,970
+<font face="Open Sans Semibold" size="36"><b>Of course!</b></font>
+
+96
+00:06:28,050 --> 00:06:29,050
+<font face="Open Sans Semibold" size="36"><b>I see.</b></font>
+
+97
+00:06:29,350 --> 00:06:32,220
+<font face="Open Sans Semibold" size="36"><b>This is the first time I'm getting
+something like a wedding gift.</b></font>
+
+98
+00:06:32,390 --> 00:06:35,800
+<font face="Open Sans Semibold" size="36"><b>I don't have a clue
+on what to get.</b></font>
+
+99
+00:06:36,140 --> 00:06:41,010
+<font face="Open Sans Semibold" size="36"><b>Then you must consider what
+a wedding is in the first place!</b></font>
+
+100
+00:06:42,390 --> 00:06:44,970
+<font face="Open Sans Semibold" size="36"><b><i>What is a wedding ceremony?</i></b></font>
+
+101
+00:06:45,050 --> 00:06:48,350
+<font face="Open Sans Semibold" size="36"><b><i>What is absolutely necessary</i>
+<i>for a wedding ceremony?</i></b></font>
+
+102
+00:06:48,640 --> 00:06:51,050
+<font face="Open Sans Semibold" size="36"><b><i>Wouldn't that be…love?</i></b></font>
+
+103
+00:06:51,680 --> 00:06:53,890
+<font face="Open Sans Semibold" size="36"><b><i>I'm getting a bad feeling</i>
+<i>about this…</i></b></font>
+
+104
+00:06:53,970 --> 00:06:56,050
+<font face="Open Sans Semibold" size="36"><b>"What is a wedding ceremony?"</b></font>
+
+105
+00:06:56,680 --> 00:06:59,100
+<font face="Open Sans Semibold" size="36"><b>That's a very philosophical question.</b></font>
+
+106
+00:06:59,180 --> 00:07:00,510
+<font face="Open Sans Semibold" size="36"><b>Yes, it is.</b></font>
+
+107
+00:07:00,600 --> 00:07:02,850
+<font face="Open Sans Semibold" size="36"><b>So think about it this way…</b></font>
+
+108
+00:07:03,180 --> 00:07:06,470
+<font face="Open Sans Semibold" size="36"><b>What is absolutely necessary
+for a wedding ceremony?</b></font>
+
+109
+00:07:06,550 --> 00:07:09,010
+<font face="Open Sans Semibold" size="36"><b>Absolutely necessary for
+a wedding…?</b></font>
+
+110
+00:07:09,550 --> 00:07:12,550
+<font face="Open Sans Semibold" size="36"><b>Wouldn't that be…love?</b></font>
+
+111
+00:07:15,850 --> 00:07:17,010
+<font face="Open Sans Semibold" size="36"><b>Yes!</b></font>
+
+112
+00:07:17,010 --> 00:07:19,430
+<font face="Open Sans Semibold" size="36"><b>LOVE
+
+
+That was my answer too!</b></font>
+
+113
+00:07:19,430 --> 00:07:21,430
+<font face="Open Sans Semibold" size="36"><b>LOVE
+
+Why is this going exactly
+the same way as before?!</b></font>
+
+114
+00:07:22,930 --> 00:07:26,140
+<font face="Open Sans Semibold" size="36"><b>However, my mentor whom
+I greatly respect, Guy Sensei,</b></font>
+
+115
+00:07:26,220 --> 00:07:28,010
+<font face="Open Sans Semibold" size="36"><b>didn't stop there.</b></font>
+
+116
+00:07:28,100 --> 00:07:30,010
+<font face="Open Sans Semibold" size="36"><b>He realized that
+it's the bride and groom</b></font>
+
+117
+00:07:30,010 --> 00:07:32,010
+<font face="Open Sans Semibold" size="36"><b>who are most important
+in a wedding…</b></font>
+
+118
+00:07:32,010 --> 00:07:33,970
+<font face="Open Sans Semibold" size="36"><b>and if you put yourself
+into their shoes,</b></font>
+
+119
+00:07:33,970 --> 00:07:37,100
+<font face="Open Sans Semibold" size="36"><b>you would see what would
+be the best gift.</b></font>
+
+120
+00:07:38,930 --> 00:07:40,680
+<font face="Open Sans Semibold" size="36"><b>And the result of that was…</b></font>
+
+121
+00:07:41,010 --> 00:07:43,430
+<font face="Open Sans Semibold" size="36"><b>I got them dumbbells!</b></font>
+
+122
+00:07:44,180 --> 00:07:46,100
+<font face="Open Sans Semibold" size="36"><b>D-Dumbbells?</b></font>
+
+123
+00:07:46,430 --> 00:07:48,430
+<font face="Open Sans Semibold" size="36"><b>I'm only a shinobi…</b></font>
+
+124
+00:07:48,510 --> 00:07:50,510
+<font face="Open Sans Semibold" size="36"><b>so I think that's most suitable thing
+for me to present.</b></font>
+
+125
+00:07:50,600 --> 00:07:53,720
+<font face="Open Sans Semibold" size="36"><b>However, Gaara, you are the Kazekage,
+so we must consider your position.</b></font>
+
+126
+00:07:53,800 --> 00:07:58,720
+<font face="Open Sans Semibold" size="36"><b>So, I think some extravagant barbells
+would be great!</b></font>
+
+127
+00:07:59,970 --> 00:08:02,050
+<font face="Open Sans Semibold" size="36"><b>B-Barbells, huh…</b></font>
+
+128
+00:08:02,720 --> 00:08:05,050
+<font face="Open Sans Semibold" size="36"><b>I don't know about barbells…</b></font>
+
+129
+00:08:05,140 --> 00:08:08,260
+<font face="Open Sans Semibold" size="36"><b>But I agree with
+the "extravagant" part.</b></font>
+
+130
+00:08:08,550 --> 00:08:10,260
+<font face="Open Sans Semibold" size="36"><b>ICHIRAKU
+
+– Hello!
+– Welcome!</b></font>
+
+131
+00:08:10,390 --> 00:08:11,850
+<font face="Open Sans Semibold" size="36"><b>Iruka Sensei!</b></font>
+
+132
+00:08:11,930 --> 00:08:14,180
+<font face="Open Sans Semibold" size="36"><b>Hey, Lee! We meet again!</b></font>
+
+133
+00:08:15,010 --> 00:08:18,890
+<font face="Open Sans Semibold" size="36"><b>Gaara, let me introduce Iruka Sensei,
+Naruto's teacher.</b></font>
+
+134
+00:08:19,100 --> 00:08:22,140
+<font face="Open Sans Semibold" size="36"><b>Iruka Sensei,
+this is Gaara the Kazekage!</b></font>
+
+135
+00:08:22,220 --> 00:08:24,180
+<font face="Open Sans Semibold" size="36"><b>H-How do you do?</b></font>
+
+136
+00:08:24,760 --> 00:08:27,850
+<font face="Open Sans Semibold" size="36"><b>Why is Lord Kazekage
+with you two?</b></font>
+
+137
+00:08:28,220 --> 00:08:31,010
+<font face="Open Sans Semibold" size="36"><b>We've been assigned to show him
+around the village</b></font>
+
+138
+00:08:31,010 --> 00:08:33,140
+<font face="Open Sans Semibold" size="36"><b>until the Five Kage Conference begins.</b></font>
+
+139
+00:08:33,470 --> 00:08:37,800
+<font face="Open Sans Semibold" size="36"><b>Gaara is also thinking about
+a wedding gift for Naruto.</b></font>
+
+140
+00:08:38,050 --> 00:08:41,100
+<font face="Open Sans Semibold" size="36"><b>Naruto and Gaara are friends.</b></font>
+
+141
+00:08:41,430 --> 00:08:42,680
+<font face="Open Sans Semibold" size="36"><b>Friends?!</b></font>
+
+142
+00:08:44,600 --> 00:08:47,470
+<font face="Open Sans Semibold" size="36"><b>Anyway, we're going to send
+an extravagant gift</b></font>
+
+143
+00:08:47,550 --> 00:08:49,640
+<font face="Open Sans Semibold" size="36"><b>representative of the Hidden Sand.</b></font>
+
+144
+00:08:49,800 --> 00:08:51,930
+<font face="Open Sans Semibold" size="36"><b>I'm very grateful to
+the Lord Kazekage</b></font>
+
+145
+00:08:52,010 --> 00:08:55,100
+<font face="Open Sans Semibold" size="36"><b>for making such
+an extravagant gesture…</b></font>
+
+146
+00:08:55,180 --> 00:08:57,720
+<font face="Open Sans Semibold" size="36"><b>and I'm sure Naruto will
+be overjoyed as well.</b></font>
+
+147
+00:08:57,970 --> 00:08:59,970
+<font face="Open Sans Semibold" size="36"><b>Now, if you will please excuse me.</b></font>
+
+148
+00:09:06,350 --> 00:09:09,550
+<font face="Open Sans Semibold" size="36"><b>See? Naruto's gonna be happy!</b></font>
+
+149
+00:09:09,890 --> 00:09:12,180
+<font face="Open Sans Semibold" size="36"><b>His own teacher confirmed that.</b></font>
+
+150
+00:09:12,180 --> 00:09:13,350
+<font face="Open Sans Semibold" size="36"><b>You think so?</b></font>
+
+151
+00:09:13,430 --> 00:09:16,470
+<font face="Open Sans Semibold" size="36"><b>One thing's for sure,
+Naruto loves flashy things!</b></font>
+
+152
+00:09:16,680 --> 00:09:20,010
+<font face="Open Sans Semibold" size="36"><b>There's no way he won't be happy
+with an extravagant gift.</b></font>
+
+153
+00:09:20,140 --> 00:09:21,510
+<font face="Open Sans Semibold" size="36"><b>I see…</b></font>
+
+154
+00:09:21,600 --> 00:09:23,470
+<font face="Open Sans Semibold" size="36"><b>I guess I'm gonna go
+big and grand too,</b></font>
+
+155
+00:09:23,550 --> 00:09:25,050
+<font face="Open Sans Semibold" size="36"><b>and give him a year's free pass—</b></font>
+
+156
+00:09:25,140 --> 00:09:26,260
+<font face="Open Sans Semibold" size="36"><b>Father…</b></font>
+
+157
+00:09:27,720 --> 00:09:28,760
+<font face="Open Sans Semibold" size="36"><b>Y-Yes…</b></font>
+
+158
+00:09:29,100 --> 00:09:32,100
+<font face="Open Sans Semibold" size="36"><b>Pops, I'll have a large
+miso char siu ramen!</b></font>
+
+159
+00:09:32,180 --> 00:09:33,180
+<font face="Open Sans Semibold" size="36"><b>What is that?</b></font>
+
+160
+00:09:33,720 --> 00:09:35,930
+<font face="Open Sans Semibold" size="36"><b>Naruto's favorite item
+on the menu.</b></font>
+
+161
+00:09:36,010 --> 00:09:38,550
+<font face="Open Sans Semibold" size="36"><b>It has an extravagant helping
+of char sui.</b></font>
+
+162
+00:09:38,930 --> 00:09:40,720
+<font face="Open Sans Semibold" size="36"><b>Even his ramen is extravagant?</b></font>
+
+163
+00:09:41,800 --> 00:09:43,720
+<font face="Open Sans Semibold" size="36"><b>Then I'll have that too.</b></font>
+
+164
+00:09:43,800 --> 00:09:44,970
+<font face="Open Sans Semibold" size="36"><b>Me too.</b></font>
+
+165
+00:09:44,970 --> 00:09:46,510
+<font face="Open Sans Semibold" size="36"><b>Okay, Pops…</b></font>
+
+166
+00:09:46,600 --> 00:09:49,760
+<font face="Open Sans Semibold" size="36"><b>A large miso char siu ramen
+for all of us!</b></font>
+
+167
+00:09:49,970 --> 00:09:51,010
+<font face="Open Sans Semibold" size="36"><b>Hold it!</b></font>
+
+168
+00:09:51,100 --> 00:09:54,800
+<font face="Open Sans Semibold" size="36"><b>Make mine a regular,
+without char siu, and for the topping…</b></font>
+
+169
+00:09:54,930 --> 00:09:56,050
+<font face="Open Sans Semibold" size="36"><b>Topping?</b></font>
+
+170
+00:09:56,430 --> 00:09:58,430
+<font face="Open Sans Semibold" size="36"><b>Seems Naruto fish cake
+is ranked number one.</b></font>
+
+171
+00:09:59,140 --> 00:10:02,600
+<font face="Open Sans Semibold" size="36"><b>Way back, it used to be
+the least popular.</b></font>
+
+172
+00:10:02,680 --> 00:10:04,760
+<font face="Open Sans Semibold" size="36"><b>These days, it's Naruto fish cake,
+hands down.</b></font>
+
+173
+00:10:05,050 --> 00:10:06,850
+<font face="Open Sans Semibold" size="36"><b>That's the kinda effect he's had.</b></font>
+
+174
+00:10:07,050 --> 00:10:09,140
+<font face="Open Sans Semibold" size="36"><b>Then I'll have
+the regular miso ramen,</b></font>
+
+175
+00:10:09,220 --> 00:10:10,890
+<font face="Open Sans Semibold" size="36"><b>with the Naruto fishcake topping.</b></font>
+
+176
+00:10:11,260 --> 00:10:14,100
+<font face="Open Sans Semibold" size="36"><b>Please add that to mine too.</b></font>
+
+177
+00:10:14,180 --> 00:10:17,970
+<font face="Open Sans Semibold" size="36"><b>TOPPING MENU
+#1 NARUTO FISHCAKE
+#2 CHAR SIU
+#3 MENMA
+
+All right! I'll give you an extravagant
+helping of the topping!</b></font>
+
+178
+00:10:20,470 --> 00:10:22,640
+<font face="Open Sans Semibold" size="36"><b>Boy, did we eat.</b></font>
+
+179
+00:10:23,220 --> 00:10:25,680
+<font face="Open Sans Semibold" size="36"><b>Where would you like to go next?</b></font>
+
+180
+00:10:27,050 --> 00:10:28,350
+<font face="Open Sans Semibold" size="36"><b>Are you all right?</b></font>
+
+181
+00:10:28,430 --> 00:10:31,550
+<font face="Open Sans Semibold" size="36"><b>You've been deep in thought
+this whole time.</b></font>
+
+182
+00:10:32,300 --> 00:10:36,300
+<font face="Open Sans Semibold" size="36"><b>I was thinking about what
+to give Naruto as the Kazekage.</b></font>
+
+183
+00:10:36,800 --> 00:10:38,100
+<font face="Open Sans Semibold" size="36"><b>As the Kazekage?</b></font>
+
+184
+00:10:38,180 --> 00:10:40,850
+<font face="Open Sans Semibold" size="36"><b>Kankuro wants to give
+something extravagant,</b></font>
+
+185
+00:10:40,930 --> 00:10:42,970
+<font face="Open Sans Semibold" size="36"><b>but that just doesn't sit right with me.</b></font>
+
+186
+00:10:43,220 --> 00:10:44,430
+<font face="Open Sans Semibold" size="36"><b>I see…</b></font>
+
+187
+00:10:44,510 --> 00:10:46,260
+<font face="Open Sans Semibold" size="36"><b>Hey, c'mon, Gaara…</b></font>
+
+188
+00:10:47,140 --> 00:10:48,510
+<font face="Open Sans Semibold" size="36"><b>But after listening to
+Naruto's teacher</b></font>
+
+189
+00:10:48,600 --> 00:10:51,140
+<font face="Open Sans Semibold" size="36"><b>and the ramen shop's proprietor,
+I'm convinced.</b></font>
+
+190
+00:10:51,260 --> 00:10:53,220
+<font face="Open Sans Semibold" size="36"><b>As long as it makes Naruto happy.</b></font>
+
+191
+00:10:53,350 --> 00:10:54,890
+<font face="Open Sans Semibold" size="36"><b>That's more like it!</b></font>
+
+192
+00:10:54,970 --> 00:10:57,510
+<font face="Open Sans Semibold" size="36"><b>I'll help in any way I can too!</b></font>
+
+193
+00:10:59,100 --> 00:10:59,970
+<font face="Open Sans Semibold" size="36"><b>– Huh?
+– Huh?</b></font>
+
+194
+00:11:01,140 --> 00:11:02,100
+<font face="Open Sans Semibold" size="36"><b>Huh?</b></font>
+
+195
+00:11:03,140 --> 00:11:06,300
+<font face="Open Sans Semibold" size="36"><b>Hey, you Hidden Sand
+and Leaf guys!</b></font>
+
+196
+00:11:06,390 --> 00:11:09,010
+<font face="Open Sans Semibold" size="36"><b>Guess who I am, yay!</b></font>
+
+197
+00:11:09,010 --> 00:11:10,850
+<font face="Open Sans Semibold" size="36"><b><i>What an awful rap…</i></b></font>
+
+198
+00:11:10,930 --> 00:11:13,970
+<font face="Open Sans Semibold" size="36"><b>You're Lord Killer Bee,
+the bodyguard of Lord Raikage, right?</b></font>
+
+199
+00:11:14,010 --> 00:11:16,720
+<font face="Open Sans Semibold" size="36"><b>Isn't anyone accompanying you
+in the village?</b></font>
+
+200
+00:11:16,800 --> 00:11:20,100
+<font face="Open Sans Semibold" size="36"><b>I prefer my freedom.</b></font>
+
+201
+00:11:20,180 --> 00:11:23,050
+<font face="Open Sans Semibold" size="36"><b>My brother's at
+the conference reception.</b></font>
+
+202
+00:11:23,140 --> 00:11:25,640
+<font face="Open Sans Semibold" size="36"><b>Me, I prefer a village exploration.</b></font>
+
+203
+00:11:26,010 --> 00:11:27,140
+<font face="Open Sans Semibold" size="36"><b>By the way, Kazekage,</b></font>
+
+204
+00:11:27,220 --> 00:11:30,600
+<font face="Open Sans Semibold" size="36"><b>are you planning on giving
+Naruto a wedding gift?</b></font>
+
+205
+00:11:30,680 --> 00:11:32,350
+<font face="Open Sans Semibold" size="36"><b>Yes, I intend to.</b></font>
+
+206
+00:11:32,510 --> 00:11:35,100
+<font face="Open Sans Semibold" size="36"><b>Finding a gift is
+my personal mission.</b></font>
+
+207
+00:11:35,180 --> 00:11:38,680
+<font face="Open Sans Semibold" size="36"><b>Let's do our best to make
+a good decision, yay.</b></font>
+
+208
+00:11:39,050 --> 00:11:42,010
+<font face="Open Sans Semibold" size="36"><b>Sounds like the Hidden Cloud
+are really into this.</b></font>
+
+209
+00:11:42,100 --> 00:11:44,140
+<font face="Open Sans Semibold" size="36"><b>Our gift will be something
+to marvel at.</b></font>
+
+210
+00:11:44,220 --> 00:11:46,350
+<font face="Open Sans Semibold" size="36"><b>Listen well and remember that.</b></font>
+
+211
+00:11:46,510 --> 00:11:49,970
+<font face="Open Sans Semibold" size="36"><b><i>Seriously? Do you have to answer</i>
+<i>in rap all the time?</i></b></font>
+
+212
+00:11:50,390 --> 00:11:52,180
+<font face="Open Sans Semibold" size="36"><b>PURE SAKE
+LONG LIFE
+LIGHTNING
+CONGRATULATIONS
+
+Decorated for a special occasion…</b></font>
+
+213
+00:11:52,180 --> 00:11:54,350
+<font face="Open Sans Semibold" size="36"><b>PURE SAKE
+LONG LIFE
+LIGHTNING
+CONGRATULATIONS
+
+Sake produced by the Hidden Cloud…</b></font>
+
+214
+00:11:54,350 --> 00:11:56,800
+<font face="Open Sans Semibold" size="36"><b>Ten giant kegs of which
+we're proud, yay.</b></font>
+
+215
+00:11:56,890 --> 00:12:00,220
+<font face="Open Sans Semibold" size="36"><b>Hidden Cloud beef of
+super high-quality…</b></font>
+
+216
+00:12:00,300 --> 00:12:04,800
+<font face="Open Sans Semibold" size="36"><b>We'll present it roasted whole,
+in its entirety, yay.</b></font>
+
+217
+00:12:05,260 --> 00:12:06,970
+<font face="Open Sans Semibold" size="36"><b>Premium games…</b></font>
+
+218
+00:12:07,050 --> 00:12:09,140
+<font face="Open Sans Semibold" size="36"><b>The best of the best.</b></font>
+
+219
+00:12:09,220 --> 00:12:11,260
+<font face="Open Sans Semibold" size="36"><b>Ten great games, no less. Yay!</b></font>
+
+220
+00:12:11,350 --> 00:12:13,010
+<font face="Open Sans Semibold" size="36"><b>That sums up my presentation.</b></font>
+
+221
+00:12:13,100 --> 00:12:15,010
+<font face="Open Sans Semibold" size="36"><b>A wedding's an important celebration.</b></font>
+
+222
+00:12:15,100 --> 00:12:16,100
+<font face="Open Sans Semibold" size="36"><b>Yay.</b></font>
+
+223
+00:12:16,470 --> 00:12:18,180
+<font face="Open Sans Semibold" size="36"><b>A-Amazing!</b></font>
+
+224
+00:12:18,260 --> 00:12:21,720
+<font face="Open Sans Semibold" size="36"><b>I didn't get the details
+because of your rap…</b></font>
+
+225
+00:12:21,800 --> 00:12:24,180
+<font face="Open Sans Semibold" size="36"><b>but I did get that
+it'll be extravagant.</b></font>
+
+226
+00:12:24,640 --> 00:12:28,300
+<font face="Open Sans Semibold" size="36"><b>So what's the Hidden Sand getting?</b></font>
+
+227
+00:12:28,390 --> 00:12:31,010
+<font face="Open Sans Semibold" size="36"><b>Have you already ordered it?</b></font>
+
+228
+00:12:31,050 --> 00:12:33,100
+<font face="Open Sans Semibold" size="36"><b>Well…that's just it.</b></font>
+
+229
+00:12:33,760 --> 00:12:35,220
+<font face="Open Sans Semibold" size="36"><b>Okay! Okay!</b></font>
+
+230
+00:12:35,300 --> 00:12:37,100
+<font face="Open Sans Semibold" size="36"><b>I apologize, I should have realized…</b></font>
+
+231
+00:12:37,180 --> 00:12:40,100
+<font face="Open Sans Semibold" size="36"><b>Our gifts are so extravagant
+that it's made you hesitant.</b></font>
+
+232
+00:12:40,180 --> 00:12:42,350
+<font face="Open Sans Semibold" size="36"><b>But that's not important.</b></font>
+
+233
+00:12:42,470 --> 00:12:43,220
+<font face="Open Sans Semibold" size="36"><b>Huh?</b></font>
+
+234
+00:12:43,300 --> 00:12:44,970
+<font face="Open Sans Semibold" size="36"><b>Doesn't matter
+if it's not fancy,</b></font>
+
+235
+00:12:44,970 --> 00:12:47,300
+<font face="Open Sans Semibold" size="36"><b>what comes from the heart
+is the best choice.</b></font>
+
+236
+00:12:47,390 --> 00:12:49,050
+<font face="Open Sans Semibold" size="36"><b>That's what'll make
+Naruto rejoice, yay!</b></font>
+
+237
+00:12:50,100 --> 00:12:52,100
+<font face="Open Sans Semibold" size="36"><b>Don't patronize us!</b></font>
+
+238
+00:12:52,680 --> 00:12:54,100
+<font face="Open Sans Semibold" size="36"><b>K-Kankuro?!</b></font>
+
+239
+00:12:54,180 --> 00:12:57,640
+<font face="Open Sans Semibold" size="36"><b>We're gonna give a gift that
+equals the Hidden Cloud's!</b></font>
+
+240
+00:12:58,300 --> 00:12:59,930
+<font face="Open Sans Semibold" size="36"><b>We plan to cover the reception hall</b></font>
+
+241
+00:13:00,010 --> 00:13:02,390
+<font face="Open Sans Semibold" size="36"><b>with flowers grown in
+the Hidden Sand!</b></font>
+
+242
+00:13:03,180 --> 00:13:05,300
+<font face="Open Sans Semibold" size="36"><b>And to highlight
+the celebration dinner,</b></font>
+
+243
+00:13:05,390 --> 00:13:07,850
+<font face="Open Sans Semibold" size="36"><b>we'll send the finest tuna
+in the land…a whole bluefin!</b></font>
+
+244
+00:13:08,350 --> 00:13:13,010
+<font face="Open Sans Semibold" size="36"><b>And we'll prepare boxes of sweets
+as wedding favors for every guest!</b></font>
+
+245
+00:13:14,050 --> 00:13:15,970
+<font face="Open Sans Semibold" size="36"><b>How's that?!</b></font>
+
+246
+00:13:16,050 --> 00:13:17,350
+<font face="Open Sans Semibold" size="36"><b>Hold it. Who said anything about—?</b></font>
+
+247
+00:13:17,430 --> 00:13:18,930
+<font face="Open Sans Semibold" size="36"><b>Amazing!</b></font>
+
+248
+00:13:19,010 --> 00:13:22,050
+<font face="Open Sans Semibold" size="36"><b>You came up with all that
+in such a short time!</b></font>
+
+249
+00:13:22,140 --> 00:13:24,100
+<font face="Open Sans Semibold" size="36"><b>No…we haven't decided—</b></font>
+
+250
+00:13:25,100 --> 00:13:28,430
+<font face="Open Sans Semibold" size="36"><b>Oh, I forgot something important.</b></font>
+
+251
+00:13:28,510 --> 00:13:30,300
+<font face="Open Sans Semibold" size="36"><b>Fool, ya fool.</b></font>
+
+252
+00:13:30,390 --> 00:13:33,050
+<font face="Open Sans Semibold" size="36"><b>For entertainment,
+Brother might perchance…</b></font>
+
+253
+00:13:33,140 --> 00:13:35,800
+<font face="Open Sans Semibold" size="36"><b>perform the "Hidden Cloud Dance."</b></font>
+
+254
+00:13:35,930 --> 00:13:37,550
+<font face="Open Sans Semibold" size="36"><b>Yay.</b></font>
+
+255
+00:13:38,010 --> 00:13:39,260
+<font face="Open Sans Semibold" size="36"><b>The Raikage…</b></font>
+
+256
+00:13:39,350 --> 00:13:41,640
+<font face="Open Sans Semibold" size="36"><b>The Hidden Cloud Dance, you say?!</b></font>
+
+257
+00:13:41,720 --> 00:13:43,760
+<font face="Open Sans Semibold" size="36"><b>No, no, no… no way, no way…</b></font>
+
+258
+00:13:43,850 --> 00:13:45,470
+<font face="Open Sans Semibold" size="36"><b>So now you get the drift…</b></font>
+
+259
+00:13:45,550 --> 00:13:49,050
+<font face="Open Sans Semibold" size="36"><b>How the party will get a lift, yay</b></font>
+
+260
+00:13:51,760 --> 00:13:54,350
+<font face="Open Sans Semibold" size="36"><b>T-This is bad! At this rate…</b></font>
+
+261
+00:13:54,430 --> 00:13:55,800
+<font face="Open Sans Semibold" size="36"><b>Gaara will lose!</b></font>
+
+262
+00:13:56,050 --> 00:13:59,010
+<font face="Open Sans Semibold" size="36"><b>No, giving a gift isn't
+about winning or losing.</b></font>
+
+263
+00:13:59,300 --> 00:14:00,680
+<font face="Open Sans Semibold" size="36"><b>Dance...</b></font>
+
+264
+00:14:00,850 --> 00:14:01,640
+<font face="Open Sans Semibold" size="36"><b>Huh?</b></font>
+
+265
+00:14:01,850 --> 00:14:03,430
+<font face="Open Sans Semibold" size="36"><b>Show up the Raikage…</b></font>
+
+266
+00:14:03,510 --> 00:14:06,010
+<font face="Open Sans Semibold" size="36"><b>and dance too, Gaara!</b></font>
+
+267
+00:14:06,010 --> 00:14:08,550
+<font face="Open Sans Semibold" size="36"><b>That is the only way!</b></font>
+
+268
+00:14:12,300 --> 00:14:14,920
+<font face="Open Sans Semibold" size="36"><b>The Mizukage should be arriving soon.</b></font>
+
+269
+00:14:15,340 --> 00:14:18,250
+<font face="Open Sans Semibold" size="36"><b>Then we should call the Kazekage.</b></font>
+
+270
+00:14:20,920 --> 00:14:21,800
+<font face="Open Sans Semibold" size="36"><b>Lord Kakashi…</b></font>
+
+271
+00:14:21,880 --> 00:14:23,210
+<font face="Open Sans Semibold" size="36"><b>Drop the "lord."</b></font>
+
+272
+00:14:24,800 --> 00:14:27,380
+<font face="Open Sans Semibold" size="36"><b>We received a request to
+adjust the entertainment time</b></font>
+
+273
+00:14:27,460 --> 00:14:31,340
+<font face="Open Sans Semibold" size="36"><b>allotted at Naruto and Hinata's
+wedding reception.</b></font>
+
+274
+00:14:31,670 --> 00:14:33,340
+<font face="Open Sans Semibold" size="36"><b>Huh? What's that?</b></font>
+
+275
+00:14:33,800 --> 00:14:36,300
+<font face="Open Sans Semibold" size="36"><b>How come I wasn't told about
+a wedding reception?!</b></font>
+
+276
+00:14:36,460 --> 00:14:37,630
+<font face="Open Sans Semibold" size="36"><b>At whose request?</b></font>
+
+277
+00:14:37,960 --> 00:14:40,750
+<font face="Open Sans Semibold" size="36"><b>It's from…Lord Raikage's bodyguard…</b></font>
+
+278
+00:14:40,960 --> 00:14:42,090
+<font face="Open Sans Semibold" size="36"><b>What?!</b></font>
+
+279
+00:14:42,460 --> 00:14:46,130
+<font face="Open Sans Semibold" size="36"><b>He mentioned
+the "Hidden Cloud Dance" by the Raikage.</b></font>
+
+280
+00:14:46,130 --> 00:14:49,710
+<font face="Open Sans Semibold" size="36"><b>Okay! Gaara will do
+the "Hidden Sand Samba."</b></font>
+
+281
+00:14:49,800 --> 00:14:52,250
+<font face="Open Sans Semibold" size="36"><b>Oh! This is getting more
+and more exciting.</b></font>
+
+282
+00:14:52,340 --> 00:14:55,380
+<font face="Open Sans Semibold" size="36"><b>Stop joking. I can't dance.</b></font>
+
+283
+00:14:55,920 --> 00:14:58,500
+<font face="Open Sans Semibold" size="36"><b>Besides, it wouldn't make
+Naruto happy.</b></font>
+
+284
+00:14:58,800 --> 00:15:02,630
+<font face="Open Sans Semibold" size="36"><b>Actually, I think he might take
+the initiative and join in.</b></font>
+
+285
+00:15:02,920 --> 00:15:04,380
+<font face="Open Sans Semibold" size="36"><b>W-What…?!</b></font>
+
+286
+00:15:08,590 --> 00:15:09,670
+<font face="Open Sans Semibold" size="36"><b>Y-You're right.</b></font>
+
+287
+00:15:09,750 --> 00:15:10,880
+<font face="Open Sans Semibold" size="36"><b>Still…</b></font>
+
+288
+00:15:10,960 --> 00:15:13,880
+<font face="Open Sans Semibold" size="36"><b>The Kazekage shouldn't dance
+in front of people!</b></font>
+
+289
+00:15:14,000 --> 00:15:16,460
+<font face="Open Sans Semibold" size="36"><b>But he said the Raikage
+is going to dance!</b></font>
+
+290
+00:15:20,710 --> 00:15:23,340
+<font face="Open Sans Semibold" size="36"><b>The Raikage's gift of dance
+is a must-see</b></font>
+
+291
+00:15:23,420 --> 00:15:27,920
+<font face="Open Sans Semibold" size="36"><b>If you miss this opportunity,
+behind the times you'll be, yay.</b></font>
+
+292
+00:15:29,340 --> 00:15:30,960
+<font face="Open Sans Semibold" size="36"><b>That fool!</b></font>
+
+293
+00:15:31,960 --> 00:15:36,170
+<font face="Open Sans Semibold" size="36"><b>I beg your pardon if
+I make a scene…</b></font>
+
+294
+00:15:36,750 --> 00:15:40,670
+<font face="Open Sans Semibold" size="36"><b>No, I doubt there will be
+a need for you to intervene.</b></font>
+
+295
+00:15:40,750 --> 00:15:44,130
+<font face="Open Sans Semibold" size="36"><b>DUMPLINGS
+
+The Raikage's wedding gift
+of dance is a must-see</b></font>
+
+296
+00:15:44,210 --> 00:15:47,500
+<font face="Open Sans Semibold" size="36"><b>If you miss this opportunity,
+behind the times you'll be, yay.</b></font>
+
+297
+00:15:47,670 --> 00:15:50,050
+<font face="Open Sans Semibold" size="36"><b>Wedding… Behind the times?</b></font>
+
+298
+00:15:52,460 --> 00:15:53,920
+<font face="Open Sans Semibold" size="36"><b>I'll kill you.</b></font>
+
+299
+00:15:59,800 --> 00:16:02,550
+<font face="Open Sans Semibold" size="36"><b>I now call this Five Kage
+Conference to order.</b></font>
+
+300
+00:16:07,130 --> 00:16:09,130
+<font face="Open Sans Semibold" size="36"><b>However, before we begin…</b></font>
+
+301
+00:16:09,630 --> 00:16:13,050
+<font face="Open Sans Semibold" size="36"><b>In regard to wedding gifts for
+Naruto Uzumaki and Hinata Hyuga…</b></font>
+
+302
+00:16:13,130 --> 00:16:17,500
+<font face="Open Sans Semibold" size="36"><b>I ask that you use your good sense and
+keep things in moderation.</b></font>
+
+303
+00:16:19,920 --> 00:16:23,050
+<font face="Open Sans Semibold" size="36"><b>And so, let's move on
+to our agenda.</b></font>
+
+304
+00:16:30,550 --> 00:16:31,800
+<font face="Open Sans Semibold" size="36"><b>H-Hey…</b></font>
+
+305
+00:16:37,880 --> 00:16:40,500
+<font face="Open Sans Semibold" size="36"><b>S-Sorry about last time.</b></font>
+
+306
+00:16:41,000 --> 00:16:42,460
+<font face="Open Sans Semibold" size="36"><b>No… I'm sorry as well.</b></font>
+
+307
+00:16:42,960 --> 00:16:45,250
+<font face="Open Sans Semibold" size="36"><b>Want to get a bite to eat?</b></font>
+
+308
+00:16:51,750 --> 00:16:53,210
+<font face="Open Sans Semibold" size="36"><b>Might as well…</b></font>
+
+309
+00:16:53,880 --> 00:16:55,050
+<font face="Open Sans Semibold" size="36"><b>LEAF INN
+</b></font>
+
+310
+00:16:55,130 --> 00:16:56,500
+<font face="Open Sans Semibold" size="36"><b>RESERVED FOR
+A SPECIAL EVENT TODAY
+</b></font>
+
+311
+00:17:15,300 --> 00:17:16,840
+<font face="Open Sans Semibold" size="36"><b>Lord Kazekage…</b></font>
+
+312
+00:17:16,920 --> 00:17:18,960
+<font face="Open Sans Semibold" size="36"><b>So, you were still here in the village!</b></font>
+
+313
+00:17:19,460 --> 00:17:21,920
+<font face="Open Sans Semibold" size="36"><b>The conference ran long…</b></font>
+
+314
+00:17:22,000 --> 00:17:23,920
+<font face="Open Sans Semibold" size="36"><b>So, I decided to stay the night.</b></font>
+
+315
+00:17:24,590 --> 00:17:28,590
+<font face="Open Sans Semibold" size="36"><b>I'm grateful that you've chosen
+our ramen for dinner!</b></font>
+
+316
+00:17:28,840 --> 00:17:31,960
+<font face="Open Sans Semibold" size="36"><b>Well… I've never had anything
+so delicious.</b></font>
+
+317
+00:17:31,960 --> 00:17:34,210
+<font face="Open Sans Semibold" size="36"><b>And I've never had such
+a compliment.</b></font>
+
+318
+00:17:34,920 --> 00:17:39,000
+<font face="Open Sans Semibold" size="36"><b>By the way, I heard about
+the remarks Lord Hokage made</b></font>
+
+319
+00:17:39,090 --> 00:17:41,210
+<font face="Open Sans Semibold" size="36"><b>about Naruto and Hinata's wedding gifts…</b></font>
+
+320
+00:17:41,840 --> 00:17:43,000
+<font face="Open Sans Semibold" size="36"><b>It was to be expected.</b></font>
+
+321
+00:17:43,090 --> 00:17:45,420
+<font face="Open Sans Semibold" size="36"><b>Things were getting
+out of hand.</b></font>
+
+322
+00:17:45,840 --> 00:17:49,420
+<font face="Open Sans Semibold" size="36"><b>I'm sure everyone's feeling
+remorseful now.</b></font>
+
+323
+00:17:51,710 --> 00:17:53,340
+<font face="Open Sans Semibold" size="36"><b>Even I…</b></font>
+
+324
+00:17:53,800 --> 00:17:57,000
+<font face="Open Sans Semibold" size="36"><b>And I went overboard too.
+I apologize.</b></font>
+
+325
+00:17:57,090 --> 00:17:58,550
+<font face="Open Sans Semibold" size="36"><b>Don't worry about it.</b></font>
+
+326
+00:17:58,670 --> 00:17:59,960
+<font face="Open Sans Semibold" size="36"><b>Oh! Iruka Sensei.</b></font>
+
+327
+00:18:00,050 --> 00:18:01,090
+<font face="Open Sans Semibold" size="36"><b>Welcome!</b></font>
+
+328
+00:18:02,550 --> 00:18:05,670
+<font face="Open Sans Semibold" size="36"><b>Lord Kazekage…
+I just overheard you.</b></font>
+
+329
+00:18:05,750 --> 00:18:07,880
+<font face="Open Sans Semibold" size="36"><b>I want to apologize too.</b></font>
+
+330
+00:18:07,960 --> 00:18:09,920
+<font face="Open Sans Semibold" size="36"><b>But Naruto's teacher shouldn't…</b></font>
+
+331
+00:18:10,210 --> 00:18:12,380
+<font face="Open Sans Semibold" size="36"><b>When I met you last time…</b></font>
+
+332
+00:18:12,880 --> 00:18:14,960
+<font face="Open Sans Semibold" size="36"><b><i>I'm very grateful to</i>
+<i>the Lord Kazekage</i></b></font>
+
+333
+00:18:15,050 --> 00:18:18,170
+<font face="Open Sans Semibold" size="36"><b><i>for making such</i>
+<i>an extravagant gesture…</i></b></font>
+
+334
+00:18:18,250 --> 00:18:20,750
+<font face="Open Sans Semibold" size="36"><b><i>and I'm sure Naruto will</i>
+<i>be overjoyed as well.</i></b></font>
+
+335
+00:18:21,500 --> 00:18:24,090
+<font face="Open Sans Semibold" size="36"><b>I'm at fault too,
+for putting it like that.</b></font>
+
+336
+00:18:25,000 --> 00:18:26,920
+<font face="Open Sans Semibold" size="36"><b>I'm very sorry.</b></font>
+
+337
+00:18:27,380 --> 00:18:29,840
+<font face="Open Sans Semibold" size="36"><b>There's nothing to be sorry about!</b></font>
+
+338
+00:18:31,000 --> 00:18:34,300
+<font face="Open Sans Semibold" size="36"><b>I was just…simply happy.</b></font>
+
+339
+00:18:34,920 --> 00:18:37,130
+<font face="Open Sans Semibold" size="36"><b>I learned that Naruto
+has wonderful friends</b></font>
+
+340
+00:18:37,210 --> 00:18:40,300
+<font face="Open Sans Semibold" size="36"><b>who will go above and beyond
+to celebrate him.</b></font>
+
+341
+00:18:41,340 --> 00:18:42,960
+<font face="Open Sans Semibold" size="36"><b>Friends…huh.</b></font>
+
+342
+00:18:43,800 --> 00:18:45,800
+<font face="Open Sans Semibold" size="36"><b>Thank you very much.</b></font>
+
+343
+00:18:45,880 --> 00:18:48,090
+<font face="Open Sans Semibold" size="36"><b>No, I want to thank you too.</b></font>
+
+344
+00:18:48,210 --> 00:18:48,920
+<font face="Open Sans Semibold" size="36"><b>Huh?</b></font>
+
+345
+00:18:49,800 --> 00:18:52,590
+<font face="Open Sans Semibold" size="36"><b>I was confused,
+and you've cleared it up for me.</b></font>
+
+346
+00:18:52,800 --> 00:18:55,800
+<font face="Open Sans Semibold" size="36"><b>I was thinking only
+about appearances,</b></font>
+
+347
+00:18:55,880 --> 00:18:58,460
+<font face="Open Sans Semibold" size="36"><b>and forgot the most basic thing.</b></font>
+
+348
+00:18:59,090 --> 00:19:00,500
+<font face="Open Sans Semibold" size="36"><b>What do you mean?</b></font>
+
+349
+00:19:01,880 --> 00:19:04,710
+<font face="Open Sans Semibold" size="36"><b>I'm going to honor Naruto not
+as the Kazekage,</b></font>
+
+350
+00:19:04,800 --> 00:19:06,840
+<font face="Open Sans Semibold" size="36"><b>but as his friend.</b></font>
+
+351
+00:19:07,460 --> 00:19:09,050
+<font face="Open Sans Semibold" size="36"><b>Would that be all right?</b></font>
+
+352
+00:19:11,840 --> 00:19:13,000
+<font face="Open Sans Semibold" size="36"><b>Of course.</b></font>
+
+353
+00:19:13,380 --> 00:19:16,590
+<font face="Open Sans Semibold" size="36"><b>A large miso char siu ramen
+with Naruto fishcake topping!</b></font>
+
+354
+00:19:16,670 --> 00:19:18,000
+<font face="Open Sans Semibold" size="36"><b>Oh, thank you.</b></font>
+
+355
+00:19:18,090 --> 00:19:19,710
+<font face="Open Sans Semibold" size="36"><b>What'll you have, Iruka Sensei?</b></font>
+
+356
+00:19:19,800 --> 00:19:20,840
+<font face="Open Sans Semibold" size="36"><b>Make mine the same…</b></font>
+
+357
+00:19:20,920 --> 00:19:23,300
+<font face="Open Sans Semibold" size="36"><b>A large miso char siu ramen
+with Naruto fishcake topping.</b></font>
+
+358
+00:19:23,380 --> 00:19:24,250
+<font face="Open Sans Semibold" size="36"><b>Coming right up!</b></font>
+
+359
+00:19:27,050 --> 00:19:29,840
+<font face="Open Sans Semibold" size="36"><b>Dad, I'm done cleaning up here.</b></font>
+
+360
+00:19:29,920 --> 00:19:31,380
+<font face="Open Sans Semibold" size="36"><b>Okay, thanks!</b></font>
+
+361
+00:19:31,460 --> 00:19:33,000
+<font face="Open Sans Semibold" size="36"><b>Not going home yet?</b></font>
+
+362
+00:19:33,090 --> 00:19:34,670
+<font face="Open Sans Semibold" size="36"><b>I'm gonna go on ahead.</b></font>
+
+363
+00:19:34,750 --> 00:19:36,550
+<font face="Open Sans Semibold" size="36"><b>Make sure you lock up!</b></font>
+
+364
+00:19:36,960 --> 00:19:38,590
+<font face="Open Sans Semibold" size="36"><b>All right… Finished!</b></font>
+
+365
+00:19:42,840 --> 00:19:45,250
+<font face="Open Sans Semibold" size="36"><b>NARUTO CONGRATULATIONS
+ALL YOU CAN EAT FOREVER
+</b></font>
+
+366
+00:19:48,130 --> 00:19:49,380
+<font face="Open Sans Semibold" size="36"><b>Have a safe trip back home.</b></font>
+
+367
+00:19:49,670 --> 00:19:52,050
+<font face="Open Sans Semibold" size="36"><b>Gaara! Please come again!</b></font>
+
+368
+00:19:52,050 --> 00:19:54,420
+<font face="Open Sans Semibold" size="36"><b>It would be great if you come back
+on your own next time,</b></font>
+
+369
+00:19:54,500 --> 00:19:56,210
+<font face="Open Sans Semibold" size="36"><b>and not on official
+Kazekage business.</b></font>
+
+370
+00:19:56,590 --> 00:19:59,090
+<font face="Open Sans Semibold" size="36"><b>Yes, that won't be
+too long from now.</b></font>
+
+371
+00:20:00,960 --> 00:20:02,960
+<font face="Open Sans Semibold" size="36"><b>For Naruto and Hinata's wedding.</b></font>
+
+372
+00:20:02,960 --> 00:20:05,340
+<font face="Open Sans Semibold" size="36"><b>I'm sorry, but I don't plan
+on bringing</b></font>
+
+373
+00:20:05,420 --> 00:20:08,340
+<font face="Open Sans Semibold" size="36"><b>a special gift from
+the Hidden Sand.</b></font>
+
+374
+00:20:08,460 --> 00:20:09,920
+<font face="Open Sans Semibold" size="36"><b>Huh? Why?</b></font>
+
+375
+00:20:09,920 --> 00:20:10,920
+<font face="Open Sans Semibold" size="36"><b>Let him finish!</b></font>
+
+376
+00:20:10,920 --> 00:20:14,590
+<font face="Open Sans Semibold" size="36"><b>I want to honor them personally,
+as a friend.</b></font>
+
+377
+00:20:14,960 --> 00:20:17,250
+<font face="Open Sans Semibold" size="36"><b>I think that will please Naruto more.</b></font>
+
+378
+00:20:17,630 --> 00:20:19,000
+<font face="Open Sans Semibold" size="36"><b>Gaara!</b></font>
+
+379
+00:20:19,090 --> 00:20:20,300
+<font face="Open Sans Semibold" size="36"><b>Gaara…</b></font>
+
+380
+00:20:20,920 --> 00:20:23,800
+<font face="Open Sans Semibold" size="36"><b>Yes, please do that.</b></font>
+
+381
+00:20:31,250 --> 00:20:34,050
+<font face="Open Sans Semibold" size="36"><b>I think it turned out for the best.</b></font>
+
+382
+00:20:34,130 --> 00:20:36,960
+<font face="Open Sans Semibold" size="36"><b>Feels like everything's all settled!</b></font>
+
+383
+00:20:37,050 --> 00:20:39,090
+<font face="Open Sans Semibold" size="36"><b>You're in a good mood, Temari.</b></font>
+
+384
+00:20:39,170 --> 00:20:41,090
+<font face="Open Sans Semibold" size="36"><b>N-No, I'm not!</b></font>
+
+385
+00:20:41,880 --> 00:20:45,960
+<font face="Open Sans Semibold" size="36"><b>Besides, seeing you so depressed
+is more shocking, Kankuro!</b></font>
+
+386
+00:20:46,000 --> 00:20:47,340
+<font face="Open Sans Semibold" size="36"><b>You can't blame him,</b></font>
+
+387
+00:20:47,420 --> 00:20:49,750
+<font face="Open Sans Semibold" size="36"><b>since we're not going all out
+with an extravagant gift.</b></font>
+
+388
+00:20:49,840 --> 00:20:51,920
+<font face="Open Sans Semibold" size="36"><b>No, that doesn't bother me.</b></font>
+
+389
+00:20:52,000 --> 00:20:55,130
+<font face="Open Sans Semibold" size="36"><b>I'm just disappointed we won't get
+to see you dance, Gaara.</b></font>
+
+390
+00:20:55,250 --> 00:20:57,920
+<font face="Open Sans Semibold" size="36"><b>No, there's still hope!</b></font>
+
+391
+00:20:57,920 --> 00:21:00,170
+<font face="Open Sans Semibold" size="36"><b>He can dance as Naruto's friend!</b></font>
+
+392
+00:21:03,130 --> 00:21:04,380
+<font face="Open Sans Semibold" size="36"><b>No chance.</b></font>
+
+393
+00:21:05,820 --> 00:21:08,820
+<font face="Open Sans Semibold" size="36"><b>16 MORE DAYS UNTIL
+THE WEDDING</b></font>
+
+394
+00:22:39,750 --> 00:22:41,750
+<font face="Open Sans Semibold" size="36"><b>To the one million
+Shino fans out there,
+
+</b></font>
+
+395
+00:22:41,840 --> 00:22:42,960
+<font face="Open Sans Semibold" size="36"><b>I'm sorry to have
+kept you waiting.
+
+</b></font>
+
+396
+00:22:43,050 --> 00:22:45,130
+<font face="Open Sans Semibold" size="36"><b>It's been said for over ten years
+that I don't stand out much.
+
+</b></font>
+
+397
+00:22:45,210 --> 00:22:47,090
+<font face="Open Sans Semibold" size="36"><b>Finally, a story with me
+as the lead!
+
+</b></font>
+
+398
+00:22:47,420 --> 00:22:50,000
+<font face="Open Sans Semibold" size="36"><b>It's because I've been chosen
+to go on a mission
+
+</b></font>
+
+399
+00:22:50,090 --> 00:22:51,550
+<font face="Open Sans Semibold" size="36"><b>to find a wedding gift for Hinata!
+
+</b></font>
+
+400
+00:22:51,630 --> 00:22:52,500
+<font face="Open Sans Semibold" size="36"><b>And there–
+
+</b></font>
+
+401
+00:22:52,590 --> 00:22:53,880
+<font face="Open Sans Semibold" size="36"><b>Sorry to keep you all waiting!
+
+</b></font>
+
+402
+00:22:53,960 --> 00:22:56,800
+<font face="Open Sans Semibold" size="36"><b>I play an active role next time
+on Naruto Shippuden:
+
+</b></font>
+
+403
+00:22:56,880 --> 00:23:00,920
+<font face="Open Sans Semibold" size="36"><b>"Hidden Leaf Story,
+The Perfect Day for a Wedding,
+Part 5: The Last Mission"
+
+</b></font>
+
+404
+00:23:01,000 --> 00:23:04,250
+<font face="Open Sans Semibold" size="36"><b>I'm the lead! Oh, where's Shino?
+
+
+</b></font>
+
+405
+00:23:04,340 --> 00:23:07,380
+<font face="Open Sans Semibold" size="36"><b>Is it true that
+I don't stand out?
+
+
+</b></font>
+
+406
+00:23:08,780 --> 00:23:28,710
+<font face="Open Sans Semibold" size="36"><b>Tune in again!
+
+</b></font>
+
